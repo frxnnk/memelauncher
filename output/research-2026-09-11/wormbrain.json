@@ -1,0 +1,418 @@
+{
+  "query": "wormbrain",
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xbbea94bdf9c2ff694e2c1a00526a8f6a4a2a87871ff86ee305080a53e650556f",
+        "pairAddress": "0xbbea94bdf9c2ff694e2c1a00526a8f6a4a2a87871ff86ee305080a53e650556f",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x2703295342C5914e0292ADFDB612618Ce24105d1",
+          "name": "wormbrain",
+          "symbol": "WORMBRAIN"
+        },
+        "quoteToken": {
+          "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+          "name": "Alphabet Class A • Robinhood Token",
+          "symbol": "GOOGL"
+        },
+        "priceNative": "0.0000001314",
+        "priceUsd": "0.00004384",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 3
+          },
+          "h1": {
+            "buys": 30,
+            "sells": 39
+          },
+          "h6": {
+            "buys": 639,
+            "sells": 514
+          },
+          "h24": {
+            "buys": 4346,
+            "sells": 3717
+          }
+        },
+        "volume": {
+          "h24": 596455.03,
+          "h6": 87731.88,
+          "h1": 4004.26,
+          "m5": 212.3
+        },
+        "priceChange": {
+          "m5": -3.75,
+          "h1": 1.86,
+          "h6": -42.23,
+          "h24": 13.18
+        },
+        "liquidity": {
+          "usd": 16998.01,
+          "base": 193850247,
+          "quote": 25.4772
+        },
+        "fdv": 43491,
+        "marketCap": 43491,
+        "pairCreatedAt": 1789099302000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/AEdezYVQ5wQO_tEY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4eD6qCD76utL_73J?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x2703295342c5914e0292adfdb612618ce24105d1?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.wormbrain.family/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/OpenWormBrain",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xd8c5bde1d6bec2b99ad2670dddc42557a8623a2ad3a447b2289b9f88d1bea8b4",
+        "pairAddress": "0xd8c5bde1d6bec2b99ad2670dddc42557a8623a2ad3a447b2289b9f88d1bea8b4",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x2703295342C5914e0292ADFDB612618Ce24105d1",
+          "name": "wormbrain",
+          "symbol": "WORMBRAIN"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.00000003914",
+        "priceUsd": "0.00009701",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 25.57,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.74,
+          "h24": -20.34
+        },
+        "liquidity": {
+          "usd": 15.81,
+          "base": 81479,
+          "quote": 0.003189
+        },
+        "fdv": 96240,
+        "marketCap": 96240,
+        "pairCreatedAt": 1789099231000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/AEdezYVQ5wQO_tEY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4eD6qCD76utL_73J?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x2703295342c5914e0292adfdb612618ce24105d1?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.wormbrain.family/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/OpenWormBrain",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x4b1ccdd30c8ec03929b2266232e8993e295aef01a3ff0bad115cdb3552050511",
+        "pairAddress": "0x4b1ccdd30c8ec03929b2266232e8993e295aef01a3ff0bad115cdb3552050511",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x2703295342C5914e0292ADFDB612618Ce24105d1",
+          "name": "wormbrain",
+          "symbol": "WORMBRAIN"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.00001100",
+        "priceUsd": "0.00001100",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.41,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 0.09,
+          "base": 4473.7773,
+          "quote": 0.04921
+        },
+        "fdv": 10913,
+        "marketCap": 10913,
+        "pairCreatedAt": 1789100389000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/AEdezYVQ5wQO_tEY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4eD6qCD76utL_73J?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x2703295342c5914e0292adfdb612618ce24105d1?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.wormbrain.family/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/OpenWormBrain",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "flapsh",
+        "url": "https://dexscreener.com/bsc/0xbf1c67c81832054bd0033e8aa6ed61019fb6ab25",
+        "pairAddress": "0xbf1C67C81832054BD0033e8AA6Ed61019FB6ab25",
+        "baseToken": {
+          "address": "0x136AE0b90BCEC0C31c13Cf42E083fb3C329D7777",
+          "name": "wormbrain",
+          "symbol": "WORMBRAIN"
+        },
+        "quoteToken": {
+          "address": "0x3F53De71c126BdaBAe20f9cD64848d317f6C3238",
+          "name": "Alphabet",
+          "symbol": "GOOGLB"
+        },
+        "priceNative": "0.00000001050",
+        "priceUsd": "0.000003491",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 1.38,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.04
+        },
+        "liquidity": {
+          "usd": 7730.26,
+          "base": 1107036751,
+          "quote": 11.6303
+        },
+        "fdv": 3491,
+        "marketCap": 3491,
+        "pairCreatedAt": 1789099308000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0xe2f5c7a15daff450bf7f89e311b93a502ca8ffff:4meme",
+        "pairAddress": "0xE2F5c7a15dAff450bf7F89E311B93a502ca8fFFf:4meme",
+        "baseToken": {
+          "address": "0xE2F5c7a15dAff450bf7F89E311B93a502ca8fFFf",
+          "name": "wormbrain",
+          "symbol": "WORMBRAIN"
+        },
+        "quoteToken": {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB"
+        },
+        "priceNative": "0.000000005739",
+        "priceUsd": "0.000004093",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.32,
+          "h6": 0.32,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.16,
+          "h24": 0.16
+        },
+        "fdv": 4093.57,
+        "marketCap": 4093.57,
+        "pairCreatedAt": 1789099134000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x8744098d82cde09d4aaa40a0a04d45906e0affff:4meme",
+        "pairAddress": "0x8744098d82cDE09d4aAa40A0a04D45906e0aFfFf:4meme",
+        "baseToken": {
+          "address": "0x8744098d82cDE09d4aAa40A0a04D45906e0aFfFf",
+          "name": "wormbrain",
+          "symbol": "WORMBRAIN"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789099296000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0xd9cf6d623c39ab1d48ab3db427419eac8f7cffff:4meme",
+        "pairAddress": "0xD9Cf6D623C39AB1D48aB3Db427419EAC8f7cffFf:4meme",
+        "baseToken": {
+          "address": "0xD9Cf6D623C39AB1D48aB3Db427419EAC8f7cffFf",
+          "name": "wormbrain",
+          "symbol": "WORMBRAIN"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789099304000
+      }
+    ]
+  },
+  "capturedAt": "2026-09-11T12:16:45.0376076Z"
+}

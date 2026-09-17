@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-09-15T05:52:21.820Z",
+  "chainId": 46630,
+  "token": {
+    "address": "0x5884ad2f920c162cfbbacc88c9c51aa75ec09e02",
+    "symbol": "AMZN",
+    "decimals": 18,
+    "received": "5000000000000000000",
+    "balance": "5000000000000000000",
+    "bytecodeHash": "0x2f367e6a678e7b30ab613d5963e541e6f4d3ca586de76e2f441fbfeb1a27c440"
+  },
+  "sourceVerified": true,
+  "sourceUrl": "https://explorer.testnet.chain.robinhood.com/address/0xBd14156E05c6AF28ad39aA53a2AB8eB9CDf657DA?tab=contract",
+  "implementation": "0xBd14156E05c6AF28ad39aA53a2AB8eB9CDf657DA",
+  "implementationCodeHash": "0x137f26aacb7b1675d89017cebbf5018515c7bf4b87ae1848984494a56f3e1912",
+  "uiMultiplier": "1000000000000000000",
+  "nextUIMultiplier": "1000000000000000000",
+  "paused": false,
+  "transferCall": "passed-self-transfer-simulation-only",
+  "standardTransferSource": "Stock.transfer delegates to OpenZeppelin ERC20 transfer. ScaledUI adds an event; raw balances and Transfer amounts remain unscaled. No fee deduction in the reviewed implementation.",
+  "limitations": [
+    "Issuer can upgrade, pause, block and burn. Not an immutable token.",
+    "A different recipient must be simulated before enabling deposits.",
+    "No on-chain deposit has been made."
+  ],
+  "fundingEnabled": false
+}

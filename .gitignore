@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+dist/
+.local/
+__pycache__/
+vendor/shiu/*.csv
+vendor/shiu/*.parquet
+.env
+.env.*
+!.env.example
+*.log
+vault-lab/tmp-*.ps1
+vault-lab/status-*.json
+vault-lab/health-*.json
+vault-lab/funding-config.json
+vault-lab/output/playwright/*.png
+vault-lab/output/faucet-attempt/

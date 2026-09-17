@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "recordedAt": "2026-09-12T07:17:45.804Z",
+  "scope": "curated sources observed by this radar",
+  "observations": [
+    {
+      "storyKey": "preipo-opens",
+      "title": "Se abre la puerta al pre-IPO de IA",
+      "context": "known_before_tracking",
+      "sourceUrl": "https://x.com/longdotxyz/status/2098554655110480307",
+      "publishedAt": "2026-09-11T23:29:00Z",
+      "observedAt": "2026-09-12T06:21:15Z"
+    },
+    {
+      "storyKey": "draftkings-onchain",
+      "title": "DraftKings aparece como activo en Solana",
+      "context": "known_before_tracking",
+      "sourceUrl": "https://x.com/solana/status/2098504287672267068",
+      "publishedAt": "2026-09-11T20:09:00Z",
+      "observedAt": "2026-09-12T06:21:15Z"
+    },
+    {
+      "storyKey": "steel-verdict",
+      "title": "Una absolucion convierte al abogado en personaje",
+      "context": "known_before_tracking",
+      "sourceUrl": "https://x.com/meghanncuniff/status/2098566297483383085",
+      "publishedAt": "2026-09-12T00:16:00Z",
+      "observedAt": "2026-09-12T06:21:15Z"
+    },
+    {
+      "storyKey": "acme-resignation",
+      "title": "La alarma de IA se transforma en renuncia a ACME",
+      "context": "known_before_tracking",
+      "sourceUrl": "https://x.com/hilbertspaess/status/2097476196791709843",
+      "publishedAt": "2026-09-10T01:36:00Z",
+      "observedAt": "2026-09-12T06:21:15Z"
+    },
+    {
+      "storyKey": "fly-retrospective",
+      "title": "Una mosca simulada: origen, personaje o accion observable",
+      "context": "known_before_tracking",
+      "sourceUrl": "https://github.com/fruitflydev/flycoinrh",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T06:21:15Z"
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "title": "El album que nadie pidio vuelve a la conversacion",
+      "context": "new_to_radar",
+      "sourceUrl": "https://x.com/PopBase/status/2098627160139325791",
+      "publishedAt": "2026-09-12T04:18:00Z",
+      "observedAt": "2026-09-12T06:57:06.419Z"
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "title": "Nvidia y Anthropic: el proveedor podria entrar al IPO del cliente",
+      "context": "new_to_radar",
+      "sourceUrl": "https://x.com/unusual_whales/status/2098581358469611549",
+      "publishedAt": "2026-09-12T01:16:00Z",
+      "observedAt": "2026-09-12T06:58:15.852Z"
+    },
+    {
+      "storyKey": "ellison-oracle-sale-plan",
+      "title": "Ellison: titular gigante de venta frente a un posible plan previo",
+      "context": "new_to_radar",
+      "sourceUrl": "https://x.com/unusual_whales/status/2098557246150168679",
+      "publishedAt": "2026-09-11T23:40:00Z",
+      "observedAt": "2026-09-12T06:58:15.852Z"
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "title": "La caja que hace su propia entrega",
+      "context": "new_to_radar",
+      "sourceUrl": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:00:00Z"
+    }
+  ],
+  "states": [
+    {
+      "storyKey": "preipo-opens",
+      "title": "Se abre la puerta al pre-IPO de IA",
+      "firstSeenAt": null,
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:21:15Z",
+      "knownBeforeTracking": true,
+      "sourceKeys": [
+        "x:2098554655110480307"
+      ],
+      "note": "Known before this tracking series; original discovery time remains unknown."
+    },
+    {
+      "storyKey": "draftkings-onchain",
+      "title": "DraftKings aparece como activo en Solana",
+      "firstSeenAt": null,
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:21:15Z",
+      "knownBeforeTracking": true,
+      "sourceKeys": [
+        "x:2098504287672267068"
+      ],
+      "note": "Known before this tracking series; original discovery time remains unknown."
+    },
+    {
+      "storyKey": "steel-verdict",
+      "title": "Una absolucion convierte al abogado en personaje",
+      "firstSeenAt": null,
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:21:15Z",
+      "knownBeforeTracking": true,
+      "sourceKeys": [
+        "x:2098566297483383085"
+      ],
+      "note": "Known before this tracking series; original discovery time remains unknown."
+    },
+    {
+      "storyKey": "acme-resignation",
+      "title": "La alarma de IA se transforma en renuncia a ACME",
+      "firstSeenAt": null,
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:21:15Z",
+      "knownBeforeTracking": true,
+      "sourceKeys": [
+        "x:2097476196791709843"
+      ],
+      "note": "Known before this tracking series; original discovery time remains unknown."
+    },
+    {
+      "storyKey": "fly-retrospective",
+      "title": "Una mosca simulada: origen, personaje o accion observable",
+      "firstSeenAt": null,
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:21:15Z",
+      "knownBeforeTracking": true,
+      "sourceKeys": [
+        "https://github.com/fruitflydev/flycoinrh"
+      ],
+      "note": "Known before this tracking series; original discovery time remains unknown."
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "title": "El album que nadie pidio vuelve a la conversacion",
+      "firstSeenAt": "2026-09-12T06:57:06.419Z",
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:57:06.419Z",
+      "knownBeforeTracking": false,
+      "sourceKeys": [
+        "x:2098627160139325791"
+      ],
+      "note": "First sighting recorded by this radar, not global discovery or the first token launch."
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "title": "Nvidia y Anthropic: el proveedor podria entrar al IPO del cliente",
+      "firstSeenAt": "2026-09-12T06:58:15.852Z",
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:58:15.852Z",
+      "knownBeforeTracking": false,
+      "sourceKeys": [
+        "x:2098581358469611549"
+      ],
+      "note": "First sighting recorded by this radar, not global discovery or the first token launch."
+    },
+    {
+      "storyKey": "ellison-oracle-sale-plan",
+      "title": "Ellison: titular gigante de venta frente a un posible plan previo",
+      "firstSeenAt": "2026-09-12T06:58:15.852Z",
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:58:15.852Z",
+      "knownBeforeTracking": false,
+      "sourceKeys": [
+        "x:2098557246150168679"
+      ],
+      "note": "First sighting recorded by this radar, not global discovery or the first token launch."
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "title": "La caja que hace su propia entrega",
+      "firstSeenAt": "2026-09-12T07:00:00Z",
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T07:00:00Z",
+      "knownBeforeTracking": false,
+      "sourceKeys": [
+        "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery"
+      ],
+      "note": "First sighting recorded by this radar, not global discovery or the first token launch."
+    }
+  ]
+}

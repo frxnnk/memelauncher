@@ -1,0 +1,973 @@
+[
+  {
+    "chain": "solana",
+    "rank": 1,
+    "pair": "HKPrXoz4EqJ5HU9m9PmTTTxSRwoB2Hbknd6UqUTsf2Yt",
+    "requestedPair": "hkprxoz4eqj5hu9m9pmtttxsrwob2hbknd6uqutsf2yt",
+    "matched": true,
+    "token": "BGU4TfDLpV1JeJGXVgSbZkLSRxgAzcsQci1vEbaWJVcm",
+    "name": "Artificial Cat INU",
+    "symbol": "CATAI",
+    "quote": "NVDAx",
+    "quoteAddress": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+    "uiAge": "12h",
+    "createdAt": "2026-09-11T17:50:44Z",
+    "ageHours": 12.748,
+    "priceUsd": "0.0006975",
+    "marketCap": 697595,
+    "liquidityUsd": 81535.83,
+    "volumeH1": 64980.89,
+    "volumeH6": 839816.66,
+    "volumeH24": 3078450.45,
+    "buysH1": 469,
+    "sellsH1": 276,
+    "changeH1": 69.88,
+    "changeH6": 101,
+    "boosts": 800,
+    "websites": [
+      {
+        "url": "https://cataisol.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/catainvda",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/catai_sol",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 2,
+    "pair": "8Tfvhwk6swWCjo7DNKrp89wWqrTdj6o9HBoDhfXT2dy6",
+    "requestedPair": "8tfvhwk6swwcjo7dnkrp89wwqrtdj6o9hbodhfxt2dy6",
+    "matched": true,
+    "token": "FLk6FKAN26m1FT4ucguwy3uHBMzLKcEu8KMTYD2Zpump",
+    "name": "Stunk",
+    "symbol": "Stunk",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "12h",
+    "createdAt": "2026-09-11T18:12:37Z",
+    "ageHours": 12.383,
+    "priceUsd": "0.001963",
+    "marketCap": 1951334,
+    "liquidityUsd": 126831.38,
+    "volumeH1": 154089.05,
+    "volumeH6": 1107064.42,
+    "volumeH24": 3953473.63,
+    "buysH1": 8522,
+    "sellsH1": 5812,
+    "changeH1": -2.92,
+    "changeH6": 3.39,
+    "boosts": 730,
+    "websites": [
+      {
+        "url": "https://stunksol.fun",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/StunkSOL",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/stunkportal",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 3,
+    "pair": "uzAK8txfJAvqS9VHtDaYAWfBiYbzwq4BzxdiFJTQEnJ",
+    "requestedPair": "uzak8txfjavqs9vhtdayawfbiybzwq4bzxdifjtqenj",
+    "matched": true,
+    "token": "ASoQZA3Dee2HU34Vwx3b5SAtTaczJtZcyx1T413nDALL",
+    "name": "all",
+    "symbol": "ALL",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "10h",
+    "createdAt": "2026-09-11T19:38:17Z",
+    "ageHours": 10.955,
+    "priceUsd": "0.002371",
+    "marketCap": 2253538,
+    "liquidityUsd": 170403.05,
+    "volumeH1": 230694.31,
+    "volumeH6": 2453128.01,
+    "volumeH24": 12669804.92,
+    "buysH1": 1159,
+    "sellsH1": 885,
+    "changeH1": -3.61,
+    "changeH6": -7.55,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.allonsol.fun/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/allonsolana",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 4,
+    "pair": "BtKFCWBQ3T16saR8pN4hkEuhLV2s7Vo65oBqvF7eEZSz",
+    "requestedPair": "btkfcwbq3t16sar8pn4hkeuhlv2s7vo65obqvf7eezsz",
+    "matched": true,
+    "token": "BifUDWQFpbTrSxYXBnqCpAVYgcyQGzHzJk2MDmeM2Gyv",
+    "name": "Artificial Cat",
+    "symbol": "TCAT",
+    "quote": "TAO",
+    "quoteAddress": "taoC6xyv2v8tDLcev4uaGUgV4vdQsWJrGft2kcBRrBY",
+    "uiAge": "1d",
+    "createdAt": "2026-09-10T22:32:17Z",
+    "ageHours": 32.055,
+    "priceUsd": "0.001961",
+    "marketCap": 1961602,
+    "liquidityUsd": 113794.19,
+    "volumeH1": 6177.62,
+    "volumeH6": 56528.35,
+    "volumeH24": 410176.58,
+    "buysH1": 19,
+    "sellsH1": 11,
+    "changeH1": -6.38,
+    "changeH6": 9.69,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://tcatonsol.com",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/artificialcat_",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 5,
+    "pair": "2ZNq5HMi3Z9DfTED2j2HHzkKBpmRgWZ31RcQ1oPGoLJ8",
+    "requestedPair": "2znq5hmi3z9dfted2j2hhzkkbpmrgwz31rcq1opgolj8",
+    "matched": true,
+    "token": "EWnSZW86xhJ91nvxPjdZD3g1SqhHj7q8eqY6DEUKpump",
+    "name": "Satu Wallet Token",
+    "symbol": "SATu",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "7mo",
+    "createdAt": "2026-02-04T23:26:30Z",
+    "ageHours": 5263.152,
+    "priceUsd": "0.0001355",
+    "marketCap": 132020,
+    "liquidityUsd": 36567.4,
+    "volumeH1": 450.9,
+    "volumeH6": 2367.87,
+    "volumeH24": 7299.67,
+    "buysH1": 269,
+    "sellsH1": 3,
+    "changeH1": 0.03,
+    "changeH6": 93.91,
+    "boosts": 500,
+    "websites": [
+      {
+        "url": "https://satuwallet.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/satuwallet",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/satuwallettoken",
+        "type": "telegram"
+      },
+      {
+        "url": "https://www.instagram.com/satuwalletid/",
+        "type": "instagram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 6,
+    "pair": "2y6PCqa4fEp3jLiFdan9jVMw7LSK8F3gwsTfy8p7traE",
+    "requestedPair": "2y6pcqa4fep3jlifdan9jvmw7lsk8f3gwstfy8p7trae",
+    "matched": true,
+    "token": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+    "name": "embercurve",
+    "symbol": "EMBER",
+    "quote": "MET",
+    "quoteAddress": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+    "uiAge": "2d",
+    "createdAt": "2026-09-09T22:25:01Z",
+    "ageHours": 56.177,
+    "priceUsd": "0.01582",
+    "marketCap": 15781016,
+    "liquidityUsd": 411935.98,
+    "volumeH1": 77551.92,
+    "volumeH6": 643948.6,
+    "volumeH24": 18824091.16,
+    "buysH1": 310,
+    "sellsH1": 147,
+    "changeH1": 27.3,
+    "changeH6": 6.27,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://embercurve.fun",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/embercurve",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 7,
+    "pair": "AbXLP7NmNiPn7iJiRJKRVoQ8Vs6SNzkuBRMFiRVygvtY",
+    "requestedPair": "abxlp7nmnipn7ijirjkrvoq8vs6snzkubrmfirvygvty",
+    "matched": true,
+    "token": "zzjkh1hLbvsFJXWLfE6h4JNbcnRj4eteuKRw42PN2tC",
+    "name": "Meme Man",
+    "symbol": "MM",
+    "quote": "STONK",
+    "quoteAddress": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+    "uiAge": "2d",
+    "createdAt": "2026-09-09T14:33:34Z",
+    "ageHours": 64.034,
+    "priceUsd": "0.0009578",
+    "marketCap": 957804,
+    "liquidityUsd": 141295.38,
+    "volumeH1": 34456.79,
+    "volumeH6": 192556.52,
+    "volumeH24": 1119787.43,
+    "buysH1": 2296,
+    "sellsH1": 2155,
+    "changeH1": 37.33,
+    "changeH6": 24.55,
+    "boosts": 100,
+    "websites": [
+      {
+        "url": "https://knowyourmeme.com/memes/meme-man",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/Mememancoinx",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 8,
+    "pair": "H2KJ699rzrbiH8D8E1gQ6J86wLZTTVkrpB9RhXaWnZ54",
+    "requestedPair": "h2kj699rzrbih8d8e1gq6j86wlzttvkrpb9rhxawnz54",
+    "matched": true,
+    "token": "Gt9brNVXP7gdGtUqZLcJAhbZTjLEcKrA53F18fRSEeAp",
+    "name": "ㅤ",
+    "symbol": "ㅤ",
+    "quote": "ZEC",
+    "quoteAddress": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+    "uiAge": "7h",
+    "createdAt": "2026-09-11T23:33:02Z",
+    "ageHours": 7.043,
+    "priceUsd": "0.0001556",
+    "marketCap": 155688,
+    "liquidityUsd": 36971.28,
+    "volumeH1": 71307.6,
+    "volumeH6": 1396794.02,
+    "volumeH24": 2767364.05,
+    "buysH1": 623,
+    "sellsH1": 321,
+    "changeH1": -51.88,
+    "changeH6": -66.21,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.stonkfun.xyz/",
+        "label": "Website"
+      }
+    ],
+    "socials": [],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 9,
+    "pair": "8XXnvNEMU3UoMRPWY2KJBW5z1T2KKj6vH9WYJfcGDqYQ",
+    "requestedPair": "8xxnvnemu3uomrpwy2kjbw5z1t2kkj6vh9wyjfcgdqyq",
+    "matched": true,
+    "token": "3URpNcV9wAPjwMAyuBsPjwwkGN9wFJuwcRs3RMbdpair",
+    "name": "Pairz",
+    "symbol": "PAIRZ",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "7d",
+    "createdAt": "2026-09-05T04:33:19Z",
+    "ageHours": 170.038,
+    "priceUsd": "0.001860",
+    "marketCap": 1794621,
+    "liquidityUsd": 120066.88,
+    "volumeH1": 14105.73,
+    "volumeH6": 372546.36,
+    "volumeH24": 1323135.66,
+    "buysH1": 641,
+    "sellsH1": 224,
+    "changeH1": 1.96,
+    "changeH6": -19.32,
+    "boosts": 100,
+    "websites": [
+      {
+        "url": "https://pairz.fun",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/pairzfun",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 10,
+    "pair": "6zCSdnTE8c3KXWuosxSnBt4wWsN9zTA73umKijP2p6au",
+    "requestedPair": "6zcsdnte8c3kxwuosxsnbt4wwsn9zta73umkijp2p6au",
+    "matched": true,
+    "token": "CdAoD87kYKHbtRFawiSqQJMX1pbKisoG7Ha1oJ47kB26",
+    "name": "donkey kong",
+    "symbol": "DKNG",
+    "quote": "DKNG",
+    "quoteAddress": "DKNGQFNGQmoBdXSRGKJ8tTu7uPDasw5JDcfMmWniNfow",
+    "uiAge": "10h",
+    "createdAt": "2026-09-11T20:06:21Z",
+    "ageHours": 10.488,
+    "priceUsd": "0.0006838",
+    "marketCap": 683865,
+    "liquidityUsd": 74371.47,
+    "volumeH1": 61925.97,
+    "volumeH6": 1255745.21,
+    "volumeH24": 6284627.88,
+    "buysH1": 328,
+    "sellsH1": 185,
+    "changeH1": -31.65,
+    "changeH6": -16.38,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/donkeykongondk",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 11,
+    "pair": "Cb7ZRgPLhji3Th7htXyKEqbXvNjPpeTvckXuWakBUhXu",
+    "requestedPair": "cb7zrgplhji3th7htxykeqbxvnjppetvckxuwakbuhxu",
+    "matched": true,
+    "token": "Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump",
+    "name": "baton",
+    "symbol": "baton",
+    "quote": "PUMP",
+    "quoteAddress": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "uiAge": "2d",
+    "createdAt": "2026-09-09T20:32:14Z",
+    "ageHours": 58.056,
+    "priceUsd": "0.007414",
+    "marketCap": 7405534,
+    "liquidityUsd": 355852.97,
+    "volumeH1": 145885.97,
+    "volumeH6": 1054647.85,
+    "volumeH24": 9100322.5,
+    "buysH1": 324,
+    "sellsH1": 308,
+    "changeH1": 15.45,
+    "changeH6": 7.34,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.batononpump.fun/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/batononpumpfun",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 12,
+    "pair": "5dYsxy1hJ8DxejsfHJR9wyRsuLHw6wCLKk7idc1kszUn",
+    "requestedPair": "5dysxy1hj8dxejsfhjr9wyrsulhw6wclkk7idc1kszun",
+    "matched": true,
+    "token": "8LstZpZuR9Dy7JCZC3YwPEWtbYhuDVFAYV37r6ZAcuHz",
+    "name": "Open Set",
+    "symbol": "OS",
+    "quote": "CARDS",
+    "quoteAddress": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp",
+    "uiAge": "7h",
+    "createdAt": "2026-09-11T22:53:25Z",
+    "ageHours": 7.703,
+    "priceUsd": "0.0006581",
+    "marketCap": 658200,
+    "liquidityUsd": 116423.05,
+    "volumeH1": 76317.78,
+    "volumeH6": 1582990.67,
+    "volumeH24": 2033532.13,
+    "buysH1": 334,
+    "sellsH1": 211,
+    "changeH1": -3.61,
+    "changeH6": 594,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.open-set.xyz/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/opensetfun",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/opensetlive",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 13,
+    "pair": "23B6d3FvDu2eiZxyBLgWdm2W2vn1bdRwJTR6NCfQpxGE",
+    "requestedPair": "23b6d3fvdu2eizxyblgwdm2w2vn1bdrwjtr6ncfqpxge",
+    "matched": true,
+    "token": "9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt",
+    "name": "Flame",
+    "symbol": "FLAME",
+    "quote": "EMBER",
+    "quoteAddress": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+    "uiAge": "20h",
+    "createdAt": "2026-09-11T10:32:54Z",
+    "ageHours": 20.045,
+    "priceUsd": "0.0008953",
+    "marketCap": 895325,
+    "liquidityUsd": 107757.38,
+    "volumeH1": 32667.72,
+    "volumeH6": 397086.34,
+    "volumeH24": 7494308.11,
+    "buysH1": 678,
+    "sellsH1": 907,
+    "changeH1": 19.93,
+    "changeH6": 0.78,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://flameonember.com",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/flame_here",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 14,
+    "pair": "5752ia7jC3ZU1c8ycytaSyi5D4nVhApSKvreGbs7pwWL",
+    "requestedPair": "5752ia7jc3zu1c8ycytasyi5d4nvhapskvregbs7pwwl",
+    "matched": true,
+    "token": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
+    "name": "ALLINU",
+    "symbol": "ALLINU",
+    "quote": "DKNG",
+    "quoteAddress": "DKNGQFNGQmoBdXSRGKJ8tTu7uPDasw5JDcfMmWniNfow",
+    "uiAge": "10h",
+    "createdAt": "2026-09-11T20:02:18Z",
+    "ageHours": 10.555,
+    "priceUsd": "0.001000",
+    "marketCap": 1000434,
+    "liquidityUsd": 94940.26,
+    "volumeH1": 72748.92,
+    "volumeH6": 1313100.1,
+    "volumeH24": 11231838.86,
+    "buysH1": 390,
+    "sellsH1": 253,
+    "changeH1": -18.1,
+    "changeH6": -45.65,
+    "boosts": null,
+    "websites": [],
+    "socials": [],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 15,
+    "pair": "zxTpi4BtaWX3mgdAPoezkMD1hxx8CdeCfrqXMWvSCLX",
+    "requestedPair": "zxtpi4btawx3mgdapoezkmd1hxx8cdecfrqxmwvsclx",
+    "matched": true,
+    "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+    "name": "STONK",
+    "symbol": "STONK",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "29d",
+    "createdAt": "2026-08-12T10:51:40Z",
+    "ageHours": 739.732,
+    "priceUsd": "0.2722",
+    "marketCap": 232932203,
+    "liquidityUsd": 4752751.36,
+    "volumeH1": 1581866.86,
+    "volumeH6": 9331856.72,
+    "volumeH24": 73278267.92,
+    "buysH1": 1294,
+    "sellsH1": 834,
+    "changeH1": -0.06,
+    "changeH6": -7.3,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.stonkfun.xyz/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/LaunchOnSF",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/StonkFunXyz",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 16,
+    "pair": "CXKwgui737V9EDZKLtU5AeHQnWX4kNTnn3gGQT9Tf6wK",
+    "requestedPair": "cxkwgui737v9edzkltu5aehqnwx4kntnn3ggqt9tf6wk",
+    "matched": true,
+    "token": "2fWzx35rQMAATQGhJzVTvzeXHcenCQLqCog9Jkg5pump",
+    "name": "LAMA Pay",
+    "symbol": "LAMA",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "3h",
+    "createdAt": "2026-09-12T02:59:05Z",
+    "ageHours": 3.609,
+    "priceUsd": "0.0003466",
+    "marketCap": 336919,
+    "liquidityUsd": 51302.25,
+    "volumeH1": 143970.97,
+    "volumeH6": 1213939.54,
+    "volumeH24": 1213939.54,
+    "buysH1": 1020,
+    "sellsH1": 821,
+    "changeH1": 26.79,
+    "changeH6": 743,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://lamanan.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/LamaPays",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 17,
+    "pair": "BTccxxTFi7a9xJTE1exKn38Jgie35s6gNeRxd8DM61Rc",
+    "requestedPair": "btccxxtfi7a9xjte1exkn38jgie35s6gnerxd8dm61rc",
+    "matched": true,
+    "token": "HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR",
+    "name": "Anonymous Cat",
+    "symbol": "ZCAT",
+    "quote": "ZEC",
+    "quoteAddress": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+    "uiAge": "11d",
+    "createdAt": "2026-08-30T23:29:55Z",
+    "ageHours": 295.095,
+    "priceUsd": "0.07561",
+    "marketCap": 75616062,
+    "liquidityUsd": 1354762.61,
+    "volumeH1": 41501.19,
+    "volumeH6": 898723.02,
+    "volumeH24": 4054465.08,
+    "buysH1": 28,
+    "sellsH1": 39,
+    "changeH1": -2.33,
+    "changeH6": -1.6,
+    "boosts": null,
+    "websites": [],
+    "socials": [],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 18,
+    "pair": "DA4pM4xSDY4M9V4CgAKKBVH1pw1yscTQQa5nEkGHuKpt",
+    "requestedPair": "da4pm4xsdy4m9v4cgakkbvh1pw1ysctqqa5nekghukpt",
+    "matched": true,
+    "token": "MukLDtJ8Cx9DxLbeyLRSWPSposTMWuwHANbuaudpump",
+    "name": "OTC",
+    "symbol": "OTC",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "13d",
+    "createdAt": "2026-08-28T13:33:10Z",
+    "ageHours": 353.041,
+    "priceUsd": "0.01438",
+    "marketCap": 10144243,
+    "liquidityUsd": 597561.53,
+    "volumeH1": 77775.29,
+    "volumeH6": 810744.57,
+    "volumeH24": 3846598.77,
+    "buysH1": 343,
+    "sellsH1": 277,
+    "changeH1": -4.54,
+    "changeH6": 21.65,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://otcdesks.cash/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/otc_labs",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 19,
+    "pair": "AfrddTGYwCVEQB1gxCAhR8i48o6qtxYqksdVkeLudEhg",
+    "requestedPair": "afrddtgywcveqb1gxcahr8i48o6qtxyqksdvkeludehg",
+    "matched": true,
+    "token": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+    "name": "STONK",
+    "symbol": "STONK",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "1mo",
+    "createdAt": "2026-08-05T03:58:13Z",
+    "ageHours": 914.623,
+    "priceUsd": "0.2736",
+    "marketCap": 234063202,
+    "liquidityUsd": 1405455.78,
+    "volumeH1": 86427.52,
+    "volumeH6": 745448.7,
+    "volumeH24": 8827298.47,
+    "buysH1": 114,
+    "sellsH1": 47,
+    "changeH1": 0.73,
+    "changeH6": -7.46,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.stonkfun.xyz/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/LaunchOnSF",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/StonkFunXyz",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 20,
+    "pair": "HX6nX5hd143EuHnvb5n7iTSuEBsEx4k9Ne6zyCYBbRMi",
+    "requestedPair": "hx6nx5hd143euhnvb5n7itsuebsex4k9ne6zycybbrmi",
+    "matched": true,
+    "token": "HunmXDXMNQYVoDnUL6PNnSYEtFaTZA2WzGh1HJTW7aoV",
+    "name": "Loop",
+    "symbol": "LOOP",
+    "quote": "KNOTS",
+    "quoteAddress": "8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS",
+    "uiAge": "1d",
+    "createdAt": "2026-09-11T02:57:10Z",
+    "ageHours": 27.641,
+    "priceUsd": "0.001817",
+    "marketCap": 1817596,
+    "liquidityUsd": 91846.74,
+    "volumeH1": 11047.33,
+    "volumeH6": 100189.33,
+    "volumeH24": 754149.42,
+    "buysH1": 52,
+    "sellsH1": 36,
+    "changeH1": -21.89,
+    "changeH6": 14.02,
+    "boosts": 100,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/Looptheknots",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 21,
+    "pair": "HMzvsEEmtzHhvZNw9uwbaG85HCTmFnkbhzUx16cy7ca3",
+    "requestedPair": "hmzvseemtzhhvznw9uwbag85hctmfnkbhzux16cy7ca3",
+    "matched": true,
+    "token": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
+    "name": "Catecoin",
+    "symbol": "CATE",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "1mo",
+    "createdAt": "2026-07-26T16:32:43Z",
+    "ageHours": 1142.048,
+    "priceUsd": "0.04466",
+    "marketCap": 43062570,
+    "liquidityUsd": 2163302.84,
+    "volumeH1": 58121.77,
+    "volumeH6": 866536.35,
+    "volumeH24": 4390575.34,
+    "buysH1": 203,
+    "sellsH1": 197,
+    "changeH1": -0.56,
+    "changeH6": 2.07,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://cate.meme/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/i/communities/2004330768022004131",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/catecoin_telegram",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 22,
+    "pair": "zf7uTK56DM7en5KXNvtPD9AT66BamJb6DfZuqBhVgBr",
+    "requestedPair": "zf7utk56dm7en5kxnvtpd9at66bamjb6dfzuqbhvgbr",
+    "matched": true,
+    "token": "J8X5ygWHY5uHFch7m3MisSC7eDAWpAkgi1pyqfT5pump",
+    "name": "revolve ",
+    "symbol": "revolve ",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "58m",
+    "createdAt": "2026-09-12T05:35:19Z",
+    "ageHours": 1.005,
+    "priceUsd": "0.0002230",
+    "marketCap": 213178,
+    "liquidityUsd": 39428.18,
+    "volumeH1": 507935.02,
+    "volumeH6": 518464.32,
+    "volumeH24": 518464.32,
+    "buysH1": 5888,
+    "sellsH1": 4816,
+    "changeH1": 451,
+    "changeH6": 432,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://revolvepad.com",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/revolvepad",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 23,
+    "pair": "GbrDAq3RjcVWeroLDUwmnuQ8N5xaaKj2Rk2dJDg64CLY",
+    "requestedPair": "gbrdaq3rjcvwerolduwmnuq8n5xaakj2rk2djdg64cly",
+    "matched": true,
+    "token": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+    "name": "embercurve",
+    "symbol": "EMBER",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "2d",
+    "createdAt": "2026-09-09T23:09:57Z",
+    "ageHours": 55.428,
+    "priceUsd": "0.01535",
+    "marketCap": 15359084,
+    "liquidityUsd": 790787.4,
+    "volumeH1": 330707.9,
+    "volumeH6": 1886833.41,
+    "volumeH24": 35426164.19,
+    "buysH1": 340,
+    "sellsH1": 317,
+    "changeH1": 24.95,
+    "changeH6": 0.62,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://embercurve.fun",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/embercurve",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 24,
+    "pair": "FnzKY6x7entQ1eR3D225dQyT7ybfka4PskBMQhb8L3CC",
+    "requestedPair": "fnzky6x7entq1er3d225dqyt7ybfka4pskbmqhb8l3cc",
+    "matched": true,
+    "token": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+    "name": "The Black Bull",
+    "symbol": "ANSEM",
+    "quote": "SOL",
+    "quoteAddress": "So11111111111111111111111111111111111111112",
+    "uiAge": "2mo",
+    "createdAt": "2026-06-16T21:05:48Z",
+    "ageHours": 2097.497,
+    "priceUsd": "0.1490",
+    "marketCap": 148681615,
+    "liquidityUsd": 2226823.79,
+    "volumeH1": 141377.9,
+    "volumeH6": 433902.82,
+    "volumeH24": 2355911.02,
+    "buysH1": 139,
+    "sellsH1": 275,
+    "changeH1": 4.81,
+    "changeH6": 3.44,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/blackbullsol",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/+LuzxBagQydQ1NzMx",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  },
+  {
+    "chain": "solana",
+    "rank": 25,
+    "pair": "6e4ewHhGZrBMiSkKat7QCx28dytJdnYrobNXWrPL5WFN",
+    "requestedPair": "6e4ewhhgzrbmiskkat7qcx28dytjdnyrobnxwrpl5wfn",
+    "matched": true,
+    "token": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+    "name": "embercurve",
+    "symbol": "EMBER",
+    "quote": "USDC",
+    "quoteAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "uiAge": "2d",
+    "createdAt": "2026-09-10T05:53:50Z",
+    "ageHours": 48.696,
+    "priceUsd": "0.01599",
+    "marketCap": 15991717,
+    "liquidityUsd": 358003.87,
+    "volumeH1": 433556.1,
+    "volumeH6": 1906517.76,
+    "volumeH24": 14276805.17,
+    "buysH1": 578,
+    "sellsH1": 720,
+    "changeH1": 28.07,
+    "changeH6": 4.91,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://embercurve.fun",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/embercurve",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:35:36.7403987Z"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "storedAt": "2026-09-12T07:41:03.143Z",
+  "observedBatchAt": "2026-09-12T07:21:31.202Z",
+  "previousFolder": null,
+  "executionAuthorized": false,
+  "sourceScope": "curated observations; not continuous or complete X coverage",
+  "files": [
+    {
+      "file": "batch.json",
+      "sha256": "5a51c729dc782dddfe1e55e2ea5498baf6627e9e88a5188183ffd83d3d7e1ed6"
+    },
+    {
+      "file": "changes.json",
+      "sha256": "43d303b43f9f04c45649ce3b118daf218d84c3f8e96ea5041ad9a523abdbae8f"
+    },
+    {
+      "file": "state.json",
+      "sha256": "b02c843b93fc8de2dba5f2238438249b284764dc3d9bbef9a3ff8d10d31743c4"
+    },
+    {
+      "file": "REPORT.md",
+      "sha256": "8beee576926e4e898b020b7b97b775693ef1882db1c4c028f3d4bef6274e327b"
+    }
+  ]
+}

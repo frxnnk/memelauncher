@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-12T07:16:03Z",
+  "executionAuthorized": false,
+  "stories": [
+    {
+      "id": "u2-unwanted-album-resurfacing",
+      "title": "Vuelve el recuerdo del album que nadie pidio",
+      "mode": "snapshot",
+      "decisions": [
+        {
+          "ideaId": "u2-uninvited-guest",
+          "title": "El invitado que vuelve",
+          "status": "EXPLORE",
+          "reason": "Hay un personaje y dos situaciones sencillas apoyadas en una emocion visible. Merece comparacion inmediata de bocetos, sin afirmar demanda ni prioridad global. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-12T04:18:00Z",
+            "firstSeenAt": "2026-09-12T06:57:06.419Z",
+            "firstMarketObservedAt": "2026-09-12T06:59:16.753Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": 2.6517830555555557,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "u2-delete-return",
+          "title": "Quitar, volver, quitar",
+          "status": "REWORK",
+          "reason": "El gesto puede servir al personaje principal; como concepto separado todavia duplica el mismo remate. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-12T04:18:00Z",
+            "firstSeenAt": "2026-09-12T06:57:06.419Z",
+            "firstMarketObservedAt": "2026-09-12T06:59:16.753Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": 2.6517830555555557,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "u2-unasked-airdrop",
+          "title": "El airdrop que nadie pidio",
+          "status": "PASS",
+          "reason": "Repite la molestia original y cambia el vocabulario sin desarrollar un giro propio; no merece construccion como rama independiente. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-12T04:18:00Z",
+            "firstSeenAt": "2026-09-12T06:57:06.419Z",
+            "firstMarketObservedAt": "2026-09-12T06:59:16.753Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": 2.6517830555555557,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        }
+      ]
+    },
+    {
+      "id": "box-on-wheels-announcement",
+      "title": "La caja empieza a hacer su propia entrega",
+      "mode": "snapshot",
+      "decisions": [
+        {
+          "ideaId": "box-recipient-chaser",
+          "title": "Tu paquete te encontro",
+          "status": "EXPLORE",
+          "reason": "La noticia contiene una inversion visual concreta y un objetivo de personaje capaz de sostener mas de una escena; amerita boceto inmediato. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": null,
+            "firstSeenAt": "2026-09-12T07:00:00Z",
+            "firstMarketObservedAt": "2026-09-12T06:59:22.937Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "box-moving-door",
+          "title": "La ultima milla imposible",
+          "status": "EXPLORE",
+          "reason": "Aporta una regla participativa distinta de la rama de personaje; dos estados alcanzan para poner a prueba la idea sin construir un juego completo. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": null,
+            "firstSeenAt": "2026-09-12T07:00:00Z",
+            "firstMarketObservedAt": "2026-09-12T06:59:22.937Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "box-generic-logo",
+          "title": "Una caja con el logo del fabricante",
+          "status": "PASS",
+          "reason": "Es una representacion literal del anuncio sin giro propio y con referentes adyacentes; las otras dos ramas aprovechan mejor el hecho. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": null,
+            "firstSeenAt": "2026-09-12T07:00:00Z",
+            "firstMarketObservedAt": "2026-09-12T06:59:22.937Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        }
+      ]
+    },
+    {
+      "id": "nvidia-anthropic-ipo-talks",
+      "title": "El proveedor conversa sobre invertir en el IPO",
+      "mode": "snapshot",
+      "decisions": [
+        {
+          "ideaId": "nvda-two-counters",
+          "title": "El vendedor cambia de mostrador",
+          "status": "EXPLORE",
+          "reason": "Merece solo boceto comparativo por su legibilidad visual; la novedad del personaje y su diferencia frente al circuito siguen abiertas. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T22:59:00Z",
+            "firstSeenAt": "2026-09-12T06:58:15.852Z",
+            "firstMarketObservedAt": null,
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": 7.987736666666667,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "nvda-dollar-loop",
+          "title": "El dolar que da la vuelta",
+          "status": "PASS",
+          "reason": "Recicla una lectura anterior y corre el riesgo de dibujar como hecho un flujo no establecido por el reporte; no ofrece una rama creativa suficientemente nueva. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T22:59:00Z",
+            "firstSeenAt": "2026-09-12T06:58:15.852Z",
+            "firstMarketObservedAt": null,
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": 7.987736666666667,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "nvda-receipt-circuit",
+          "title": "El recibo de los dos lados",
+          "status": "REWORK",
+          "reason": "Requiere resolver la evidencia que sugiere la imagen y encontrar una diferencia creativa; aun no amerita pasar del storyboard. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T22:59:00Z",
+            "firstSeenAt": "2026-09-12T06:58:15.852Z",
+            "firstMarketObservedAt": null,
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T07:16:03Z",
+            "observationDelayHours": 7.987736666666667,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "observed"
+          },
+          "executionAuthorized": false
+        }
+      ]
+    }
+  ]
+}

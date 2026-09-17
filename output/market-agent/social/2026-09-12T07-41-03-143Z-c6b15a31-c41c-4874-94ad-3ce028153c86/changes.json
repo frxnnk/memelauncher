@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "recordedAt": "2026-09-12T07:21:31.202Z",
+  "changes": [
+    {
+      "type": "NEW_STORY",
+      "storyKey": "box-on-wheels-announcement",
+      "sourceKey": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "sourceUrl": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "observedAt": "2026-09-12T07:00:00.000Z",
+      "author": "Stellantis / UQI",
+      "text": "Stellantis y UQI anuncian una prueba de concepto de reparto autónomo. La presentación y demostración pública se anuncian para el 14 de septiembre; todavía no se observaron.",
+      "kind": "official-announcement",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "First story in the compared memory, not global discovery."
+    },
+    {
+      "type": "NEW_STORY",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098581358469611549",
+      "sourceUrl": "https://x.com/unusual_whales/status/2098581358469611549",
+      "observedAt": "2026-09-12T06:58:39.069Z",
+      "author": "@unusual_whales",
+      "text": "Atribuye a Reuters conversaciones de Nvidia para invertir en el IPO de Anthropic.",
+      "kind": "secondary-news",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "First story in the compared memory, not global discovery."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098582496283648374",
+      "sourceUrl": "https://x.com/twan618/status/2098582496283648374",
+      "observedAt": "2026-09-12T06:58:39.069Z",
+      "author": "@twan618",
+      "text": "Lo compara con vendor financing y pregunta si la inversion esta ligada contractualmente a compra de computo; el final del post estaba truncado.",
+      "kind": "interpretation",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098592593319805379",
+      "sourceUrl": "https://x.com/ccccccmore/status/2098592593319805379",
+      "observedAt": "2026-09-12T06:58:39.069Z",
+      "author": "@ccccccmore",
+      "text": "Describe financiar al cliente que compra tus chips como un circuito muy caro.",
+      "kind": "interpretation",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098599439346831859",
+      "sourceUrl": "https://x.com/jatingargiitk/status/2098599439346831859",
+      "observedAt": "2026-09-12T06:58:39.069Z",
+      "author": "@jatingargiitk",
+      "text": "Pregunta si el reporte representa inversion nueva o un compromiso anterior; las cifras historicas del comentario no se adoptan como hechos verificados.",
+      "kind": "verification-question",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_STORY",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098627160139325791",
+      "sourceUrl": "https://x.com/PopBase/status/2098627160139325791",
+      "observedAt": "2026-09-12T06:59:18.911Z",
+      "author": "@PopBase",
+      "text": "Recuerda distribucion de Songs of Innocence por iTunes hace12años; muestra portada y telefono con album abierto.",
+      "kind": "historical-resurfacing",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "First story in the compared memory, not global discovery."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098631494415565145",
+      "sourceUrl": "https://x.com/Ariremako8181/status/2098631494415565145",
+      "observedAt": "2026-09-12T06:59:18.911Z",
+      "author": "@Ariremako8181",
+      "text": "Lo describe como regalo no pedido y dificil de borrar; es recuerdo/humor del autor.",
+      "kind": "cultural-memory",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098633583204180081",
+      "sourceUrl": "https://x.com/pumpkwnpied/status/2098633583204180081",
+      "observedAt": "2026-09-12T06:59:18.911Z",
+      "author": "@pumpkwnpied",
+      "text": "Recuerda haber pensado que era un virus al no saber por que aparecia y no poder borrarlo; el GIF asociado no fue reproducido.",
+      "kind": "cultural-memory",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    }
+  ],
+  "missing": [],
+  "coverage": [
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "status": "observed",
+      "note": "Historical archived capture, bounded readings only."
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "status": "observed",
+      "note": "Historical archived capture, bounded readings only."
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "status": "observed",
+      "note": "Historical archived capture, bounded readings only."
+    }
+  ],
+  "needsReview": true
+}

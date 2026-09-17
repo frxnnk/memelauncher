@@ -1,0 +1,70 @@
+[
+  {
+    "mint": "CikvUCrJ8sgDZMauG1hK5bWwzQQbvWRR7kU818FYmALL",
+    "at": 1789189985704,
+    "coin": {
+      "mint": "CikvUCrJ8sgDZMauG1hK5bWwzQQbvWRR7kU818FYmALL",
+      "name": "CRYPT",
+      "symbol": "CRYPT",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreiany5h5pf7p5yxywsuns3zxeymhvpj5pqpcj7p6i4uekfxe7id7e4",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreiany5h5pf7p5yxywsuns3zxeymhvpj5pqpcj7p6i4uekfxe7id7e4",
+      "createdAt": 1789162205000,
+      "marketCapUsd": 2899.4748581643294,
+      "source": "etc",
+      "quote": null,
+      "pricedFrom": "curve"
+    },
+    "pair": {
+      "mint": "CikvUCrJ8sgDZMauG1hK5bWwzQQbvWRR7kU818FYmALL",
+      "stock": null,
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0
+    },
+    "paid": null,
+    "dropped": null,
+    "history": null,
+    "split": {
+      "config": "5k2oFhjSN5tzMkMVVFdeh71jY12em14pvHW9RFsrVBR6",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders",
+          "label": "your holders",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys this coin and drops it into $all wallets",
+          "bps": 3000,
+          "role": "etc"
+        },
+        {
+          "key": "Ea8yNYvxETJ7T8nNRndgNta21u1jNBpvVntPvWvCQFHS",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "GVbeJSd5kaCZdFrxDVTQzhkYygTVa4b8NAGDbVpvaWmZ",
+      "waiting": "0",
+      "claimable": "0",
+      "earned": null
+    },
+    "claims": null,
+    "next": {
+      "at": 1789188275694,
+      "state": "running",
+      "held": null
+    },
+    "feeRead": {
+      "at": 1789192288561,
+      "distributions": [],
+      "complete": true
+    }
+  }
+]

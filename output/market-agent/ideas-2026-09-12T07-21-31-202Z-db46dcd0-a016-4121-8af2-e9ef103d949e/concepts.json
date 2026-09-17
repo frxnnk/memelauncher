@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-12T07:16:03Z",
+  "selectedStoryId": "u2-unwanted-album-resurfacing",
+  "notes": "Nueve propuestas creativas formuladas en esta captura; nombres, demanda y diferenciacion no validados. EXPLORE permite comparar bocetos ahora: no exige comunidad, token existente ni implementacion onchain, y no autoriza publicar o lanzar. Las busquedas de competencia son parciales; un resultado vacio no prueba exclusividad.",
+  "stories": [
+    {
+      "id": "u2-unwanted-album-resurfacing",
+      "title": "Vuelve el recuerdo del album que nadie pidio",
+      "shortTitle": "U2 / el intruso",
+      "clusterId": "u2-resurfacing",
+      "mode": "snapshot",
+      "sourceEvidenceIds": [
+        "x-u2-recall",
+        "x-u2-unasked-gift",
+        "x-u2-thought-virus"
+      ],
+      "sourceUrls": [
+        "https://x.com/PopBase/status/2098627160139325791",
+        "https://x.com/Ariremako8181/status/2098631494415565145",
+        "https://x.com/pumpkwnpied/status/2098633583204180081"
+      ],
+      "publishedAt": "2026-09-12T04:18:00Z",
+      "firstSeenAt": "2026-09-12T06:57:06.419Z",
+      "firstMarketObservedAt": "2026-09-12T06:59:16.753Z",
+      "firstLaunchAt": null,
+      "noveltyType": "historical_event_resurfacing",
+      "stageLabel": "Recuerdo reactivado / personaje por comparar",
+      "timingNote": "La fecha corresponde al nuevo post de Pop Base sobre un episodio de 2014, no a un producto nuevo ni a la fecha historica exacta del incidente. firstSeenAt es la deteccion real en el perfil durante este recorrido, no la primera aparicion global. firstMarketObservedAt es la primera consulta U2 de esta tanda: encontro una colision de nombre, sin vinculo al gag verificado. No conocemos el primer lanzamiento de esta interpretacion. Las respuestas expresan recuerdos; no prueban malware ni una imposibilidad tecnica de borrado.",
+      "interpretations": [
+        {
+          "id": "u2-uninvited-guest",
+          "title": "El invitado que vuelve",
+          "angle": "character",
+          "pitch": "Hipotesis: un album original que entiende cada intento de quitarlo como una nueva invitacion puede convertir el recuerdo de un regalo invasivo en un personaje reconocible.",
+          "whatItDoes": "Un album ficticio invade una biblioteca musical simulada con modales excesivamente amables. Al quitarlo vuelve disfrazado de otro genero; al enviarlo a la papelera sale por una puerta lateral y pide quedarse.",
+          "whyNow": "El post nuevo y las respuestas ya ofrecen la emocion concreta del regalo no pedido; permiten bocetar una interpretacion propia sin esperar una comunidad nueva.",
+          "distinctiveElement": "La personalidad del invitado insistente y sus disfraces sostienen episodios; la portada y el personaje son originales, sin presentar a Apple o U2 como participantes.",
+          "minimumBuild": "Dos storyboards de tres cuadros: quitar/reaparecer disfrazado y papelera/puerta lateral. Si se entienden, una escena clicable con esos dos retornos en una biblioteca ficticia.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "La consulta encontro un token llamado U2 sin relacion verificada y ninguna coincidencia exacta del album entre los resultados inspeccionados. No se comprobo disponibilidad de este personaje o nombre.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [
+            "x-u2-recall",
+            "x-u2-unasked-gift",
+            "x-u2-thought-virus"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "Mostrar hoy los dos storyboards sin mencionar U2; comprobar si el lector describe espontaneamente un invitado que vuelve y distingue ambos gags. Comparar despues el nombre y gesto con resultados puntuales.",
+          "discardIf": "Solo se entiende al reconocer la portada de U2, necesita explicar el incidente o el segundo retorno no agrega una broma.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Hay un personaje y dos situaciones sencillas apoyadas en una emocion visible. Merece comparacion inmediata de bocetos, sin afirmar demanda ni prioridad global."
+        },
+        {
+          "id": "u2-delete-return",
+          "title": "Quitar, volver, quitar",
+          "angle": "mechanic",
+          "pitch": "Hipotesis: la contradiccion entre pulsar quitar y ver que el objeto regresa puede funcionar como gag interactivo, aunque hoy duplica el gesto del invitado.",
+          "whatItDoes": "Una biblioteca ficticia ofrece quitar un album original: el primer clic deja un hueco del que sale otro album; el segundo lo convierte en un boton de volver. Toda la accion queda dentro de la escena.",
+          "whyNow": "La reactivacion del recuerdo ofrece una regla breve para comparar ahora con la rama de personaje, pero no vuelve nueva por si sola la broma de un boton que se resiste.",
+          "distinctiveElement": "La transformacion del espacio vacio y del control podria contar la resistencia sin protagonista; aun falta que genere una lectura distinta del invitado.",
+          "minimumBuild": "Dos bocetos de interfaz: hueco que expulsa el album y boton quitar que se transforma. Compararlos con los dos gags del personaje antes de programar.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "Las consultas undeletable e iTunes no devolvieron pares, pero no cubren juegos, paginas o mecanismos similares. Ademas existe solapamiento claro con otra propuesta de este catalogo.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [
+            "x-u2-recall",
+            "x-u2-unasked-gift"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "Poner ambos bocetos junto a El invitado que vuelve y pedir que se describa la diferencia en una frase; si la unica diferencia es tener un boton, fusionar la mecanica con el personaje.",
+          "discardIf": "No produce una expresion distinta del mismo quitar/reaparecer o depende de frustrar de verdad la salida de la pagina.",
+          "disposition": "REWORK",
+          "decisionReason": "El gesto puede servir al personaje principal; como concepto separado todavia duplica el mismo remate."
+        },
+        {
+          "id": "u2-unasked-airdrop",
+          "title": "El airdrop que nadie pidio",
+          "angle": "cultural",
+          "pitch": "Hipotesis: traducir el regalo digital no pedido al vocabulario de airdrops hace reconocible la analogia, pero ofrece poco contenido nuevo.",
+          "whatItDoes": "Una propuesta de parodia muestra una bandeja ficticia tapada de regalos y una papelera que devuelve otro regalo. La idea de repartir activos reales sin pedido se descarta.",
+          "whyNow": "Las respuestas al recuerdo usan la lectura del regalo invasivo; trasladarla literalmente a crypto seria una reaccion rapida, aunque derivativa.",
+          "distinctiveElement": "La analogia regalo/airdrop es la unica diferencia actual; no aparece un personaje, regla o giro propio.",
+          "minimumBuild": "Solo dos cuadros para juzgar la analogia: bandeja llena y regalo que vuelve desde la papelera. No hace falta construir un sistema de distribucion.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "La busqueda de U2 e iTunes es parcial y no mide la amplia escena de airdrops o spam de tokens; no hay exclusividad verificada para esta analogia.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [
+            "x-u2-unasked-gift",
+            "x-u2-thought-virus"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "Leer la propuesta quitando la palabra airdrop: si quedan las mismas dos bromas del album, no aporta una interpretacion nueva. El resultado actual ya cumple ese falsador.",
+          "discardIf": "La gracia depende de distribuir algo sin consentimiento o de agregar un token a una broma que funciona igual sin el.",
+          "disposition": "PASS",
+          "decisionReason": "Repite la molestia original y cambia el vocabulario sin desarrollar un giro propio; no merece construccion como rama independiente."
+        }
+      ]
+    },
+    {
+      "id": "box-on-wheels-announcement",
+      "title": "La caja empieza a hacer su propia entrega",
+      "shortTitle": "La caja / reparto",
+      "clusterId": "box-on-wheels",
+      "mode": "snapshot",
+      "sourceEvidenceIds": [
+        "stellantis-box-on-wheels"
+      ],
+      "sourceUrls": [
+        "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery"
+      ],
+      "publishedAt": null,
+      "publishedDate": "2026-09-11",
+      "firstSeenAt": "2026-09-12T07:00:00Z",
+      "firstMarketObservedAt": "2026-09-12T06:59:22.937Z",
+      "firstLaunchAt": null,
+      "noveltyType": "new_proof_of_concept_announcement",
+      "stageLabel": "Anuncio nuevo / demo futura / sin adopcion social medida",
+      "timingNote": "Stellantis y UQI anuncian una prueba de concepto; el comunicado solo informa el dia 11/9, sin hora. firstSeenAt conserva la hora de documentacion de la investigacion de noticias, de manera conservadora: no pretende ser el segundo exacto de primera lectura. La consulta de mercado anterior a ese registro contiene referencias adyacentes, no un token vinculado a la noticia. La demostracion prevista para el 14/9 sigue siendo futura. No se verifico reparto comercial ni primer lanzamiento de la narrativa.",
+      "interpretations": [
+        {
+          "id": "box-recipient-chaser",
+          "title": "Tu paquete te encontro",
+          "angle": "character",
+          "pitch": "Hipotesis: una caja obsesionada con conseguir la firma puede convertir la frustracion cotidiana de recibir paquetes en una personalidad facil de reconocer.",
+          "whatItDoes": "Un paquete original persigue a su destinatario ficticio para terminar la entrega: si este cambia de vereda, la caja ya espera del otro lado; si se esconde, le pasa el recibo por debajo de la puerta.",
+          "whyNow": "El anuncio transforma el paquete en vehiculo y habilita la inversion comica del humano que ahora debe esquivar su entrega; la persecucion es ficcion nuestra, no una funcion anunciada.",
+          "distinctiveElement": "El objetivo fijo de conseguir una firma genera gags de personaje aun sin logos, precio, autonomia real o contexto bursatil.",
+          "minimumBuild": "Dos storyboards de tres cuadros: cambio de vereda y recibo bajo la puerta. Un loop corto solo si la obsesion se entiende en silencio.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "BoxCat y An Amazon Box son asociaciones adyacentes ya observadas. La busqueda Box on Wheels no identifico un vinculo al anuncio entre los resultados inspeccionados; no cubre todos los personajes de reparto.",
+          "relatedMarketNodeIds": [
+            "boxcat-adjacent",
+            "amazon-box-adjacent"
+          ],
+          "basisEvidenceIds": [
+            "stellantis-box-on-wheels"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "Mostrar los dos gags sin nombre de empresa ni explicacion tecnologica; pedir que se describa que quiere la caja. Si se entiende obtener la firma, comparar dos siluetas originales hoy.",
+          "discardIf": "Es solo una caja con ojos, se confunde con un robot corporativo real o el segundo gag requiere explicar tecnologia.",
+          "disposition": "EXPLORE",
+          "decisionReason": "La noticia contiene una inversion visual concreta y un objetivo de personaje capaz de sostener mas de una escena; amerita boceto inmediato."
+        },
+        {
+          "id": "box-moving-door",
+          "title": "La ultima milla imposible",
+          "angle": "mechanic",
+          "pitch": "Hipotesis: mover una puerta mientras una caja intenta llegar puede producir rutas absurdas compartibles mediante una regla que se entiende al verla.",
+          "whatItDoes": "En una escena ficticia se arrastra la puerta de destino: al ponerla detras de la caja, esta completa una vuelta enorme; al subirla a una plataforma, despliega una rampa exageradamente larga. Son dos reglas animadas declaradas.",
+          "whyNow": "La prueba de concepto de ultima milla permite jugar con el destino de la entrega; no hace falta esperar la demostracion futura para comparar esta interpretacion ficticia.",
+          "distinctiveElement": "El protagonista es un domicilio que se mueve y altera el espacio, no una caja con personalidad. El usuario causa el absurdo con un unico gesto.",
+          "minimumBuild": "Dos pruebas dibujadas del gesto arrastrar y sus remates; despues una escena con puerta movible y dos respuestas preprogramadas, sin navegacion ni IA reales.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "La busqueda de tokens encontro cajas adyacentes, pero no verifico originalidad de juegos de rutas o puertas movibles. La mecanica necesita comparacion puntual fuera del nombre del anuncio.",
+          "relatedMarketNodeIds": [
+            "boxcat-adjacent",
+            "amazon-box-adjacent"
+          ],
+          "basisEvidenceIds": [
+            "stellantis-box-on-wheels"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "En un prototipo de dos estados, comprobar si alguien anticipa que mover la puerta cambia la ruta sin leer instrucciones y distingue los dos remates del personaje que busca una firma.",
+          "discardIf": "Solo funciona agregando niveles, economia o promesas de autonomia, o los dos estados producen exactamente la misma broma.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Aporta una regla participativa distinta de la rama de personaje; dos estados alcanzan para poner a prueba la idea sin construir un juego completo."
+        },
+        {
+          "id": "box-generic-logo",
+          "title": "Una caja con el logo del fabricante",
+          "angle": "association",
+          "pitch": "Hipotesis: pegar una marca conocida a una caja hace visible la asociacion de la noticia, pero no crea por si solo un meme diferenciable.",
+          "whatItDoes": "La propuesta literal seria una caja que sale de una fabrica y otra que estaciona como auto; ambas dependen de reconocer la empresa. En el boceto de descarte se usan etiquetas descriptivas, no una marca de afiliacion.",
+          "whyNow": "Es la asociacion inmediata del comunicado de Stellantis, aunque el anuncio no convierte esa combinacion obvia en una ventaja creativa.",
+          "distinctiveElement": "No hay un gesto propio identificado: caja y fabricante describen la noticia, sin desarrollar personalidad o regla.",
+          "minimumBuild": "Comparar dos miniaturas existentes como idea: caja saliendo de fabrica y caja estacionada. No construir identidad, contrato ni sitio para esta rama.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "BoxCat y An Amazon Box ya representan asociaciones de cajas con otra marca bursatil. No son equivalentes al anuncio de Stellantis, pero muestran que el recurso generico tiene referentes; busqueda no exhaustiva.",
+          "relatedMarketNodeIds": [
+            "boxcat-adjacent",
+            "amazon-box-adjacent"
+          ],
+          "basisEvidenceIds": [
+            "stellantis-box-on-wheels"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "Quitar la etiqueta de fabricante de las dos miniaturas; si no queda una broma que se pueda contar, descartar la asociacion literal. Actualmente no se identifico ese remate.",
+          "discardIf": "El unico gancho es el logo, un ticker o insinuar relacion oficial con el fabricante.",
+          "disposition": "PASS",
+          "decisionReason": "Es una representacion literal del anuncio sin giro propio y con referentes adyacentes; las otras dos ramas aprovechan mejor el hecho."
+        }
+      ]
+    },
+    {
+      "id": "nvidia-anthropic-ipo-talks",
+      "title": "El proveedor conversa sobre invertir en el IPO",
+      "shortTitle": "Nvidia / doble rol",
+      "clusterId": "nvidia-ipo",
+      "mode": "snapshot",
+      "sourceEvidenceIds": [
+        "reuters-nvda-talks-parent",
+        "nvda-prior-commitment-10q",
+        "x-nvda-expensive-loop",
+        "x-nvda-financing-steps",
+        "x-nvda-prior-commitment"
+      ],
+      "sourceUrls": [
+        "https://au.marketscreener.com/news/nvidia-in-talks-to-invest-in-anthropic-s-mega-ipo-sources-say-ce785bdfd18ff127",
+        "https://x.com/unusual_whales/status/2098581358469611549",
+        "https://x.com/ccccccmore/status/2098592593319805379",
+        "https://x.com/twan618/status/2098582496283648374",
+        "https://x.com/jatingargiitk/status/2098599439346831859"
+      ],
+      "publishedAt": "2026-09-11T22:59:00Z",
+      "firstSeenAt": "2026-09-12T06:58:15.852Z",
+      "firstMarketObservedAt": null,
+      "firstLaunchAt": null,
+      "noveltyType": "new_report_within_existing_relationship",
+      "stageLabel": "Conversaciones reportadas / relacion previa / boceto por contrastar",
+      "timingNote": "publishedAt corresponde al reporte Reuters sindicado, no al post posterior de unusual_whales. firstSeenAt es nuestra deteccion del post en este recorrido. El reporte habla de conversaciones, no de acuerdo final. Nvidia ya habia informado un compromiso de hasta USD 10.000 millones en Anthropic en noviembre de 2025: no es su primera relacion. ANTHROPIG es un referente de la familia observado antes; no mide competencia de estas interpretaciones y por eso firstMarketObservedAt queda desconocido. Los comentarios del circuito son lecturas de pocos autores, no prueba de flujo de dinero ni adopcion masiva.",
+      "interpretations": [
+        {
+          "id": "nvda-two-counters",
+          "title": "El vendedor cambia de mostrador",
+          "angle": "character",
+          "pitch": "Hipotesis: el mismo vendedor pasando del mostrador proveedor al mostrador inversor puede volver visible un doble rol financiero mediante una escena breve.",
+          "whatItDoes": "Un personaje ficticio deja su delantal de vendedor y se sienta del otro lado de un mostrador rotulado inversor en conversaciones; en otro gag gira el mueble y se encuentra con su propio cartel de proveedor.",
+          "whyNow": "El reporte agrega conversaciones sobre un IPO a una relacion de inversion ya conocida; el detalle nuevo puede aportar una situacion, aunque el doble rol no nacio hoy.",
+          "distinctiveElement": "El cambio de posicion de una sola persona cuenta la superposicion de roles sin dibujar un circuito de efectivo ni afirmar que el acuerdo se cerro.",
+          "minimumBuild": "Solo dos bocetos mudos con etiquetas breves: cambio de delantal y giro de mostrador. Mantener visible en el contexto que las conversaciones son reportadas y no hay trato final verificado.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "ANTHROPIG representa la familia Anthropic y varios comentarios ya usan la lectura de circuito. No se busco exhaustivamente este personaje ni se comprobo que el doble mostrador sea original.",
+          "relatedMarketNodeIds": [
+            "anthropig"
+          ],
+          "basisEvidenceIds": [
+            "reuters-nvda-talks-parent",
+            "nvda-prior-commitment-10q",
+            "x-nvda-financing-steps"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "Mostrar los dos bocetos hoy y comprobar si se leen como doble rol sin concluir que hubo un acuerdo cerrado; comparar el remate con bromas previas de financiacion de proveedores.",
+          "discardIf": "Necesita presentar la inversion como cerrada o primera, o solo reproduce el chiste viejo del dinero circular con otra escenografia.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Merece solo boceto comparativo por su legibilidad visual; la novedad del personaje y su diferencia frente al circuito siguen abiertas."
+        },
+        {
+          "id": "nvda-dollar-loop",
+          "title": "El dolar que da la vuelta",
+          "angle": "cultural",
+          "pitch": "Hipotesis: un dolar que vuelve al mismo bolsillo resume la lectura de financiacion circular, pero esa lectura ya existe y no explica por si sola lo nuevo del reporte.",
+          "whatItDoes": "Dos gags de caricatura harian que un billete regrese como boomerang y que una cinta transportadora lo deje otra vez en su bolsillo de origen. No se usan como representacion factual de estas conversaciones.",
+          "whyNow": "Algunas respuestas nuevas vuelven a hablar de un circuito; la relacion y la critica anteceden al reporte del IPO, por lo que no se registra como descubrimiento de hoy.",
+          "distinctiveElement": "No hay diferencia suficiente respecto del conocido circulo proveedor, inversor y comprador.",
+          "minimumBuild": "Solo comparar dos esquemas del boomerang y la cinta con el comentario observado; no desarrollar una animacion ni una identidad para esta rama.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "La lectura expensive loop ya aparece expresada en X y ANTHROPIG ocupa la familia. La busqueda no resuelve todas las representaciones del chiste ni disponibilidad de nombres.",
+          "relatedMarketNodeIds": [
+            "anthropig"
+          ],
+          "basisEvidenceIds": [
+            "x-nvda-expensive-loop",
+            "x-nvda-financing-steps",
+            "nvda-prior-commitment-10q"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "Quitar Nvidia, Anthropic y la palabra IPO de ambos esquemas: si siguen siendo la misma broma generica, el nuevo reporte no agrega una interpretacion. Ese es el resultado actual.",
+          "discardIf": "Requiere inventar el recorrido del dinero o vender como nueva la relacion previa para que el remate parezca oportuno.",
+          "disposition": "PASS",
+          "decisionReason": "Recicla una lectura anterior y corre el riesgo de dibujar como hecho un flujo no establecido por el reporte; no ofrece una rama creativa suficientemente nueva."
+        },
+        {
+          "id": "nvda-receipt-circuit",
+          "title": "El recibo de los dos lados",
+          "angle": "mechanic",
+          "pitch": "Hipotesis: un recibo que revela dos roles al darse vuelta podria contar la ambiguedad del proveedor inversor, si consigue un remate propio sin inventar transacciones.",
+          "whatItDoes": "Un recibo ficticio se da vuelta y muestra otra ventanilla; en una segunda escena se despliega hasta unir dos escritorios. Por ahora son metaforas visuales sin montos ni compras atribuidas a la operacion.",
+          "whyNow": "El reporte de conversaciones permite revisar el doble rol; no aporta por si solo una compra de computo vinculada a esta inversion ni prueba un circuito cerrado.",
+          "distinctiveElement": "El objeto que cambia de cara podria ser mas concreto que un dolar circular, pero los dos gags aun pueden repetir la misma lectura.",
+          "minimumBuild": "Dos storyboards del recibo reversible y desplegable; anotar que afirmacion factual implicaria cada cuadro y retirar cualquier conexion sin evidencia antes de animar.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "Existe la lectura de financiacion en los comentarios y el referente ANTHROPIG; la forma exacta del recibo no fue verificada frente a toda la competencia. Ausencia de coincidencia no seria exclusividad.",
+          "relatedMarketNodeIds": [
+            "anthropig"
+          ],
+          "basisEvidenceIds": [
+            "reuters-nvda-talks-parent",
+            "nvda-prior-commitment-10q",
+            "x-nvda-financing-steps"
+          ],
+          "basisSourceFiles": [
+            "output/market-agent/research-2026-09-12-0655/market-check.json"
+          ],
+          "quickCheck": "Revisar ambos cuadros contra las fuentes: si un lector deduce una compra de GPUs o un retorno de dinero ya confirmado, el dibujo falla. Luego comparar sin texto contra el dolar circular para buscar un remate diferente.",
+          "discardIf": "Necesita montos, compras o contratos no comprobados, o el objeto recibo solo disfraza el mismo dolar que regresa.",
+          "disposition": "REWORK",
+          "decisionReason": "Requiere resolver la evidencia que sugiere la imagen y encontrar una diferencia creativa; aun no amerita pasar del storyboard."
+        }
+      ]
+    }
+  ],
+  "sightingsFile": "output/market-agent/sightings/2026-09-12T07-20-23-678Z-b2c39f5c-ae90-4b56-a557-af354f57f166.json",
+  "researchFiles": [
+    "output/market-agent/research-2026-09-12-0655/x-discovery.json",
+    "output/market-agent/research-2026-09-12-0655/news-discovery.json",
+    "output/market-agent/research-2026-09-12-0655/market-check.json"
+  ]
+}

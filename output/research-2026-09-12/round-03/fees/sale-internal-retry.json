@@ -1,0 +1,72 @@
+[
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0x559f5d547dfbd67063c6ef42e38a42ca32ace3d31df5b94d4ed12ac2127d413f",
+    "tx": "0x6c03af531fd2281031fd2694d844d4ff3cc353f4fea4498fa9c25fd12b56042b",
+    "capturedAt": "2026-09-12T06:09:01.8267210Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0x6c03af531fd2281031fd2694d844d4ff3cc353f4fea4498fa9c25fd12b56042b"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0x619a720299267c0ec516c079e5a378137c7e50bed8d946500971ef0e0b7725c1",
+    "tx": "0x7f684517b36533820fbb0db2c181c58393d61da77fc1673fd852120b44da32d8",
+    "capturedAt": "2026-09-12T06:09:09.5698037Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0x7f684517b36533820fbb0db2c181c58393d61da77fc1673fd852120b44da32d8"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0x3959db36aa7479a8c13ea721b1cbe0f29c2bb71b568f53ba5d0fcc7785bcdf3f",
+    "tx": "0x9fc392e523db19243ce44bfecb94e739cee5300b9836f0a0e30271c9aa8e5864",
+    "capturedAt": "2026-09-12T06:09:17.0118196Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0x9fc392e523db19243ce44bfecb94e739cee5300b9836f0a0e30271c9aa8e5864"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0x290b35e087b487f4269d4b88b8e16209ee127b25477118a4ead8e8344221914c",
+    "tx": "0x90c9b9ed4dd501b76087d6b913a66881383788911f2934440413e159eb49d770",
+    "capturedAt": "2026-09-12T06:09:24.6965717Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0x90c9b9ed4dd501b76087d6b913a66881383788911f2934440413e159eb49d770"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0x49bb8504d3e614c8aee0724769516d8e70126cb2a43c3c319dfe4e7f89e97aa3",
+    "tx": "0x249b535f2d02d26b8bc781a569b59f693d481f2d5f0307cb174af9d93779d05f",
+    "capturedAt": "2026-09-12T06:09:32.1400793Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0x249b535f2d02d26b8bc781a569b59f693d481f2d5f0307cb174af9d93779d05f"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0xbd27425422d2694aad950d962e28e2cea69bc64703645a639c0f17dbba2ad193",
+    "tx": "0xb45c39c4a97e22043b0ec9f148383b4006821ad64cc9046f931f3ba0b28f72e6",
+    "capturedAt": "2026-09-12T06:09:39.5107451Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0xb45c39c4a97e22043b0ec9f148383b4006821ad64cc9046f931f3ba0b28f72e6"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0xcd8b68187a3d774bc6cfede26b7c6f01454c2de7005a118a97f632b3d57786b0",
+    "tx": "0xba1d22d0d9c680187504e9a174021ca920fc3775b2ac1f9cae68b6b2fa853350",
+    "capturedAt": "2026-09-12T06:09:47.0425559Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0xba1d22d0d9c680187504e9a174021ca920fc3775b2ac1f9cae68b6b2fa853350"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0xe0505a7f9704155b9c597ee1858ffc017157a81c4f558c2cbe24517858936acd",
+    "tx": "0x5fc8ca498c73250cd00d45919db0d7ba9d5b9ad49d9efa248ead8ddb5d0f66f5",
+    "capturedAt": "2026-09-12T06:09:54.3903509Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0x5fc8ca498c73250cd00d45919db0d7ba9d5b9ad49d9efa248ead8ddb5d0f66f5"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0xc90bc8e56eb9171ce8be55a56fe058c8354c4ab1ec4942dcecfa98686eff2154",
+    "tx": "0x01820b2e56eb648e110429d308d81cdce38a80d5d2375fe0556a8efad68f0cbf",
+    "capturedAt": "2026-09-12T06:10:01.9087832Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0x01820b2e56eb648e110429d308d81cdce38a80d5d2375fe0556a8efad68f0cbf"
+  },
+  {
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "claim": "0x20926bd69c982d2c0ae71ba761b09b98121c280aa81bf9706ce2fd518c892ae0",
+    "tx": "0x1ac3ebba1b720d2587657e740d8f566c785a1064223427d67531458b4ab31f72",
+    "capturedAt": "2026-09-12T06:10:09.5473578Z",
+    "url": "https://robinhoodchain.blockscout.com/api?module=account&action=txlistinternal&txhash=0x1ac3ebba1b720d2587657e740d8f566c785a1064223427d67531458b4ab31f72"
+  }
+]

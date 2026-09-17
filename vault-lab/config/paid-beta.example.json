@@ -1,0 +1,26 @@
+{
+  "environment": "testnet",
+  "policy": "paid-beta",
+  "note": "Template for a NEW paid-beta round. Replace destination with the live treasury. Do not apply onto the existing AMZN ledger: that would rewrite frozen terms. One paid guardian: anthropic/claude-opus-5 with the full seed. Practice remains Luna/Haiku/Gemini Flash on the unpaid catalog. Qwen stays lab-only.",
+  "asset": {
+    "chainId": "46630",
+    "tokenAddress": "0x5884ad2f920c162cfbbacc88c9c51aa75ec09e02",
+    "destination": "0x0000000000000000000000000000000000000001",
+    "decimals": 18,
+    "minimumConfirmations": 3,
+    "standardTransferVerified": true
+  },
+  "maximumTopup": "25000000000000000000",
+  "terms": {
+    "price": "5000000000000000000",
+    "prizeBps": 7000,
+    "operationsBps": 3000,
+    "winRetainBps": 2500,
+    "priceStep": "1000000000000000000",
+    "maximumPrice": "25000000000000000000",
+    "durationMonths": 5
+  },
+  "rounds": [
+    { "id": "rh-paid-opus-v1", "models": ["anthropic/claude-opus-5"] }
+  ]
+}

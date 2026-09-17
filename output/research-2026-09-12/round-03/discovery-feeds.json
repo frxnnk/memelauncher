@@ -1,0 +1,1062 @@
+[
+  {
+    "url": "https://api.dexscreener.com/metas/trending/v1",
+    "capturedAt": "2026-09-12T05:49:00.3892753Z",
+    "data": [
+      {
+        "description": "Furry friends and funny memes",
+        "icon": {
+          "type": "emoji",
+          "value": "🐶"
+        },
+        "name": "Dog",
+        "slug": "dog",
+        "marketCap": 1179147667,
+        "liquidity": 59032875.76,
+        "volume": 57955626.27,
+        "tokenCount": 69,
+        "marketCapChange": {
+          "m5": -0.08598726458755591,
+          "h1": -0.8973940857079078,
+          "h6": 3.6170342634755275,
+          "h24": 3.208054140678235
+        },
+        "marketCapDelta": {
+          "m5": -1013916.8243012828,
+          "h1": -10581601.425420774,
+          "h6": 42650175.13236231,
+          "h24": 37827695.55590431
+        }
+      },
+      {
+        "description": "pspspspspsp",
+        "icon": {
+          "type": "emoji",
+          "value": "🐈"
+        },
+        "name": "Cat",
+        "slug": "cat",
+        "marketCap": 716862936,
+        "liquidity": 78326803.51,
+        "volume": 195411290.42,
+        "tokenCount": 89,
+        "marketCapChange": {
+          "m5": -0.008970830381740683,
+          "h1": 0.1781247326728205,
+          "h6": -0.08642593502847125,
+          "h24": -3.6137822916424143
+        },
+        "marketCapDelta": {
+          "m5": -64308.55805812628,
+          "h1": 1276910.1883805322,
+          "h6": -619555.4953105514,
+          "h24": -25905865.836515892
+        }
+      },
+      {
+        "description": "That guy from The Apprentice",
+        "icon": {
+          "type": "emoji",
+          "value": "🍊"
+        },
+        "name": "Trump",
+        "slug": "trump",
+        "marketCap": 2425651276,
+        "liquidity": 54789637.16,
+        "volume": 13037744.53,
+        "tokenCount": 6,
+        "marketCapChange": {
+          "m5": 0.00189910484355906,
+          "h1": -0.05024359414398615,
+          "h6": -0.12105309197579425,
+          "h24": -2.665813769351697
+        },
+        "marketCapDelta": {
+          "m5": 46065.66087036814,
+          "h1": -1218734.3824618612,
+          "h6": -2936325.8701483067,
+          "h24": -64663345.71206313
+        }
+      },
+      {
+        "description": "Crypto native characters and mascots",
+        "icon": {
+          "type": "emoji",
+          "value": "🐻‍❄️"
+        },
+        "name": "Character",
+        "slug": "character",
+        "marketCap": 2271599326,
+        "liquidity": 71262210.21,
+        "volume": 31316693.07,
+        "tokenCount": 37,
+        "marketCapChange": {
+          "m5": -0.019583173442191185,
+          "h1": -0.18519679430921177,
+          "h6": 0.8441768416675041,
+          "h24": -0.19391468232023232
+        },
+        "marketCapDelta": {
+          "m5": -444851.2359222259,
+          "h1": -4206929.13130166,
+          "h6": 19176315.44556711,
+          "h24": -4404964.616601438
+        }
+      },
+      {
+        "description": "Artificial intelligence and agents",
+        "icon": {
+          "type": "emoji",
+          "value": "🤖"
+        },
+        "name": "AI",
+        "slug": "ai",
+        "marketCap": 1862156946,
+        "liquidity": 71916065.79,
+        "volume": 24897952.11,
+        "tokenCount": 70,
+        "marketCapChange": {
+          "m5": -0.13547239011109644,
+          "h1": 0.4938614847121925,
+          "h6": 2.876357464847019,
+          "h24": 2.94604375444057
+        },
+        "marketCapDelta": {
+          "m5": -2522708.5223659994,
+          "h1": 9196475.94118682,
+          "h6": 53562290.32343827,
+          "h24": 54859958.40551426
+        }
+      },
+      {
+        "description": "救命，我不会说中文!",
+        "icon": {
+          "type": "emoji",
+          "value": "🇨🇳"
+        },
+        "name": "Chinese",
+        "slug": "chinese",
+        "marketCap": 807178958,
+        "liquidity": 24220282.95,
+        "volume": 51047783.24,
+        "tokenCount": 57,
+        "marketCapChange": {
+          "m5": -0.05118949341003405,
+          "h1": 0.8178084439451084,
+          "h6": 6.485426826852693,
+          "h24": 10.134872280320641
+        },
+        "marketCapDelta": {
+          "m5": -413190.8195125915,
+          "h1": 6601177.67627214,
+          "h6": 52349000.68284203,
+          "h24": 81806556.46692298
+        }
+      },
+      {
+        "description": "Established memes, enduring communities",
+        "icon": {
+          "type": "emoji",
+          "value": "🏆"
+        },
+        "name": "Meme Hall of Fame",
+        "slug": "meme-hall-of-fame",
+        "marketCap": 4184940165,
+        "liquidity": 192848505.64,
+        "volume": 50907997.31,
+        "tokenCount": 59,
+        "marketCapChange": {
+          "m5": -0.31480152975444703,
+          "h1": 0.16644878966466808,
+          "h6": 1.0010009976094374,
+          "h24": 0.9827675046586222
+        },
+        "marketCapDelta": {
+          "m5": -13174255.658728281,
+          "h1": 6965782.252833064,
+          "h6": 41891292.80100804,
+          "h24": 41128232.03102693
+        }
+      },
+      {
+        "description": "This has never backfired",
+        "icon": {
+          "type": "emoji",
+          "value": "🌟"
+        },
+        "name": "Celebrity",
+        "slug": "celebrity",
+        "marketCap": 877618820,
+        "liquidity": 86603259.95,
+        "volume": 12938551.89,
+        "tokenCount": 7,
+        "marketCapChange": {
+          "m5": 0.016956021295014733,
+          "h1": -0.1894160181956191,
+          "h6": -1.0762696471014885,
+          "h24": -0.6515892202601646
+        },
+        "marketCapDelta": {
+          "m5": 148809.23400825702,
+          "h1": -1662350.6237793777,
+          "h6": -9445544.976910247,
+          "h24": -5718469.626094458
+        }
+      },
+      {
+        "description": "Chaos, degeneracy and commitment",
+        "icon": {
+          "type": "emoji",
+          "value": "😈"
+        },
+        "name": "Degen",
+        "slug": "degen",
+        "marketCap": 913716498,
+        "liquidity": 38556695.23,
+        "volume": 20953598.21,
+        "tokenCount": 26,
+        "marketCapChange": {
+          "m5": -0.0864809984215934,
+          "h1": -0.07244035739654105,
+          "h6": -0.005442553280630539,
+          "h24": 1.0471705565171152
+        },
+        "marketCapDelta": {
+          "m5": -790191.1502132185,
+          "h1": -661899.4967423589,
+          "h6": -49729.507237561476,
+          "h24": 9568170.137095295
+        }
+      },
+      {
+        "description": "Temu version, MS Paint edition",
+        "icon": {
+          "type": "emoji",
+          "value": "🎨"
+        },
+        "name": "Knockoff Legends",
+        "slug": "knockoff-legends",
+        "marketCap": 4258114,
+        "liquidity": 1507279.58,
+        "volume": 318463.58,
+        "tokenCount": 31,
+        "marketCapChange": {
+          "m5": 0,
+          "h1": -0.2675608675675171,
+          "h6": -1.662025337404512,
+          "h24": -7.95138535850713
+        },
+        "marketCapDelta": {
+          "m5": 0,
+          "h1": -11393.046760413905,
+          "h6": -70770.93357556876,
+          "h24": -338579.05314454227
+        }
+      },
+      {
+        "description": "How do you do, fellow kids?",
+        "icon": {
+          "type": "emoji",
+          "value": "🤙"
+        },
+        "name": "Slang",
+        "slug": "slang",
+        "marketCap": 56001242,
+        "liquidity": 6412392.56,
+        "volume": 1337129.19,
+        "tokenCount": 10,
+        "marketCapChange": {
+          "m5": -12.149658491568788,
+          "h1": 23.550842063931686,
+          "h6": 23.499251621732586,
+          "h24": 23.60812675475347
+        },
+        "marketCapDelta": {
+          "m5": -6803959.654036987,
+          "h1": 13188764.057260178,
+          "h6": 13159872.76887539,
+          "h24": 13220844.195596239
+        }
+      },
+      {
+        "description": "Historians will struggle with this",
+        "icon": {
+          "type": "emoji",
+          "value": "🧠"
+        },
+        "name": "Brainrot",
+        "slug": "brainrot",
+        "marketCap": 8116544,
+        "liquidity": 1422938.68,
+        "volume": 1381515.53,
+        "tokenCount": 25,
+        "marketCapChange": {
+          "m5": 0.007397240927412853,
+          "h1": 0.8965548125267822,
+          "h6": 2.2182102525578515,
+          "h24": -5.301838207948428
+        },
+        "marketCapDelta": {
+          "m5": 600.4003146594722,
+          "h1": 72769.26584285378,
+          "h6": 180042.01116136913,
+          "h24": -430326.0309569457
+        }
+      },
+      {
+        "description": "Famous both online and on-chain",
+        "icon": {
+          "type": "emoji",
+          "value": "🐾"
+        },
+        "name": "Internet Animals",
+        "slug": "internet-animals",
+        "marketCap": 96253660,
+        "liquidity": 8072599.9,
+        "volume": 1276856.5,
+        "tokenCount": 38,
+        "marketCapChange": {
+          "m5": -0.026441271506467624,
+          "h1": 0.33703463368167036,
+          "h6": 1.5805438953426028,
+          "h24": 1.217194331522111
+        },
+        "marketCapDelta": {
+          "m5": -25450.691575512225,
+          "h1": 324408.1703862005,
+          "h6": 1521331.3471738247,
+          "h24": 1171594.0934025655
+        }
+      },
+      {
+        "description": "All roads lead to Rocketman",
+        "icon": {
+          "type": "emoji",
+          "value": "👨‍🚀"
+        },
+        "name": "Elon Musk",
+        "slug": "elon-musk",
+        "marketCap": 57927543,
+        "liquidity": 14936364.42,
+        "volume": 731808.78,
+        "tokenCount": 40,
+        "marketCapChange": {
+          "m5": 0.05393943190508048,
+          "h1": -0.5002409835715724,
+          "h6": -0.3273442455399202,
+          "h24": -0.39321266683866296
+        },
+        "marketCapDelta": {
+          "m5": 31245.787610771215,
+          "h1": -289777.31086204556,
+          "h6": -189622.47859316284,
+          "h24": -227778.43666441322
+        }
+      },
+      {
+        "description": "If it trends, it trades",
+        "icon": {
+          "type": "emoji",
+          "value": "🎬"
+        },
+        "name": "TikTok",
+        "slug": "tiktok",
+        "marketCap": 14128376,
+        "liquidity": 2918845.03,
+        "volume": 1892052.64,
+        "tokenCount": 43,
+        "marketCapChange": {
+          "m5": -0.00986963638614195,
+          "h1": 0.5692930965823368,
+          "h6": 0.6024039569164775,
+          "h24": -5.58540628421115
+        },
+        "marketCapDelta": {
+          "m5": -1394.4193384669466,
+          "h1": 80431.86922719571,
+          "h6": 85109.89607203795,
+          "h24": -789127.2009609798
+        }
+      },
+      {
+        "description": "JPEGs turned fungible",
+        "icon": {
+          "type": "emoji",
+          "value": "🖼️"
+        },
+        "name": "NFT",
+        "slug": "nft",
+        "marketCap": 778702095,
+        "liquidity": 18681928.89,
+        "volume": 8502812.29,
+        "tokenCount": 8,
+        "marketCapChange": {
+          "m5": 0.03946436969389424,
+          "h1": 0.3412521881322714,
+          "h6": 1.8620460978989466,
+          "h24": 1.1799610377466676
+        },
+        "marketCapDelta": {
+          "m5": 307309.8735848996,
+          "h1": 2657337.9382193387,
+          "h6": 14499791.974204848,
+          "h24": 9188381.321117042
+        }
+      },
+      {
+        "description": "Not financial advice",
+        "icon": {
+          "type": "emoji",
+          "value": "📈"
+        },
+        "name": "Stonks",
+        "slug": "stonks",
+        "marketCap": 467001750,
+        "liquidity": 14799118.24,
+        "volume": 1989196.18,
+        "tokenCount": 14,
+        "marketCapChange": {
+          "m5": -0.21518368118800862,
+          "h1": -0.48151919310625235,
+          "h6": -0.7863424091092155,
+          "h24": 1.672914697769308
+        },
+        "marketCapDelta": {
+          "m5": -1004911.5568624211,
+          "h1": -2248703.0583920777,
+          "h6": -3672232.8115321957,
+          "h24": 7812540.914589879
+        }
+      },
+      {
+        "description": "The internet-native payment protocol",
+        "icon": {
+          "type": "emoji",
+          "value": "💸"
+        },
+        "name": "x402",
+        "slug": "x402",
+        "marketCap": 137225014,
+        "liquidity": 3680131.15,
+        "volume": 3512151.12,
+        "tokenCount": 14,
+        "marketCapChange": {
+          "m5": 1.595971139914194,
+          "h1": 1.1472074917448636,
+          "h6": -5.5038955935702045,
+          "h24": -7.445492636075112
+        },
+        "marketCapDelta": {
+          "m5": 2190071.6201832127,
+          "h1": 1574255.641155938,
+          "h6": -7552721.498822097,
+          "h24": -10217078.312223041
+        }
+      }
+    ]
+  },
+  {
+    "url": "https://api.dexscreener.com/token-boosts/top/v1",
+    "capturedAt": "2026-09-12T05:49:00.6758540Z",
+    "data": [
+      {
+        "url": "https://dexscreener.com/robinhood/0x47186048bb866cacf03b74df039b40f1a9060e07",
+        "chainId": "robinhood",
+        "tokenAddress": "0x47186048bB866caCF03B74dF039b40f1a9060E07",
+        "description": "Most people do not want to research forty companies, size forty positions and rebalance forty lines. They want exposure to a theme they believe in. Equora makes that theme the unit you hold",
+        "icon": "bhf2171b2d1uObZr",
+        "header": "https://cdn.dexscreener.com/cms/images/ZSkZtW3s7fk_XfLU?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x47186048bb866cacf03b74df039b40f1a9060e07?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://equora.market/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/EquoraEQR"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/EquoraCommunity"
+          }
+        ],
+        "totalAmount": 1000
+      },
+      {
+        "url": "https://dexscreener.com/solana/bgu4tfdlpv1jejgxvgsbzklsrxgazcsqci1vebawjvcm",
+        "chainId": "solana",
+        "tokenAddress": "BGU4TfDLpV1JeJGXVgSbZkLSRxgAzcsQci1vEbaWJVcm",
+        "description": "Where speculative markets meet productive capital. Paired with $NVDA.",
+        "icon": "uOnf66Npa008Nh34",
+        "header": "https://cdn.dexscreener.com/cms/images/_Ulvg2QgN_Yp06Ri?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BGU4TfDLpV1JeJGXVgSbZkLSRxgAzcsQci1vEbaWJVcm?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://cataisol.com/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/catainvda"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/catai_sol"
+          }
+        ],
+        "totalAmount": 800
+      },
+      {
+        "url": "https://dexscreener.com/solana/flk6fkan26m1ft4ucguwy3uhbmzlkceu8kmtyd2zpump",
+        "chainId": "solana",
+        "tokenAddress": "FLk6FKAN26m1FT4ucguwy3uHBMzLKcEu8KMTYD2Zpump",
+        "description": "Stunk is built different—buying dips, chasing green candles, and sending Solana memes straight to the moon!",
+        "icon": "y_wLNd0Q0nWS8Tuq",
+        "header": "https://cdn.dexscreener.com/cms/images/oZeMrK2KF0yQPV1E?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FLk6FKAN26m1FT4ucguwy3uHBMzLKcEu8KMTYD2Zpump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://stunksol.fun"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/StunkSOL"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/stunkportal"
+          }
+        ],
+        "totalAmount": 730
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0xa909dd593195aabfbe1f53e089b2a3a50d8ddcf4",
+        "chainId": "robinhood",
+        "tokenAddress": "0xa909dD593195AAbFbe1f53E089b2a3A50D8dDcF4",
+        "icon": "M0uMxioW0U6ZuUgK",
+        "header": "https://cdn.dexscreener.com/cms/images/z5UIzDy3BMccZ6id?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa909dd593195aabfbe1f53e089b2a3a50d8ddcf4?timestamp=1789192200000",
+        "links": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/stocktardcoin?s=11"
+          }
+        ],
+        "totalAmount": 500
+      },
+      {
+        "url": "https://dexscreener.com/solana/2rbedkhkgcfj7nyeqbgwsparreazsean6d8ghqlzpump",
+        "chainId": "solana",
+        "tokenAddress": "2RbedkHKGCfJ7NyeQBGWSParreAzSeAn6D8GHqLzpump",
+        "description": "I started with packages. 📦\n\nThen I've found SOLANAAA !\n\nNow I'm delivering the next big thing.\n\njust an average $DELIVERY GUY.\nThat managed to,\nDELIVER 100% of the fees to all the holders, In form of UPS stock tokens",
+        "icon": "7ppOW1CgTjrhf_C9",
+        "header": "https://cdn.dexscreener.com/cms/images/SZn1OSC9uqmTos4n?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2RbedkHKGCfJ7NyeQBGWSParreAzSeAn6D8GHqLzpump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://www.deliveryguyups.com/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/DeliveryGuy_SOL"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/deliveryguyonsol"
+          }
+        ],
+        "totalAmount": 500
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0xa92ec6dd296381fdfb33c2d0cb6603b3b9df3565",
+        "chainId": "robinhood",
+        "tokenAddress": "0xa92eC6dD296381fDFB33c2D0cb6603b3b9dF3565",
+        "description": "Order-book perpetuals on crypto and tokenized equities, margined in USDG. Sign orders off-chain, settle on-chain, and keep custody of your collateral the whole time.",
+        "icon": "tslHu84cgz5HYnVM",
+        "header": "https://cdn.dexscreener.com/cms/images/S-0n_I5RQ-ePBFpH?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa92ec6dd296381fdfb33c2d0cb6603b3b9df3565?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://flyfox.exchange/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/FlyFoxExchange"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/FlyFoxExchange"
+          }
+        ],
+        "totalAmount": 500
+      },
+      {
+        "url": "https://dexscreener.com/solana/ewnszw86xhj91nvxpjdzd3g1sqhhj7q8eqy6deukpump",
+        "chainId": "solana",
+        "tokenAddress": "EWnSZW86xhJ91nvxPjdZD3g1SqhHj7q8eqY6DEUKpump",
+        "description": "Satu Wallet — the all-in-one self-custody crypto super app. Swap, earn, predict, and track your portfolio across 50+ blockchains with 2M+ tokens indexed — all from a single app.\n\n$SATU is the native utility token powering the Satu Wallet ecosystem on Solana:\n\n• Affiliate Rewards — Earn 0.1% commission in $SATU on every referral swap. No cap, no expiration.\n• Fee Discounts — Pay fees with $SATU for reduced rates on swaps and premium features.\n• Governance — 1 token = 1 vote on protocol decisions.\n• Staking — Stake $SATU for passive yield and premium tier access (Q3 2026).\n• Buyback & Burn — Platform revenue funds periodic $SATU buybacks and permanent burns.\n\nKey highlights:\n→ Fair launch via PumpFun — No presale, no VC, no hidden allocations\n→ 70% public supply, locked team/marketing/airdrop allocations via Streamflow\n→ AES-256 encryption, zero-knowledge architecture, audited by Coinsult\n→ Listed on CoinGecko | Tradeable on Raydium, Orca, PumpSwap\n→ Live on Google Play & App Store\n→ NFC Cold Wallet Card in development\n\nBuilt by Bintan Teknologi Ltd",
+        "icon": "47423395cc0e2f0217437a8ab2c2a08de52f07b30e45d4867cc0a14764b5f31a",
+        "header": "https://cdn.dexscreener.com/cms/images/g7AnZ0m_CBW6M3yh?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/EWnSZW86xhJ91nvxPjdZD3g1SqhHj7q8eqY6DEUKpump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://satuwallet.com/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/satuwallet"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/satuwallettoken"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/satuwalletid/"
+          }
+        ],
+        "totalAmount": 500
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0xe2ec718dbbb81d0a50bdf0d21342e34162b11415",
+        "chainId": "robinhood",
+        "tokenAddress": "0xe2Ec718DbBB81D0a50bDf0D21342e34162B11415",
+        "description": "The first official penguin on Robinhood Chain.",
+        "icon": "hsYrQcO5QEhyl9Rg",
+        "header": "https://cdn.dexscreener.com/cms/images/cyFe0_g56FzIYDvR?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xe2ec718dbbb81d0a50bdf0d21342e34162b11415?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://penguinonhood.xyz/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/PENGUIN2621"
+          }
+        ],
+        "totalAmount": 230
+      },
+      {
+        "url": "https://dexscreener.com/solana/3c8njback1utnuquthmj12uqdzmrwkx3hk5fbt7vpump",
+        "chainId": "solana",
+        "tokenAddress": "3C8NJBaCK1uTnuquThMj12UQdzmrwkx3hk5fbT7Vpump",
+        "description": "🔥 Too hot to quit. Too smug to lose.\nEMBER CHUMP is bringing maximum confidence and zero apologies to Solana.\n$EMBERCHUMP",
+        "icon": "DOePoWhnE45Llsmk",
+        "header": "https://cdn.dexscreener.com/cms/images/E61kJDiCgaytdbTD?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3C8NJBaCK1uTnuquThMj12UQdzmrwkx3hk5fbT7Vpump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://www.emberchump.lol/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/emberchump"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/emberchump"
+          }
+        ],
+        "totalAmount": 200
+      },
+      {
+        "url": "https://dexscreener.com/solana/2frda5f353vxls2peljnqqhqtmhrjjunaxmwwplkpump",
+        "chainId": "solana",
+        "tokenAddress": "2fRDA5f353VXLs2PeLJNqqHqTMhrjJunAXmWWpLkpump",
+        "icon": "272SUSuUOEx6dbxX",
+        "header": "https://cdn.dexscreener.com/cms/images/RlbBh4HKiNAABtEf?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2fRDA5f353VXLs2PeLJNqqHqTMhrjJunAXmWWpLkpump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://duplicat.fun/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/DuplicateSol"
+          }
+        ],
+        "totalAmount": 200
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0x9aa0c0ca88e6ae43a3d229afc373c0b9f2b53521",
+        "chainId": "robinhood",
+        "tokenAddress": "0x9Aa0C0ca88e6aE43A3D229afC373C0B9F2b53521",
+        "description": "Ponie is the mascot of Pons!\n\nHe is a small, green, extremely cute little house guy with the IQ of a pebble.",
+        "icon": "FsNtpc90A98qSb_W",
+        "header": "https://cdn.dexscreener.com/cms/images/qDVy4hwO5CeH6x5l?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x9aa0c0ca88e6ae43a3d229afc373c0b9f2b53521?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://poniethepon.com/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/PonieThePon"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/PonieThePon"
+          }
+        ],
+        "totalAmount": 110
+      },
+      {
+        "url": "https://dexscreener.com/solana/j2x88a37smfunpehnjhtr1czcx8yrvukx3nnw8zupump",
+        "chainId": "solana",
+        "tokenAddress": "J2X88a37smFUnpehNJHtR1CZcx8yRVUkx3nNW8zupump",
+        "description": "XRP Cat brings feline energy to the fast-moving world of the XRP Ledger.",
+        "icon": "lMcTntQ9kaWhuOn2",
+        "header": "https://cdn.dexscreener.com/cms/images/z5fxdUwVgAERWsjx?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/J2X88a37smFUnpehNJHtR1CZcx8yRVUkx3nNW8zupump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://xrpcatsol.fun/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/XRPCatSOL"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/zzjkh1hlbvsfjxwlfe6h4jnbcnrj4eteukrw42pn2tc",
+        "chainId": "solana",
+        "tokenAddress": "zzjkh1hLbvsFJXWLfE6h4JNbcnRj4eteuKRw42PN2tC",
+        "description": "Official mascot of Stonk\nPaired with $STONK",
+        "icon": "uYGsCEF2E8zwPZss",
+        "header": "https://cdn.dexscreener.com/cms/images/5BD36s1i_nbDabfT?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/zzjkh1hLbvsFJXWLfE6h4JNbcnRj4eteuKRw42PN2tC?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://knowyourmeme.com/memes/meme-man"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/Mememancoinx"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/aacbdbi8dibvwisjtg2xkkqeshdcsifsvyqzrkpdpump",
+        "chainId": "solana",
+        "tokenAddress": "AaCBdbi8DiBvWiSjTG2xkkqeshDCSifsvYqZrkpDpump",
+        "description": "Other stonks point upward. This one picks up a toolbox.",
+        "icon": "oMS9ysi8fX01RhEf",
+        "header": "https://cdn.dexscreener.com/cms/images/Ygr104ojYrsczccv?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AaCBdbi8DiBvWiSjTG2xkkqeshDCSifsvYqZrkpDpump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://www.usefulstonk.lol"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/usestonk"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/cgwai8wwecte6xmbgqsaxeqf7zldhfrj3hdtv1nupump",
+        "chainId": "solana",
+        "tokenAddress": "CGwAi8WwEcte6XmbgqSAXEQF7ZLdHfrj3HDtv1NUpump",
+        "description": "Wall Street got dogs\nMemecoins got stock pairs\n\nAnd somewhere along the way nobody could tell which market they were trading anymore\n\nThat’s where $STONKY walked in\n\nA market dog in a suit, surrounded by screens and absolutely convinced every chart goes up eventually",
+        "icon": "47oBvHNeXxj2TVFU",
+        "header": "https://cdn.dexscreener.com/cms/images/hWq8TmhGyNcx16rJ?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CGwAi8WwEcte6XmbgqSAXEQF7ZLdHfrj3HDtv1NUpump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://www.stonkydog.fun/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/dogstonky"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/7paky5zj98agtgsmvrxw68uo9wefq4eryb5snfh2pump",
+        "chainId": "solana",
+        "tokenAddress": "7paKY5zJ98AgtGsMvRxw68uo9WefQ4eryB5SNfH2pump",
+        "description": "Holy Frog Father",
+        "icon": "qNTmVuzZwO_pJhQz",
+        "header": "https://cdn.dexscreener.com/cms/images/xbAozuM_h8eXXYyv?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7paKY5zJ98AgtGsMvRxw68uo9WefQ4eryB5SNfH2pump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://holyfrogfather.fun/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/holyfrogonsol"
+          },
+          {
+            "type": "tiktok",
+            "url": "https://www.tiktok.com/@holyfrogfather?_r=1&_t=ZT-99bXd71QeS5"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/2izjtroxjk2recodt5v1nqfolowupmx6iztgy15fpump",
+        "chainId": "solana",
+        "tokenAddress": "2izJtroxJk2rECoDt5V1NQfoLowupMx6iZtGy15fpump",
+        "description": "Computer coin doesn’t need your money.\n\nNever buy a coin just because of FOMO.\n\nJust look at $LAPTOP—the result of Biden’s brain made people lose money.\n\nForget that damn Biden.\n\nLet’s bring $COMPUTER to life.",
+        "icon": "vyjEDGqxU897NK9d",
+        "header": "https://cdn.dexscreener.com/cms/images/vOBZb3OGsQl-pjNM?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2izJtroxJk2rECoDt5V1NQfoLowupMx6iZtGy15fpump?timestamp=1789192200000",
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/8zp8dhqotgngxhxdqfhppwraijwt7fkgyporq4fhpump",
+        "chainId": "solana",
+        "tokenAddress": "8zP8DhqoTGNGXHXdQfHPPWrAijWt7FkgyporQ4FHpump",
+        "description": "The crowd is roaring, the gold is falling, and TrumpCat is ready to FIGHT. 🐱✊",
+        "icon": "m2BWDus6P9Yd5Vi7",
+        "header": "https://cdn.dexscreener.com/cms/images/rDc1SRmwjz5SmNKW?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8zP8DhqoTGNGXHXdQfHPPWrAijWt7FkgyporQ4FHpump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://trumpcatsol.lol"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/trumpcatoken"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0x1e07d6bec4c7fb257a8ae6e81f4aec20e65ae28f",
+        "chainId": "robinhood",
+        "tokenAddress": "0x1e07d6BEC4C7fB257A8aE6E81f4AEC20E65aE28f",
+        "description": "The Nasdaq just got a new main AI ETF in an SEC filing with the ticker “OPAI”",
+        "icon": "nyjChmWwSo_D-vXM",
+        "header": "https://cdn.dexscreener.com/cms/images/mta3TMnagG3MBTrv?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e07d6bec4c7fb257a8ae6e81f4aec20e65ae28f?timestamp=1789192200000",
+        "links": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/OPAI_rh"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/3urpncv9wapjwmayubspjwwkgn9wfjuwcrs3rmbdpair",
+        "chainId": "solana",
+        "tokenAddress": "3URpNcV9wAPjwMAyuBsPjwwkGN9wFJuwcRs3RMbdpair",
+        "description": "Pair your coin with any RWA or crypto token. Your coin. Their favourite pair.",
+        "icon": "BK5WZmLEPuq-dR4X",
+        "header": "https://cdn.dexscreener.com/cms/images/mblMUsGVVV5h0wtq?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3URpNcV9wAPjwMAyuBsPjwwkGN9wFJuwcRs3RMbdpair?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://pairz.fun"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/pairzfun"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/cygfjt67tzbeqjnib8rfsoagrf1v15oojnfcfzt8pump",
+        "chainId": "solana",
+        "tokenAddress": "CygfJt67TZBEqJnib8RfSoAgrf1v15ooJNFCFZt8pump",
+        "description": "Orca Cat is the purrfect meme making waves across Solana.",
+        "icon": "yAxPneyLyjZT-ncZ",
+        "header": "https://cdn.dexscreener.com/cms/images/g6DpnGOUM66OK8U2?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CygfJt67TZBEqJnib8RfSoAgrf1v15ooJNFCFZt8pump?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://orcat.lol/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/OrcaCatSOL"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0x0e0d2c89a5a019fe1cf762e5e33187631dacc21b",
+        "chainId": "robinhood",
+        "tokenAddress": "0x0E0d2C89a5a019FE1cF762e5e33187631DACC21B",
+        "description": "CHUMP COIN 2 1 BILLY (CC21B) — hereby declared the most tremendous digital currency on Robinhood Chain, by order of a very powerful chicken in a suit. 0% tax, contract renounced, LP locked forever — key thrown in the Potomac. Playable arcade, executive orders, too much winning.",
+        "icon": "4cJVmRdL_zSKVHcY",
+        "header": "https://cdn.dexscreener.com/cms/images/G2PivBkq6rABdubX?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x0e0d2c89a5a019fe1cf762e5e33187631dacc21b?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://cc21b.meme"
+          },
+          {
+            "url": "https://x.com/i/communities/2020660935854014618/"
+          },
+          {
+            "url": "https://www.team.finance/view-coin/0x0e0d2c89a5a019fe1cf762e5e33187631dacc21b?name=Chump%20Coin&symbol=CHUMP&chainid=0x1237"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/ChumpCoinX"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/CHUMPCOIN21B"
+          },
+          {
+            "type": "tiktok",
+            "url": "https://www.tiktok.com/@chumpcoin?_r=1"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0x9c5387db35c2905f53c253cf5349a070d6c37faf",
+        "chainId": "robinhood",
+        "tokenAddress": "0x9C5387DB35c2905F53c253CF5349a070d6C37faF",
+        "description": "Flame on Robinhood",
+        "icon": "-q3N1W_lARiYv_4d",
+        "header": "https://cdn.dexscreener.com/cms/images/jN08C0g8Nv5MIZDV?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x9c5387db35c2905f53c253cf5349a070d6c37faf?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://www.flamerobin.site/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/Flameonrobin"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0x951fee281141e06b34f0eb7e3753209fe746def5",
+        "chainId": "robinhood",
+        "tokenAddress": "0x951FEE281141e06B34f0Eb7E3753209fE746DEf5",
+        "description": "HENTAI",
+        "icon": "U7yFWDqA11bogftV",
+        "header": "https://cdn.dexscreener.com/cms/images/epIv7QKtkKZPkWx8?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x951fee281141e06b34f0eb7e3753209fe746def5?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://www.hentairh.site/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/HENTAI_RH"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/solana/hunmxdxmnqyvodnul6pnnsyetfatza2wzgh1hjtw7aov",
+        "chainId": "solana",
+        "tokenAddress": "HunmXDXMNQYVoDnUL6PNnSYEtFaTZA2WzGh1HJTW7aoV",
+        "description": "$LOOP the $KNOTS = $STONK",
+        "icon": "0GliIIe7b1aQqoZb",
+        "header": "https://cdn.dexscreener.com/cms/images/eSKVEwbahqwFTgpX?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HunmXDXMNQYVoDnUL6PNnSYEtFaTZA2WzGh1HJTW7aoV?timestamp=1789192200000",
+        "links": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/Looptheknots"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0x642ec01960a2de69b0b46acb40417c3b75fe6631",
+        "chainId": "robinhood",
+        "tokenAddress": "0x642eC01960A2De69B0b46aCb40417C3b75FE6631",
+        "description": "Open the future of Robinhood Chain",
+        "icon": "6a2qMaT0K9nkTGlS",
+        "header": "https://cdn.dexscreener.com/cms/images/7ffls-DtuubLz6lh?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x642ec01960a2de69b0b46acb40417c3b75fe6631?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "http://www.openrobin.lol/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/openonhood"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0x04d6aaa3147b9f5b5db255d3151561c07019bdc6",
+        "chainId": "robinhood",
+        "tokenAddress": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+        "description": "Anthropig = Anthropic",
+        "icon": "TqeoIXBA7yvr-vWt",
+        "header": "https://cdn.dexscreener.com/cms/images/6kjuLIExjg884Usp?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x04d6aaa3147b9f5b5db255d3151561c07019bdc6?timestamp=1789192200000",
+        "links": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/anthropig_rh"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/bsc/0xee22fce582dc4120f07e13e42b55ee75246e7777",
+        "chainId": "bsc",
+        "tokenAddress": "0xEe22fCE582Dc4120f07e13e42B55Ee75246e7777",
+        "description": "牛梦——牛市从来不只是一场梦。牛来了。你醒了吗？ Niu Meng — 'The bull run was never just a dream.' The bull is here. Are you awake? 🐂",
+        "icon": "SW-a-k-ZzjDZAlCA",
+        "header": "https://cdn.dexscreener.com/cms/images/1pRE2ofOvGzByPdM?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xee22fce582dc4120f07e13e42b55ee75246e7777?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://niumengbsc.com/"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/NiumengBSC"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0xfdc0ae637b2b8ba83e91f3a68b90088726eadbbd",
+        "chainId": "robinhood",
+        "tokenAddress": "0xFDc0AE637b2b8bA83E91f3A68b90088726EAdbBD",
+        "description": "we all love bob",
+        "icon": "r0Cl4eRQnmPce08g",
+        "header": "https://cdn.dexscreener.com/cms/images/i5ndaKzK6hqphKDe?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xfdc0ae637b2b8ba83e91f3a68b90088726eadbbd?timestamp=1789192200000",
+        "links": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/ibmbob_rh"
+          }
+        ],
+        "totalAmount": 100
+      },
+      {
+        "url": "https://dexscreener.com/robinhood/0xe99bd31c1761bae7ff366c510b095dc32fd562c1",
+        "chainId": "robinhood",
+        "tokenAddress": "0xE99Bd31C1761BAE7FF366c510b095Dc32fd562c1",
+        "description": "Claude GATOR brings AI brains, savage meme energy, and unstoppable GATOR vibes straight to the blockchain!",
+        "icon": "IeU1h9K9VowvY2ew",
+        "header": "https://cdn.dexscreener.com/cms/images/zXLAZjq0CHgWnWUy?width=900&height=300&fit=crop&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xe99bd31c1761bae7ff366c510b095dc32fd562c1?timestamp=1789192200000",
+        "links": [
+          {
+            "url": "https://www.claudegator.site"
+          },
+          {
+            "type": "twitter",
+            "url": "https://x.com/ClaudeGATORx"
+          }
+        ],
+        "totalAmount": 100
+      }
+    ]
+  }
+]

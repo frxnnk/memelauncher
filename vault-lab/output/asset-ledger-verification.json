@@ -1,0 +1,30 @@
+{
+  "status": "internally-consistent",
+  "evidence": "offline-replay-of-operator-supplied-records",
+  "eventsChecked": 15,
+  "roundManifestsChecked": 1,
+  "depositsChecked": 2,
+  "observationsChecked": 2,
+  "custodyBaseUnits": "2000",
+  "unit": {
+    "symbol": null,
+    "decimals": 18,
+    "mode": "rpc-credit-preparation",
+    "chainId": "1337",
+    "tokenAddress": "0x1111111111111111111111111111111111111111",
+    "creditBaseUnitsPerReceivedUnit": "1"
+  },
+  "reportedHoldTimelineReplayed": true,
+  "externalNetworkCalls": 0,
+  "realFundsEnabled": false,
+  "independentExecutionProof": false,
+  "notVerified": [
+    "Live chain state, canonicality/finality and RPC authenticity.",
+    "Privy identity, wallet ownership and actual attachment time.",
+    "Model execution, accepted prompt provenance, provider signatures or hidden resampling.",
+    "Completeness against external records, untampered history, singleton execution or freedom from operator rewriting."
+  ],
+  "meaning": "The supplied raw RPC records conform to the supplied orders and accounting. Replayed movements, recipients, frozen terms and reported hold transitions match the export; no actual money or independent source was verified.",
+  "inputFormat": "report-wrapper",
+  "fileSha256": "23f4a37d29c768c6d5bbfc2be59f7882cec649db2e3e0e8a2218f287d895cab0"
+}

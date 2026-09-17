@@ -1,0 +1,28 @@
+[
+  {
+    "capturedAt": "2026-09-12T04:39:08.9126287Z",
+    "symbol": "CATGPT",
+    "quote": "OPENAIx1L",
+    "pool": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+    "quoteUnits": 160957,
+    "quoteSupply": 577383.6078848202,
+    "percentQuoteSupply": 27.876960447430754,
+    "nav": 1.0392,
+    "quoteValueAtNav": 167266.5144,
+    "quotePriceUsdFromPair": 1.115665854198981,
+    "url": "https://dexscreener.com/robinhood/0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+  },
+  {
+    "capturedAt": "2026-09-12T04:39:09.2092793Z",
+    "symbol": "ANTHROPIG",
+    "quote": "ANTHROPICx1L",
+    "pool": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+    "quoteUnits": 82374,
+    "quoteSupply": 451819.6917591936,
+    "percentQuoteSupply": 18.231609091509647,
+    "nav": 0.9963,
+    "quoteValueAtNav": 82069.2162,
+    "quotePriceUsdFromPair": 1.1878233187425387,
+    "url": "https://dexscreener.com/robinhood/0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310"
+  }
+]

@@ -1,0 +1,904 @@
+[
+  {
+    "coin": {
+      "n": 4,
+      "mint": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+      "symbol": "ALLCAT",
+      "name": "allcat",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreifedm5apl527ljn75buzwgd7bxxw7jnzkdgdzynfdsfbcpc5writu",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreifedm5apl527ljn75buzwgd7bxxw7jnzkdgdzynfdsfbcpc5writu",
+      "createdAt": 1789156465000,
+      "marketCapUsd": 119120.25167679656,
+      "stocks": [],
+      "paidUsd": null,
+      "payouts": 811,
+      "createdUtc": "2026-09-11T19:54:25+00:00",
+      "ageHours": 9.906998055555556,
+      "ageBand": "6h+",
+      "rewardLabels": [
+        "ALL (default)"
+      ],
+      "sampleReason": "top four by exact listed market cap"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/5zaedm3kecqcgjbx8lwgapmgw3ncv6ldvmcmbhqy9zuc",
+        "dex": "pumpswap",
+        "pair": "5ZaeDM3kecqCgJBx8LWGapmgW3ncv6Ldvmcmbhqy9ZUc",
+        "base": {
+          "address": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+          "name": "allcat",
+          "symbol": "ALLCAT"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789159703000,
+        "mcUsd": 127762,
+        "liquidityUsd": 31831.19,
+        "h1VolumeUsd": 39434.1,
+        "h24VolumeUsd": 1569837.34,
+        "h1Txns": {
+          "buys": 361,
+          "sells": 259
+        },
+        "h24Txns": {
+          "buys": 14439,
+          "sells": 10623
+        }
+      },
+      {
+        "url": "https://dexscreener.com/solana/c53dxkteuwwd2gkbpgvwxdr18kfy65apfttm45y991ug",
+        "dex": "meteora",
+        "pair": "C53DXktEUWwD2gkbPGvwXdr18kfY65aPFtTm45Y991Ug",
+        "base": {
+          "address": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+          "name": "allcat",
+          "symbol": "ALLCAT"
+        },
+        "quote": {
+          "address": "44sHXMkPeciUpqhecfCysVs7RcaxeM24VPMauQouBREV",
+          "name": "Larry Pink's Pool Party",
+          "symbol": "LPPP"
+        },
+        "createdAt": 1789160791000,
+        "mcUsd": 79092,
+        "liquidityUsd": 0.1,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 29.67,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 65,
+          "sells": 79
+        }
+      },
+      {
+        "url": "https://dexscreener.com/solana/eqkaua2vhedeym5hkjnfdvnfsp59mdkwsvjhiwecdl8d",
+        "dex": "pumpfun",
+        "pair": "EqkauA2VhEdEYM5hkjNFdVNfSp59MdkWsVJhiWEcDL8D",
+        "base": {
+          "address": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+          "name": "allcat",
+          "symbol": "ALLCAT"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789156462000,
+        "mcUsd": 42049.48,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 63794.49,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 1143,
+          "sells": 699
+        }
+      }
+    ],
+    "detailAt": 1789192272619,
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "1031721812214",
+      "usd": 2968.601439460997,
+      "payouts": 505,
+      "lastAt": 1789165763271,
+      "wallets": 2802
+    },
+    "dropped": {
+      "symbol": "ALLCAT",
+      "decimals": 6,
+      "units": "7245979967602",
+      "usd": 1173.905128475672,
+      "wallets": 1423,
+      "lastAt": 1789170711981
+    },
+    "history": null,
+    "claims": {
+      "lamports": "605281381",
+      "claims": 1,
+      "lastAt": 1789168561140,
+      "lastSignature": "5hEjNTdyeXYPKy4HadyNRWvGquzaQ3jU51VMXjDBYWPfhj5WJXA56LBmWYW57hiE6NWfaG7ZjxMWMnaNkX86WjT1",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 7,
+      "mint": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+      "symbol": "ALLIN",
+      "name": "ALLIN",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeifoyhmbfijmcub4kzzzdl5mtdtwp44xweuxp3zah5uqgfowsmuliq",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafybeifoyhmbfijmcub4kzzzdl5mtdtwp44xweuxp3zah5uqgfowsmuliq",
+      "createdAt": 1789157014000,
+      "marketCapUsd": 31944.644997080883,
+      "stocks": [],
+      "paidUsd": null,
+      "payouts": 228,
+      "createdUtc": "2026-09-11T20:03:34+00:00",
+      "ageHours": 9.754498055555555,
+      "ageBand": "6h+",
+      "rewardLabels": [
+        "ALL (default)"
+      ],
+      "sampleReason": "top four by exact listed market cap"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/bqqtevsy9ubnbtbeelpkax8os4udeg8patcezhlwledj",
+        "dex": "pumpswap",
+        "pair": "BQQTEVsY9uBNbTBeELpKax8os4uDEg8pATcEzhLwLedj",
+        "base": {
+          "address": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+          "name": "ALLIN",
+          "symbol": "ALLIN"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789160970000,
+        "mcUsd": 32226,
+        "liquidityUsd": 14126.11,
+        "h1VolumeUsd": 4431.97,
+        "h24VolumeUsd": 476101.2,
+        "h1Txns": {
+          "buys": 76,
+          "sells": 78
+        },
+        "h24Txns": {
+          "buys": 5141,
+          "sells": 4230
+        }
+      },
+      {
+        "url": "https://dexscreener.com/solana/ctu8vlurexwhtidenvy41dwomqsxnrrnqcmgnfqtn5xi",
+        "dex": "meteora",
+        "pair": "Ctu8vLuRExWhtideNvY41DwomQsxnrRnqCMGNfQtn5Xi",
+        "base": {
+          "address": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+          "name": "ALLIN",
+          "symbol": "ALLIN"
+        },
+        "quote": {
+          "address": "44sHXMkPeciUpqhecfCysVs7RcaxeM24VPMauQouBREV",
+          "name": "Larry Pink's Pool Party",
+          "symbol": "LPPP"
+        },
+        "createdAt": 1789160681000,
+        "mcUsd": 33482,
+        "liquidityUsd": 24.86,
+        "h1VolumeUsd": 3.25,
+        "h24VolumeUsd": 212.52,
+        "h1Txns": {
+          "buys": 3,
+          "sells": 13
+        },
+        "h24Txns": {
+          "buys": 359,
+          "sells": 315
+        }
+      },
+      {
+        "url": "https://dexscreener.com/solana/emdygqsxrwhxj4zfvhrzdryqe1xtwgjswytycmzdq9jw",
+        "dex": "pumpfun",
+        "pair": "EMDyGQsXRwHxJ4ZFvhrzDRYqE1xtwgJsWytycMzdq9JW",
+        "base": {
+          "address": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+          "name": "ALLIN",
+          "symbol": "ALLIN"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789157001000,
+        "mcUsd": 42238.48,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 63008.9,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 933,
+          "sells": 619
+        }
+      }
+    ],
+    "detailAt": 1789192252656,
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "229534926128",
+      "usd": 660.4471322050703,
+      "payouts": 108,
+      "lastAt": 1789166038740,
+      "wallets": 911
+    },
+    "dropped": {
+      "symbol": "DROP-A5MD-2",
+      "decimals": 6,
+      "units": "6553303822897",
+      "usd": null,
+      "wallets": 345,
+      "lastAt": 1789173269000
+    },
+    "history": null,
+    "claims": {
+      "lamports": "224209411",
+      "claims": 1,
+      "lastAt": 1789168578413,
+      "lastSignature": "5ryK3PyhW6krjrGu2MnimNLt4CnSzBTcfAgbXwaF2eWvD3cS3PDDGjddQSXgneqrg4c6khfueT9S7JCMp713DEKa",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 11,
+      "mint": "2QRqp5k3uefWisqCXSpSRWmMPu5pWFfEP9JXXbSA6ALL",
+      "symbol": "ALLDOG",
+      "name": "alldog",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreidwjuaoqtirrcczo3dpnr6ylyttnctyimvktfejmkqppyuiwimv3y",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreidwjuaoqtirrcczo3dpnr6ylyttnctyimvktfejmkqppyuiwimv3y",
+      "createdAt": 1789158515000,
+      "marketCapUsd": 30747.665575871757,
+      "stocks": [],
+      "paidUsd": null,
+      "payouts": 173,
+      "createdUtc": "2026-09-11T20:28:35+00:00",
+      "ageHours": 9.337553611111112,
+      "ageBand": "6h+",
+      "rewardLabels": [
+        "ALL (default)"
+      ],
+      "sampleReason": "top four by exact listed market cap"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/6qa6nmogzms87yjrgvqnza2pedyobw1ppfxexeec5wpc",
+        "dex": "pumpswap",
+        "pair": "6QA6nMogzms87YjRGVQNZA2PEDyobw1ppfxEXEEC5WPc",
+        "base": {
+          "address": "2QRqp5k3uefWisqCXSpSRWmMPu5pWFfEP9JXXbSA6ALL",
+          "name": "alldog",
+          "symbol": "ALLDOG"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789160767000,
+        "mcUsd": 30683,
+        "liquidityUsd": 13528.81,
+        "h1VolumeUsd": 5851.2,
+        "h24VolumeUsd": 297084.21,
+        "h1Txns": {
+          "buys": 118,
+          "sells": 89
+        },
+        "h24Txns": {
+          "buys": 3870,
+          "sells": 3282
+        }
+      },
+      {
+        "url": "https://dexscreener.com/solana/7toiqyapmrwawhqt2tppxkd9fmiluyfni9xdjyv2zdlc",
+        "dex": "meteora",
+        "pair": "7toiqyApMrwawhQt2tpPxKd9fMiLUyfni9XDjYv2zdLC",
+        "base": {
+          "address": "2QRqp5k3uefWisqCXSpSRWmMPu5pWFfEP9JXXbSA6ALL",
+          "name": "alldog",
+          "symbol": "ALLDOG"
+        },
+        "quote": {
+          "address": "44sHXMkPeciUpqhecfCysVs7RcaxeM24VPMauQouBREV",
+          "name": "Larry Pink's Pool Party",
+          "symbol": "LPPP"
+        },
+        "createdAt": 1789162614000,
+        "mcUsd": 29809,
+        "liquidityUsd": 18.76,
+        "h1VolumeUsd": 2.8,
+        "h24VolumeUsd": 68.22,
+        "h1Txns": {
+          "buys": 3,
+          "sells": 9
+        },
+        "h24Txns": {
+          "buys": 197,
+          "sells": 152
+        }
+      },
+      {
+        "url": "https://dexscreener.com/solana/eu586dzk1v5cixd7fnc5uv7gh5gez1oyqhivbgdgdbte",
+        "dex": "meteora",
+        "pair": "Eu586dzk1v5CixD7FNC5uV7GH5gez1oYQhivbGdgdbtE",
+        "base": {
+          "address": "2QRqp5k3uefWisqCXSpSRWmMPu5pWFfEP9JXXbSA6ALL",
+          "name": "alldog",
+          "symbol": "ALLDOG"
+        },
+        "quote": {
+          "address": "44sHXMkPeciUpqhecfCysVs7RcaxeM24VPMauQouBREV",
+          "name": "Larry Pink's Pool Party",
+          "symbol": "LPPP"
+        },
+        "createdAt": 1789160713000,
+        "mcUsd": 12124,
+        "liquidityUsd": 0.12,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 38.07,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 82,
+          "sells": 82
+        }
+      },
+      {
+        "url": "https://dexscreener.com/solana/abcveijufu2fd5nnebeabeiepfzb2kdfaknyso6anekn",
+        "dex": "pumpfun",
+        "pair": "AbcveijUfu2fD5nNEBEAbeiePFZb2KDfAkNySo6anEKN",
+        "base": {
+          "address": "2QRqp5k3uefWisqCXSpSRWmMPu5pWFfEP9JXXbSA6ALL",
+          "name": "alldog",
+          "symbol": "ALLDOG"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789158510000,
+        "mcUsd": 42119.33,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 39670.2,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 636,
+          "sells": 376
+        }
+      }
+    ],
+    "detailAt": 1789192205962,
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "670067642149",
+      "usd": 1928.0039866087125,
+      "payouts": 119,
+      "lastAt": 1789165133029,
+      "wallets": 776
+    },
+    "dropped": {
+      "symbol": "LDROP-2QRQP5K3-0",
+      "decimals": 6,
+      "units": "3552345239573",
+      "usd": null,
+      "wallets": 304,
+      "lastAt": 1789173262000
+    },
+    "history": null,
+    "claims": {
+      "lamports": "120418200",
+      "claims": 1,
+      "lastAt": 1789168598584,
+      "lastSignature": "RhxR5j81SSGnduwuz85bw8rVvVvKSUhJWs8LfWQyLGrz2mnzdtocreWvJC7wonGi8fnpQUgz1KvWQ9u2CRTp93y",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 5,
+      "mint": "EacamThc6ZJZTDrMGoShDVHVtN7zRMWk7dNpTrVzPALL",
+      "symbol": "CATON",
+      "name": "CATON",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreiashowldj7civy7m5h6yiawbechqhluumidzfv2wwsbch7am6k5cq",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreiashowldj7civy7m5h6yiawbechqhluumidzfv2wwsbch7am6k5cq",
+      "createdAt": 1789156467000,
+      "marketCapUsd": 21916.65619037463,
+      "stocks": [
+        "TSLAx"
+      ],
+      "paidUsd": null,
+      "payouts": 49,
+      "createdUtc": "2026-09-11T19:54:27+00:00",
+      "ageHours": 9.9064425,
+      "ageBand": "6h+",
+      "rewardLabels": [
+        "TSLAx"
+      ],
+      "sampleReason": "top four by exact listed market cap"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/2yyhp4qjyb3azx61puvfw4mgh4jhrs1zyjwlkufgaja6",
+        "dex": "pumpfun",
+        "pair": "2yyhp4QjyB3aZX61pUVFw4mGh4Jhrs1zYjWLkUFgaJa6",
+        "base": {
+          "address": "EacamThc6ZJZTDrMGoShDVHVtN7zRMWk7dNpTrVzPALL",
+          "name": "CATON",
+          "symbol": "CATON"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789156462000,
+        "mcUsd": 22417.03,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 5617.67,
+        "h24VolumeUsd": 76748.66,
+        "h1Txns": {
+          "buys": 103,
+          "sells": 64
+        },
+        "h24Txns": {
+          "buys": 1285,
+          "sells": 867
+        }
+      }
+    ],
+    "detailAt": 1789192276682,
+    "paid": null,
+    "dropped": {
+      "symbol": "LDROP-EACAMTHC-3",
+      "decimals": 6,
+      "units": "1568348768963",
+      "usd": null,
+      "wallets": 296,
+      "lastAt": 1789173271000
+    },
+    "history": null,
+    "claims": {
+      "lamports": "40399203",
+      "claims": 1,
+      "lastAt": 1789168566236,
+      "lastSignature": "2r2eU5KvgWZzvGaWkpnWkydonF7Qw6rej2c4zHs8M7LVV3kpm8fLgxHd5sw52Vot3pC27seVtxMapv3SZ1HeB99v",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 154,
+      "mint": "4P28KmEcwwnYHMdgJDkk7F1eYKgUqrPJwryaYDxWQALL",
+      "symbol": "$$ALLAI",
+      "name": "ALL AI",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreig6eqtz6x73vqwnpzo7bhj7vdhcluchawekz3wgophmbwtphi4veq",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreig6eqtz6x73vqwnpzo7bhj7vdhcluchawekz3wgophmbwtphi4veq",
+      "createdAt": 1789187553000,
+      "marketCapUsd": 2874.004478617805,
+      "stocks": [],
+      "paidUsd": null,
+      "payouts": 2,
+      "createdUtc": "2026-09-12T04:32:33+00:00",
+      "ageHours": 1.2714425,
+      "ageBand": "0-3h",
+      "rewardLabels": [
+        "ALL (default)"
+      ],
+      "sampleReason": "upper median age among <=10K, 0-3h, payout positive; n=9"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/fqdyg2zrocqdtf7vunvveaskabf3xczqcid63ejds8pb",
+        "dex": "pumpfun",
+        "pair": "FQDYG2ZRocqdtf7VunVvEaSkABF3XCZqcid63EjdS8pb",
+        "base": {
+          "address": "4P28KmEcwwnYHMdgJDkk7F1eYKgUqrPJwryaYDxWQALL",
+          "name": "ALL AI",
+          "symbol": "$ALLAI"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789187543000,
+        "mcUsd": 2865.15,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 45.3,
+        "h24VolumeUsd": 2493.13,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 3
+        },
+        "h24Txns": {
+          "buys": 33,
+          "sells": 16
+        }
+      }
+    ],
+    "detailAt": 1789191918510,
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "926013490",
+      "usd": 2.664443987546626,
+      "payouts": 2,
+      "lastAt": 1789190170550,
+      "wallets": 3
+    },
+    "dropped": null,
+    "history": null,
+    "claims": {
+      "lamports": "71856077",
+      "claims": 3,
+      "lastAt": 1789190142000,
+      "lastSignature": "3jSqXwRhY4ED3Kf6v2E1aJE3nzBdHpj7p4jydxtAUcZRUiAqswc754CkMvVKmRfcyn5WTa1Bk65xHD6NPYp192Bz",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 152,
+      "mint": "6MX2aBUHVizAjy6dFHyNHkSuRPF3KCoZT9ReBrjLwALL",
+      "symbol": "LOYAL",
+      "name": "LOYAL",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreibzatc23vmf2uk23gembasoe2h3qp43cu52jvmo7rl57vls55uaoy",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreibzatc23vmf2uk23gembasoe2h3qp43cu52jvmo7rl57vls55uaoy",
+      "createdAt": 1789185519000,
+      "marketCapUsd": 2849.409506532684,
+      "stocks": [
+        "NVDAx"
+      ],
+      "paidUsd": null,
+      "payouts": 0,
+      "createdUtc": "2026-09-12T03:58:39+00:00",
+      "ageHours": 1.8364425,
+      "ageBand": "0-3h",
+      "rewardLabels": [
+        "NVDAx"
+      ],
+      "sampleReason": "upper median age among <=10K, 0-3h, payout zero; n=6"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/2setrhc4tqjvdtekfqo7asmfnrni9bwcrixueu1uw8xa",
+        "dex": "pumpfun",
+        "pair": "2sEtRhC4tqJVDteKFQo7AsMfNrni9BwCRiXuEu1UW8XA",
+        "base": {
+          "address": "6MX2aBUHVizAjy6dFHyNHkSuRPF3KCoZT9ReBrjLwALL",
+          "name": "LOYAL",
+          "symbol": "LOYAL"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789185514000,
+        "mcUsd": 2839.79,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 211.28,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 5,
+          "sells": 5
+        }
+      }
+    ],
+    "detailAt": 1789191890345,
+    "paid": null,
+    "dropped": null,
+    "history": null,
+    "claims": {
+      "lamports": "1559647",
+      "claims": 1,
+      "lastAt": 1789189053000,
+      "lastSignature": "3U53564bx2r68U7K1tLqNXjwvqJwVpLfBgRPFET8CX4qg3UeutxTxJeGQo2wQn5jFSYB2wnjMgfkqZVFXjTQLr5Q",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 136,
+      "mint": "GswrWrxAUthXTkzTBeTyQyeJN89gP9FsgqZV2rWJFALL",
+      "symbol": "THAT",
+      "name": "ALL THAT",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreielg6jbqhylx3zhm5i3ndc7x4h3wzqzptslh6vybpoof35osvgkda",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreielg6jbqhylx3zhm5i3ndc7x4h3wzqzptslh6vybpoof35osvgkda",
+      "createdAt": 1789172764000,
+      "marketCapUsd": 2915.638752894207,
+      "stocks": [],
+      "paidUsd": null,
+      "payouts": 1,
+      "createdUtc": "2026-09-12T00:26:04+00:00",
+      "ageHours": 5.379498055555556,
+      "ageBand": "3-6h",
+      "rewardLabels": [
+        "ALL (default)"
+      ],
+      "sampleReason": "upper median age among <=10K, 3-6h, payout positive; n=7"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/3bcbzscnr26w89cirpuyn4ccafq3fdvf4mlpyc5gzbgv",
+        "dex": "pumpfun",
+        "pair": "3BCBZscnR26W89ciRpUyN4CCAFq3fdvf4mLpyC5GZbgV",
+        "base": {
+          "address": "GswrWrxAUthXTkzTBeTyQyeJN89gP9FsgqZV2rWJFALL",
+          "name": "ALL THAT",
+          "symbol": "THAT"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789172764000,
+        "mcUsd": 2909.81,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 2712.69,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 41,
+          "sells": 74
+        }
+      }
+    ],
+    "detailAt": 1789190504784,
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "1240846979",
+      "usd": 3.570323011883924,
+      "payouts": 1,
+      "lastAt": 1789184762421,
+      "wallets": 2
+    },
+    "dropped": null,
+    "history": null,
+    "claims": {
+      "lamports": "76159330",
+      "claims": 2,
+      "lastAt": 1789184731000,
+      "lastSignature": "5uFY1o2odtCGLXiETmDNPw2F5KQj3k9j3nsfgqnGcXDo9i6NZuYSzAb8Y9xYVbky5xnZM9SA1XdcmcA6pJpqEf7d",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 135,
+      "mint": "FaJdgnGmmcJibf7uJYtqWK7tsdBQCYkHsp1VGTHaxtsA",
+      "symbol": "HUNG",
+      "name": "HUNG",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeihzbqpbybf53boxpmfuad7fem45ulhjw2ovcsjf3k4c6udopvpjuy",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafybeihzbqpbybf53boxpmfuad7fem45ulhjw2ovcsjf3k4c6udopvpjuy",
+      "createdAt": 1789172402000,
+      "marketCapUsd": 2879.117148890885,
+      "stocks": [
+        "TSLAx"
+      ],
+      "paidUsd": null,
+      "payouts": 0,
+      "createdUtc": "2026-09-12T00:20:02+00:00",
+      "ageHours": 5.480053611111111,
+      "ageBand": "3-6h",
+      "rewardLabels": [
+        "TSLAx"
+      ],
+      "sampleReason": "upper median age among <=10K, 3-6h, payout zero; n=15"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/5sz8lzgnmrmrnoiq9574gtagaxemnpmonerq81e9qauq",
+        "dex": "pumpfun",
+        "pair": "5SZ8LZGNmrMRnoiQ9574gtagAxemNpmoNeRq81E9QAUQ",
+        "base": {
+          "address": "FaJdgnGmmcJibf7uJYtqWK7tsdBQCYkHsp1VGTHaxtsA",
+          "name": "HUNG",
+          "symbol": "HUNG"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789172402000,
+        "mcUsd": 2885.79,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 154.98,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 5,
+          "sells": 2
+        }
+      }
+    ],
+    "detailAt": 1789190505393,
+    "paid": null,
+    "dropped": null,
+    "history": null,
+    "claims": {
+      "lamports": "636169",
+      "claims": 1,
+      "lastAt": 1789184528000,
+      "lastSignature": "3fFWCbTPQq8CxNtPYUkgCcSmV6gsfcunLgUNsnXBxYmfQrdDvr832sfwAvudJ4HB8TmeFUHmerndNCLjUV7VsjL6",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 67,
+      "mint": "7GHphuLo3CU22qVDPJFh8dSvhdust7BFTPVX5XRKPALL",
+      "symbol": "SHIT",
+      "name": "ALL SHIT",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreifjxze47v2kibl6oxebxebkpehgu65gstft2q3sofkrkgqbluf4ze",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreifjxze47v2kibl6oxebxebkpehgu65gstft2q3sofkrkgqbluf4ze",
+      "createdAt": 1789162458000,
+      "marketCapUsd": 3521.110788365864,
+      "stocks": [],
+      "paidUsd": null,
+      "payouts": 3,
+      "createdUtc": "2026-09-11T21:34:18+00:00",
+      "ageHours": 8.242275833333334,
+      "ageBand": "6h+",
+      "rewardLabels": [
+        "ALL (default)"
+      ],
+      "sampleReason": "upper median age among <=10K, 6h+, payout positive; n=58"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/ezqr6pewinrectlewyrd8wxlnzdquyrcqzzyx1nbj6ym",
+        "dex": "pumpfun",
+        "pair": "EzQR6pewiNRECTLewYRD8WxLNzDQuyrCQZzyx1nbj6yM",
+        "base": {
+          "address": "7GHphuLo3CU22qVDPJFh8dSvhdust7BFTPVX5XRKPALL",
+          "name": "ALL SHIT",
+          "symbol": "SHIT"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789162453000,
+        "mcUsd": 3510.27,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 3991.13,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 58,
+          "sells": 44
+        }
+      }
+    ],
+    "detailAt": 1789189849841,
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "69901962",
+      "usd": 0.2011308305763588,
+      "payouts": 3,
+      "lastAt": 1789189565529,
+      "wallets": 9
+    },
+    "dropped": null,
+    "history": null,
+    "claims": {
+      "lamports": "2121958",
+      "claims": 2,
+      "lastAt": 1789189525000,
+      "lastSignature": "3J2cvbd7zdx3yGgNrzocLaTQkxe4FsD28qJtkTHb1gzPAL4Ae26gsj9oAvoGe1Ttd1Ry4vr1W836PEdtwvGgNwA7",
+      "complete": false
+    }
+  },
+  {
+    "coin": {
+      "n": 59,
+      "mint": "CikvUCrJ8sgDZMauG1hK5bWwzQQbvWRR7kU818FYmALL",
+      "symbol": "CRYPT",
+      "name": "CRYPT",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreiany5h5pf7p5yxywsuns3zxeymhvpj5pqpcj7p6i4uekfxe7id7e4",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreiany5h5pf7p5yxywsuns3zxeymhvpj5pqpcj7p6i4uekfxe7id7e4",
+      "createdAt": 1789162205000,
+      "marketCapUsd": 2896.5063860974988,
+      "stocks": [],
+      "paidUsd": null,
+      "payouts": 0,
+      "createdUtc": "2026-09-11T21:30:05+00:00",
+      "ageHours": 8.312553611111111,
+      "ageBand": "6h+",
+      "rewardLabels": [
+        "ALL (default)"
+      ],
+      "sampleReason": "upper median age among <=10K, 6h+, payout zero; n=59"
+    },
+    "pools": [
+      {
+        "url": "https://dexscreener.com/solana/8paxiyfsvhajhb96m22acpwa9p7wdyngdlmezzevxfcl",
+        "dex": "pumpfun",
+        "pair": "8PAxiyfSVHaJhb96m22aCPwA9p7WDYNgDLmEZzevxFcL",
+        "base": {
+          "address": "CikvUCrJ8sgDZMauG1hK5bWwzQQbvWRR7kU818FYmALL",
+          "name": "CRYPT",
+          "symbol": "CRYPT"
+        },
+        "quote": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "createdAt": 1789162199000,
+        "mcUsd": 2923.4,
+        "liquidityUsd": null,
+        "h1VolumeUsd": 0,
+        "h24VolumeUsd": 25.4,
+        "h1Txns": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24Txns": {
+          "buys": 2,
+          "sells": 1
+        }
+      }
+    ],
+    "detailAt": 1789189985704,
+    "paid": null,
+    "dropped": null,
+    "history": null,
+    "claims": null
+  }
+]

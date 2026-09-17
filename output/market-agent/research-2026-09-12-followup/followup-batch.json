@@ -1,0 +1,260 @@
+{
+  "version": 1,
+  "recordedAt": "2026-09-12T07:34:47Z",
+  "observationWindow": [
+    "2026-09-12T07:30:49.831Z",
+    "2026-09-12T07:32:46.812Z"
+  ],
+  "baselineFile": "output/market-agent/research-2026-09-12-0655/x-discovery.json",
+  "method": "CUA, lectura directa de los hilos PopBase y unusual_whales; U2 ordenado por Recientes; una busqueda reciente Box-on-Wheels OR (Stellantis UQI), apertura de vigram y perfil Stellantis. Sin publicaciones, likes, follows, login ni cambios de cuenta. Los observedAt se registraron durante cada lectura, separados de recordedAt.",
+  "conclusion": "Cambio creativo modesto en U2: confusion sobre quien incorporo el album a una biblioteca familiar, con recepcion positiva como contrapeso. Nvidia suma autores, pero repite la lectura del circuito; no hay nuevo acuerdo verificado. Box agrega contexto social anteriormente no registrado, sin expresion memetica nueva comprobada. No surgio una señal externa claramente mejor dentro del alcance.",
+  "observations": [
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/PopBase/status/2098627160139325791",
+      "author": "@PopBase",
+      "publishedAt": "2026-09-12T04:18:00Z",
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "text": "El mismo post recuerda la distribucion historica del album. La lectura reciente sigue mostrando el texto original; cambian los contadores.",
+      "kind": "repeat-observation",
+      "metrics": {
+        "views": 626649,
+        "likes": 15624,
+        "reposts": 931,
+        "replies": 148
+      },
+      "relationshipToPrior": "Mismo post x-u2-recall; no nueva señal. Antes: 531719 views, 13737 likes y 795 reposts a las 06:59:18.911Z. Las diferencias son contadores del mismo post, no personas nuevas ni organicidad.",
+      "verification": "Texto y contadores nativos X; hora publicada a precision minuto convertida de ART. No se vuelve a validar aqui la afirmacion historica absoluta sobre todos los usuarios.",
+      "sourceStoryKey": "u2-resurfacing",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/lilonostitches/status/2098669603442278851",
+      "author": "@lilonostitches",
+      "publishedAt": "2026-09-12T07:06:00Z",
+      "observedAt": "2026-09-12T07:32:41.075Z",
+      "text": "Cuenta haber escuchado historias de compañeros que tuvieron problemas con sus padres al aparecer el album en la biblioteca familiar.",
+      "kind": "new-post-cultural-memory",
+      "metrics": {
+        "views": 440,
+        "likes": 0,
+        "reposts": 0
+      },
+      "relationshipToPrior": "Post publicado despues de la captura anterior; nuevo autor registrado. Agrega la situacion de una familia buscando un responsable al gesto conocido del regalo invasivo. Es relato de terceros, no hecho general verificado.",
+      "verification": "Post completo y hora 4:06 a.m. ART visibles en pagina exacta. Primera lectura en Recientes a las 07:32:22.521Z; observadoAt corresponde a la verificacion del detalle. No prueba demanda ni remixes independientes.",
+      "sourceStoryKey": "u2-resurfacing",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/GoyBeamTarget/status/2098671588103369111",
+      "author": "@GoyBeamTarget",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "displayedAge": "Hace 17 minutos",
+      "text": "Recuerda que siempre supuso que su padre habia comprado el album.",
+      "kind": "newly-recorded-cultural-memory",
+      "metrics": {
+        "views": 651,
+        "likes": 2,
+        "reposts": 0
+      },
+      "relationshipToPrior": "Autor no incluido en baseline; comparte la confusion familiar con la respuesta de LiLO desde otra perspectiva. Hora absoluta no abierta; no se calcula un timestamp desde la edad relativa.",
+      "verification": "Texto completo, URL y contadores visibles en el hilo ordenado por Recientes. Afirmacion autobiografica no contrastada; independencia entre autores no comprobada.",
+      "sourceStoryKey": "u2-resurfacing",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/freckledlipsss/status/2098669182858473780",
+      "author": "@freckledlipsss",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "displayedAge": "Hace 27 minutos",
+      "text": "Recuerda preguntar en su casa quien habia tocado el telefono porque no habia comprado ese album, y dice que ahora entiende que era gratuito.",
+      "kind": "newly-recorded-cultural-memory",
+      "metrics": {
+        "views": 512,
+        "likes": 1,
+        "reposts": 0
+      },
+      "relationshipToPrior": "Nueva expresion registrada de confusion de autoria domestica; amplia la lectura anterior virus/regalo sin convertir el evento historico en noticia nueva.",
+      "verification": "Texto completo y enlace exacto en Recientes. No se verifico su experiencia ni la cronologia autobiografica; publishedAt desconocido.",
+      "sourceStoryKey": "u2-resurfacing",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/LElASSPACEBUNS/status/2098673500567249326",
+      "author": "@LElASSPACEBUNS",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "displayedAge": "Hace 10 minutos",
+      "text": "Dice que el album era bueno y recuerda que su madre, fan de U2, le pidio copiar las canciones a un reproductor MP3.",
+      "kind": "counterexample-positive-memory",
+      "metrics": {
+        "views": 50,
+        "likes": 0,
+        "reposts": 0
+      },
+      "relationshipToPrior": "Contrapeso a una lectura de rechazo universal. Nueva autora registrada, no evidencia de que esta opinion sea mayoritaria.",
+      "verification": "Texto completo, enlace exacto y contadores visibles en Recientes; no se adopta como hecho verificable la experiencia personal.",
+      "sourceStoryKey": "u2-resurfacing",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/monoesque/status/2098672663774593219",
+      "author": "@monoesque",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "displayedAge": "Hace 13 minutos",
+      "text": "Opina que una portada distinta habria reducido la reaccion negativa.",
+      "kind": "alternative-cultural-interpretation",
+      "metrics": {
+        "views": 283,
+        "likes": 0,
+        "reposts": 0
+      },
+      "relationshipToPrior": "Aporta una causa alternativa sugerida por un autor: la portada. No demuestra causalidad y no justifica copiar esa portada como identidad.",
+      "verification": "Texto y enlace exacto en Recientes; contrafactual del autor, no hecho historico.",
+      "sourceStoryKey": "u2-resurfacing",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/NTLTCGENESIS/status/2098627265189851341",
+      "author": "@NTLTCGENESIS",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:30:49.831Z",
+      "displayedAge": "Hace 3 horas",
+      "text": "Una cuenta rotulada como parodia compara la distribucion con payola.",
+      "kind": "older-post-newly-recorded-expression",
+      "metrics": {
+        "views": 40055,
+        "likes": 1387,
+        "reposts": 9
+      },
+      "relationshipToPrior": "Expresion antes no registrada, pero el post ya era anterior al baseline segun su edad visible. No se presenta como señal recien nacida ni como acusacion comprobada de practica ilegal.",
+      "verification": "Texto, etiqueta Cuenta parodia y contadores visibles en el hilo relevante. No se abrio el detalle para hora absoluta.",
+      "sourceStoryKey": "u2-resurfacing",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceUrl": "https://x.com/unusual_whales/status/2098581358469611549",
+      "author": "@unusual_whales",
+      "publishedAt": "2026-09-12T01:16:00Z",
+      "observedAt": "2026-09-12T07:30:57.777Z",
+      "text": "El mismo titular atribuye a Reuters conversaciones de Nvidia para invertir en el IPO de Anthropic.",
+      "kind": "repeat-observation",
+      "metrics": {
+        "views": 149909,
+        "likes": 1233,
+        "reposts": 74,
+        "replies": 94
+      },
+      "relationshipToPrior": "Mismo x-nvda-talks. Antes: 147183 views, 1190 likes y 72 reposts. No hay nuevo hecho economico en esta relectura ni los contadores prueban organicidad.",
+      "verification": "Post completo, fecha y contadores nativos. Conserva la distincion conversaciones/acuerdo. La relacion previa documentada por el agente principal no se reinterpreta como nueva.",
+      "sourceStoryKey": "nvidia-ipo",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceUrl": "https://x.com/hesperian_view/status/2098673399656575144",
+      "author": "@hesperian_view",
+      "publishedAt": "2026-09-12T07:21:00Z",
+      "observedAt": "2026-09-12T07:32:46.812Z",
+      "text": "Compara financiar al cliente que compraria chips con una manguera circular; agrega una cifra de gasto que no se adopta como verificada.",
+      "kind": "new-post-repeated-interpretation",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "reposts": 0
+      },
+      "relationshipToPrior": "Post nuevo posterior al baseline, pero repite la lectura circular ya registrada. No crea una familia nueva ni cambia la decision de descartar el dolar circular.",
+      "verification": "Post completo y hora 4:21 a.m. ART verificadas en detalle. La bio visible dice que es un proyecto, no una persona; no se infiere autoria humana ni organicidad. Metafora y circuito no son hechos financieros comprobados.",
+      "sourceStoryKey": "nvidia-ipo",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceUrl": "https://x.com/jaffersadiq4u/status/2098649457219035385",
+      "author": "@jaffersadiq4u",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:30:57.777Z",
+      "displayedAge": "Hace 1 hora",
+      "text": "Recuerda que conversaciones no equivalen a cierre y luego ofrece una lectura especulativa sobre distribucion y computo.",
+      "kind": "newly-recorded-caution",
+      "metrics": {
+        "views": 26,
+        "likes": 0,
+        "reposts": 0
+      },
+      "relationshipToPrior": "Nuevo autor registrado que coincide con una cautela ya incorporada al catalogo; no agrega confirmacion primaria ni cambia el estado del acuerdo.",
+      "verification": "Texto y URL en hilo nativo. Las otras afirmaciones sobre mercado y DeepSeek no fueron verificadas ni adoptadas.",
+      "sourceStoryKey": "nvidia-ipo",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "sourceUrl": "https://x.com/vigram_void/status/2098515172973478187",
+      "author": "@vigram_void",
+      "publishedAt": "2026-09-11T20:53:00Z",
+      "observedAt": "2026-09-12T07:31:20.987Z",
+      "text": "Prefiere la caja de reparto a otro lanzamiento humanoide y propone dividir la logistica entre vehiculo para kilometros, robot movil para metros y humanoide para interfaces humanas. Es una interpretacion del sistema anunciado.",
+      "kind": "older-post-newly-recorded-interpretation",
+      "metrics": {
+        "views": 520,
+        "likes": 6,
+        "reposts": 0,
+        "replies": 1
+      },
+      "relationshipToPrior": "Primera expresion X de Box registrada por este agente; el post precede ampliamente al baseline y no es una nueva publicacion de esta pasada. Sugiere reparto por relevos como lectura conceptual, pero no prueba un meme adoptado.",
+      "verification": "Texto completo y hora 5:53 p.m. ART del 11/9 en detalle. Cifras de despliegue y capacidad tecnica del autor no fueron contrastadas. Imagen parcialmente inspeccionada a las 07:31:32.960Z: se ven marcas PRO ONE/UQI; no se vio demo del vehiculo ni se verifico movimiento.",
+      "sourceStoryKey": "box-on-wheels",
+      "textBasis": "paraphrase"
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "sourceUrl": "https://x.com/Stellantis",
+      "author": "@Stellantis",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:31:46.588Z",
+      "text": "La primera pantalla de Posts mostro un fijado de mayo y publicaciones del 9/9 y anteriores; no mostro un post de Box-on-Wheels.",
+      "kind": "bounded-profile-coverage",
+      "metrics": null,
+      "relationshipToPrior": "El comunicado corporativo previo sigue siendo la fuente del anuncio. Esta pantalla no demuestra ausencia de un post en otras pestañas, cuentas o posiciones.",
+      "verification": "Perfil y cronologia visibles. No se recorrio todo el archivo ni se sustituyo la fuente primaria por una ausencia de resultados.",
+      "sourceStoryKey": "box-on-wheels",
+      "textBasis": "paraphrase"
+    }
+  ],
+  "coverage": [
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "status": "observed",
+      "note": "Hilo relevante y primeras respuestas en Recientes; detalle de LiLO. Nueva situacion familiar y recepcion positiva; no nuevo evento de Apple ni tendencia global medida."
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "status": "observed",
+      "note": "Hilo unusual_whales y detalle Hesperia. Un post nuevo repite circuito; no nuevo hecho primario ni evidencia de adopcion amplia. Otros comentarios antiguos no se vuelven señales nuevas por releerlos."
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "status": "observed",
+      "note": "Una busqueda reciente y detalle vigram, mas primera pantalla de Stellantis. Hay interpretacion anterior y cobertura de prensa; no remix nuevo comprobado. Coincidencias ferroviarias/Ford con box on wheels fueron excluidas como irrelevantes."
+    }
+  ],
+  "limitations": [
+    "Pasada dirigida, sin censo global, busquedas de comunidad, mercado o tokens.",
+    "Los contadores proceden de momentos concretos y pueden cambiar; no suman personas unicas, audiencias independientes, demanda ni organicidad.",
+    "Un autor no registrado en baseline puede haber publicado antes; se distingue de un post posterior cuya fecha se verifico.",
+    "publishedAt queda null cuando solo se vio edad relativa; no se calculan horas exactas desde ella.",
+    "Relatos, chistes y opiniones se conservan como tales. No se validan acusaciones, causas historicas o flujos de dinero a partir de respuestas.",
+    "No se modifico mapa, catalogo ni cuenta. Solo se produjo este registro."
+  ],
+  "normalizationNote": "Cluster keys mapped to existing story identities. Text consists of investigator paraphrases, not post edits."
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "mint": "GswrWrxAUthXTkzTBeTyQyeJN89gP9FsgqZV2rWJFALL",
+    "at": 1789190504784,
+    "coin": {
+      "mint": "GswrWrxAUthXTkzTBeTyQyeJN89gP9FsgqZV2rWJFALL",
+      "name": "ALL THAT",
+      "symbol": "THAT",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreielg6jbqhylx3zhm5i3ndc7x4h3wzqzptslh6vybpoof35osvgkda",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreielg6jbqhylx3zhm5i3ndc7x4h3wzqzptslh6vybpoof35osvgkda",
+      "createdAt": 1789172764000,
+      "marketCapUsd": 2916.4283571127867,
+      "source": "etc",
+      "quote": null,
+      "pricedFrom": "curve"
+    },
+    "pair": {
+      "mint": "GswrWrxAUthXTkzTBeTyQyeJN89gP9FsgqZV2rWJFALL",
+      "stock": null,
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0
+    },
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "1240846979",
+      "usd": 3.570323011883924,
+      "payouts": 1,
+      "lastAt": 1789184762421,
+      "wallets": 2
+    },
+    "dropped": null,
+    "history": null,
+    "split": {
+      "config": "CfNvG2NtrpjhZojMn23NWAkQzcKVudowuZGNLBx9bGmb",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders",
+          "label": "your holders",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys and burns $all",
+          "bps": 1000,
+          "role": "etc"
+        },
+        {
+          "key": "Cu3nUxTHDcdQiCRWU3oW9aw5RA7dAdBqVrj3GjZdQEvj",
+          "label": "the platform fee",
+          "bps": 2000,
+          "role": "platform"
+        },
+        {
+          "key": "3PZc9Yrt6pFCtz3NL2RkfhQFw4t7bbyXJbRUDSyPKpd5",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "BNSnojeXoKFLYj2QNmi4wMyZq1UpbkqX7vXKQ1AEEkuZ",
+      "waiting": "650241",
+      "claimable": "1",
+      "earned": null
+    },
+    "claims": {
+      "lamports": "76159330",
+      "claims": 2,
+      "lastAt": 1789184731000,
+      "lastSignature": "5uFY1o2odtCGLXiETmDNPw2F5KQj3k9j3nsfgqnGcXDo9i6NZuYSzAb8Y9xYVbky5xnZM9SA1XdcmcA6pJpqEf7d",
+      "complete": false
+    },
+    "next": {
+      "at": 1789190084654,
+      "state": "running",
+      "held": "the treasury buy/burn was interrupted without a recorded result; reconcile its transactions before resuming"
+    },
+    "feeRead": {
+      "at": 1789192287814,
+      "distributions": [
+        {
+          "signature": "5uFY1o2odtCGLXiETmDNPw2F5KQj3k9j3nsfgqnGcXDo9i6NZuYSzAb8Y9xYVbky5xnZM9SA1XdcmcA6pJpqEf7d",
+          "at": 1789184731000,
+          "lamports": "856354"
+        },
+        {
+          "signature": "3e8jC929kDtHHQwKdzsYCnYrcqVEacVhBgR9Kf3UEM8FHFTCG2xaE5KHTYHHTo4AoZ3NvpgnvBErtrm6suVSo46s",
+          "at": 1789180384000,
+          "lamports": "75302976"
+        }
+      ],
+      "complete": false
+    }
+  }
+]

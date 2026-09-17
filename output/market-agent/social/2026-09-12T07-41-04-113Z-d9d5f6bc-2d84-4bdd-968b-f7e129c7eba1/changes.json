@@ -1,0 +1,292 @@
+{
+  "version": 1,
+  "recordedAt": "2026-09-12T07:34:47.000Z",
+  "changes": [
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "box-on-wheels-announcement",
+      "sourceKey": "https://x.com/Stellantis",
+      "sourceUrl": "https://x.com/Stellantis",
+      "observedAt": "2026-09-12T07:31:46.588Z",
+      "author": "@Stellantis",
+      "text": "La primera pantalla de Posts mostro un fijado de mayo y publicaciones del 9/9 y anteriores; no mostro un post de Box-on-Wheels.",
+      "kind": "bounded-profile-coverage",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "box-on-wheels-announcement",
+      "sourceKey": "x:2098515172973478187",
+      "sourceUrl": "https://x.com/vigram_void/status/2098515172973478187",
+      "observedAt": "2026-09-12T07:31:20.987Z",
+      "author": "@vigram_void",
+      "text": "Prefiere la caja de reparto a otro lanzamiento humanoide y propone dividir la logistica entre vehiculo para kilometros, robot movil para metros y humanoide para interfaces humanas. Es una interpretacion del sistema anunciado.",
+      "kind": "older-post-newly-recorded-interpretation",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "REOBSERVED",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098581358469611549",
+      "sourceUrl": "https://x.com/unusual_whales/status/2098581358469611549",
+      "observedAt": "2026-09-12T07:30:57.777Z",
+      "author": "@unusual_whales",
+      "text": "El mismo titular atribuye a Reuters conversaciones de Nvidia para invertir en el IPO de Anthropic.",
+      "kind": "repeat-observation",
+      "textBasis": "paraphrase",
+      "reviewCandidate": false,
+      "opportunityValidated": false,
+      "previousObservedAt": "2026-09-12T06:58:39.069Z",
+      "metricDeltas": {
+        "likes": {
+          "previous": 1190,
+          "current": 1233,
+          "delta": 43
+        },
+        "replies": {
+          "previous": null,
+          "current": 94,
+          "delta": null
+        },
+        "reposts": {
+          "previous": 72,
+          "current": 74,
+          "delta": 2
+        },
+        "views": {
+          "previous": 147183,
+          "current": 149909,
+          "delta": 2726
+        }
+      }
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098649457219035385",
+      "sourceUrl": "https://x.com/jaffersadiq4u/status/2098649457219035385",
+      "observedAt": "2026-09-12T07:30:57.777Z",
+      "author": "@jaffersadiq4u",
+      "text": "Recuerda que conversaciones no equivalen a cierre y luego ofrece una lectura especulativa sobre distribucion y computo.",
+      "kind": "newly-recorded-caution",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098673399656575144",
+      "sourceUrl": "https://x.com/hesperian_view/status/2098673399656575144",
+      "observedAt": "2026-09-12T07:32:46.812Z",
+      "author": "@hesperian_view",
+      "text": "Compara financiar al cliente que compraria chips con una manguera circular; agrega una cifra de gasto que no se adopta como verificada.",
+      "kind": "new-post-repeated-interpretation",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "REOBSERVED",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098627160139325791",
+      "sourceUrl": "https://x.com/PopBase/status/2098627160139325791",
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "author": "@PopBase",
+      "text": "El mismo post recuerda la distribucion historica del album. La lectura reciente sigue mostrando el texto original; cambian los contadores.",
+      "kind": "repeat-observation",
+      "textBasis": "paraphrase",
+      "reviewCandidate": false,
+      "opportunityValidated": false,
+      "previousObservedAt": "2026-09-12T06:59:18.911Z",
+      "metricDeltas": {
+        "likes": {
+          "previous": 13737,
+          "current": 15624,
+          "delta": 1887
+        },
+        "replies": {
+          "previous": null,
+          "current": 148,
+          "delta": null
+        },
+        "reposts": {
+          "previous": 795,
+          "current": 931,
+          "delta": 136
+        },
+        "views": {
+          "previous": 531719,
+          "current": 626649,
+          "delta": 94930
+        }
+      }
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098627265189851341",
+      "sourceUrl": "https://x.com/NTLTCGENESIS/status/2098627265189851341",
+      "observedAt": "2026-09-12T07:30:49.831Z",
+      "author": "@NTLTCGENESIS",
+      "text": "Una cuenta rotulada como parodia compara la distribucion con payola.",
+      "kind": "older-post-newly-recorded-expression",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098669182858473780",
+      "sourceUrl": "https://x.com/freckledlipsss/status/2098669182858473780",
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "author": "@freckledlipsss",
+      "text": "Recuerda preguntar en su casa quien habia tocado el telefono porque no habia comprado ese album, y dice que ahora entiende que era gratuito.",
+      "kind": "newly-recorded-cultural-memory",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098669603442278851",
+      "sourceUrl": "https://x.com/lilonostitches/status/2098669603442278851",
+      "observedAt": "2026-09-12T07:32:41.075Z",
+      "author": "@lilonostitches",
+      "text": "Cuenta haber escuchado historias de compañeros que tuvieron problemas con sus padres al aparecer el album en la biblioteca familiar.",
+      "kind": "new-post-cultural-memory",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098671588103369111",
+      "sourceUrl": "https://x.com/GoyBeamTarget/status/2098671588103369111",
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "author": "@GoyBeamTarget",
+      "text": "Recuerda que siempre supuso que su padre habia comprado el album.",
+      "kind": "newly-recorded-cultural-memory",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098672663774593219",
+      "sourceUrl": "https://x.com/monoesque/status/2098672663774593219",
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "author": "@monoesque",
+      "text": "Opina que una portada distinta habria reducido la reaccion negativa.",
+      "kind": "alternative-cultural-interpretation",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    },
+    {
+      "type": "NEW_SOURCE",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098673500567249326",
+      "sourceUrl": "https://x.com/LElASSPACEBUNS/status/2098673500567249326",
+      "observedAt": "2026-09-12T07:32:22.521Z",
+      "author": "@LElASSPACEBUNS",
+      "text": "Dice que el album era bueno y recuerda que su madre, fan de U2, le pidio copiar las canciones a un reproductor MP3.",
+      "kind": "counterexample-positive-memory",
+      "textBasis": "paraphrase",
+      "reviewCandidate": true,
+      "opportunityValidated": false,
+      "note": "Another canonical source in a story already in this memory or pass."
+    }
+  ],
+  "missing": [
+    {
+      "type": "NOT_OBSERVED_IN_THIS_PASS",
+      "storyKey": "box-on-wheels-announcement",
+      "sourceKey": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "sourceUrl": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "lastObservedAt": "2026-09-12T07:00:00.000Z",
+      "coverageStatus": "observed",
+      "note": "Una busqueda reciente y detalle vigram, mas primera pantalla de Stellantis. Hay interpretacion anterior y cobertura de prensa; no remix nuevo comprobado. Coincidencias ferroviarias/Ford con box on wheels fueron excluidas como irrelevantes."
+    },
+    {
+      "type": "NOT_OBSERVED_IN_THIS_PASS",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098582496283648374",
+      "sourceUrl": "https://x.com/twan618/status/2098582496283648374",
+      "lastObservedAt": "2026-09-12T06:58:39.069Z",
+      "coverageStatus": "observed",
+      "note": "Hilo unusual_whales y detalle Hesperia. Un post nuevo repite circuito; no nuevo hecho primario ni evidencia de adopcion amplia. Otros comentarios antiguos no se vuelven señales nuevas por releerlos."
+    },
+    {
+      "type": "NOT_OBSERVED_IN_THIS_PASS",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098592593319805379",
+      "sourceUrl": "https://x.com/ccccccmore/status/2098592593319805379",
+      "lastObservedAt": "2026-09-12T06:58:39.069Z",
+      "coverageStatus": "observed",
+      "note": "Hilo unusual_whales y detalle Hesperia. Un post nuevo repite circuito; no nuevo hecho primario ni evidencia de adopcion amplia. Otros comentarios antiguos no se vuelven señales nuevas por releerlos."
+    },
+    {
+      "type": "NOT_OBSERVED_IN_THIS_PASS",
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceKey": "x:2098599439346831859",
+      "sourceUrl": "https://x.com/jatingargiitk/status/2098599439346831859",
+      "lastObservedAt": "2026-09-12T06:58:39.069Z",
+      "coverageStatus": "observed",
+      "note": "Hilo unusual_whales y detalle Hesperia. Un post nuevo repite circuito; no nuevo hecho primario ni evidencia de adopcion amplia. Otros comentarios antiguos no se vuelven señales nuevas por releerlos."
+    },
+    {
+      "type": "NOT_OBSERVED_IN_THIS_PASS",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098631494415565145",
+      "sourceUrl": "https://x.com/Ariremako8181/status/2098631494415565145",
+      "lastObservedAt": "2026-09-12T06:59:18.911Z",
+      "coverageStatus": "observed",
+      "note": "Hilo relevante y primeras respuestas en Recientes; detalle de LiLO. Nueva situacion familiar y recepcion positiva; no nuevo evento de Apple ni tendencia global medida."
+    },
+    {
+      "type": "NOT_OBSERVED_IN_THIS_PASS",
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceKey": "x:2098633583204180081",
+      "sourceUrl": "https://x.com/pumpkwnpied/status/2098633583204180081",
+      "lastObservedAt": "2026-09-12T06:59:18.911Z",
+      "coverageStatus": "observed",
+      "note": "Hilo relevante y primeras respuestas en Recientes; detalle de LiLO. Nueva situacion familiar y recepcion positiva; no nuevo evento de Apple ni tendencia global medida."
+    }
+  ],
+  "coverage": [
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "status": "observed",
+      "note": "Hilo relevante y primeras respuestas en Recientes; detalle de LiLO. Nueva situacion familiar y recepcion positiva; no nuevo evento de Apple ni tendencia global medida."
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "status": "observed",
+      "note": "Hilo unusual_whales y detalle Hesperia. Un post nuevo repite circuito; no nuevo hecho primario ni evidencia de adopcion amplia. Otros comentarios antiguos no se vuelven señales nuevas por releerlos."
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "status": "observed",
+      "note": "Una busqueda reciente y detalle vigram, mas primera pantalla de Stellantis. Hay interpretacion anterior y cobertura de prensa; no remix nuevo comprobado. Coincidencias ferroviarias/Ford con box on wheels fueron excluidas como irrelevantes."
+    }
+  ],
+  "needsReview": true
+}

@@ -1,0 +1,2181 @@
+{
+  "capturedAt": "2026-09-11T12:15:58.9507748Z",
+  "query": "stonk",
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "solana",
+        "dexId": "orca",
+        "url": "https://dexscreener.com/solana/afrddtgywcveqb1gxcahr8i48o6qtxyqksdvkeludehg",
+        "pairAddress": "AfrddTGYwCVEQB1gxCAhR8i48o6qtxYqksdVkeLudEhg",
+        "labels": [
+          "wp"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.002616",
+        "priceUsd": "0.2598",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 5
+          },
+          "h1": {
+            "buys": 581,
+            "sells": 211
+          },
+          "h6": {
+            "buys": 1464,
+            "sells": 1186
+          },
+          "h24": {
+            "buys": 6319,
+            "sells": 4955
+          }
+        },
+        "volume": {
+          "h24": 10833100.89,
+          "h6": 2977942.7,
+          "h1": 982073.99,
+          "m5": 3867.15
+        },
+        "priceChange": {
+          "m5": -1.47,
+          "h1": -10.95,
+          "h6": -10.04,
+          "h24": 38.91
+        },
+        "liquidity": {
+          "usd": 1954557.85,
+          "base": 3482467,
+          "quote": 10565
+        },
+        "fdv": 259897114,
+        "marketCap": 222326126,
+        "pairCreatedAt": 1785902293000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/zxtpi4btawx3mgdapoezkmd1hxx8cdecfrqxmwvsclx",
+        "pairAddress": "zxTpi4BtaWX3mgdAPoezkMD1hxx8CdeCfrqXMWvSCLX",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.002622",
+        "priceUsd": "0.2604",
+        "txns": {
+          "m5": {
+            "buys": 229,
+            "sells": 85
+          },
+          "h1": {
+            "buys": 5550,
+            "sells": 2356
+          },
+          "h6": {
+            "buys": 17109,
+            "sells": 14184
+          },
+          "h24": {
+            "buys": 68178,
+            "sells": 60965
+          }
+        },
+        "volume": {
+          "h24": 70410698.35,
+          "h6": 23152894.47,
+          "h1": 7350382.13,
+          "m5": 227701.51
+        },
+        "priceChange": {
+          "m5": -0.87,
+          "h1": -12.12,
+          "h6": -10.27,
+          "h24": 39.29
+        },
+        "liquidity": {
+          "usd": 4246995.11,
+          "base": 8423099,
+          "quote": 20669
+        },
+        "fdv": 260456957,
+        "marketCap": 222805038,
+        "pairCreatedAt": 1786531900000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/g4g5szkblfmhosghiqneyjft75ssdsl1rd8lvyt5xzbu",
+        "pairAddress": "G4G5SzkbLFMhoSgHiQNeyJFt75sSDsL1rD8LVyT5xZbU",
+        "labels": [
+          "CLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2603",
+        "priceUsd": "0.2603",
+        "txns": {
+          "m5": {
+            "buys": 21,
+            "sells": 38
+          },
+          "h1": {
+            "buys": 721,
+            "sells": 440
+          },
+          "h6": {
+            "buys": 5966,
+            "sells": 3277
+          },
+          "h24": {
+            "buys": 22181,
+            "sells": 17091
+          }
+        },
+        "volume": {
+          "h24": 4794984.65,
+          "h6": 1378224.08,
+          "h1": 328249.67,
+          "m5": 9401.95
+        },
+        "priceChange": {
+          "m5": -0.54,
+          "h1": -11.33,
+          "h6": -10.15,
+          "h24": 39.69
+        },
+        "liquidity": {
+          "usd": 402249.92,
+          "base": 742627,
+          "quote": 208872
+        },
+        "fdv": 260396868,
+        "marketCap": 222753635,
+        "pairCreatedAt": 1788857970000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/48m3trdbvymebf5rctfvagqccazdchvmeg3vpbrmgt8m",
+        "pairAddress": "48M3tRdbVYmEbf5rCTFVAgqCCaZdChVmeg3VPBrmgT8m",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.002618",
+        "priceUsd": "0.2600",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 3
+          },
+          "h1": {
+            "buys": 222,
+            "sells": 203
+          },
+          "h6": {
+            "buys": 696,
+            "sells": 950
+          },
+          "h24": {
+            "buys": 3284,
+            "sells": 3862
+          }
+        },
+        "volume": {
+          "h24": 3395392.85,
+          "h6": 814662.57,
+          "h1": 214896.9,
+          "m5": 729.66
+        },
+        "priceChange": {
+          "m5": -0.38,
+          "h1": -11.95,
+          "h6": -10.05,
+          "h24": 39.42
+        },
+        "liquidity": {
+          "usd": 1652772.76,
+          "base": 2946242,
+          "quote": 8925.1573
+        },
+        "fdv": 260072549,
+        "marketCap": 222476200,
+        "pairCreatedAt": 1785967409000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/egb1pqsgfbj3u7jgfwwx5v9cvoc4bgjyfgnag7bjcqjb",
+        "pairAddress": "EgB1PqsGFbj3u7jGfwwx5V9CVoc4BGjyfgnag7BJcQjB",
+        "labels": [
+          "CLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2596",
+        "priceUsd": "0.2596",
+        "txns": {
+          "m5": {
+            "buys": 10,
+            "sells": 15
+          },
+          "h1": {
+            "buys": 273,
+            "sells": 322
+          },
+          "h6": {
+            "buys": 2190,
+            "sells": 1483
+          },
+          "h24": {
+            "buys": 9261,
+            "sells": 7289
+          }
+        },
+        "volume": {
+          "h24": 3292933.37,
+          "h6": 675303.02,
+          "h1": 101222.39,
+          "m5": 920.11
+        },
+        "priceChange": {
+          "m5": -1.03,
+          "h1": -11.78,
+          "h6": -10.42,
+          "h24": 39.31
+        },
+        "liquidity": {
+          "usd": 164401.16,
+          "base": 185021,
+          "quote": 116365
+        },
+        "fdv": 259621527,
+        "marketCap": 222090378,
+        "pairCreatedAt": 1788731523000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "orca",
+        "url": "https://dexscreener.com/solana/6ash7naztfoeszf7ukkufy8jltzyajjtcdkwvsjwpb1d",
+        "pairAddress": "6ash7NazTfoeszf7UkKufy8JLTZyaJJtCdkWvsjwpb1d",
+        "labels": [
+          "wp"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.002614",
+        "priceUsd": "0.2597",
+        "txns": {
+          "m5": {
+            "buys": 39,
+            "sells": 66
+          },
+          "h1": {
+            "buys": 448,
+            "sells": 494
+          },
+          "h6": {
+            "buys": 3304,
+            "sells": 3248
+          },
+          "h24": {
+            "buys": 13661,
+            "sells": 12599
+          }
+        },
+        "volume": {
+          "h24": 2201922.67,
+          "h6": 794801.59,
+          "h1": 141030.45,
+          "m5": 8558.26
+        },
+        "priceChange": {
+          "m5": -0.68,
+          "h1": -10.53,
+          "h6": -9.84,
+          "h24": 39.34
+        },
+        "liquidity": {
+          "usd": 467817.55,
+          "base": 1110966,
+          "quote": 1804.862
+        },
+        "fdv": 259720290,
+        "marketCap": 222174864,
+        "pairCreatedAt": 1788942672000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x4f37a06248d962e1ac942731eccb3f00d9409f88687a19a251cf791f3e3560d1",
+        "pairAddress": "0x4f37a06248d962e1ac942731eccb3f00d9409f88687a19a251cf791f3e3560d1",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xa112A04b93598A246682C73769dF6DeEA6bb1067",
+          "name": "Stonkies",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000001551",
+        "priceUsd": "0.000003804",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 9
+          },
+          "h24": {
+            "buys": 843,
+            "sells": 1183
+          }
+        },
+        "volume": {
+          "h24": 178610.65,
+          "h6": 157.89,
+          "h1": 0.4,
+          "m5": 0.4
+        },
+        "priceChange": {
+          "m5": -0.47,
+          "h1": -0.47,
+          "h6": -9.12,
+          "h24": -92.48
+        },
+        "liquidity": {
+          "usd": 5655.65,
+          "base": 743356653,
+          "quote": 1.153
+        },
+        "fdv": 3804,
+        "marketCap": 3804,
+        "pairCreatedAt": 1789064327000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/vxXkJWCytLLTrfLo?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/Ys7RkeyozIrX3iGZ?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa112a04b93598a246682c73769df6deea6bb1067?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkies.club/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/StonkiesRH",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/g3hvaxmky1dmryn7adwnabe4qaphgliww5gjy45y7wc9",
+        "pairAddress": "G3hVaxMKY1Dmryn7aDWNaBE4qApHgLiwW5GJy45Y7wC9",
+        "labels": [
+          "CLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2608",
+        "priceUsd": "0.2608",
+        "txns": {
+          "m5": {
+            "buys": 21,
+            "sells": 31
+          },
+          "h1": {
+            "buys": 393,
+            "sells": 346
+          },
+          "h6": {
+            "buys": 2582,
+            "sells": 2593
+          },
+          "h24": {
+            "buys": 12834,
+            "sells": 12437
+          }
+        },
+        "volume": {
+          "h24": 394431.04,
+          "h6": 80815.14,
+          "h1": 15812.89,
+          "m5": 460.3
+        },
+        "priceChange": {
+          "m5": -0.53,
+          "h1": -10.91,
+          "h6": -10.02,
+          "h24": 40.07
+        },
+        "liquidity": {
+          "usd": 15455.75,
+          "base": 14160,
+          "quote": 11761
+        },
+        "fdv": 260844543,
+        "marketCap": 223136594,
+        "pairCreatedAt": 1788991057000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/gvutln57oao3xe4prxgzamhtbtfxqqqgfmnqj3zubdcy",
+        "pairAddress": "GvuTLn57oao3xe4PRxGZAmhtBtFXQQqgfmnQJ3zUBdcy",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.002638",
+        "priceUsd": "0.2619",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 76,
+            "sells": 82
+          },
+          "h6": {
+            "buys": 305,
+            "sells": 396
+          },
+          "h24": {
+            "buys": 1754,
+            "sells": 1390
+          }
+        },
+        "volume": {
+          "h24": 1347657.79,
+          "h6": 241169.36,
+          "h1": 51522.43,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -11.38,
+          "h6": -10.18,
+          "h24": 40.12
+        },
+        "liquidity": {
+          "usd": 298193.99,
+          "base": 115181,
+          "quote": 2699.3921
+        },
+        "fdv": 261946405,
+        "marketCap": 224079170,
+        "pairCreatedAt": 1789004171000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x0d8ac726c417dd19be24650c778f1ee494918b4e1a0b857a79ee69a371820d99",
+        "pairAddress": "0x0d8ac726c417dd19be24650c778f1ee494918b4e1a0b857a79ee69a371820d99",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x290ef7cb99d544FccA026EC7B769777b4693724c",
+          "name": "stonk",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
+          "name": "IBM • Robinhood Token",
+          "symbol": "IBM"
+        },
+        "priceNative": "0.00000002069",
+        "priceUsd": "0.000004854",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 4
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 7
+          }
+        },
+        "volume": {
+          "h24": 30.08,
+          "h6": 16.15,
+          "h1": 5.02,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.31,
+          "h6": 0.32,
+          "h24": -0.47
+        },
+        "liquidity": {
+          "usd": 6388.06,
+          "base": 657967440,
+          "quote": 13.6136
+        },
+        "fdv": 4854,
+        "marketCap": 4854,
+        "pairCreatedAt": 1788575329000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/2MFPG4TOzAQeRR2R?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/R1NNumLqsh3Zoa9o?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x290ef7cb99d544fcca026ec7b769777b4693724c?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://stonkpons.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/stonkpons",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x03b286f67586ee9736dc8b737b1abfd2a396df5ec8f158cb65a29cb2f5a8ebde",
+        "pairAddress": "0x03b286f67586ee9736dc8b737b1abfd2a396df5ec8f158cb65a29cb2f5a8ebde",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x407C3650561Ef4EF0d80Dd50714671622990E193",
+          "name": "STONK MINER",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+          "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+          "symbol": "SPY"
+        },
+        "priceNative": "0.000000003018",
+        "priceUsd": "0.000002294",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 6
+          }
+        },
+        "volume": {
+          "h24": 15.27,
+          "h6": 5.85,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.04,
+          "h24": -0.77
+        },
+        "liquidity": {
+          "usd": 3940.04,
+          "base": 858412437,
+          "quote": 2.5913
+        },
+        "fdv": 2249,
+        "marketCap": 2249,
+        "pairCreatedAt": 1788900772000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/YHSCVBVvD43aaL1N?width=800&height=800&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x407c3650561ef4ef0d80dd50714671622990e193?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://stonkminer.com/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/StonkMiner_",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/36spkkrsnyugjpc24ku993r8t3whkjapgoeeambbj9ub",
+        "pairAddress": "36SpkkrsnyUgjPC24KU993r8T3whkJaPgoEeAmbBj9uB",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2596",
+        "priceUsd": "0.2596",
+        "txns": {
+          "m5": {
+            "buys": 57,
+            "sells": 62
+          },
+          "h1": {
+            "buys": 958,
+            "sells": 867
+          },
+          "h6": {
+            "buys": 1100,
+            "sells": 1014
+          },
+          "h24": {
+            "buys": 4543,
+            "sells": 4268
+          }
+        },
+        "volume": {
+          "h24": 545390.62,
+          "h6": 326194.62,
+          "h1": 326061.81,
+          "m5": 19625.55
+        },
+        "priceChange": {
+          "m5": -1.09,
+          "h1": -11.52,
+          "h6": -5.64,
+          "h24": 39.22
+        },
+        "liquidity": {
+          "usd": 35675.23,
+          "base": 50362,
+          "quote": 22598
+        },
+        "fdv": 259658496,
+        "marketCap": 222122003,
+        "pairCreatedAt": 1788852777000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/jq5wbe7qt5ayycpn4gjtujbdb8v9kxxqdjexcsnf4mv",
+        "pairAddress": "JQ5WBE7qT5AYYCPn4gjtUjBdB8v9KXxQdJEXcSNf4mV",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2617",
+        "priceUsd": "0.2617",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 56,
+            "sells": 65
+          },
+          "h6": {
+            "buys": 191,
+            "sells": 205
+          },
+          "h24": {
+            "buys": 872,
+            "sells": 667
+          }
+        },
+        "volume": {
+          "h24": 639870.4,
+          "h6": 125446.26,
+          "h1": 38666.58,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -11.08,
+          "h6": -9.43,
+          "h24": 39.93
+        },
+        "liquidity": {
+          "usd": 207948.06,
+          "base": 252572,
+          "quote": 141825
+        },
+        "fdv": 261796397,
+        "marketCap": 223950847,
+        "pairCreatedAt": 1788700786000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/3c6qvymtawwnkcsspmd1qbuh9avaqhsjgw2yntveybxt",
+        "pairAddress": "3C6qVymTAwWNKCSspmd1qbUH9avaqhsjgW2yntvEYBXt",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.002719",
+        "priceUsd": "0.2706",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 7,
+            "sells": 26
+          },
+          "h6": {
+            "buys": 82,
+            "sells": 108
+          },
+          "h24": {
+            "buys": 408,
+            "sells": 299
+          }
+        },
+        "volume": {
+          "h24": 367051.31,
+          "h6": 130707.39,
+          "h1": 29034.02,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -7.25,
+          "h6": -4.81,
+          "h24": 50.06
+        },
+        "liquidity": {
+          "usd": 395308.02,
+          "base": 408397,
+          "quote": 2861.05148
+        },
+        "fdv": 270685884,
+        "marketCap": 231555261,
+        "pairCreatedAt": 1785715870000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/hzgpaoaakuus53bftww25rhxuvxtat92mcqh4nvcjgys",
+        "pairAddress": "HzgpAoaAkuUs53bfTww25RHXUvxTat92mCqH4nVCjGyS",
+        "labels": [
+          "CLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2620",
+        "priceUsd": "0.2620",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 62,
+            "sells": 34
+          },
+          "h6": {
+            "buys": 62,
+            "sells": 34
+          },
+          "h24": {
+            "buys": 1240,
+            "sells": 907
+          }
+        },
+        "volume": {
+          "h24": 77743.39,
+          "h6": 1488.12,
+          "h1": 1488.12,
+          "m5": 0.95
+        },
+        "priceChange": {
+          "m5": -0.3,
+          "h1": -3.85,
+          "h6": -3.85,
+          "h24": 41.02
+        },
+        "liquidity": {
+          "usd": 42088.95,
+          "base": 1047.4832,
+          "quote": 41814
+        },
+        "fdv": 262087384,
+        "marketCap": 224199769,
+        "pairCreatedAt": 1788695998000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/j53mm7eg423d2tcnxfcd1zqvg5v1wabayt3svliac1xn",
+        "pairAddress": "J53MM7eg423d2TCnxFcD1ZQVg5V1WaBayt3sVLiac1xN",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2600",
+        "priceUsd": "0.2600",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h1": {
+            "buys": 64,
+            "sells": 105
+          },
+          "h6": {
+            "buys": 199,
+            "sells": 318
+          },
+          "h24": {
+            "buys": 1088,
+            "sells": 1225
+          }
+        },
+        "volume": {
+          "h24": 119614.19,
+          "h6": 12022.97,
+          "h1": 7207.31,
+          "m5": 0.45
+        },
+        "priceChange": {
+          "m5": -0.48,
+          "h1": -10.44,
+          "h6": -9.94,
+          "h24": 38.96
+        },
+        "liquidity": {
+          "usd": 39834.59,
+          "base": 6849.4604,
+          "quote": 38053
+        },
+        "fdv": 260093930,
+        "marketCap": 222494490,
+        "pairCreatedAt": 1788654599000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/7ibujox4nhkqpbxc7zirxzrhehnft3jumtzuc61f1vnc",
+        "pairAddress": "7iBuJoX4nHkqpBxC7ZiRxzrhEHnfT3jUmtzUC61F1vnc",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.002651",
+        "priceUsd": "0.2638",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 7,
+            "sells": 18
+          },
+          "h6": {
+            "buys": 63,
+            "sells": 61
+          },
+          "h24": {
+            "buys": 213,
+            "sells": 173
+          }
+        },
+        "volume": {
+          "h24": 118027.29,
+          "h6": 23405.27,
+          "h1": 10918.74,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -9.98,
+          "h6": -11.31,
+          "h24": 45.81
+        },
+        "liquidity": {
+          "usd": 60663.05,
+          "base": 73565,
+          "quote": 414.653
+        },
+        "fdv": 263837429,
+        "marketCap": 225696825,
+        "pairCreatedAt": 1788705494000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "orca",
+        "url": "https://dexscreener.com/solana/camgmgo7qbhec1lqljzhbqlkdsfztjixfreusftmvwch",
+        "pairAddress": "CaMgMgo7qbHEC1LqLJzhBqLkdSFztjixFREuSfTMVwCh",
+        "labels": [
+          "wp"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2608",
+        "priceUsd": "0.2608",
+        "txns": {
+          "m5": {
+            "buys": 3,
+            "sells": 4
+          },
+          "h1": {
+            "buys": 120,
+            "sells": 176
+          },
+          "h6": {
+            "buys": 560,
+            "sells": 666
+          },
+          "h24": {
+            "buys": 2472,
+            "sells": 2449
+          }
+        },
+        "volume": {
+          "h24": 71865.53,
+          "h6": 36437.81,
+          "h1": 1870.93,
+          "m5": 33.02
+        },
+        "priceChange": {
+          "m5": -0.84,
+          "h1": -10.82,
+          "h6": -9.8,
+          "h24": 39.67
+        },
+        "liquidity": {
+          "usd": 10699.14,
+          "base": 22006,
+          "quote": 4958.7809
+        },
+        "fdv": 260849439,
+        "marketCap": 223140782,
+        "pairCreatedAt": 1787877441000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/86atkc6hniyshbcfstecquelef8kmpavtr5tkue4q7k",
+        "pairAddress": "86atKC6HNiyshbcFsTecqUeLef8KmPAVtr5TkUe4Q7k",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "VCFN4S4N2oK4FZvp2daHfhgWm7oWyAsthL1EakYDNDT",
+          "name": "Ventoor Capitalist Fund",
+          "symbol": "VCF"
+        },
+        "priceNative": "1416.4677",
+        "priceUsd": "0.2743",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 50
+          },
+          "h6": {
+            "buys": 115,
+            "sells": 50
+          },
+          "h24": {
+            "buys": 886,
+            "sells": 144
+          }
+        },
+        "volume": {
+          "h24": 3596.17,
+          "h6": 1238.25,
+          "h1": 433.06,
+          "m5": 3.26
+        },
+        "priceChange": {
+          "m5": -0.27,
+          "h1": -3.44,
+          "h6": 0.01,
+          "h24": 35.58
+        },
+        "liquidity": {
+          "usd": 48133.91,
+          "base": 87727,
+          "quote": 124246629
+        },
+        "fdv": 234705188,
+        "marketCap": 234694450,
+        "pairCreatedAt": 1785707476000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/cv4vhcnnvkpjbzmei2yspj4by9k78anikvwp127385zw",
+        "pairAddress": "CV4vhCNnVkPjbZmei2YSpJ4By9k78aniKvwP127385ZW",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2591",
+        "priceUsd": "0.2591",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 48,
+            "sells": 63
+          },
+          "h6": {
+            "buys": 147,
+            "sells": 200
+          },
+          "h24": {
+            "buys": 774,
+            "sells": 579
+          }
+        },
+        "volume": {
+          "h24": 106769.34,
+          "h6": 24264.45,
+          "h1": 13729.14,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -10.93,
+          "h6": -11.42,
+          "h24": 39.13
+        },
+        "liquidity": {
+          "usd": 23087.56,
+          "base": 16613,
+          "quote": 18781
+        },
+        "fdv": 259178810,
+        "marketCap": 221711661,
+        "pairCreatedAt": 1787934409000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/8nba3yttq3whagy7ngwpvtwpf8bw3w3ndiv57zwnurym",
+        "pairAddress": "8NBa3yttq3WHaGY7NgWpVTwPF8Bw3W3NDiV57zwnurym",
+        "labels": [
+          "CLMM"
+        ],
+        "baseToken": {
+          "address": "6mNyiGNer9sdgCcdpMQFb3DtFVqdu1KptufwSwetN4AL",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.1617",
+        "priceUsd": "0.1617",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 2,
+            "sells": 2
+          },
+          "h6": {
+            "buys": 14,
+            "sells": 14
+          },
+          "h24": {
+            "buys": 44,
+            "sells": 44
+          }
+        },
+        "volume": {
+          "h24": 228752.73,
+          "h6": 55554.4,
+          "h1": 0.39,
+          "m5": 0.19
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 161297696.6,
+          "base": 997457511,
+          "quote": 6032.05992
+        },
+        "fdv": 161702792,
+        "marketCap": 161702792,
+        "pairCreatedAt": 1788880755000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x39bac1514791c6305e462bf18faa31232c68234307c4c3ae4573afe2c8bf86cc",
+        "pairAddress": "0x39bac1514791c6305e462bf18faa31232c68234307c4c3ae4573afe2c8bf86cc",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xB0A1F5ec862E89aD2019D62FEea0258C48029354",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x4200000000000000000000000000000000000006",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.00000007406",
+        "priceUsd": "0.0001821",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.09,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 180369.78,
+          "base": 989995978,
+          "quote": 0.0004676
+        },
+        "fdv": 182191,
+        "marketCap": 182191,
+        "pairCreatedAt": 1788714101000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/gbf9wjhtbqbqkge8wnlzxquruwntad3e4ruoqpxyctej",
+        "pairAddress": "GBf9wJHTBqbQkGe8wnLZxQUrUwNtaD3E4rUoQPXYcTEj",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.2044",
+        "priceUsd": "0.2044",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 32,
+            "sells": 36
+          }
+        },
+        "volume": {
+          "h24": 158.58,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 14.12
+        },
+        "liquidity": {
+          "usd": 25045.95,
+          "base": 6.201E-05,
+          "quote": 25045
+        },
+        "fdv": 204456902,
+        "marketCap": 174900407,
+        "pairCreatedAt": 1788738695000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.stonkfun.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/LaunchOnSF",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkFunXyz",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0xe0a08fd1366b5b4cf256db1a85b6eb0e01aacbce",
+        "pairAddress": "0xe0A08fD1366b5B4CF256dB1a85B6eb0E01AAcbCE",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0xb60Fde5D798236fBF1e2697B2A0645380921FccF",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.0000005232",
+        "priceUsd": "0.001291",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 1958.33,
+          "h6": 131.15,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.85,
+          "h24": -1.18
+        },
+        "liquidity": {
+          "usd": 96765.63,
+          "base": 37475314,
+          "quote": 19.6097
+        },
+        "fdv": 116705,
+        "marketCap": 116699,
+        "pairCreatedAt": 1592702980000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Ygf7ziehFFWv1A7T?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/YgR52Xur5dPqGUXX?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0xb60fde5d798236fbf1e2697b2a0645380921fccf?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://stonkog.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/Stonk_og",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/StonkEth",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/24bmzug4rebyfdsmr9z99ghtnpdcmrvg6ishcjvxjcws",
+        "pairAddress": "24bmzUG4rEbYFdSmR9Z99GHTnpDCmrvG6isHcjvXJcws",
+        "baseToken": {
+          "address": "Eg4eG7B1VjajeHbmFRBo3uTP37BbCZrFyqZpsL75pump",
+          "name": "Stonk Wars",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000005644",
+        "priceUsd": "0.000005609",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 5,
+            "sells": 6
+          },
+          "h6": {
+            "buys": 60,
+            "sells": 71
+          },
+          "h24": {
+            "buys": 235,
+            "sells": 190
+          }
+        },
+        "volume": {
+          "h24": 13453.51,
+          "h6": 2652.14,
+          "h1": 196.06,
+          "m5": 0.2
+        },
+        "priceChange": {
+          "m5": -0.02,
+          "h1": 6.86,
+          "h6": 7.1,
+          "h24": 72.24
+        },
+        "fdv": 5609.39,
+        "marketCap": 5609.39,
+        "pairCreatedAt": 1789092293000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x615143861cc50fb9e3e3e5d66c0dee05ab1f0341f39ceaa7c720dad230402204",
+        "pairAddress": "0x615143861cc50fb9e3e3e5d66c0dee05ab1f0341f39ceaa7c720dad230402204",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x43EDA976c7bc6346118b99A9c57932ceac897777",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000007680",
+        "priceUsd": "0.001878",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 34,
+            "sells": 22
+          }
+        },
+        "volume": {
+          "h24": 42544.29,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 353
+        },
+        "liquidity": {
+          "usd": 35298.05,
+          "base": 9395429,
+          "quote": 7.2164
+        },
+        "fdv": 60814,
+        "marketCap": 60814,
+        "pairCreatedAt": 1789098150000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb66e8af9ecb2a253336a76b960a7b421854a04ded39592ec8bf40d1a7392119a",
+        "pairAddress": "0xb66e8af9ecb2a253336a76b960a7b421854a04ded39592ec8bf40d1a7392119a",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x7Ed44B4e848Bcdb160F1bEcC8b8a0CC22C787777",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000004009",
+        "priceUsd": "0.0009829",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 19,
+            "sells": 11
+          }
+        },
+        "volume": {
+          "h24": 23192.65,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 171
+        },
+        "liquidity": {
+          "usd": 25566.9,
+          "base": 13004566,
+          "quote": 5.2136
+        },
+        "fdv": 31824,
+        "marketCap": 31824,
+        "pairCreatedAt": 1789091708000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xeda070bbdfa0091505a039cdfe6591b705185cef16da4a58373084b88d9b4385",
+        "pairAddress": "0xeda070bbdfa0091505a039cdfe6591b705185cef16da4a58373084b88d9b4385",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xD6a9f2425D408D221DFFC7Ac6BfB42DfB7E07777",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000003428",
+        "priceUsd": "0.0008447",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 14,
+            "sells": 7
+          },
+          "h24": {
+            "buys": 14,
+            "sells": 7
+          }
+        },
+        "volume": {
+          "h24": 12279.07,
+          "h6": 12279.07,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 99.17,
+          "h24": 99.17
+        },
+        "liquidity": {
+          "usd": 23758.79,
+          "base": 14062286,
+          "quote": 4.8214
+        },
+        "fdv": 27349,
+        "marketCap": 27349,
+        "pairCreatedAt": 1789122976000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xf6f89e161ab1a037ccf5ce165ae653d64dfd388ffc8cbc83261f8955dddf3e04",
+        "pairAddress": "0xf6f89e161ab1a037ccf5ce165ae653d64dfd388ffc8cbc83261f8955dddf3e04",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xEa32314De1598d26bC40998d7E619E64D99E7777",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000003243",
+        "priceUsd": "0.0007949",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 13,
+            "sells": 6
+          }
+        },
+        "volume": {
+          "h24": 12248.53,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 103
+        },
+        "liquidity": {
+          "usd": 22988.24,
+          "base": 14458254,
+          "quote": 4.6894
+        },
+        "fdv": 25737,
+        "marketCap": 25737,
+        "pairCreatedAt": 1789100761000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x4871e017df26b2b4a3c3b1a58ba29d581b4c01a2f4a6caaee65e68a8a85cd087",
+        "pairAddress": "0x4871e017df26b2b4a3c3b1a58ba29d581b4c01a2f4a6caaee65e68a8a85cd087",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x8BfF9aFd9D0Fa629264e7DF391E533000AEe3D60",
+          "name": "STONK",
+          "symbol": "STONK"
+        },
+        "quoteToken": {
+          "address": "0x4200000000000000000000000000000000000006",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.0000000001100",
+        "priceUsd": "0.0000002713",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 255.93,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 27124.87,
+          "base": 98966170602,
+          "quote": 0.1077
+        },
+        "fdv": 27140,
+        "marketCap": 27140,
+        "pairCreatedAt": 1788849417000
+      }
+    ]
+  }
+}

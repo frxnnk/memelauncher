@@ -1,0 +1,140 @@
+{
+  "checkedAt": "2026-09-15T07:26:04.359Z",
+  "deployment": "dpl_B3hErAxdrbsZp1KqjDzWzSEYRxHa",
+  "files": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "sha256": "90e48efe8fc2b25276712369758ed49873c1374dd0ccc639e9f74968202919f3"
+    },
+    {
+      "file": "access.js",
+      "status": 200,
+      "sha256": "997f5b2733e68b422c2c0bac93870c98c65b871dfbdcfe268d7c39f6d31facbd"
+    },
+    {
+      "file": "app.js",
+      "status": 200,
+      "sha256": "8a774e91f294026b56c7db3b91676e2dc6ffb069642c7e17aa7f6b10f1f2b6f0"
+    },
+    {
+      "file": "account.js",
+      "status": 200,
+      "sha256": "bfcd897fc224b67f4e5edcd2b6794e980c9dca71ea3bb1d3717fe8ac9b1724aa"
+    },
+    {
+      "file": "funding.js",
+      "status": 200,
+      "sha256": "d0b7b870dc76f4fba9866055143307c4cc0e0e3cf6f9417d2fc49dcab225e53c"
+    },
+    {
+      "file": "funding-network.js",
+      "status": 200,
+      "sha256": "0a7f7f424eeeb1326c137a0e065a436ebda2a4cbebe66f31d77d1642ac6ad675"
+    },
+    {
+      "file": "funding-client.js",
+      "status": 200,
+      "sha256": "16f4f33d594c3f80985f8512168bef75e3f8b4a1372646e25d6dd0279ad100fc"
+    },
+    {
+      "file": "web-credits.js",
+      "status": 200,
+      "sha256": "05880515632c7703c73b265e76abd9f999a94bdf06ceabe2206850f5a352db31"
+    },
+    {
+      "file": "dialogs.css",
+      "status": 200,
+      "sha256": "99bc682a192066ffbac1cf3391d481c40c7664a7bbf72ccc051fbd72018a3270"
+    },
+    {
+      "file": "mascot.css",
+      "status": 200,
+      "sha256": "ba35076778668806ad5e3f18cd3a4b0dd42c308d074e4966b3de3b426222c5c0"
+    },
+    {
+      "file": "vault-door.css",
+      "status": 200,
+      "sha256": "856291909bc937744275c60a7317f082fd75268eba5d62229ff93a2ddc9bdfac"
+    },
+    {
+      "file": "mascot.js",
+      "status": 200,
+      "sha256": "8ed1e75a405964e1a33a34e07a1982523e8db65e09bba86d2c7ac2eaf0c32fe8"
+    },
+    {
+      "file": "guardian-bounty.js",
+      "status": 200,
+      "sha256": "76ae774a4ed9347f87fccf8340c9126dbccd062c734331e4c47a547aa012c1f6"
+    },
+    {
+      "file": "guardian-sound.js",
+      "status": 200,
+      "sha256": "1aeebf8decde7f87b332369244386a90a7d4b365aa5f1dceb2541750b903e008"
+    },
+    {
+      "file": "reply-delivery.js",
+      "status": 200,
+      "sha256": "01758c7d5f689fee9c82fe29d12bcc47af22cc2c52f526bb53d049befb2298f7"
+    },
+    {
+      "file": "details.js",
+      "status": 200,
+      "sha256": "c8e91a71993f52605ca881dc58b755bd5b210f62cb552b4d4ba799c6f3e8ad43"
+    },
+    {
+      "file": "vendor/privy.js",
+      "status": 200,
+      "sha256": "cde8203b0be9963712f956ae86cddc0ab8290c685d726406ddcf7fad18899878"
+    }
+  ],
+  "accountGate": 401,
+  "authConfigured": true,
+  "closedBeta": true,
+  "webFundingEnabled": true,
+  "health": {
+    "checkedAt": "2026-09-15T07:26:02.013Z",
+    "mode": "public-practice",
+    "paymentsEnabled": false,
+    "evidence": "operator-reported-aggregates",
+    "providerAvailability": "not-probed",
+    "independentExecutionProof": false,
+    "state": "requests-enabled",
+    "requestGateOpen": true,
+    "closedBeta": true,
+    "execution": {
+      "scope": "since-process-start",
+      "since": "2026-09-15T06:47:58.903Z",
+      "busy": false,
+      "storedSessions": 2,
+      "receiptStore": "not-observed",
+      "persistedReceipts": 0,
+      "validReplies": 0,
+      "errors": 0,
+      "releases": 0,
+      "receiptWriteFailures": 0,
+      "meanLatencyMs": null,
+      "maxLatencyMs": null
+    },
+    "usage": {
+      "scope": "persistent-public-practice",
+      "globalRequestsToday": 6,
+      "totalPerDay": 250,
+      "budgetUsd": 5,
+      "reportedCostUsd": 0.007885,
+      "pending": 0,
+      "unknown": 0,
+      "known": 6,
+      "notSent": 0,
+      "oldestPendingAgeMs": null,
+      "dailyWindow": "UTC"
+    },
+    "meaning": "Local request gates and recorded observations. Enabled does not prove provider availability, model resistance or funded launch readiness."
+  },
+  "robinhoodChainId": 46630,
+  "liveWalletLinkTested": true,
+  "walletLinkEvidence": "Authenticated Brave UI reported Wallet linked and displayed the server-verified EVM address after the EIP-55 deployment",
+  "liveDepositTested": true,
+  "backendUpdated": true,
+  "backendRelease": "6ea42baf2d4d"
+}

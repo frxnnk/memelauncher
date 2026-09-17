@@ -1,0 +1,112 @@
+[
+  {
+    "mint": "4P28KmEcwwnYHMdgJDkk7F1eYKgUqrPJwryaYDxWQALL",
+    "at": 1789191918510,
+    "coin": {
+      "mint": "4P28KmEcwwnYHMdgJDkk7F1eYKgUqrPJwryaYDxWQALL",
+      "name": "ALL AI",
+      "symbol": "$$ALLAI",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreig6eqtz6x73vqwnpzo7bhj7vdhcluchawekz3wgophmbwtphi4veq",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreig6eqtz6x73vqwnpzo7bhj7vdhcluchawekz3wgophmbwtphi4veq",
+      "createdAt": 1789187553000,
+      "marketCapUsd": 2874.004478617805,
+      "source": "etc",
+      "quote": null,
+      "pricedFrom": "curve"
+    },
+    "pair": {
+      "mint": "4P28KmEcwwnYHMdgJDkk7F1eYKgUqrPJwryaYDxWQALL",
+      "stock": null,
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0
+    },
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "926013490",
+      "usd": 2.664443987546626,
+      "payouts": 2,
+      "lastAt": 1789190170550,
+      "wallets": 3
+    },
+    "dropped": null,
+    "history": null,
+    "split": {
+      "config": "5eDNJa9XPHmUxjJvM1Vg6tGEYphiHWVndmQEdQnAp2aW",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders",
+          "label": "your holders",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys this coin and drops it into $all wallets",
+          "bps": 1000,
+          "role": "etc"
+        },
+        {
+          "key": "Cu3nUxTHDcdQiCRWU3oW9aw5RA7dAdBqVrj3GjZdQEvj",
+          "label": "the platform fee",
+          "bps": 1000,
+          "role": "platform"
+        },
+        {
+          "key": "E3jxkMVDk9YdnLPQwzupjZEYDMLMKUtGv7K4WJiYPxXc",
+          "label": "E3jx…PxXc",
+          "bps": 1000,
+          "role": "other"
+        },
+        {
+          "key": "3KLZGexX9vNgjkg8Tbc1HpHA7ZwR2ckRzNnC52hjTARj",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "7fy9TksJjZPA5xRpXW3KE2mSnDgwoTnHCFVJA11c272x",
+      "waiting": "650242",
+      "claimable": "2",
+      "earned": null
+    },
+    "claims": {
+      "lamports": "71856077",
+      "claims": 3,
+      "lastAt": 1789190142000,
+      "lastSignature": "3jSqXwRhY4ED3Kf6v2E1aJE3nzBdHpj7p4jydxtAUcZRUiAqswc754CkMvVKmRfcyn5WTa1Bk65xHD6NPYp192Bz",
+      "complete": false
+    },
+    "next": {
+      "at": 1789191894066,
+      "state": "running",
+      "held": "2 lamports accrued, under the 5000 a claim costs to send"
+    },
+    "feeRead": {
+      "at": 1789192286966,
+      "distributions": [
+        {
+          "signature": "3jSqXwRhY4ED3Kf6v2E1aJE3nzBdHpj7p4jydxtAUcZRUiAqswc754CkMvVKmRfcyn5WTa1Bk65xHD6NPYp192Bz",
+          "at": 1789190142000,
+          "lamports": "1278112"
+        },
+        {
+          "signature": "2RooeNk3YLk5X1hMpiz1jPd3miBTsmGXEo5dS6cH6pB4HSDXLvyZTA5TWjP6rd5DActLj1gM7Pxbf2bzpHNMwpcu",
+          "at": 1789188819000,
+          "lamports": "59660"
+        },
+        {
+          "signature": "585cB76JB2QyHqm4vvZUW5nZsZfTykfXmvQ7TPRUHBeCrupE6vtpz5Ph8Uu4DMXDYkEQWGwZeZvEZDBameargSxE",
+          "at": 1789188461000,
+          "lamports": "70518305"
+        }
+      ],
+      "complete": false
+    }
+  }
+]

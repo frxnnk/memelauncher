@@ -1,0 +1,38 @@
+[
+  {
+    "file": "home.html",
+    "url": "https://www.open-set.xyz/",
+    "atUtc": "2026-09-12T06:42:21.8372368Z",
+    "status": 200
+  },
+  {
+    "file": "how-it-works.html",
+    "url": "https://www.open-set.xyz/how-it-works",
+    "atUtc": "2026-09-12T06:42:22.4580966Z",
+    "status": 200
+  },
+  {
+    "file": "receipt-198.html",
+    "url": "https://www.open-set.xyz/receipt/drop-198",
+    "atUtc": "2026-09-12T06:42:22.9288828Z",
+    "status": 200
+  },
+  {
+    "file": "receipt-197.html",
+    "url": "https://www.open-set.xyz/receipt/drop-197",
+    "atUtc": "2026-09-12T06:42:23.8496133Z",
+    "status": 200
+  },
+  {
+    "file": "telegram.html",
+    "url": "https://t.me/s/opensetlive",
+    "atUtc": "2026-09-12T06:42:24.7413242Z",
+    "status": 200
+  },
+  {
+    "file": "dex.json",
+    "url": "https://api.dexscreener.com/token-pairs/v1/solana/8LstZpZuR9Dy7JCZC3YwPEWtbYhuDVFAYV37r6ZAcuHz",
+    "atUtc": "2026-09-12T06:42:25.0355717Z",
+    "status": 200
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-09-14T22:50:35.4496836Z",
+  "release": "verifier-v0.5.11",
+  "publishedAt": "2026-06-10T12:44:03Z",
+  "releaseUrl": "https://github.com/Dstack-TEE/dstack/releases/tag/verifier-v0.5.11",
+  "releaseSourceCommit": "245201be13be06f84b54c416c52b350612aa695e",
+  "readmeUrl": "https://raw.githubusercontent.com/Dstack-TEE/dstack/245201be13be06f84b54c416c52b350612aa695e/verifier/README.md",
+  "readmeSha256": "f1ba1fb0288e47bd734704671a208f00ef0fd190cdd5964babaaebbae32cbeb5",
+  "image": "docker.io/dstacktee/dstack-verifier@sha256:a000adea64ba689c8949647bfaa034e56b3e1f537ddf6ae97182abb95e7f560d",
+  "imageDigestEvidence": "official-release-body-not-independently-sigstore-verified",
+  "candidateRuntimeVersion": null,
+  "runtimeCompatibilityVerified": false,
+  "vaultAttestationVerified": false,
+  "cloudResourcesCreated": 0,
+  "realFunds": false,
+  "priceSource": "https://phala.com/pricing",
+  "pricingObserved": {
+    "maximumChargeVerified": false,
+    "diskUsdPerGbHour": "0.000139",
+    "proposedDiskGb": 20,
+    "mediumComputeUsdPerHour": "0.12",
+    "indicativeComputeAndDiskUsd": "0.24556",
+    "proposedHours": 2
+  },
+  "localProbe": {
+    "composeSyntaxValidated": true,
+    "dockerDesktopStarted": true,
+    "dockerInfoCompleted": false,
+    "dockerInfoQueryCancelled": true,
+    "enginePipeObserved": true,
+    "wslVmProcessObserved": false,
+    "imagePulled": false,
+    "containerStarted": false,
+    "quoteSubmitted": false,
+    "status": "engine-unresponsive-runtime-unverified"
+  }
+}

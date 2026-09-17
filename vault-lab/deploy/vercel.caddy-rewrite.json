@@ -1,0 +1,27 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "fluid": true,
+  "buildCommand": "node scripts/build-vercel.mjs",
+  "installCommand": "npm ci --ignore-scripts",
+  "outputDirectory": ".vercel-static",
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://vault-beta-api.173.212.246.68.sslip.io/api/:path*" },
+    { "source": "/", "has": [{ "type": "query", "key": "ui" }], "destination": "/chat.html" },
+    { "source": "/", "destination": "/landing.html" },
+    { "source": "/play", "destination": "/chat.html" },
+    { "source": "/play/", "destination": "/chat.html" },
+    { "source": "/fairness", "destination": "/fairness.html" },
+    { "source": "/fairness/", "destination": "/fairness.html" }
+  ],
+  "headers": [
+    { "source": "/(.*)", "headers": [
+      { "key": "X-Content-Type-Options", "value": "nosniff" },
+      { "key": "Referrer-Policy", "value": "no-referrer" },
+      { "key": "X-Frame-Options", "value": "DENY" },
+      { "key": "X-Robots-Tag", "value": "noindex, nofollow" },
+      { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https://auth.privy.io https://rpc.testnet.chain.robinhood.com; frame-src https://auth.privy.io; font-src 'self'; base-uri 'none'; frame-ancestors 'none'; form-action 'self'" }
+    ]},
+    { "source": "/api/:path*", "headers": [{ "key": "Cache-Control", "value": "no-store" }] }
+  ]
+}

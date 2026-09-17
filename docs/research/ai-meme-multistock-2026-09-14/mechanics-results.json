@@ -1,0 +1,38 @@
+{
+  "status": "MATHEMATICAL_CHECKS_PASSED",
+  "proportionalMintRedeemStates": 750,
+  "assumptions": [
+    "Positive seeded supply",
+    "Integer raw token balances",
+    "No fees or balance-changing transfers",
+    "All component transfers succeed"
+  ],
+  "marketExample": {
+    "stockFactors": [
+      2,
+      1,
+      1
+    ],
+    "threePoolMemeReturnPercent": 29.52060277213755,
+    "equalWeightBuyHoldReturnPercent": 33.33333333333333,
+    "scope": "Simplified full-range zero-fee model; not the live Long v4 hook"
+  },
+  "oracleExample": {
+    "rawBalance": 2,
+    "underlyingPrice": 100,
+    "multiplier": 1.05,
+    "tokenOraclePrice": 105,
+    "correctValue": 210,
+    "incorrectDoubleScaledValue": 220.5
+  },
+  "notValidated": [
+    "EVM behavior",
+    "Token pause/freeze behavior",
+    "Live swap depth",
+    "Gas",
+    "First-depositor/donation attack defenses",
+    "Fees",
+    "Rebalance execution",
+    "Profitability"
+  ]
+}

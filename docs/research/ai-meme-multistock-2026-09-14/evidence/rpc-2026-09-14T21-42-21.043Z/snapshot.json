@@ -1,0 +1,397 @@
+{
+  "observedAt": "2026-09-14T21:42:21.045Z",
+  "mode": "READ_ONLY_RPC",
+  "rpcUrl": "https://rpc.mainnet.chain.robinhood.com/",
+  "catalogSource": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\docs\\research\\ai-meme-multistock-2026-09-14\\evidence\\2026-09-14T21-40-42.572Z\\",
+  "assets": [
+    {
+      "symbol": "NVDA",
+      "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "status": "ASSET_STATUS_ACTIVE",
+      "multiplierFromAPI": "1.000775159164630595",
+      "tradingCapabilities": {
+        "market": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "extended": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "overnight": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        }
+      },
+      "code": {
+        "bytes": 283,
+        "keccak256": "0x6c1fdd40002dcb440c7fff6a84171404d279ccb057803b65826f7546acd65630"
+      },
+      "reads": {
+        "symbol": {
+          "ok": true,
+          "value": "NVDA"
+        },
+        "decimals": {
+          "ok": true,
+          "value": 18
+        },
+        "totalSupply": {
+          "ok": true,
+          "value": "108652195714730000000000"
+        },
+        "uiMultiplier": {
+          "ok": true,
+          "value": "1000775159164630595"
+        },
+        "oraclePaused": {
+          "ok": true,
+          "value": false
+        },
+        "paused": {
+          "ok": true,
+          "value": false
+        }
+      },
+      "oracle": {
+        "address": "0x379EC4f7C378F34a1B47E4F3cbeBCbAC3E8E9F15",
+        "provenance": "Historical 2026-09-08 registry; feed authority not reverified",
+        "decimals": {
+          "ok": true,
+          "value": 8
+        },
+        "round": {
+          "ok": true,
+          "value": [
+            "18446744073709552653",
+            "21192775049",
+            "1789418182",
+            "1789418195",
+            "18446744073709552653"
+          ]
+        },
+        "ageSeconds": 3942,
+        "heartbeatVerified": false
+      }
+    },
+    {
+      "symbol": "GOOGL",
+      "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+      "status": "ASSET_STATUS_ACTIVE",
+      "multiplierFromAPI": "1.000000000000000000",
+      "tradingCapabilities": {
+        "market": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "extended": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "overnight": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        }
+      },
+      "code": {
+        "bytes": 283,
+        "keccak256": "0x6c1fdd40002dcb440c7fff6a84171404d279ccb057803b65826f7546acd65630"
+      },
+      "reads": {
+        "symbol": {
+          "ok": true,
+          "value": "GOOGL"
+        },
+        "decimals": {
+          "ok": true,
+          "value": 18
+        },
+        "totalSupply": {
+          "ok": true,
+          "value": "15837178000000000000000"
+        },
+        "uiMultiplier": {
+          "ok": true,
+          "value": "1000000000000000000"
+        },
+        "oraclePaused": {
+          "ok": true,
+          "value": false
+        },
+        "paused": {
+          "ok": true,
+          "value": false
+        }
+      },
+      "oracle": {
+        "address": "0xF6f373a037c30F0e5010d854385cA89185AE638b",
+        "provenance": "Historical 2026-09-08 registry; feed authority not reverified",
+        "decimals": {
+          "ok": true,
+          "value": 8
+        },
+        "round": {
+          "ok": true,
+          "value": [
+            "18446744073709552374",
+            "34855385000",
+            "1789414209",
+            "1789414221",
+            "18446744073709552374"
+          ]
+        },
+        "ageSeconds": 7916,
+        "heartbeatVerified": false
+      }
+    },
+    {
+      "symbol": "META",
+      "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+      "status": "ASSET_STATUS_ACTIVE",
+      "multiplierFromAPI": "1.000000000000000000",
+      "tradingCapabilities": {
+        "market": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "extended": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "overnight": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        }
+      },
+      "code": {
+        "bytes": 283,
+        "keccak256": "0x6c1fdd40002dcb440c7fff6a84171404d279ccb057803b65826f7546acd65630"
+      },
+      "reads": {
+        "symbol": {
+          "ok": true,
+          "value": "META"
+        },
+        "decimals": {
+          "ok": true,
+          "value": 18
+        },
+        "totalSupply": {
+          "ok": true,
+          "value": "3472525000000000000000"
+        },
+        "uiMultiplier": {
+          "ok": true,
+          "value": "1000000000000000000"
+        },
+        "oraclePaused": {
+          "ok": true,
+          "value": false
+        },
+        "paused": {
+          "ok": true,
+          "value": false
+        }
+      },
+      "oracle": {
+        "address": "0x7C38C00C30BEe9378381E7B6135d7283356D71b1",
+        "provenance": "Historical 2026-09-08 registry; feed authority not reverified",
+        "decimals": {
+          "ok": true,
+          "value": 8
+        },
+        "round": {
+          "ok": true,
+          "value": [
+            "18446744073709552773",
+            "66431835000",
+            "1789418160",
+            "1789418173",
+            "18446744073709552773"
+          ]
+        },
+        "ageSeconds": 3964,
+        "heartbeatVerified": false
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+      "status": "ASSET_STATUS_ACTIVE",
+      "multiplierFromAPI": "1.000412952576205964",
+      "tradingCapabilities": {
+        "market": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "extended": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "overnight": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        }
+      },
+      "code": {
+        "bytes": 283,
+        "keccak256": "0x6c1fdd40002dcb440c7fff6a84171404d279ccb057803b65826f7546acd65630"
+      },
+      "reads": {
+        "symbol": {
+          "ok": true,
+          "value": "MSFT"
+        },
+        "decimals": {
+          "ok": true,
+          "value": 18
+        },
+        "totalSupply": {
+          "ok": true,
+          "value": "5493347268090000000000"
+        },
+        "uiMultiplier": {
+          "ok": true,
+          "value": "1000412952576205964"
+        },
+        "oraclePaused": {
+          "ok": true,
+          "value": false
+        },
+        "paused": {
+          "ok": true,
+          "value": false
+        }
+      }
+    },
+    {
+      "symbol": "AIQ",
+      "status": "NOT_FOUND_IN_THIS_CATALOG_SNAPSHOT"
+    },
+    {
+      "symbol": "ARTY",
+      "status": "NOT_FOUND_IN_THIS_CATALOG_SNAPSHOT"
+    },
+    {
+      "symbol": "QQQ",
+      "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
+      "status": "ASSET_STATUS_ACTIVE",
+      "multiplierFromAPI": "1.000000000000000000",
+      "tradingCapabilities": {
+        "market": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "extended": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "overnight": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        }
+      },
+      "code": {
+        "bytes": 283,
+        "keccak256": "0x6c1fdd40002dcb440c7fff6a84171404d279ccb057803b65826f7546acd65630"
+      },
+      "reads": {
+        "symbol": {
+          "ok": true,
+          "value": "QQQ"
+        },
+        "decimals": {
+          "ok": true,
+          "value": 18
+        },
+        "totalSupply": {
+          "ok": true,
+          "value": "7818413000000000000000"
+        },
+        "uiMultiplier": {
+          "ok": true,
+          "value": "1000000000000000000"
+        },
+        "oraclePaused": {
+          "ok": true,
+          "value": false
+        },
+        "paused": {
+          "ok": true,
+          "value": false
+        }
+      }
+    },
+    {
+      "symbol": "SPY",
+      "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+      "status": "ASSET_STATUS_ACTIVE",
+      "multiplierFromAPI": "1.000000000000000000",
+      "tradingCapabilities": {
+        "market": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "extended": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        },
+        "overnight": {
+          "whole": "TRADING_STATUS_TRADABLE",
+          "fractional": "TRADING_STATUS_TRADABLE"
+        }
+      },
+      "code": {
+        "bytes": 283,
+        "keccak256": "0x6c1fdd40002dcb440c7fff6a84171404d279ccb057803b65826f7546acd65630"
+      },
+      "reads": {
+        "symbol": {
+          "ok": true,
+          "value": "SPY"
+        },
+        "decimals": {
+          "ok": true,
+          "value": 18
+        },
+        "totalSupply": {
+          "ok": true,
+          "value": "33200338000000000000000"
+        },
+        "uiMultiplier": {
+          "ok": true,
+          "value": "1000000000000000000"
+        },
+        "oraclePaused": {
+          "ok": true,
+          "value": false
+        },
+        "paused": {
+          "ok": true,
+          "value": false
+        }
+      }
+    }
+  ],
+  "chainId": 4663,
+  "blockNumber": "63134544",
+  "blockHash": "0xe116e06ea7ed170f9f71ee2f5427aa16f27779e9bd72ffe29f9c8eae21012d2f",
+  "blockTimestamp": 1789422137,
+  "blockAt": "2026-09-14T21:42:17.000Z",
+  "historicalLongFactory": {
+    "address": "0x22e99278308B393ea1260859B181AD7E78f5eeED",
+    "code": {
+      "bytes": 5826,
+      "keccak256": "0x07f672e3431f9963637f0ecea95753147f10c36a22a8dc5192f397fe1cea0c59"
+    },
+    "paused": {
+      "ok": true,
+      "value": true
+    },
+    "owner": {
+      "ok": true,
+      "value": "0x9B7f0d4dcF6a4BaED39B2F4f5Aeae6cA082BED47"
+    },
+    "currentFrontendMappingVerified": false
+  }
+}

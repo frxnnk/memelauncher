@@ -1,0 +1,2055 @@
+[
+  {
+    "chain": "base",
+    "rank": 1,
+    "pair": "0x99cf3e8bfb02c300312c53aac5d0b082e3d5975c",
+    "token": "0xB095274743941e953c746F9C228DA9c18Bb6ec29",
+    "name": "LAPTOP",
+    "symbol": "LAPTOP",
+    "quote": "USDC",
+    "quoteAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "uiAge": "",
+    "createdAt": null,
+    "ageHours": null,
+    "priceUsd": "0.3830",
+    "marketCap": 134068469,
+    "liquidityUsd": 1606745.46,
+    "volumeH1": 52686.4,
+    "volumeH6": 204824.63,
+    "volumeH24": 1676200.29,
+    "buysH1": 112,
+    "sellsH1": 241,
+    "changeH1": -3.96,
+    "changeH6": -5.97,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.laptoptoken.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/HunterBiden/status/2097853144596381759",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 2,
+    "pair": "0xf79478d5a6bae4546f7e489e80b2fc690b558944",
+    "token": "0xB2000000000000000000004c27f6523082f41D01",
+    "name": "Basecat",
+    "symbol": "Basecat",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "26d",
+    "createdAt": "2026-08-15T21:08:29Z",
+    "ageHours": 657.097,
+    "priceUsd": "0.02406",
+    "marketCap": 24067728,
+    "liquidityUsd": 499937.58,
+    "volumeH1": 108559.39,
+    "volumeH6": 322352,
+    "volumeH24": 3252833.34,
+    "buysH1": 51,
+    "sellsH1": 97,
+    "changeH1": 2.63,
+    "changeH6": 11.29,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://basecatonbase.com/",
+        "label": "Website"
+      },
+      {
+        "url": "https://x.com/i/chat/group_join/g2089742168302784872/buAWC54kPw",
+        "label": "X CHAT"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/BasecatOnBase",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/basecatonbase",
+        "type": "telegram"
+      },
+      {
+        "url": "https://discord.gg/WSRRKSsYf",
+        "type": "discord"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 3,
+    "pair": "0x7692acc1cdd771d09ebcae3663e1843b2911bec7",
+    "token": "0x5ab000ff9B9FfE0349CE5ffA5fD86f217C3680F5",
+    "name": "The Stonks Exchange",
+    "symbol": "STONKEX",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "17d",
+    "createdAt": "2026-08-24T15:19:45Z",
+    "ageHours": 446.909,
+    "priceUsd": "0.01216",
+    "marketCap": 11123573,
+    "liquidityUsd": 618108.47,
+    "volumeH1": 20622.2,
+    "volumeH6": 269387.18,
+    "volumeH24": 2796805.45,
+    "buysH1": 42,
+    "sellsH1": 31,
+    "changeH1": -0.98,
+    "changeH6": -17.94,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.thestonks.exchange/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/Stonks_Exchange",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/Stonks_Exchange",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 4,
+    "pair": "0xc9786476d2492eb8ddb2ebf8b4b69e227e1f31397c790d877541ab0ed5cf5ee2",
+    "token": "0x0F61Edbfe6Cd86024C0f210c0695B08df55fdfc9",
+    "name": "BaseStonk",
+    "symbol": "BSTONK",
+    "quote": "USDC",
+    "quoteAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "uiAge": "25d",
+    "createdAt": "2026-08-17T01:06:35Z",
+    "ageHours": 629.129,
+    "priceUsd": "0.006604",
+    "marketCap": 5859696,
+    "liquidityUsd": 275624.61,
+    "volumeH1": 14945.75,
+    "volumeH6": 256463.32,
+    "volumeH24": 793588.06,
+    "buysH1": 40,
+    "sellsH1": 16,
+    "changeH1": -1.23,
+    "changeH6": -2.9,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://basestonk.io/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/BaseStonk",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/basestonk",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 5,
+    "pair": "0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c",
+    "token": "0x39988BF0638Edb8c65cE0fB9e1e457C575157BA3",
+    "name": "Fly Language Model",
+    "symbol": "FLM",
+    "quote": "GOOGLc",
+    "quoteAddress": "0xb2000000000000000000002D0BA3164cc74f58B7",
+    "uiAge": "8h",
+    "createdAt": "2026-09-11T22:03:15Z",
+    "ageHours": 8.184,
+    "priceUsd": "0.000001206",
+    "marketCap": 120610,
+    "liquidityUsd": 79265.07,
+    "volumeH1": 33929.39,
+    "volumeH6": 74301.43,
+    "volumeH24": 1025892.18,
+    "buysH1": 103,
+    "sellsH1": 252,
+    "changeH1": 25.9,
+    "changeH6": 110,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://btxfox.com",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/nftechie_/status/2098532090874560815",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 6,
+    "pair": "0x85f1aa3a70fedd1c52705c15baed143e675cd626",
+    "token": "0x9B5E262cF9bb04869ab40b19AF91D2dc85761722",
+    "name": "Nock",
+    "symbol": "NOCK",
+    "quote": "USDC",
+    "quoteAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "uiAge": "8mo",
+    "createdAt": "2025-12-22T21:52:39Z",
+    "ageHours": 6320.361,
+    "priceUsd": "0.04382",
+    "marketCap": 101335823,
+    "liquidityUsd": 1507288.02,
+    "volumeH1": 22914.06,
+    "volumeH6": 720493.34,
+    "volumeH24": 2077802.7,
+    "buysH1": 19,
+    "sellsH1": 22,
+    "changeH1": -1.21,
+    "changeH6": 22,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://nockchain.org",
+        "label": "Website"
+      },
+      {
+        "url": "https://docs.nockchain.org",
+        "label": "Docs"
+      },
+      {
+        "url": "https://nockblocks.com",
+        "label": "Explorer 1"
+      },
+      {
+        "url": "https://nockscan.net",
+        "label": "Explorer 2"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/nockchain",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/nockchainproject",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 7,
+    "pair": "0x5116773e18a9c7bb03ebb961b38678e45e238923",
+    "token": "0x3ec2156D4c0A9CBdAB4a016633b7BcF6a8d68Ea2",
+    "name": "DebtReliefBot",
+    "symbol": "DRB",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "1y",
+    "createdAt": "2025-03-07T09:58:57Z",
+    "ageHours": 13292.256,
+    "priceUsd": "0.0002070",
+    "marketCap": 20432055,
+    "liquidityUsd": 1525565.84,
+    "volumeH1": 16955.75,
+    "volumeH6": 179336.38,
+    "volumeH24": 488078.92,
+    "buysH1": 12,
+    "sellsH1": 15,
+    "changeH1": 2.74,
+    "changeH6": 8.74,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://bio.site/drbtaskforce",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/grok/status/1897949874961650169",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/DebtReliefBotPortal",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 8,
+    "pair": "0x9f8353f61574da73218206ad3f70d9455bfed9c4",
+    "token": "0xCB2BAff7177C8966A8b059b3Df3e9323dc2Ee267",
+    "name": "iStonks",
+    "symbol": "ISTONKS",
+    "quote": "AAPLc",
+    "quoteAddress": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+    "uiAge": "12h",
+    "createdAt": "2026-09-11T17:33:05Z",
+    "ageHours": 12.687,
+    "priceUsd": "0.0001710",
+    "marketCap": 171024,
+    "liquidityUsd": 48743.25,
+    "volumeH1": 7494.44,
+    "volumeH6": 70843.86,
+    "volumeH24": 585764.73,
+    "buysH1": 28,
+    "sellsH1": 20,
+    "changeH1": -26.94,
+    "changeH6": -43.86,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/istonksbase",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 9,
+    "pair": "0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce",
+    "token": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+    "name": "Venice Token",
+    "symbol": "VVV",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "1y",
+    "createdAt": "2025-01-27T16:44:43Z",
+    "ageHours": 14221.493,
+    "priceUsd": "23.42",
+    "marketCap": 1129202674,
+    "liquidityUsd": 14215436.69,
+    "volumeH1": 44054.33,
+    "volumeH6": 390853.28,
+    "volumeH24": 3737025.05,
+    "buysH1": 162,
+    "sellsH1": 59,
+    "changeH1": -0.91,
+    "changeH6": -0.55,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://venice.ai/home",
+        "label": "Website"
+      },
+      {
+        "url": "https://venice.ai/token",
+        "label": "Token Dashboard"
+      },
+      {
+        "url": "https://venice.ai/chat",
+        "label": "Venice App"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/AskVenice",
+        "type": "twitter"
+      },
+      {
+        "url": "https://discord.gg/askvenice",
+        "type": "discord"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 10,
+    "pair": "0x4b095f294d8efca4b50b948865e68262025a68ba80e759b5b75cddb995c6b43f",
+    "token": "0xB200000000000000000000cFbdF64a8706a94a01",
+    "name": "BLUE CHIP",
+    "symbol": "BLUECHIP",
+    "quote": "USDC",
+    "quoteAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "uiAge": "18d",
+    "createdAt": "2026-08-23T12:02:47Z",
+    "ageHours": 474.192,
+    "priceUsd": "0.01715",
+    "marketCap": 17156451,
+    "liquidityUsd": 191389.53,
+    "volumeH1": 5218.53,
+    "volumeH6": 110011.77,
+    "volumeH24": 860423.7,
+    "buysH1": 14,
+    "sellsH1": 8,
+    "changeH1": 0.22,
+    "changeH6": 9.34,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://basebluechip.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/o1bluechip",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 11,
+    "pair": "0x0c3b466104545efa096b8f944c1e524e1d0d4888",
+    "token": "0xA4A2E2ca3fBfE21aed83471D28b6f65A233C6e00",
+    "name": "Ribbita by Virtuals",
+    "symbol": "TIBBIR",
+    "quote": "VIRTUAL",
+    "quoteAddress": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+    "uiAge": "1y",
+    "createdAt": "2025-01-12T00:30:03Z",
+    "ageHours": 14597.737,
+    "priceUsd": "0.2109",
+    "marketCap": 210883571,
+    "liquidityUsd": 2975858.88,
+    "volumeH1": 3010.1,
+    "volumeH6": 128567.98,
+    "volumeH24": 319088.88,
+    "buysH1": 12,
+    "sellsH1": 15,
+    "changeH1": -0.26,
+    "changeH6": 8.94,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://ribbitcap.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/ribbita2012",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 12,
+    "pair": "0x215b2146c3164aba3f5b18e8619b737c7f7dd11e5ba693646dcd9a336c5a30ba",
+    "token": "0xB2000000000000000000004c27f6523082f41D01",
+    "name": "Basecat",
+    "symbol": "Basecat",
+    "quote": "ETH",
+    "quoteAddress": "0x0000000000000000000000000000000000000000",
+    "uiAge": "26d",
+    "createdAt": "2026-08-15T18:03:49Z",
+    "ageHours": 660.175,
+    "priceUsd": "0.02383",
+    "marketCap": 23833419,
+    "liquidityUsd": 725796.22,
+    "volumeH1": 43549.16,
+    "volumeH6": 154692.3,
+    "volumeH24": 2077163.92,
+    "buysH1": 53,
+    "sellsH1": 47,
+    "changeH1": 0.6,
+    "changeH6": 9.67,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://basecatonbase.com/",
+        "label": "Website"
+      },
+      {
+        "url": "https://x.com/i/chat/group_join/g2089742168302784872/buAWC54kPw",
+        "label": "X CHAT"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/BasecatOnBase",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/basecatonbase",
+        "type": "telegram"
+      },
+      {
+        "url": "https://discord.gg/WSRRKSsYf",
+        "type": "discord"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 13,
+    "pair": "0x1131db5977242a03ebead1acd18f80a9a29e5922",
+    "token": "0x311935Cd80B76769bF2ecC9D8Ab7635b2139cf82",
+    "name": "Solana",
+    "symbol": "SOL",
+    "quote": "USDC",
+    "quoteAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "uiAge": "",
+    "createdAt": null,
+    "ageHours": null,
+    "priceUsd": "101.54",
+    "marketCap": 23098782,
+    "liquidityUsd": 598674.96,
+    "volumeH1": 67870.01,
+    "volumeH6": 559758.43,
+    "volumeH24": 7715078.73,
+    "buysH1": 51,
+    "sellsH1": 49,
+    "changeH1": 0.03,
+    "changeH6": -0.73,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://solana.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/solana",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 14,
+    "pair": "0xbcdd8383e38069f626846b94e93ee4d2c00cadfcce4b9457b0b8b04289030345",
+    "token": "0x75Af968d2e58749FDA1b42C58186B76f5E511bA3",
+    "name": "ChipWorks",
+    "symbol": "CHIP",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "3d",
+    "createdAt": "2026-09-08T16:34:21Z",
+    "ageHours": 85.666,
+    "priceUsd": "0.000005378",
+    "marketCap": 532739,
+    "liquidityUsd": 169587.41,
+    "volumeH1": 15462.1,
+    "volumeH6": 54122.1,
+    "volumeH24": 303870.17,
+    "buysH1": 42,
+    "sellsH1": 69,
+    "changeH1": -18.21,
+    "changeH6": -5.61,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://getchipped.xyz",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/basednouns",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 15,
+    "pair": "0x3f0296bf652e19bca772ec3df08b32732f93014a",
+    "token": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+    "name": "Virtual Protocol",
+    "symbol": "VIRTUAL",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "",
+    "createdAt": null,
+    "ageHours": null,
+    "priceUsd": "0.6348",
+    "marketCap": 417972912,
+    "liquidityUsd": 368047.22,
+    "volumeH1": 18239.59,
+    "volumeH6": 165615.55,
+    "volumeH24": 1220387.67,
+    "buysH1": 76,
+    "sellsH1": 103,
+    "changeH1": -0.07,
+    "changeH6": 0.95,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "http://virtuals.io/",
+        "label": "Website"
+      },
+      {
+        "url": "https://whitepaper.virtuals.io/",
+        "label": "Docs"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://twitter.com/virtuals_io",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/virtuals",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 16,
+    "pair": "0x5e916637e7c271972049cf33039e0feba2e8b6ba43b5e163e7720f15b3163deb",
+    "token": "0xb20000000000000000000029440A9564B59129B1",
+    "name": "plumber",
+    "symbol": "plumber",
+    "quote": "ETH",
+    "quoteAddress": "0x0000000000000000000000000000000000000000",
+    "uiAge": "1mo",
+    "createdAt": "2026-08-12T00:34:29Z",
+    "ageHours": 749.664,
+    "priceUsd": "0.001242",
+    "marketCap": 1242576,
+    "liquidityUsd": 125894.71,
+    "volumeH1": 4020.52,
+    "volumeH6": 37795.37,
+    "volumeH24": 351702.95,
+    "buysH1": 14,
+    "sellsH1": 14,
+    "changeH1": 11,
+    "changeH6": -6.72,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://plumbermode.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/plumberonbase?s=11",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 17,
+    "pair": "0x851f65bcdf6485f15047d4dea1cf8cb60ad1a815bbed7d2e8373a32b954045e4",
+    "token": "0xA6af0cEa8FBC93E1eCcC00f1FdD9a0BBa251FeE1",
+    "name": "iPod",
+    "symbol": "IPOD",
+    "quote": "AAPLc",
+    "quoteAddress": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+    "uiAge": "14d",
+    "createdAt": "2026-08-27T13:47:09Z",
+    "ageHours": 376.452,
+    "priceUsd": "0.001427",
+    "marketCap": 1427474,
+    "liquidityUsd": 418106.56,
+    "volumeH1": 11871.63,
+    "volumeH6": 42242.32,
+    "volumeH24": 358638.64,
+    "buysH1": 15,
+    "sellsH1": 34,
+    "changeH1": -19.01,
+    "changeH6": -14.27,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://ipodonchain.com",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/iPodAAPLc",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 18,
+    "pair": "0x9fd58e73d8047cb14ac540acd141d3fc1a41fb6252d674b730faf62fe24aa8ce",
+    "token": "0x9f86dB9fc6f7c9408e8Fda3Ff8ce4e78ac7a6b07",
+    "name": "clawd.atg.eth",
+    "symbol": "CLAWD",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "7mo",
+    "createdAt": "2026-01-26T21:48:55Z",
+    "ageHours": 5480.423,
+    "priceUsd": "0.000007373",
+    "marketCap": 719071,
+    "liquidityUsd": 243640.37,
+    "volumeH1": 150.35,
+    "volumeH6": 70649.07,
+    "volumeH24": 76941.06,
+    "buysH1": 1,
+    "sellsH1": 5,
+    "changeH1": 0.14,
+    "changeH6": 34.44,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://clawdbotatg.eth.link/",
+        "label": "Website"
+      },
+      {
+        "url": "https://github.com/clawdbotatg",
+        "label": "Github"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/clawdbotatg",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/ClawdChatTGBot",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 19,
+    "pair": "0xd9edc75a3a797ec92ca370f19051babebfb2edee",
+    "token": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+    "name": "Keeta",
+    "symbol": "KTA",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "1y",
+    "createdAt": "2025-03-05T18:32:33Z",
+    "ageHours": 13331.696,
+    "priceUsd": "0.09242",
+    "marketCap": 55713078,
+    "liquidityUsd": 4691564.81,
+    "volumeH1": 8842.84,
+    "volumeH6": 50135.13,
+    "volumeH24": 614041.48,
+    "buysH1": 24,
+    "sellsH1": 7,
+    "changeH1": 0.2,
+    "changeH6": 2.33,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://keeta.com",
+        "label": "Website"
+      },
+      {
+        "url": "https://docs.keeta.com",
+        "label": "Docs"
+      },
+      {
+        "url": "https://www.reddit.com/r/keeta/",
+        "label": "Reddit"
+      },
+      {
+        "url": "https://www.linkedin.com/company/keetanetwork/",
+        "label": "LinkedIn"
+      },
+      {
+        "url": "https://www.instagram.com/keetanetwork/",
+        "label": "Instagram"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/KeetaNetwork",
+        "type": "twitter"
+      },
+      {
+        "url": "https://discord.gg/keeta",
+        "type": "discord"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 20,
+    "pair": "0xec33256bf1ded407a57fd3c1965e7556e42ac14db09bc4e6fef57d5e2eb0b0b9",
+    "token": "0x5F980Dcfc4c0fa3911554cf5ab288ed0eb13DBa3",
+    "name": "gitlawb",
+    "symbol": "GITLAWB",
+    "quote": "WETH",
+    "quoteAddress": "0x4200000000000000000000000000000000000006",
+    "uiAge": "6mo",
+    "createdAt": "2026-03-11T02:00:07Z",
+    "ageHours": 4444.236,
+    "priceUsd": "0.00002667",
+    "marketCap": 2658392,
+    "liquidityUsd": 524028.75,
+    "volumeH1": 9767.61,
+    "volumeH6": 15477.55,
+    "volumeH24": 223614.09,
+    "buysH1": 8,
+    "sellsH1": 6,
+    "changeH1": 6.76,
+    "changeH6": 7.76,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://gitlawb.com",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/gitlawb",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 21,
+    "pair": "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d",
+    "token": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+    "name": "Aerodrome",
+    "symbol": "AERO",
+    "quote": "USDC",
+    "quoteAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "uiAge": "3y",
+    "createdAt": "2023-09-07T22:50:45Z",
+    "ageHours": 26407.392,
+    "priceUsd": "0.5697",
+    "marketCap": 1127199976,
+    "liquidityUsd": 33748933.68,
+    "volumeH1": 36866.1,
+    "volumeH6": 251741.95,
+    "volumeH24": 6614757.86,
+    "buysH1": 18,
+    "sellsH1": 44,
+    "changeH1": 0.27,
+    "changeH6": 0.17,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://aerodrome.finance/docs",
+        "label": "Website"
+      },
+      {
+        "url": "https://aerodrome.finance/docs",
+        "label": "Docs"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/aerodromefi",
+        "type": "twitter"
+      },
+      {
+        "url": "https://discord.gg/aerodrome",
+        "type": "discord"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 22,
+    "pair": "0xa6979745954ea4976d4c94a5957c225801de74b4ef6ab22d122854fb09405e06",
+    "token": "0xC6405D7a226e1C18E559Be2F335F74C01Ad07bF5",
+    "name": "Stockify",
+    "symbol": "STFY",
+    "quote": "ETH",
+    "quoteAddress": "0x0000000000000000000000000000000000000000",
+    "uiAge": "22d",
+    "createdAt": "2026-08-19T17:55:05Z",
+    "ageHours": 564.32,
+    "priceUsd": "0.001799",
+    "marketCap": 1799324,
+    "liquidityUsd": 155145.75,
+    "volumeH1": 2416.01,
+    "volumeH6": 16353.92,
+    "volumeH24": 221992.77,
+    "buysH1": 4,
+    "sellsH1": 6,
+    "changeH1": -3.19,
+    "changeH6": 3.68,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.stockify.finance/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/Stockify_fi",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 23,
+    "pair": "0xa3b1e3f9747065e2073722ff4c9027d3ea4994f0",
+    "token": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+    "name": "Apple Inc.",
+    "symbol": "AAPLc",
+    "quote": "USDC",
+    "quoteAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "uiAge": "",
+    "createdAt": null,
+    "ageHours": null,
+    "priceUsd": "332.97",
+    "marketCap": 1704552,
+    "liquidityUsd": 1748184.08,
+    "volumeH1": 85120.32,
+    "volumeH6": 668771.14,
+    "volumeH24": 7157184.13,
+    "buysH1": 141,
+    "sellsH1": 157,
+    "changeH1": 0.01,
+    "changeH6": 0.12,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "http://coinbase.com/tokenize",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/coinbase",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 24,
+    "pair": "0x863e852fe65a6226bcc7a2ca0a32aa5435126cfd",
+    "token": "0xf5F11BC9Be9D6690f795D04d2fc9bdd097008a2B",
+    "name": "basedpad.fun",
+    "symbol": "BPAD",
+    "quote": "USDC",
+    "quoteAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "uiAge": "24d",
+    "createdAt": "2026-08-17T22:09:35Z",
+    "ageHours": 608.079,
+    "priceUsd": "0.0004575",
+    "marketCap": 387572,
+    "liquidityUsd": 71839.09,
+    "volumeH1": 1390.63,
+    "volumeH6": 33745.47,
+    "volumeH24": 516913.12,
+    "buysH1": 7,
+    "sellsH1": 13,
+    "changeH1": -6.82,
+    "changeH6": 28.06,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://basedpad.fun",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/basedpadfun",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "base",
+    "rank": 25,
+    "pair": "0x5f547579519beaa158cddd3543604029165f66e86a00c373d0ee90c38784921b",
+    "token": "0x23A2847d772803f9EFC64B4277b782b06296FE51",
+    "name": "Dot",
+    "symbol": "DOT",
+    "quote": "ETH",
+    "quoteAddress": "0x0000000000000000000000000000000000000000",
+    "uiAge": "3mo",
+    "createdAt": "2026-05-27T17:10:59Z",
+    "ageHours": 2581.055,
+    "priceUsd": "0.005199",
+    "marketCap": 4577949,
+    "liquidityUsd": 362835.97,
+    "volumeH1": 7316.83,
+    "volumeH6": 16882.02,
+    "volumeH24": 159651.54,
+    "buysH1": 5,
+    "sellsH1": 10,
+    "changeH1": -5.17,
+    "changeH6": -9.71,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://usedot.xyz/",
+        "label": "Website"
+      },
+      {
+        "url": "http://git.usedot.xyz/",
+        "label": "Docs"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/usedotai",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/usedotxyz",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:17.9852075Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 1,
+    "pair": "0x3ea3f9a7b7edbfe0ba3568bfc0f30ba870b7553d",
+    "token": "0xfa6D9B504848606Eb9aeC04CCc161D169B3f2159",
+    "name": "BREW",
+    "symbol": "BREW",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "6d",
+    "createdAt": "2026-09-06T03:08:47Z",
+    "ageHours": 147.092,
+    "priceUsd": "0.02278",
+    "marketCap": 22784869,
+    "liquidityUsd": 1080576.24,
+    "volumeH1": 113118.7,
+    "volumeH6": 1336110.98,
+    "volumeH24": 8395122.86,
+    "buysH1": 225,
+    "sellsH1": 270,
+    "changeH1": -3.68,
+    "changeH6": -3.25,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://brewfamily.dev",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/brewdotfamily",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 2,
+    "pair": "0xcec13213c390d51121f82ba2ecafb8e11e0af7a3",
+    "token": "0xe210C0583C1071714EDed2d8bEEab05Ab5bB7777",
+    "name": "BinanceTown",
+    "symbol": "BinanceTown",
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "uiAge": "17h",
+    "createdAt": "2026-09-11T12:52:10Z",
+    "ageHours": 17.369,
+    "priceUsd": "0.0006243",
+    "marketCap": 624308,
+    "liquidityUsd": 222646.39,
+    "volumeH1": 950557.33,
+    "volumeH6": 5719685.81,
+    "volumeH24": 16681729.15,
+    "buysH1": 288,
+    "sellsH1": 239,
+    "changeH1": 5.89,
+    "changeH6": 120,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/binance/status/2097959283681845587",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 3,
+    "pair": "0x22af7297243c4eef12e2d5a4f888b92e56bf127c",
+    "token": "0xeCCBb861c0dda7eFd964010085488B69317e4444",
+    "name": "龙虾",
+    "symbol": "龙虾",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "6mo",
+    "createdAt": "2026-02-27T08:50:40Z",
+    "ageHours": 4725.394,
+    "priceUsd": "0.1221",
+    "marketCap": 122117185,
+    "liquidityUsd": 2976452.39,
+    "volumeH1": 781308.32,
+    "volumeH6": 8471244.51,
+    "volumeH24": 12468397.31,
+    "buysH1": 1502,
+    "sellsH1": 1293,
+    "changeH1": 6.88,
+    "changeH6": 68.87,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://behemothbsc.lol/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/lobstercoinbnb",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 4,
+    "pair": "0xd09e60fb451cdc6e1fcd0e1dee6db553e89dafa9",
+    "token": "0x7d1A8DBB40B7b5518ef69b93a6fAEba91eea7777",
+    "name": "Bitcat",
+    "symbol": "BITCAT",
+    "quote": "BTCB",
+    "quoteAddress": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "uiAge": "3d",
+    "createdAt": "2026-09-09T00:43:47Z",
+    "ageHours": 77.509,
+    "priceUsd": "0.0004190",
+    "marketCap": 419071,
+    "liquidityUsd": 78779.59,
+    "volumeH1": 14991.06,
+    "volumeH6": 113571.48,
+    "volumeH24": 226938.87,
+    "buysH1": 99,
+    "sellsH1": 57,
+    "changeH1": -8.44,
+    "changeH6": 11.9,
+    "boosts": 50,
+    "websites": [
+      {
+        "url": "https://x.com/i/communities/1845350529490403676",
+        "label": "x"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/bitcatbnb?s=11",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 5,
+    "pair": "0xcaaf3c41a40103a23eeaa4bba468af3cf5b0e0d8",
+    "token": "0xCae117ca6Bc8A341D2E7207F30E180f0e5618B9D",
+    "name": "ARK",
+    "symbol": "ARK",
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "uiAge": "1y",
+    "createdAt": "2025-08-26T11:16:17Z",
+    "ageHours": 9162.967,
+    "priceUsd": "5.39",
+    "marketCap": 13686925,
+    "liquidityUsd": 53006158.86,
+    "volumeH1": 204051.48,
+    "volumeH6": 538077.82,
+    "volumeH24": 2356569.08,
+    "buysH1": 1023,
+    "sellsH1": 1015,
+    "changeH1": 0.22,
+    "changeH6": 0.15,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.arkdefai.com/",
+        "label": "Website"
+      },
+      {
+        "url": "https://ark-defai.gitbook.io/ark/",
+        "label": "Docs"
+      },
+      {
+        "url": "https://medium.com/@arkdefai",
+        "label": "Medium"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCeJm2WLLmYz7ebrT6JW8dug",
+        "label": "Youtube"
+      },
+      {
+        "url": "https://linktr.ee/ARKDEFAI",
+        "label": "Linktree"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/arkv3official",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/arkdefai",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 6,
+    "pair": "0xf0ca0a1dcd9fc30ad5570e1882a483f8e4cafbb6",
+    "token": "0x4E0026B2A27F60CD7eD8BB71F9489501B1F87777",
+    "name": "BUDDY - First Crypto Dog",
+    "symbol": "BUDDY",
+    "quote": "BTCB",
+    "quoteAddress": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "uiAge": "6h",
+    "createdAt": "2026-09-11T23:47:47Z",
+    "ageHours": 6.442,
+    "priceUsd": "0.0001790",
+    "marketCap": 179080,
+    "liquidityUsd": 43168.67,
+    "volumeH1": 28122.99,
+    "volumeH6": 322391.32,
+    "volumeH24": 322391.32,
+    "buysH1": 152,
+    "sellsH1": 157,
+    "changeH1": -34.18,
+    "changeH6": 325,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://buddyonbnb.com/",
+        "label": "Website"
+      },
+      {
+        "url": "https://x.com/i/communities/2017842188869063084",
+        "label": "X Community"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/BuddyonBNB",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 7,
+    "pair": "0xd6fe21107c05a153d419edc3d93072066d52dff9",
+    "token": "0x113D68C8CcA4fE5bA25f49c00784079D168E7777",
+    "name": "Suica Rabbit",
+    "symbol": "うさぎ",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "3d",
+    "createdAt": "2026-09-08T18:25:53Z",
+    "ageHours": 83.807,
+    "priceUsd": "0.005774",
+    "marketCap": 5774142,
+    "liquidityUsd": 281162.63,
+    "volumeH1": 160138.5,
+    "volumeH6": 808279.16,
+    "volumeH24": 5428172.64,
+    "buysH1": 236,
+    "sellsH1": 196,
+    "changeH1": -12.03,
+    "changeH6": 39.38,
+    "boosts": null,
+    "websites": [],
+    "socials": [],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 8,
+    "pair": "0x2f62969a74159bfc9365d8cd29ae8f6d15582204",
+    "token": "0x7ec43Cf65F1663F820427C62A5780b8f2E25593A",
+    "name": "LAB",
+    "symbol": "LAB",
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "uiAge": "",
+    "createdAt": null,
+    "ageHours": null,
+    "priceUsd": "0.08031",
+    "marketCap": 32411832,
+    "liquidityUsd": 152604.19,
+    "volumeH1": 200109.41,
+    "volumeH6": 1949929.71,
+    "volumeH24": 7589395.05,
+    "buysH1": 1576,
+    "sellsH1": 1674,
+    "changeH1": 0.9,
+    "changeH6": 3.74,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://lab.pro/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/LABtrade_",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/lab_trade",
+        "type": "telegram"
+      },
+      {
+        "url": "https://discord.gg/memeslab",
+        "type": "discord"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 9,
+    "pair": "0xe5ae318389b8d6d09370a675479c64862152d126",
+    "token": "0xBEEA1D618e533a387D941F58a7d4c9b7bD377777",
+    "name": "牛来",
+    "symbol": "牛来",
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "uiAge": "26d",
+    "createdAt": "2026-08-15T22:00:03Z",
+    "ageHours": 656.238,
+    "priceUsd": "0.1390",
+    "marketCap": 139072078,
+    "liquidityUsd": 1649466.58,
+    "volumeH1": 751542.46,
+    "volumeH6": 2569717.29,
+    "volumeH24": 18059973.29,
+    "buysH1": 713,
+    "sellsH1": 591,
+    "changeH1": 9.85,
+    "changeH6": 8.39,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/niulai_on_bnb",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 10,
+    "pair": "0xf49d9c79a07922d3846c762c73b4df65205ef772",
+    "token": "0x265B3982Ea730748100947F52561A4EAb54afFFF",
+    "name": "ast.fun",
+    "symbol": "AST",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "13d",
+    "createdAt": "2026-08-28T14:53:57Z",
+    "ageHours": 351.339,
+    "priceUsd": "0.001778",
+    "marketCap": 1752835,
+    "liquidityUsd": 196068.61,
+    "volumeH1": 160021.48,
+    "volumeH6": 272266.02,
+    "volumeH24": 672661.21,
+    "buysH1": 566,
+    "sellsH1": 536,
+    "changeH1": 49.39,
+    "changeH6": 63,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://ast.fun",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/ast_dotfun",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/astdotfun",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 11,
+    "pair": "0x1a1def8c55238986c7067a57726a058d3497b608",
+    "token": "0x3c1127070996a55D838A1E2743249DC28Cec7777",
+    "name": "BinanceTown",
+    "symbol": "BinanceTown",
+    "quote": "QQQB",
+    "quoteAddress": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+    "uiAge": "20h",
+    "createdAt": "2026-09-11T09:24:05Z",
+    "ageHours": 20.837,
+    "priceUsd": "0.0003312",
+    "marketCap": 285543,
+    "liquidityUsd": 63192.22,
+    "volumeH1": 42033.7,
+    "volumeH6": 93438.31,
+    "volumeH24": 5336017.65,
+    "buysH1": 240,
+    "sellsH1": 154,
+    "changeH1": 30.6,
+    "changeH6": 40.82,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://flap.sh/bnb/0x3c1127070996a55d838a1e2743249dc28cec7777/taxinfo?lang=zh",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/BinanceTown__",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 12,
+    "pair": "0xf4a627351fc6bcef0e7c2a02b7b8524fbe265e26",
+    "token": "0x795a3a4e90F837ae137ed2C92509f5F59c474547",
+    "name": "Knot",
+    "symbol": "KNOT",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "6h",
+    "createdAt": "2026-09-12T00:08:54Z",
+    "ageHours": 6.09,
+    "priceUsd": "0.001690",
+    "marketCap": 1690610,
+    "liquidityUsd": 177437.71,
+    "volumeH1": 3988.15,
+    "volumeH6": 557414.2,
+    "volumeH24": 1102959.02,
+    "buysH1": 3,
+    "sellsH1": 19,
+    "changeH1": -2.08,
+    "changeH6": 104,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://knot.fun",
+        "label": "Website"
+      },
+      {
+        "url": "https://knot.fun/docs",
+        "label": "Docs"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/knotdotfun",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 13,
+    "pair": "0xe6edc555061d1d9fe0145867b7ea7b07da840898",
+    "token": "0xF1c599E9A5FBDEA408a7409C0176a2fE42C64444",
+    "name": "Hachiko Inu",
+    "symbol": "Hachiko",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "8mo",
+    "createdAt": "2025-12-14T07:15:10Z",
+    "ageHours": 6526.986,
+    "priceUsd": "0.001349",
+    "marketCap": 1276470,
+    "liquidityUsd": 153614.71,
+    "volumeH1": 108650.05,
+    "volumeH6": 468472.91,
+    "volumeH24": 1526143.39,
+    "buysH1": 830,
+    "sellsH1": 917,
+    "changeH1": -4.58,
+    "changeH6": -14.72,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.hachiko.sbs/",
+        "label": "Website"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/hachiko-inu",
+        "label": "CoinGecko"
+      },
+      {
+        "url": "https://app.binance.com/uni-qr/cpro/HachikoInuCto",
+        "label": "Binance Square"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/hachiko-sbs/",
+        "label": "CoinMarketCap"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/hachikoinucto",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/Hachiko_bnb",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 14,
+    "pair": "0x14ca9d552ed2cf0d5dfd1f89bc6793a464e2ed16",
+    "token": "0xFe189E97832DA1573e4e4Ff034F4fFC3a15c7777",
+    "name": "MarsCoin",
+    "symbol": "MarsCoin",
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "uiAge": "1mo",
+    "createdAt": "2026-07-30T07:47:04Z",
+    "ageHours": 1054.454,
+    "priceUsd": "0.1130",
+    "marketCap": 112956853,
+    "liquidityUsd": 412537.68,
+    "volumeH1": 102625.74,
+    "volumeH6": 612191.85,
+    "volumeH24": 5014293.27,
+    "buysH1": 185,
+    "sellsH1": 152,
+    "changeH1": -0.46,
+    "changeH6": -1.21,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.marscoinbnb.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/bnbMarsCoin",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 15,
+    "pair": "0x33d2e1eeb4d399591c11ac9ad64863fa11678304",
+    "token": "0xEe22fCE582Dc4120f07e13e42B55Ee75246e7777",
+    "name": "牛梦",
+    "symbol": "牛梦",
+    "quote": "QQQB",
+    "quoteAddress": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+    "uiAge": "1d",
+    "createdAt": "2026-09-10T14:02:00Z",
+    "ageHours": 40.205,
+    "priceUsd": "0.0008248",
+    "marketCap": 824859,
+    "liquidityUsd": 91445.32,
+    "volumeH1": 15253.52,
+    "volumeH6": 182104.97,
+    "volumeH24": 1309490.07,
+    "buysH1": 125,
+    "sellsH1": 145,
+    "changeH1": 8.64,
+    "changeH6": -16.96,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://niumengbsc.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/NiumengBSC",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 16,
+    "pair": "0xffca411cfbcd3194503effa80fd394b55387915c",
+    "token": "0x2Ab8A4Dd2191989aC2898006Df350B236D2B7777",
+    "name": "施工猫",
+    "symbol": "Sue",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "17d",
+    "createdAt": "2026-08-24T12:48:33Z",
+    "ageHours": 449.429,
+    "priceUsd": "0.004944",
+    "marketCap": 4944335,
+    "liquidityUsd": 357881.31,
+    "volumeH1": 32863.06,
+    "volumeH6": 163325.5,
+    "volumeH24": 1975319.28,
+    "buysH1": 77,
+    "sellsH1": 99,
+    "changeH1": 13.12,
+    "changeH6": 1.13,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.sueonbsc.com/",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/Sue_BSC",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/SUEONBSCPORTAL",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 17,
+    "pair": "0x2fe13112be502026671a6e76af45d14ec394022d",
+    "token": "0xd270D4e1EC6e6E0d28C0ecB8BE966EC75997FFfF",
+    "name": "4Stock",
+    "symbol": "4Stock",
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "uiAge": "4d",
+    "createdAt": "2026-09-08T03:14:37Z",
+    "ageHours": 98.995,
+    "priceUsd": "0.02843",
+    "marketCap": 28098464,
+    "liquidityUsd": 339466.43,
+    "volumeH1": 138008.5,
+    "volumeH6": 856565.21,
+    "volumeH24": 7508784.17,
+    "buysH1": 246,
+    "sellsH1": 238,
+    "changeH1": -1.58,
+    "changeH6": 1.85,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/search?q=0xd270D4e1EC6e6E0d28C0ecB8BE966EC75997FFfF",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 18,
+    "pair": "0xf0a949d3d93b833c183a27ee067165b6f2c9625e",
+    "token": "0x0A43fC31a73013089DF59194872Ecae4cAe14444",
+    "name": "4",
+    "symbol": "4",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "11mo",
+    "createdAt": "2025-10-01T04:08:41Z",
+    "ageHours": 8306.094,
+    "priceUsd": "0.02195",
+    "marketCap": 21958643,
+    "liquidityUsd": 1618610.94,
+    "volumeH1": 112487.21,
+    "volumeH6": 797436.12,
+    "volumeH24": 2409018.14,
+    "buysH1": 262,
+    "sellsH1": 253,
+    "changeH1": -3.88,
+    "changeH6": 1.44,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/4onbsc",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/ticker4",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 19,
+    "pair": "0x6865704ff097b1105ed42b8517020e14fe9a2abd",
+    "token": "0x544028231562a43b106FbceCA722B65Cb5C861b0",
+    "name": "OLY",
+    "symbol": "OLY",
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "uiAge": "1y",
+    "createdAt": "2025-07-31T16:57:19Z",
+    "ageHours": 9781.283,
+    "priceUsd": "1.14",
+    "marketCap": 93166955,
+    "liquidityUsd": 7108077.48,
+    "volumeH1": 17126.56,
+    "volumeH6": 100454.75,
+    "volumeH24": 545007.02,
+    "buysH1": 460,
+    "sellsH1": 425,
+    "changeH1": -0.4,
+    "changeH6": -0.61,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://www.olyonedao.com",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/olyoneofficial",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/OlyONECommunity",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 20,
+    "pair": "0xc33bacff9141da689875e6381c1932348ab4c5cb",
+    "token": "0x82Ec31D69b3c289E541b50E30681FD1ACAd24444",
+    "name": "哈基米",
+    "symbol": "哈基米",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "11mo",
+    "createdAt": "2025-10-07T23:09:02Z",
+    "ageHours": 8143.088,
+    "priceUsd": "0.04219",
+    "marketCap": 42195922,
+    "liquidityUsd": 2399999.23,
+    "volumeH1": 322621.61,
+    "volumeH6": 1117559.37,
+    "volumeH24": 4684166.42,
+    "buysH1": 477,
+    "sellsH1": 535,
+    "changeH1": 3.94,
+    "changeH6": 19.91,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://linktr.ee/Hajimi_BNB",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/hajimi_CTO_BNB",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/hajimi_bnb",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 21,
+    "pair": "0xbed17ca05ca914ed977f86c53e8f2607d9f1c9ec",
+    "token": "0xBC5Ff7FE4d1B928423Cf6c54Bfa5F907130b4024",
+    "name": "MOMO",
+    "symbol": "MOMO",
+    "quote": "ZEC",
+    "quoteAddress": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+    "uiAge": "5d",
+    "createdAt": "2026-09-06T16:41:16Z",
+    "ageHours": 133.551,
+    "priceUsd": "0.002567",
+    "marketCap": 2326095,
+    "liquidityUsd": 220030.21,
+    "volumeH1": 17361.51,
+    "volumeH6": 312127.41,
+    "volumeH24": 1298337.09,
+    "buysH1": 17,
+    "sellsH1": 20,
+    "changeH1": 4.4,
+    "changeH6": 17.42,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/momoonbrew",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 22,
+    "pair": "0xa651c8deb3ff9f8d56a26e72042b7a8a1f433480",
+    "token": "0xc51A9250795c0186a6FB4A7D20A90330651e4444",
+    "name": "我踏马来了",
+    "symbol": "我踏马来了",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "8mo",
+    "createdAt": "2026-01-01T05:46:50Z",
+    "ageHours": 6096.458,
+    "priceUsd": "0.01406",
+    "marketCap": 14060853,
+    "liquidityUsd": 1046239.54,
+    "volumeH1": 220709.65,
+    "volumeH6": 1460331.17,
+    "volumeH24": 2145638.42,
+    "buysH1": 675,
+    "sellsH1": 747,
+    "changeH1": -4.3,
+    "changeH6": 11.66,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "http://我踏马来了.net",
+        "label": "Website"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://x.com/i/communities/2006728550356050179",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/wotamalailecto",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 23,
+    "pair": "0xd4ae7dd719ec71594f13d0e3b17e65e9085f1ca1",
+    "token": "0x87aE267002cD1eA0eC86Bf3601D4a8AD76A47777",
+    "name": "蝴蝶人生",
+    "symbol": "蝴蝶人生",
+    "quote": "AAPLB",
+    "quoteAddress": "0x431a3BEE82E2ca41e49895CbECE5bB0F76A89b7A",
+    "uiAge": "19d",
+    "createdAt": "2026-08-22T11:42:30Z",
+    "ageHours": 498.53,
+    "priceUsd": "0.005528",
+    "marketCap": 5528408,
+    "liquidityUsd": 260567.68,
+    "volumeH1": 13081.4,
+    "volumeH6": 158332.64,
+    "volumeH24": 1628303.45,
+    "buysH1": 474,
+    "sellsH1": 64,
+    "changeH1": -3.47,
+    "changeH6": 10.95,
+    "boosts": null,
+    "websites": [],
+    "socials": [],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 24,
+    "pair": "0x727a96f1992169921c2660b58f1caa01a8b4f4b9",
+    "token": "0xB75247509457592a41299493b7238f2d17187777",
+    "name": "Hemi",
+    "symbol": "HEMI",
+    "quote": "HEMI",
+    "quoteAddress": "0x5fFD0EAdc186AF9512542d0d5e5eAFC65d5aFc5B",
+    "uiAge": "4d",
+    "createdAt": "2026-09-07T11:04:45Z",
+    "ageHours": 115.159,
+    "priceUsd": "0.1483",
+    "marketCap": 148377305,
+    "liquidityUsd": 143536648.48,
+    "volumeH1": 798724.32,
+    "volumeH6": 19392351.4,
+    "volumeH24": 202752425.13,
+    "buysH1": 1,
+    "sellsH1": 1,
+    "changeH1": -1.49,
+    "changeH6": -16.38,
+    "boosts": null,
+    "websites": [],
+    "socials": [
+      {
+        "url": "https://x.com/hemibsc",
+        "type": "twitter"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  },
+  {
+    "chain": "bsc",
+    "rank": 25,
+    "pair": "0x933477eba23726ca95a957cb85dbb1957267ef85",
+    "token": "0x6Ec90334d89dBdc89E08A133271be3d104128Edb",
+    "name": "WIKI CAT",
+    "symbol": "WKC",
+    "quote": "WBNB",
+    "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "uiAge": "4y",
+    "createdAt": "2022-03-20T15:33:40Z",
+    "ageHours": 39278.677,
+    "priceUsd": "0.00000007129",
+    "marketCap": 40422949,
+    "liquidityUsd": 1156666.28,
+    "volumeH1": 11398.03,
+    "volumeH6": 128768.5,
+    "volumeH24": 393984.57,
+    "buysH1": 126,
+    "sellsH1": 73,
+    "changeH1": 0.32,
+    "changeH6": -9.39,
+    "boosts": null,
+    "websites": [
+      {
+        "url": "https://wikicatcoin.com/",
+        "label": "Website"
+      },
+      {
+        "url": "https://smcdao.com/",
+        "label": "SMC DAO"
+      },
+      {
+        "url": "https://t.me/smc_dao",
+        "label": "Telegram 2"
+      },
+      {
+        "url": "https://twitter.com/smcdao",
+        "label": "Twitter 2"
+      }
+    ],
+    "socials": [
+      {
+        "url": "https://twitter.com/wikicatcoin",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/wikicatcoin",
+        "type": "telegram"
+      }
+    ],
+    "capturedAt": "2026-09-12T06:14:18.3406144Z",
+    "error": null
+  }
+]

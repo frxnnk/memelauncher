@@ -1,0 +1,208 @@
+[
+  {
+    "n": 4,
+    "mint": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+    "symbol": "ALLCAT",
+    "name": "allcat",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreifedm5apl527ljn75buzwgd7bxxw7jnzkdgdzynfdsfbcpc5writu",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafkreifedm5apl527ljn75buzwgd7bxxw7jnzkdgdzynfdsfbcpc5writu",
+    "createdAt": 1789156465000,
+    "marketCapUsd": 119120.25167679656,
+    "stocks": [],
+    "paidUsd": null,
+    "payouts": 811,
+    "createdUtc": "2026-09-11T19:54:25+00:00",
+    "ageHours": 9.906998055555556,
+    "ageBand": "6h+",
+    "rewardLabels": [
+      "ALL (default)"
+    ],
+    "sampleReason": "top four by exact listed market cap"
+  },
+  {
+    "n": 7,
+    "mint": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+    "symbol": "ALLIN",
+    "name": "ALLIN",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeifoyhmbfijmcub4kzzzdl5mtdtwp44xweuxp3zah5uqgfowsmuliq",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafybeifoyhmbfijmcub4kzzzdl5mtdtwp44xweuxp3zah5uqgfowsmuliq",
+    "createdAt": 1789157014000,
+    "marketCapUsd": 31944.644997080883,
+    "stocks": [],
+    "paidUsd": null,
+    "payouts": 228,
+    "createdUtc": "2026-09-11T20:03:34+00:00",
+    "ageHours": 9.754498055555555,
+    "ageBand": "6h+",
+    "rewardLabels": [
+      "ALL (default)"
+    ],
+    "sampleReason": "top four by exact listed market cap"
+  },
+  {
+    "n": 11,
+    "mint": "2QRqp5k3uefWisqCXSpSRWmMPu5pWFfEP9JXXbSA6ALL",
+    "symbol": "ALLDOG",
+    "name": "alldog",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreidwjuaoqtirrcczo3dpnr6ylyttnctyimvktfejmkqppyuiwimv3y",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafkreidwjuaoqtirrcczo3dpnr6ylyttnctyimvktfejmkqppyuiwimv3y",
+    "createdAt": 1789158515000,
+    "marketCapUsd": 30747.665575871757,
+    "stocks": [],
+    "paidUsd": null,
+    "payouts": 173,
+    "createdUtc": "2026-09-11T20:28:35+00:00",
+    "ageHours": 9.337553611111112,
+    "ageBand": "6h+",
+    "rewardLabels": [
+      "ALL (default)"
+    ],
+    "sampleReason": "top four by exact listed market cap"
+  },
+  {
+    "n": 5,
+    "mint": "EacamThc6ZJZTDrMGoShDVHVtN7zRMWk7dNpTrVzPALL",
+    "symbol": "CATON",
+    "name": "CATON",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreiashowldj7civy7m5h6yiawbechqhluumidzfv2wwsbch7am6k5cq",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafkreiashowldj7civy7m5h6yiawbechqhluumidzfv2wwsbch7am6k5cq",
+    "createdAt": 1789156467000,
+    "marketCapUsd": 21916.65619037463,
+    "stocks": [
+      "TSLAx"
+    ],
+    "paidUsd": null,
+    "payouts": 49,
+    "createdUtc": "2026-09-11T19:54:27+00:00",
+    "ageHours": 9.9064425,
+    "ageBand": "6h+",
+    "rewardLabels": [
+      "TSLAx"
+    ],
+    "sampleReason": "top four by exact listed market cap"
+  },
+  {
+    "n": 154,
+    "mint": "4P28KmEcwwnYHMdgJDkk7F1eYKgUqrPJwryaYDxWQALL",
+    "symbol": "$$ALLAI",
+    "name": "ALL AI",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreig6eqtz6x73vqwnpzo7bhj7vdhcluchawekz3wgophmbwtphi4veq",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafkreig6eqtz6x73vqwnpzo7bhj7vdhcluchawekz3wgophmbwtphi4veq",
+    "createdAt": 1789187553000,
+    "marketCapUsd": 2874.004478617805,
+    "stocks": [],
+    "paidUsd": null,
+    "payouts": 2,
+    "createdUtc": "2026-09-12T04:32:33+00:00",
+    "ageHours": 1.2714425,
+    "ageBand": "0-3h",
+    "rewardLabels": [
+      "ALL (default)"
+    ],
+    "sampleReason": "upper median age among <=10K, 0-3h, payout positive; n=9"
+  },
+  {
+    "n": 152,
+    "mint": "6MX2aBUHVizAjy6dFHyNHkSuRPF3KCoZT9ReBrjLwALL",
+    "symbol": "LOYAL",
+    "name": "LOYAL",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreibzatc23vmf2uk23gembasoe2h3qp43cu52jvmo7rl57vls55uaoy",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafkreibzatc23vmf2uk23gembasoe2h3qp43cu52jvmo7rl57vls55uaoy",
+    "createdAt": 1789185519000,
+    "marketCapUsd": 2849.409506532684,
+    "stocks": [
+      "NVDAx"
+    ],
+    "paidUsd": null,
+    "payouts": 0,
+    "createdUtc": "2026-09-12T03:58:39+00:00",
+    "ageHours": 1.8364425,
+    "ageBand": "0-3h",
+    "rewardLabels": [
+      "NVDAx"
+    ],
+    "sampleReason": "upper median age among <=10K, 0-3h, payout zero; n=6"
+  },
+  {
+    "n": 136,
+    "mint": "GswrWrxAUthXTkzTBeTyQyeJN89gP9FsgqZV2rWJFALL",
+    "symbol": "THAT",
+    "name": "ALL THAT",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreielg6jbqhylx3zhm5i3ndc7x4h3wzqzptslh6vybpoof35osvgkda",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafkreielg6jbqhylx3zhm5i3ndc7x4h3wzqzptslh6vybpoof35osvgkda",
+    "createdAt": 1789172764000,
+    "marketCapUsd": 2915.638752894207,
+    "stocks": [],
+    "paidUsd": null,
+    "payouts": 1,
+    "createdUtc": "2026-09-12T00:26:04+00:00",
+    "ageHours": 5.379498055555556,
+    "ageBand": "3-6h",
+    "rewardLabels": [
+      "ALL (default)"
+    ],
+    "sampleReason": "upper median age among <=10K, 3-6h, payout positive; n=7"
+  },
+  {
+    "n": 135,
+    "mint": "FaJdgnGmmcJibf7uJYtqWK7tsdBQCYkHsp1VGTHaxtsA",
+    "symbol": "HUNG",
+    "name": "HUNG",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeihzbqpbybf53boxpmfuad7fem45ulhjw2ovcsjf3k4c6udopvpjuy",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafybeihzbqpbybf53boxpmfuad7fem45ulhjw2ovcsjf3k4c6udopvpjuy",
+    "createdAt": 1789172402000,
+    "marketCapUsd": 2879.117148890885,
+    "stocks": [
+      "TSLAx"
+    ],
+    "paidUsd": null,
+    "payouts": 0,
+    "createdUtc": "2026-09-12T00:20:02+00:00",
+    "ageHours": 5.480053611111111,
+    "ageBand": "3-6h",
+    "rewardLabels": [
+      "TSLAx"
+    ],
+    "sampleReason": "upper median age among <=10K, 3-6h, payout zero; n=15"
+  },
+  {
+    "n": 67,
+    "mint": "7GHphuLo3CU22qVDPJFh8dSvhdust7BFTPVX5XRKPALL",
+    "symbol": "SHIT",
+    "name": "ALL SHIT",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreifjxze47v2kibl6oxebxebkpehgu65gstft2q3sofkrkgqbluf4ze",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafkreifjxze47v2kibl6oxebxebkpehgu65gstft2q3sofkrkgqbluf4ze",
+    "createdAt": 1789162458000,
+    "marketCapUsd": 3521.110788365864,
+    "stocks": [],
+    "paidUsd": null,
+    "payouts": 3,
+    "createdUtc": "2026-09-11T21:34:18+00:00",
+    "ageHours": 8.242275833333334,
+    "ageBand": "6h+",
+    "rewardLabels": [
+      "ALL (default)"
+    ],
+    "sampleReason": "upper median age among <=10K, 6h+, payout positive; n=58"
+  },
+  {
+    "n": 59,
+    "mint": "CikvUCrJ8sgDZMauG1hK5bWwzQQbvWRR7kU818FYmALL",
+    "symbol": "CRYPT",
+    "name": "CRYPT",
+    "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreiany5h5pf7p5yxywsuns3zxeymhvpj5pqpcj7p6i4uekfxe7id7e4",
+    "fallback": "https://pump.mypinata.cloud/ipfs/bafkreiany5h5pf7p5yxywsuns3zxeymhvpj5pqpcj7p6i4uekfxe7id7e4",
+    "createdAt": 1789162205000,
+    "marketCapUsd": 2896.5063860974988,
+    "stocks": [],
+    "paidUsd": null,
+    "payouts": 0,
+    "createdUtc": "2026-09-11T21:30:05+00:00",
+    "ageHours": 8.312553611111111,
+    "ageBand": "6h+",
+    "rewardLabels": [
+      "ALL (default)"
+    ],
+    "sampleReason": "upper median age among <=10K, 6h+, payout zero; n=59"
+  }
+]

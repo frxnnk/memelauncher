@@ -1,0 +1,59 @@
+{
+  "scope": "Offline fixture only. Same rebuilt parameters passed to captured frontend SDK and pinned npm SDK plus static Rehype adapter; random salt excluded.",
+  "sourceSha256": "a47ec4c0059e83a14d32fc06295494b6886c715a81c41a2436f993937b07a4a1",
+  "npmVersion": "1.0.40",
+  "differences": [],
+  "wordDifferences": [],
+  "fieldsCompared": [
+    "initialSupply",
+    "numTokensToSell",
+    "numeraire",
+    "tokenFactory",
+    "tokenFactoryData",
+    "governanceFactory",
+    "governanceFactoryData",
+    "poolInitializer",
+    "poolInitializerData",
+    "liquidityMigrator",
+    "liquidityMigratorData",
+    "integrator"
+  ],
+  "independentBuilderComparison": {
+    "scope": "Separately transcribed captured stock branch plus captured MulticurveBuilder; same selected external inputs. Not an executed React form or onchain semantic audit.",
+    "builderDifferences": [],
+    "independentEncodedDifferences": [],
+    "differingValues": {}
+  },
+  "decodedTokenDefaults": {
+    "schedules": [],
+    "vestingBeneficiaries": [],
+    "scheduleIds": [],
+    "amounts": [],
+    "maxBalanceLimit": "0",
+    "balanceLimitEnd": 0,
+    "controller": "0x0000000000000000000000000000000000000000",
+    "excludedFromBalanceLimit": []
+  },
+  "activeAddressRegistry": {
+    "addresses": {
+      "airlock": "0xeb7C034704eF8Dcd2D32324c1545f62fB4aD0862",
+      "dopplerERC20V1Factory": "0x1B37D3a72082029c44B35B604Ea473617580b69a",
+      "dopplerERC20V1Implementation": "0x3Be8B97Fd0e713B5aBE0649Fa830223B6B4BC599",
+      "dopplerHookInitializer": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "rehypeDopplerHookInitializer": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+      "noOpGovernanceFactory": "0x85f37f74Ef2478A770318bc810177a9835911aD7",
+      "noOpMigrator": "0xba2F330EDb16cD8056f5988d8CE19BbC63475A0e",
+      "poolManager": "0x8366a39cc670b4001a1121b8f6a443a643e40951"
+    },
+    "differences": []
+  },
+  "notCovered": [
+    "Live React form or metadata upload behavior",
+    "Oracle source/status selection including indicative fallback",
+    "Ticker race and state changes",
+    "Actual founder inputs when fixture mode is used",
+    "EVM execution, LP or role semantics",
+    "Salt equality: random SDK salt is deliberately replaced by independently mined salt"
+  ],
+  "inputPacketSha256": null
+}

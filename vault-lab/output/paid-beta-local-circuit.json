@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-09-16T21:15:07.178Z",
+  "keysPrinted": false,
+  "broadcast": false,
+  "realFundsEnabled": false,
+  "dataDirectory": ".local/paid-beta-circuit-2026-09-16T21-15-07-178Z",
+  "roundId": "haiku-v1",
+  "modelId": "anthropic/claude-haiku-4.5",
+  "policy": "paid-beta",
+  "productPayerArmed": false,
+  "localSmokePayerKind": "laptop-rehearsal",
+  "paymentsSubmitted": 1,
+  "missingForLiveClaim": [
+    "VAULT_TESTNET_CLAIM_PRIVATE_KEY (dedicated Robinhood testnet signer; never the product treasury or deposit payer)",
+    "VAULT_FUNDING_RPC_URL",
+    "VAULT_WEB_FUNDING_CONFIG on a NEW directory (not web-funding-testnet)"
+  ],
+  "localSmokePayerAddress": "laptop-rehearsal",
+  "usdc": "8.624331",
+  "ok": true,
+  "decision": "locked",
+  "receiptId": "9abd64cb-9ec8-4295-8a6d-1e60a97371d5",
+  "manifestHash": "7a76191621abe1be1b2d0c071871bc0d67ce4ea05885d34601aa43a481ae0d41",
+  "prizeContribution": "3",
+  "operations": "2",
+  "nextRound": "0",
+  "available": "995",
+  "bounty": "3",
+  "quoteUsdc": 0.002285,
+  "settled": true,
+  "x402": {
+    "network": "eip155:8453",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "amount": "2285",
+    "chainTransactionHash": null,
+    "note": "EIP-3009 BlockRun settlement. Facilitator did not return a public tx hash on the receipt."
+  },
+  "deposit": {
+    "synthetic": true,
+    "chainTransactionHash": null,
+    "note": "Fixture RPC credit on chain 1337. Not AMZN rehearsal, not Robinhood testnet."
+  }
+}

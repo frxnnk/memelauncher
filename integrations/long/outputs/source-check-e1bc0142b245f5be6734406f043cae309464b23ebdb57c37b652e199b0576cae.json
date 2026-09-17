@@ -1,0 +1,42 @@
+{
+  "observedAt": "2026-09-10T20:35:48.329Z",
+  "currentForm": "https://app.long.xyz/create",
+  "sources": [
+    {
+      "url": "https://app.long.xyz/_next/static/chunks/783118528f389459.js",
+      "expectedSha256": "06f62af73a25691522d88c14d4536379e7a6a101b0cc4c73c7ec34f50ca593e5",
+      "directlyReferencedInHTML": false,
+      "status": 403
+    },
+    {
+      "url": "https://app.long.xyz/_next/static/chunks/6e098634b09346b7.js",
+      "expectedSha256": "4b3ad440e01077f4d93c1ef26e571c45cbf1fc0417677b132e4df5493d6131d8",
+      "directlyReferencedInHTML": false,
+      "status": 403
+    },
+    {
+      "url": "https://app.long.xyz/_next/static/chunks/f4f5aff6766ce761.js",
+      "expectedSha256": "0b0aace0f0f2d7f6314a3355f145afa8b730218e0356e6b1607ff7a536dda24b",
+      "directlyReferencedInHTML": false,
+      "status": 403
+    },
+    {
+      "url": "https://app.long.xyz/_next/static/chunks/5b54360eb8fd107e.js",
+      "expectedSha256": "a47ec4c0059e83a14d32fc06295494b6886c715a81c41a2436f993937b07a4a1",
+      "directlyReferencedInHTML": false,
+      "status": 403
+    },
+    {
+      "url": "https://app.long.xyz/_next/static/chunks/1d2db5e62a5a89a1.js",
+      "expectedSha256": "d2de7945f23dc229159c7d13396401538d5342644d14f4e9fbac94c2a7f6c643",
+      "directlyReferencedInHTML": false,
+      "status": 403
+    }
+  ],
+  "caveat": "Pinned chunk byte identity and direct HTML references only; not a full current frontend dependency-graph review.",
+  "form": {
+    "status": 403,
+    "sha256": "49b089d924aaceda97ed02845789da5511ad2261b78aff1cb84ec486bda86691",
+    "walletRequired": false
+  }
+}

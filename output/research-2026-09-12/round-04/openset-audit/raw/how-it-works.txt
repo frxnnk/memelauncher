@@ -1,0 +1,311 @@
+How it works | Open Set
+Object.assign(((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}),{params:{},nav:{"pathname":"/how-it-works","searchParams":[]}})
+
+
+
+
+
+
+/* latin-ext */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/instrument-sans-0ee617487957/instrument-sans-416253b0.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/instrument-sans-0ee617487957/instrument-sans-e190a634.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/instrument-sans-0ee617487957/instrument-sans-416253b0.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/instrument-sans-0ee617487957/instrument-sans-e190a634.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/instrument-sans-0ee617487957/instrument-sans-416253b0.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/instrument-sans-0ee617487957/instrument-sans-e190a634.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/instrument-sans-0ee617487957/instrument-sans-416253b0.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Instrument Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/instrument-sans-0ee617487957/instrument-sans-e190a634.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Instrument Sans Fallback';
+  src: local("Arial");
+  ascent-override: 94.42%;
+  descent-override: 24.33%;
+  line-gap-override: 0.00%;
+  size-adjust: 102.74%;
+}
+
+.__font_instrument_sans_1en9wks { font-family: 'Instrument Sans', 'Instrument Sans Fallback'; font-style: normal; }
+
+.__variable_instrument_sans_1en9wks { --font-instrument: 'Instrument Sans', 'Instrument Sans Fallback'; }
+
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Geist Mono';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/geist-mono-00e989178794/geist-mono-f6b33328.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Geist Mono';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/geist-mono-00e989178794/geist-mono-44e03052.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* symbols2 */
+@font-face {
+  font-family: 'Geist Mono';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/geist-mono-00e989178794/geist-mono-0638449e.woff2) format('woff2');
+  unicode-range: U+2000-2001, U+2004-2008, U+200A, U+23B8-23BD, U+2500-259F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Geist Mono';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/geist-mono-00e989178794/geist-mono-971fb274.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Geist Mono';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/geist-mono-00e989178794/geist-mono-44745446.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Geist Mono';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(/_next/static/_vinext_fonts/geist-mono-00e989178794/geist-mono-013b2f2f.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Geist Mono Fallback';
+  src: local("Arial");
+  ascent-override: 74.67%;
+  descent-override: 21.92%;
+  line-gap-override: 0.00%;
+  size-adjust: 134.59%;
+}
+
+.__font_geist_mono_1001rt9 { font-family: 'Geist Mono', 'Geist Mono Fallback'; font-style: normal; }
+
+.__variable_geist_mono_1001rt9 { --font-geist-mono: 'Geist Mono', 'Geist Mono Fallback'; }
+
+
+
+{"@context":"https://schema.org","@type":"Organization","name":"Open Set","url":"https://www.open-set.xyz","logo":"https://www.open-set.xyz/brand/open-set/mark.svg","description":"A token whose trading fees buy graded Pokémon cards. Each drop goes to one holder, picked on-chain.","sameAs":["https://x.com/opensetfun","https://t.me/opensetlive"]}
+Skip to content
+Open Set
+Live
+Past drops
+How it works
+Wallet check
+One Piece hour today, 11:00 to 12:00 CET. Every pack in that hour is One Piece: $50, $50, $50, $250, $50, $50, $50, $250, $1,000, then round again.
+One Piece hour today, 11:00 to 12:00 CET. Every pack in that hour is One Piece: $50, $50, $50, $250, $50, $50, $50, $250, $1,000, then round again.
+One Piece hour today, 11:00 to 12:00 CET. Every pack in that hour is One Piece: $50, $50, $50, $250, $50, $50, $50, $250, $1,000, then round again.
+How it works
+Open Set is a token. A share of every trade goes into a pot. When the pot covers a graded-card pack, one holder is picked on-chain and the card is theirs.
+Watch the next drop
+Example card
+0
+1
+Fees fill the pot.
+A share of each trade is set aside for drops. Fees counted and money actually ready to pay are shown separately.
+0
+2
+A snapshot picks one holder.
+When the pot covers the target pack, balances are read at one finalized slot. The blockhash of a later slot seeds the draw, so nobody can steer it.
+0
+3
+Collector opens the pack.
+The pot pays Collector. They open the pack and mint the card NFT to the winner. Everything is published as a receipt.
+What you actually get
+The card NFT represents a graded physical card held by Collector. Redeem it and they ship the physical card, on their terms.
+The receipt lists the card, its insured value when known, the winner and the transactions. The pack price is what the opening cost, not what the card is worth.
+One drop, one winner.
+Holding gets you into the draw. It doesn’t give every holder a card.
+Pack odds
+Eligibility
+Hold at least 0.05% of supply when the snapshot is taken, subject to the published exclusions. Every eligible wallet gets one entry, weighted by tier.
+Bigger holders get a heavier entry, capped at 2× the smallest. Weights are relative to the other entries, not fixed winning percentages.
+Minimum supply held
+Draw weight
+0.05
+%
+0.80
+×
+0.10
+%
+1.00
+×
+0.35
+%
+1.15
+×
+1.00
+%
+1.35
+×
+2.00
+%
+1.60
+×
+The snapshot locks eligibility for that drop. Later balance changes do not alter that draw.
+Upcoming packs
+Each drop number maps to a scheduled target. This is the current 
+14
+-drop rotation, read from the project configuration.
+$25
+ × 
+6
+$50
+ × 
+4
+$100
+ × 
+2
+$250
+ × 
+1
+$500
+ × 
+1
+If fees slow down
+If fees cannot fill the current target within
+ 
+30
+ minutes at the observed rate, the engine can select a less expensive target. It only steps down. Above 75% with fees still arriving, the target is retained.
+Unspent fee accounting carries into the following drop. A pack target is never a guaranteed purchase.
+Verify a draw
+Each receipt publishes the snapshot, candidate hash, draw seed, selected holder, payment and card mint. Follow the transaction links or copy the record to verify the draw.
+Past drops
+The funding path 
+Fees are paid to the project’s wallet on Solana in CARDS. The engine converts them to USDC and pays Collector. The winner’s wallet receives the card.
+Conversion, payment and minting are separate steps. Pending settlement or a paused step remains visible in the drop status.
+How the draw is computed 
+Balances are read at one finalized slot, which is recorded. Solana keeps no queryable history of balances, so the full candidate list is published with its hash; the hash and the future entropy slot are what a verifier checks. If the entropy slot was skipped, the first slot after it is used and both are shown.
+The entropy slot is set 
+150
+ slots ahead of the snapshot; its blockhash is used once that slot exists.
+seed = keccak256(base58decode(entropyBlockhash) || uint256(cycleId) || candidatesHash)
+roll = seed mod totalWeight
+winner = first candidate whose cumulative weight exceeds roll
+Candidates are sorted bytewise by their base58 address. Their hash is keccak256 over newline-joined address,balance,weight rows. The receipt contains the values needed to recompute the result.
+What happens if a step pauses? 
+A full fee meter alone does not confirm that a pack has been paid for. Funding may still need to settle or transfer. If a step needs review, the drop page shows that state alongside the recorded funding and selected holder.
+Watch the next drop
+Open Set
+How it works
+Funding
+Past drops
+X
+Telegram
+Open Set
+Mint: 
+8LstZp…cuHz
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("0:{\"page:/how-it-works\":\"$L1\",\"layout:/\":\"$L2\",\"route:/how-it-works\":\"$L3\",\"__route\":\"route:/how-it-works\",\"__interceptionContext\":null,\"__layoutIds\":[\"layout:/\"],\"__rootLayout\":\"/\",\"__bfcacheSegmentIdentities\":{\"layout:/\":\"[\\\"layout\\\",\\\"layout:/\\\",\\\"root-boundary:/\\\",\\\"\\\"]\",\"page:/how-it-works\":\"[\\\"page\\\",\\\"page:/how-it-works\\\",\\\"root-boundary:/\\\",\\\"[\\\\\\\"how-it-works\\\\\\\"]\\\"]\"},\"__srcPage\":[\"how-it-works\",\"page\"],\"__layoutFlags\":{\"layout:/\":\"s\"},\"__artifactCompatibility\":{\"schemaVersion\":1,\"graphVersion\":\"app-route-graph:bb8962047ac9bab4\",\"deploymentVersion\":\"c8ffc37a-72a0-46de-b472-5d664ac2c88f\",\"appElementsSchemaVersion\":1,\"rscPayloadSchemaVersion\":1,\"rootBoundaryId\":\"/\",\"renderEpoch\":null},\"__dynamicStaleTime\":0}\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("4:I[\"bf4aac874a8a\",[],\"ClickSound\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("5:I[\"47363f5c9193\",[],\"UpdatePill\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("6:I[\"b1d237f96b72\",[],\"Motion\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("7:I[\"b3fed85ec085\",[],\"DemoProvider\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("8:I[\"8c0f216c4604\",[],\"Children\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("9:I[\"593f344dc510\",[],\"GlobalErrorBoundary\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("a:I[\"0b874ad30386\",[],\"default\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("b:I[\"593f344dc510\",[],\"ErrorBoundary\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("c:I[\"15c18cfaeeff\",[],\"LayoutSegmentProvider\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("d:I[\"8c0f216c4604\",[],\"Slot\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("e:I[\"593f344dc510\",[],\"NotFoundBoundary\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("f:I[\"9276801271d6\",[],\"AppRouterScrollTarget\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("10:I[\"593f344dc510\",[],\"RedirectBoundary\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push(":HL[\"/_next/static/css/index.BEjAzLaZ.css\",\"style\"     ]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("2:[[[\"$\",\"link\",\"css:/_next/static/css/index.BEjAzLaZ.css\",{\"rel\":\"stylesheet\",\"precedence\":\"vite-rsc/importer-resources\",\"href\":\"/_next/static/css/index.BEjAzLaZ.css\",\"data-rsc-css-href\":\"/_next/static/css/index.BEjAzLaZ.css\"}],\"$undefined\"],[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[\"$\",\"body\",null,{\"className\":\"__variable_instrument_sans_1en9wks __variable_geist_mono_1001rt9 font-sans antialiased\",\"children\":[[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"suppressHydrationWarning\":true,\"dangerouslySetInnerHTML\":{\"__html\":\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Organization\\\",\\\"name\\\":\\\"Open Set\\\",\\\"url\\\":\\\"https://www.open-set.xyz\\\",\\\"logo\\\":\\\"https://www.open-set.xyz/brand/open-set/mark.svg\\\",\\\"description\\\":\\\"A token whose trading fees buy graded Pokémon cards. Each drop goes to one holder, picked on-chain.\\\",\\\"sameAs\\\":[\\\"https://x.com/opensetfun\\\",\\\"https://t.me/opensetlive\\\"]}\"}}],[\"$\",\"$L4\",null,{}],[\"$\",\"$L5\",null,{}],[\"$\",\"$L6\",null,{\"children\":[\"$\",\"$L7\",null,{\"children\":[\"$\",\"$L8\",null,{}]}]}]]}]}]]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("3:[[[\"$\",\"meta\",null,{\"charSet\":\"utf-8\"}],[[\"$\",\"title\",\"0\",{\"children\":\"How it works | Open Set\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Trading fees fill a pot, a snapshot picks one holder, Collector opens the pack.\"}],[\"$\",\"meta\",\"2\",{\"name\":\"application-name\",\"content\":\"Open Set\"}],[\"$\",\"meta\",\"3\",{\"property\":\"og:title\",\"content\":\"How it works\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:description\",\"content\":\"Trading fees fill a pot, a snapshot picks one holder, Collector opens the pack.\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:url\",\"content\":\"https://www.open-set.xyz/how-it-works\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:site_name\",\"content\":\"Open Set\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"$\",\"meta\",\"8\",{\"property\":\"og:image\",\"content\":\"https://www.open-set.xyz/og/open-set.png\"}],[\"$\",\"meta\",\"9\",{\"property\":\"og:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"10\",{\"property\":\"og:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"11\",{\"property\":\"og:image:alt\",\"content\":\"Open Set\"}],[\"$\",\"meta\",\"12\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"13\",{\"name\":\"twitter:title\",\"content\":\"How it works\"}],[\"$\",\"meta\",\"14\",{\"name\":\"twitter:description\",\"content\":\"Trading fees fill a pot, a snapshot picks one holder, Collector opens the pack.\"}],[\"$\",\"meta\",\"15\",{\"name\":\"twitter:image\",\"content\":\"https://www.open-set.xyz/og/open-set.png\"}],[\"$\",\"link\",\"16\",{\"data-vinext-streamed-icon\":\"$undefined\",\"rel\":\"icon\",\"href\":\"/favicon.svg\",\"type\":\"$undefined\",\"sizes\":\"$undefined\",\"color\":\"$undefined\",\"media\":\"$undefined\",\"fetchPriority\":\"$undefined\"}],[\"$\",\"link\",\"17\",{\"data-vinext-streamed-icon\":\"$undefined\",\"rel\":\"apple-touch-icon\",\"href\":\"/apple-touch-icon.png\",\"type\":\"$undefined\",\"sizes\":\"180x180\",\"color\":\"$undefined\",\"media\":\"$undefined\",\"fetchPriority\":\"$undefined\"}],[\"$\",\"link\",\"18\",{\"rel\":\"canonical\",\"href\":\"https://www.open-set.xyz/how-it-works\"}]],[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"name\":\"theme-color\",\"content\":\"#efe4cf\"}]]],[\"$\",\"$L9\",null,{\"fallback\":\"$a\",\"children\":[\"$\",\"$Lb\",null,{\"fallback\":\"$a\",\"children\":[\"$\",\"$Lc\",null,{\"providerId\":\"layout:/\",\"segmentMap\":{\"children\":[\"how-it-works\"]},\"children\":[\"$\",\"$Ld\",null,{\"id\":\"layout:/\",\"parallelSlots\":\"$undefined\",\"children\":[\"$\",\"$Le\",null,{\"resetKey\":\"how-it-works\",\"fallback\":[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":404}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],\"children\":[\"$\",\"$Lf\",null,{\"children\":[\"$\",\"$L10\",null,{\"children\":[[\"$\",\"$Lc\",null,{\"providerId\":\"page:/how-it-works\",\"segmentMap\":{\"children\":[\"__PAGE__\"]},\"children\":[\"$\",\"$Ld\",null,{\"id\":\"page:/how-it-works\"}]}],null]}]}]}]}]}]}]}],null,null]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("11:I[\"55d7fc79eeec\",[],\"EventProvider\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("12:I[\"91ead71c14ab\",[],\"SiteHeader\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("13:I[\"c2747888630f\",[],\"default\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("14:I[\"339f946bc456\",[],\"default\",1]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push(":HL[\"/card-gardevoir.v2.webp\",\"image\",{\"fetchPriority\":\"high\"}]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("1:[\"$\",\"main\",null,{\"className\":\"open-set\",\"children\":[[\"$\",\"$L11\",null,{\"event\":{\"name\":\"One Piece hour\",\"startsAt\":\"2026-09-12T09:00:00.000Z\",\"endsAt\":\"2026-09-12T10:00:00.000Z\",\"active\":false,\"ladder\":[50,50,50,250,50,50,50,250,1000],\"machineCodes\":[\"onepiece_50\",\"onepiece_250\",\"onepiece_1000\"]},\"now\":1789195339648,\"children\":[\"$\",\"$L12\",null,{}]}],[\"$\",\"div\",null,{\"id\":\"main-content\",\"className\":\"page-shell\",\"children\":[[\"$\",\"section\",null,{\"className\":\"how-intro\",\"children\":[[\"$\",\"div\",null,{\"children\":[[\"$\",\"h1\",null,{\"className\":\"display\",\"children\":\"How it works\"}],[\"$\",\"p\",null,{\"className\":\"how-lead\",\"children\":\"Open Set is a token. A share of every trade goes into a pot. When the pot covers a graded-card pack, one holder is picked on-chain and the card is theirs.\"}],[\"$\",\"$L13\",null,{\"className\":\"text-link\",\"href\":\"/live\",\"children\":\"Watch the next drop\"}]]}],[\"$\",\"div\",null,{\"className\":\"how-art\",\"children\":[[\"$\",\"img\",null,{\"src\":\"/card-gardevoir.v2.webp\",\"alt\":\"Mega Gardevoir ex in its CGC graded slab, an example collectible\",\"width\":708,\"height\":1222,\"decoding\":\"async\",\"fetchPriority\":\"high\"}],[\"$\",\"span\",null,{\"className\":\"eyebrow\",\"children\":\"Example card\"}]]}]]}],[\"$\",\"section\",null,{\"className\":\"how-steps\",\"aria-label\":\"How a drop works\",\"children\":[[\"$\",\"article\",\"Fees fill the pot.\",{\"data-rise\":\"\",\"style\":{\"--i\":0},\"children\":[[\"$\",\"div\",null,{\"className\":\"how-step-number\",\"children\":[[\"$\",\"span\",null,{\"className\":\"eyebrow\",\"children\":[\"0\",1]}],[\"$\",\"$L14\",null,{\"ref\":\"$undefined\",\"iconNode\":[[\"path\",{\"d\":\"M7 7h10v10\",\"key\":\"1tivn9\"}],[\"path\",{\"d\":\"M7 17 17 7\",\"key\":\"1vkiza\"}]],\"className\":\"lucide-arrow-up-right\",\"size\":23,\"strokeWidth\":1.5}]]}],[\"$\",\"h2\",null,{\"className\":\"display\",\"children\":\"Fees fill the pot.\"}],[\"$\",\"p\",null,{\"children\":\"A share of each trade is set aside for drops. Fees counted and money actually ready to pay are shown separately.\"}]]}],[\"$\",\"article\",\"A snapshot picks one holder.\",{\"data-rise\":\"\",\"style\":{\"--i\":1},\"children\":[[\"$\",\"div\",null,{\"className\":\"how-step-number\",\"children\":[[\"$\",\"span\",null,{\"className\":\"eyebrow\",\"children\":[\"0\",2]}],[\"$\",\"$L14\",null,{\"ref\":\"$undefined\",\"iconNode\":\"$1:props:children:1:props:children:1:props:children:0:props:children:0:props:children:1:props:iconNode\",\"className\":\"lucide-arrow-up-right\",\"size\":23,\"strokeWidth\":1.5}]]}],[\"$\",\"h2\",null,{\"className\":\"display\",\"children\":\"A snapshot picks one holder.\"}],[\"$\",\"p\",null,{\"children\":\"When the pot covers the target pack, balances are read at one finalized slot. The blockhash of a later slot seeds the draw, so nobody can steer it.\"}]]}],[\"$\",\"article\",\"Collector opens the pack.\",{\"data-rise\":\"\",\"style\":{\"--i\":2},\"children\":[[\"$\",\"div\",null,{\"className\":\"how-step-number\",\"children\":[[\"$\",\"span\",null,{\"className\":\"eyebrow\",\"children\":[\"0\",3]}],[\"$\",\"$L14\",null,{\"ref\":\"$undefined\",\"iconNode\":\"$1:props:children:1:props:children:1:props:children:0:props:children:0:props:children:1:props:iconNode\",\"className\":\"lucide-arrow-up-right\",\"size\":23,\"strokeWidth\":1.5}]]}],[\"$\",\"h2\",null,{\"className\":\"display\",\"children\":\"Collector opens the pack.\"}],[\"$\",\"p\",null,{\"children\":\"The pot pays Collector. They open the pack and mint the card NFT to the winner. Everything is published as a receipt.\"}]]}]]}],[\"$\",\"section\",null,{\"className\":\"explanation-grid\",\"data-rise\":\"\",\"style\":{\"--i\":0},\"children\":[[\"$\",\"div\",null,{\"children\":[[\"$\",\"h2\",null,{\"className\":\"display\",\"children\":\"What you actually get\"}],[\"$\",\"p\",null,{\"children\":\"The card NFT represents a graded physical card held by Collector. Redeem it and they ship the physical card, on their terms.\"}],[\"$\",\"p\",null,{\"children\":\"The receipt lists the card, its insured value when known, the winner and the transactions. The pack price is what the opening cost, not what the card is worth.\"}]]}],[\"$\",\"div\",null,{\"className\":\"explanation-note\",\"children\":[[\"$\",\"$L14\",null,{\"ref\":\"$undefined\",\"iconNode\":[[\"path\",{\"d\":\"M5 12h14\",\"key\":\"1ays0h\"}],[\"path\",{\"d\":\"M12 5v14\",\"key\":\"s699le\"}]],\"className\":\"lucide-plus\",\"size\":30,\"strokeWidth\":1}],[\"$\",\"h3\",null,{\"className\":\"display\",\"children\":\"One drop, one winner.\"}],[\"$\",\"p\",null,{\"children\":\"Holding gets you into the draw. It doesn’t give every holder a card.\"}],[\"$\",\"$L13\",null,{\"href\":\"/#odds\",\"className\":\"text-link\",\"children\":\"Pack odds\"}]]}]]}],[\"$\",\"section\",null,{\"id\":\"eligibility\",\"className\":\"eligibility-section\",\"data-rise\":\"\",\"style\":{\"--i\":0},\"children\":[[\"$\",\"div\",null,{\"children\":[[\"$\",\"h2\",null,{\"className\":\"display\",\"children\":\"Eligibility\"}],[\"$\",\"p\",null,{\"children\":\"Hold at least 0.05% of supply when the snapshot is taken, subject to the published exclusions. Every eligible wallet gets one entry, weighted by tier.\"}],[\"$\",\"p\",null,{\"children\":\"Bigger holders get a heavier entry, capped at 2× the smallest. Weights are relative to the other entries, not fixed winning percentages.\"}]]}],\"$L15\"]}],\"$L16\",\"$L17\",\"$L18\"]}],\"$L19\"]}]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("15:[\"$\",\"div\",null,{\"className\":\"eligibility-table\",\"children\":[[\"$\",\"div\",null,{\"className\":\"eyebrow\",\"children\":[[\"$\",\"span\",null,{\"children\":\"Minimum supply held\"}],[\"$\",\"span\",null,{\"children\":\"Draw weight\"}]]}],[[\"$\",\"div\",\"500\",{\"children\":[[\"$\",\"strong\",null,{\"children\":[\"0.05\",\"%\"]}],[\"$\",\"span\",null,{\"children\":[\"0.80\",\"×\"]}]]}],[\"$\",\"div\",\"1000\",{\"children\":[[\"$\",\"strong\",null,{\"children\":[\"0.10\",\"%\"]}],[\"$\",\"span\",null,{\"children\":[\"1.00\",\"×\"]}]]}],[\"$\",\"div\",\"3500\",{\"children\":[[\"$\",\"strong\",null,{\"children\":[\"0.35\",\"%\"]}],[\"$\",\"span\",null,{\"children\":[\"1.15\",\"×\"]}]]}],[\"$\",\"div\",\"10000\",{\"children\":[[\"$\",\"strong\",null,{\"children\":[\"1.00\",\"%\"]}],[\"$\",\"span\",null,{\"children\":[\"1.35\",\"×\"]}]]}],[\"$\",\"div\",\"20000\",{\"children\":[[\"$\",\"strong\",null,{\"children\":[\"2.00\",\"%\"]}],[\"$\",\"span\",null,{\"children\":[\"1.60\",\"×\"]}]]}]],[\"$\",\"p\",null,{\"children\":\"The snapshot locks eligibility for that drop. Later balance changes do not alter that draw.\"}]]}]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("16:[\"$\",\"section\",null,{\"className\":\"rotation-section\",\"data-rise\":\"\",\"style\":{\"--i\":0},\"children\":[[\"$\",\"div\",null,{\"className\":\"section-heading\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"display\",\"children\":\"Upcoming packs\"}],[\"$\",\"span\",null,{\"className\":\"section-rule\"}]]}],[\"$\",\"div\",null,{\"className\":\"rotation-grid\",\"children\":[[\"$\",\"div\",null,{\"children\":[[\"$\",\"p\",null,{\"children\":[\"Each drop number maps to a scheduled target. This is the current \",14,\"-drop rotation, read from the project configuration.\"]}],[\"$\",\"div\",null,{\"className\":\"rotation-cells\",\"style\":{\"gridTemplateColumns\":\"repeat(14, minmax(0, 1fr))\"},\"aria-label\":\"Scheduled pack target for each drop\",\"children\":[[\"$\",\"span\",\"0\",{\"title\":\"Drop 1: $50\",\"style\":{\"background\":\"#f3c9bd\"}}],[\"$\",\"span\",\"1\",{\"title\":\"Drop 2: $100\",\"style\":{\"background\":\"#ec8a72\"}}],[\"$\",\"span\",\"2\",{\"title\":\"Drop 3: $50\",\"style\":{\"background\":\"#f3c9bd\"}}],[\"$\",\"span\",\"3\",{\"title\":\"Drop 4: $100\",\"style\":{\"background\":\"#ec8a72\"}}],[\"$\",\"span\",\"4\",{\"title\":\"Drop 5: $250\",\"style\":{\"background\":\"#e3391f\"}}],[\"$\",\"span\",\"5\",{\"title\":\"Drop 6: $500\",\"style\":{\"background\":\"#e3391f\"}}],[\"$\",\"span\",\"6\",{\"title\":\"Drop 7: $25\",\"style\":{\"background\":\"#f7f0e2\"}}],[\"$\",\"span\",\"7\",{\"title\":\"Drop 8: $25\",\"style\":{\"background\":\"#f7f0e2\"}}],[\"$\",\"span\",\"8\",{\"title\":\"Drop 9: $25\",\"style\":{\"background\":\"#f7f0e2\"}}],[\"$\",\"span\",\"9\",{\"title\":\"Drop 10: $25\",\"style\":{\"background\":\"#f7f0e2\"}}],[\"$\",\"span\",\"10\",{\"title\":\"Drop 11: $25\",\"style\":{\"background\":\"#f7f0e2\"}}],[\"$\",\"span\",\"11\",{\"title\":\"Drop 12: $25\",\"style\":{\"background\":\"#f7f0e2\"}}],[\"$\",\"span\",\"12\",{\"title\":\"Drop 13: $50\",\"style\":{\"background\":\"#f3c9bd\"}}],[\"$\",\"span\",\"13\",{\"title\":\"Drop 14: $50\",\"style\":{\"background\":\"#f3c9bd\"}}]]}],[\"$\",\"div\",null,{\"className\":\"rotation-legend\",\"children\":[[\"$\",\"span\",\"25\",{\"children\":[[\"$\",\"i\",null,{\"style\":{\"background\":\"#f7f0e2\"}}],[\"$\",\"strong\",null,{\"children\":\"$$25\"}],\" × \",6]}],[\"$\",\"span\",\"50\",{\"children\":[[\"$\",\"i\",null,{\"style\":{\"background\":\"#f3c9bd\"}}],[\"$\",\"strong\",null,{\"children\":\"$$50\"}],\" × \",4]}],[\"$\",\"span\",\"100\",{\"children\":[[\"$\",\"i\",null,{\"style\":{\"background\":\"#ec8a72\"}}],[\"$\",\"strong\",null,{\"children\":\"$$100\"}],\" × \",2]}],[\"$\",\"span\",\"250\",{\"children\":[[\"$\",\"i\",null,{\"style\":{\"background\":\"#e3391f\"}}],[\"$\",\"strong\",null,{\"children\":\"$$250\"}],\" × \",1]}],[\"$\",\"span\",\"500\",{\"children\":[[\"$\",\"i\",null,{\"style\":{\"background\":\"#e3391f\"}}],[\"$\",\"strong\",null,{\"children\":\"$$500\"}],\" × \",1]}]]}]]}],[\"$\",\"div\",null,{\"className\":\"rotation-note\",\"children\":[[\"$\",\"h3\",null,{\"children\":\"If fees slow down\"}],[\"$\",\"p\",null,{\"children\":[\"If fees cannot fill the current target within\",\" \",30,\" minutes at the observed rate, the engine can select a less expensive target. It only steps down. Above 75% with fees still arriving, the target is retained.\"]}],[\"$\",\"p\",null,{\"children\":\"Unspent fee accounting carries into the following drop. A pack target is never a guaranteed purchase.\"}]]}]]}]]}]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("17:[\"$\",\"section\",null,{\"className\":\"proof-section\",\"data-rise\":\"\",\"style\":{\"--i\":0},\"children\":[[\"$\",\"div\",null,{\"children\":[[\"$\",\"h2\",null,{\"className\":\"display\",\"children\":\"Verify a draw\"}],[\"$\",\"p\",null,{\"children\":\"Each receipt publishes the snapshot, candidate hash, draw seed, selected holder, payment and card mint. Follow the transaction links or copy the record to verify the draw.\"}],[\"$\",\"$L13\",null,{\"href\":\"/#history\",\"className\":\"text-link\",\"children\":\"Past drops\"}]]}],[\"$\",\"div\",null,{\"className\":\"proof-details\",\"children\":[[\"$\",\"details\",null,{\"children\":[[\"$\",\"summary\",null,{\"children\":[\"The funding path \",[\"$\",\"$L14\",null,{\"ref\":\"$undefined\",\"iconNode\":\"$1:props:children:1:props:children:2:props:children:1:props:children:0:props:iconNode\",\"className\":\"lucide-plus\",\"size\":19}]]}],[\"$\",\"p\",null,{\"children\":\"Fees are paid to the project’s wallet on Solana in CARDS. The engine converts them to USDC and pays Collector. The winner’s wallet receives the card.\"}],[\"$\",\"p\",null,{\"children\":\"Conversion, payment and minting are separate steps. Pending settlement or a paused step remains visible in the drop status.\"}]]}],[\"$\",\"details\",null,{\"children\":[[\"$\",\"summary\",null,{\"children\":[\"How the draw is computed \",[\"$\",\"$L14\",null,{\"ref\":\"$undefined\",\"iconNode\":\"$1:props:children:1:props:children:2:props:children:1:props:children:0:props:iconNode\",\"className\":\"lucide-plus\",\"size\":19}]]}],[\"$\",\"p\",null,{\"children\":\"Balances are read at one finalized slot, which is recorded. Solana keeps no queryable history of balances, so the full candidate list is published with its hash; the hash and the future entropy slot are what a verifier checks. If the entropy slot was skipped, the first slot after it is used and both are shown.\"}],[\"$\",\"p\",null,{\"children\":[\"The entropy slot is set \",150,\" slots ahead of the snapshot; its blockhash is used once that slot exists.\"]}],[\"$\",\"pre\",null,{\"children\":\"seed = keccak256(base58decode(entropyBlockhash) || uint256(cycleId) || candidatesHash)\\nroll = seed mod totalWeight\\nwinner = first candidate whose cumulative weight exceeds roll\"}],[\"$\",\"p\",null,{\"children\":\"Candidates are sorted bytewise by their base58 address. Their hash is keccak256 over newline-joined address,balance,weight rows. The receipt contains the values needed to recompute the result.\"}]]}],[\"$\",\"details\",null,{\"children\":[[\"$\",\"summary\",null,{\"children\":[\"What happens if a step pauses? \",[\"$\",\"$L14\",null,{\"ref\":\"$undefined\",\"iconNode\":\"$1:props:children:1:props:children:2:props:children:1:props:children:0:props:iconNode\",\"className\":\"lucide-plus\",\"size\":19}]]}],[\"$\",\"p\",null,{\"children\":\"A full fee meter alone does not confirm that a pack has been paid for. Funding may still need to settle or transfer. If a step needs review, the drop page shows that state alongside the recorded funding and selected holder.\"}]]}]]}]]}]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("18:[\"$\",\"div\",null,{\"className\":\"how-cta\",\"data-rise\":\"\",\"style\":{\"--i\":0},\"children\":[\"$\",\"$L13\",null,{\"href\":\"/live\",\"className\":\"button\",\"children\":\"Watch the next drop\"}]}]\n")
+((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).rsc.push("19:[\"$\",\"footer\",null,{\"className\":\"site-footer\",\"children\":[[\"$\",\"div\",null,{\"className\":\"footer-inner\",\"children\":[[\"$\",\"$L13\",null,{\"className\":\"wordmark\",\"href\":\"/\",\"aria-label\":\"Open Set home\",\"children\":\"Open Set\"}],[\"$\",\"nav\",null,{\"aria-label\":\"Footer navigation\",\"children\":[[\"$\",\"$L13\",null,{\"href\":\"/how-it-works\",\"children\":\"How it works\"}],[\"$\",\"$L13\",null,{\"href\":\"/#funding\",\"children\":\"Funding\"}],[\"$\",\"$L13\",null,{\"href\":\"/#history\",\"children\":\"Past drops\"}]]}],[\"$\",\"nav\",null,{\"aria-label\":\"Open Set on social\",\"children\":[[\"$\",\"a\",null,{\"href\":\"https://x.com/opensetfun\",\"target\":\"_blank\",\"rel\":\"noreferrer\",\"children\":\"X\"}],[\"$\",\"a\",null,{\"href\":\"https://t.me/opensetlive\",\"target\":\"_blank\",\"rel\":\"noreferrer\",\"children\":\"Telegram\"}]]}]]}],[\"$\",\"div\",null,{\"className\":\"footer-bottom\",\"children\":[[\"$\",\"span\",null,{\"children\":\"Open Set\"}],[\"$\",\"a\",null,{\"href\":\"https://solscan.io/token/8LstZpZuR9Dy7JCZC3YwPEWtbYhuDVFAYV37r6ZAcuHz\",\"title\":\"8LstZpZuR9Dy7JCZC3YwPEWtbYhuDVFAYV37r6ZAcuHz\",\"target\":\"_blank\",\"rel\":\"noreferrer\",\"children\":[\"Mint: \",\"8LstZp…cuHz\"]}]]}]]}]\n")
+Object.assign(((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}),{"initialCacheKind":"dynamic","dynamicStaleTimeSeconds":0});((self[Symbol.for("vinext.navigationRuntime")]??={bootstrap:{routeManifest:null},functions:{}}).bootstrap.rsc??={rsc:[]}).done=true

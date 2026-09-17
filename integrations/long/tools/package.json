@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@whetstone-research/doppler-sdk": "1.0.40",
+    "viem": "2.56.3"
+  }
+}

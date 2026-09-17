@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-09-15T02:30:46.917Z",
+  "origin": "https://vault-closed-beta.vercel.app",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/play",
+      "status": 200
+    },
+    {
+      "path": "/beta.html",
+      "status": 200
+    },
+    {
+      "path": "/api/status",
+      "status": 200
+    },
+    {
+      "path": "/api/auth/config",
+      "status": 200
+    },
+    {
+      "path": "/api/models",
+      "status": 200
+    },
+    {
+      "path": "/.env",
+      "status": 404
+    },
+    {
+      "path": "/.local/beta.sqlite",
+      "status": 404
+    },
+    {
+      "path": "/api/attempt",
+      "origin": "https://vault-closed-beta.vercel.app",
+      "status": 401,
+      "error": "AUTH_REQUIRED"
+    },
+    {
+      "path": "/api/attempt",
+      "origin": "https://unrelated.example",
+      "status": 403,
+      "error": "ORIGIN_REJECTED"
+    }
+  ],
+  "closedBeta": true,
+  "unauthenticatedRequestsDoNotReserve": true,
+  "realInferenceCalls": 0
+}

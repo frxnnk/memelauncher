@@ -1,0 +1,8 @@
+{
+  "name": "BELLFLY",
+  "symbol": "BELLFLY",
+  "description": "An engineering experiment: a pinned fruit-fly neural model produces a signal, and a separate executor is intended to launch a token only if a rule fixed in advance is met. This draft does not describe a completed launch or a conscious agent.",
+  "image_hash": "https://bellfly.invalid/fly.png",
+  "fee_receiver": null,
+  "social_links": []
+}

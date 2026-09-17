@@ -1,0 +1,104 @@
+[
+  {
+    "mint": "EacamThc6ZJZTDrMGoShDVHVtN7zRMWk7dNpTrVzPALL",
+    "at": 1789192276682,
+    "coin": {
+      "mint": "EacamThc6ZJZTDrMGoShDVHVtN7zRMWk7dNpTrVzPALL",
+      "name": "CATON",
+      "symbol": "CATON",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreiashowldj7civy7m5h6yiawbechqhluumidzfv2wwsbch7am6k5cq",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreiashowldj7civy7m5h6yiawbechqhluumidzfv2wwsbch7am6k5cq",
+      "createdAt": 1789156467000,
+      "marketCapUsd": 22993.864997628458,
+      "source": "etc",
+      "quote": {
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "symbol": "TSLAX"
+      },
+      "pricedFrom": "curve"
+    },
+    "pair": {
+      "mint": "EacamThc6ZJZTDrMGoShDVHVtN7zRMWk7dNpTrVzPALL",
+      "stock": {
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "symbol": "TSLAx",
+        "name": "Tesla",
+        "class": "equity",
+        "decimals": 8
+      },
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0,
+      "stocks": [
+        {
+          "stock": {
+            "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+            "symbol": "TSLAx",
+            "name": "Tesla",
+            "class": "equity",
+            "decimals": 8
+          },
+          "bps": 10000
+        }
+      ]
+    },
+    "paid": null,
+    "dropped": {
+      "symbol": "LDROP-EACAMTHC-3",
+      "decimals": 6,
+      "units": "1568348768963",
+      "usd": null,
+      "wallets": 296,
+      "lastAt": 1789173271000
+    },
+    "history": null,
+    "split": {
+      "config": "ATV8tg6hTMzNy3yDdYsFuRr4REjtouD93NtwRxJKJ1eb",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders:XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+          "label": "your holders, in TSLAx",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys this coin and drops it into $all wallets",
+          "bps": 3000,
+          "role": "etc"
+        },
+        {
+          "key": "WGdWh3DFCCQYma5ixWFFiw6LFNaL3qxj7xABJAgBRnL",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "DLj8J6xsKbH8RwDACB4XrbGwuFFJAXWK49R2sFU89je",
+      "waiting": "780318582",
+      "claimable": "779668342",
+      "earned": null
+    },
+    "claims": {
+      "lamports": "40399203",
+      "claims": 1,
+      "lastAt": 1789168566236,
+      "lastSignature": "2r2eU5KvgWZzvGaWkpnWkydonF7Qw6rej2c4zHs8M7LVV3kpm8fLgxHd5sw52Vot3pC27seVtxMapv3SZ1HeB99v",
+      "complete": false
+    },
+    "next": {
+      "at": 1789191894066,
+      "state": "running",
+      "held": "failed to get info about account 2ZG24ENXZr1vEMAkchg8N5r9uKqumQHxswui11fVjkqV: TypeError: fetch failed"
+    },
+    "feeRead": {
+      "at": 1789192286549,
+      "distributions": [],
+      "complete": false
+    }
+  }
+]

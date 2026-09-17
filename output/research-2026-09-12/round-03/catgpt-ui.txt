@@ -1,0 +1,11 @@
+CATGPT public LONG UI
+Observed 2026-09-12 approximately 05:53 UTC using CUA on an unauthenticated IAB tab.
+URL https://app.long.xyz/tokens/0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18
+Connect button visible; no wallet connected in this tab by this task.
+Market cap shown approximately $7.4M.
+Fee receiver: 0x79B069112DF103f28bE2012a52eCEF0F4a5106F2
+CLAIMED $20,203.79 UNCLAIMED $662.10
+Prior phase UI: CLAIMED $23,946.81 UNCLAIMED $131.61.
+The decrease is observed. The valuation formula is not yet verified.
+No description or social links in About.
+Trade on Matcha Meta DEX link visible, chainId4663, buyToken exact CATGPT.

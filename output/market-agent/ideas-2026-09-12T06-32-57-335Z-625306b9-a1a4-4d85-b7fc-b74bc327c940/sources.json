@@ -1,0 +1,576 @@
+{
+  "social": {
+    "schemaVersion": 1,
+    "observedAt": "2026-09-12T06:07:50.301Z",
+    "observationWindowUtc": [
+      "2026-09-12T06:02:29Z",
+      "2026-09-12T06:07:51Z"
+    ],
+    "method": "Lectura nativa de ocho posts principales de X y sus hilos mediante CUA, mas documentos oficiales. Muestra dirigida por pistas anteriores; no es un barrido exhaustivo ni medicion de tendencia global.",
+    "metricsCaveat": "Likes, reposts y views son contadores visibles de X al leer cada post. No equivalen a personas unicas, organicidad, compradores o demanda de tokens. No sumar audiencias de posts citados. Las primeras tres horas de captura tienen precision de ventana, no de segundo.",
+    "clusters": [
+      {
+        "id": "ai-stocks",
+        "title": "Stocks + IA + mercados pre-IPO",
+        "news": "LONG anuncia pares experimentales de OpenAI y Anthropic basados en perps de Lighter; OKX anuncia acceso pre-IPO y stocks tokenizados en Europa.",
+        "meme": "CATGPT / ANTHROPIG: juegos de nombre entre animales y laboratorios de IA; la identidad de los tokens se cruza en map-market.json.",
+        "memeSemantics": "El nombre evoca a la empresa. Esto permite un puente cultural reconocible, pero la adopcion de esos personajes en X no fue medida en esta muestra.",
+        "assetNodeIds": [
+          "catgpt",
+          "anthropig"
+        ],
+        "evidenceIds": [
+          "x-long-preipo",
+          "x-okx-preipo",
+          "okx-docs-preipo"
+        ],
+        "relationshipFacts": [
+          "LONG declara infraestructura para pares de IA y pre-IPO.",
+          "La documentacion oficial de OKX define sus X-Perps como derivados liquidados en efectivo sin acciones ni derechos de accionista.",
+          "El anuncio OKX es distinto del producto LONG."
+        ],
+        "relationshipHypotheses": [
+          "El acceso pre-IPO puede reforzar atencion a memes que evocan OpenAI y Anthropic.",
+          "No se demostro que OKX causara el volumen o precio de CATGPT/ANTHROPIG.",
+          "El nombre de empresa no acredita afiliacion, emision o respaldo de esa empresa."
+        ],
+        "gap": {
+          "status": "sin validar",
+          "type": "distribucion y comprension",
+          "text": "Hay tokens y catalizadores reales; falta probar que una expresion propia atraiga autores fuera del circuito de promociones y que entiendan el quote que estan usando.",
+          "falsifyingTest": "Tomar dos ventanas de posts del token exacto: si predominan promociones o simples reposts, no crecen autores originales y el volumen no persiste, rechazar la supuesta brecha. No usar un nombre de empresa sin contrato y par exactos."
+        },
+        "priority": "observar flujo y autores; sin brief de lanzamiento validado"
+      },
+      {
+        "id": "steel",
+        "title": "Brian Steel / 2-for-2",
+        "news": "Cuniff informa absolucion de Lil Durk en este juicio y aclara que permanece detenido por otro proceso.",
+        "meme": "Abogado como personaje invencible: 2-for-2, comparaciones deportivas e hiperbólicas sobre su capacidad de defensa.",
+        "memeSemantics": "FearBuck convierte la noticia en marcador de victorias y publica dos imagenes; Kira lo cita con una exageracion propia. Es una reinterpretacion social del hecho, no un resumen juridico de casos equivalentes.",
+        "assetNodeIds": [
+          "steel"
+        ],
+        "evidenceIds": [
+          "x-cuniff-verdict",
+          "x-cuniff-custody",
+          "x-fearbuck-steel",
+          "x-kira-steel",
+          "x-steel-rico-reaction"
+        ],
+        "relationshipFacts": [
+          "Noticia y meme nombran al mismo caso/personaje.",
+          "Kira cita directamente el post de FearBuck; es otro autor pero comparte la misma escena y puede compartir audiencia.",
+          "El hilo de FearBuck contiene reacciones propias de otros autores."
+        ],
+        "relationshipHypotheses": [
+          "La reutilizacion del personaje podria sostener una serie editorial.",
+          "La atencion social no prueba que STEEL o un ticker nuevo capture demanda.",
+          "No hay un vinculo observado con stocks o wrappers OpenAI/Anthropic; no forzar ese emparejamiento."
+        ],
+        "gap": {
+          "status": "sin validar",
+          "type": "expresion cultural a identidad de mercado",
+          "text": "Hay personaje y lenguaje compartido; falta saber si el publico adopta una identidad concreta mas alla de la noticia y si se concentra actividad en un contrato verificable.",
+          "falsifyingTest": "En una ventana posterior de 24 h contar remixes nuevos del personaje por autores distintos y actividad del mismo contrato. Si solo siguen likes del post original o aparecen tickers dispersos sin continuidad, descartar la brecha."
+        },
+        "priority": "primero para probar contenido; token no validado"
+      },
+      {
+        "id": "acme",
+        "title": "Renuncias de IA / ACME",
+        "news": "Jacob Coxon publica que renuncio a Anthropic y expresa preocupacion por la carrera de IA. La lectura confirma su declaracion, no sus predicciones tecnicas ni toda su historia laboral.",
+        "meme": "Jae Holzman traslada la plantilla a ACME y a tuneles falsos que se pintan solos.",
+        "memeSemantics": "La gravedad del discurso de riesgo se traslada al absurdo de Coyote/Correcaminos. El post comprobado es texto; una nueva escena dibujada seria una elaboracion creativa.",
+        "assetNodeIds": [],
+        "evidenceIds": [
+          "x-coxon-origin",
+          "x-acme-parody",
+          "x-acme-roadrunner-reaction"
+        ],
+        "relationshipFacts": [
+          "Ambos posts comparten una estructura textual muy similar, con sustitucion de empresa y tecnologia.",
+          "Respuestas al post ACME mencionan al Correcaminos y sus tuneles, lo que apoya esa lectura semantica."
+        ],
+        "relationshipHypotheses": [
+          "Es una adaptacion satirica de la plantilla; no se verifico una declaracion del autor sobre su motivacion.",
+          "La familia de renuncias puede continuar, pero ACME no hereda el alcance del post original.",
+          "No hay demanda actual de un token ACME demostrada aqui."
+        ],
+        "gap": {
+          "status": "debil",
+          "type": "subformato sin adopcion independiente comprobada",
+          "text": "Se entiende el chiste, pero en esta muestra solo hay un creador principal del subtipo ACME. La escala del origen no acredita escala de la derivacion.",
+          "falsifyingTest": "Buscar nuevos autores que desarrollen especificamente ACME/tuneles durante 24 h. Si solo hay respuestas breves y redistribucion del texto original, archivar el subtipo."
+        },
+        "priority": "archivo salvo reactivacion del subtipo"
+      },
+      {
+        "id": "stocks-dkng",
+        "title": "Stocks + memes / DraftKings",
+        "news": "Solana anuncia DKNG en su red via Sunrise, emitido por Backpack Securities, el 11 de septiembre a las 20:09 UTC.",
+        "meme": "ALLINU emparejado con DKNG; cultura de apuestas, all-in y memes de mercado como posible puente semantico.",
+        "memeSemantics": "El par ALLINU/DKNG existe en el cruce de mercado. La lectura all-in/apuestas es una hipotesis semantica; no se verifico en esta muestra adopcion de esa lectura por autores de X.",
+        "assetNodeIds": [
+          "allinu"
+        ],
+        "evidenceIds": [
+          "x-solana-dkng",
+          "x-solana-dkng-detail",
+          "x-sunrise-dkng"
+        ],
+        "relationshipFacts": [
+          "El anuncio oficial de Solana enlaza a DKNG con Sunrise y Backpack Securities.",
+          "El hilo identifica DraftKings y vincula a un directorio de la direccion del token.",
+          "La identidad y el quote del pool ALLINU se verifican por separado en map-market.json."
+        ],
+        "relationshipHypotheses": [
+          "El tema apuestas podria aportar una expresion cultural coherente al par ALLINU/DKNG.",
+          "El anuncio no prueba afiliacion de ALLINU con DraftKings ni que la noticia haya causado su volumen.",
+          "No se verifico comunidad del meme en X, respaldo legal del wrapper o conversion de lectores a compradores en esta pasada."
+        ],
+        "gap": {
+          "status": "sin validar",
+          "type": "noticia y quote verificados; adopcion cultural faltante",
+          "text": "Hay infraestructura y par exacto. Falta encontrar una expresion propia que se entienda y sea reutilizada fuera de promociones de tokens; el nombre all-in por si solo no demuestra oportunidad.",
+          "falsifyingTest": "Comparar publicaciones originales del contrato exacto durante dos ventanas: si solo son promos de trading sin remixes independientes o el volumen no persiste, rechazar la brecha. Verificar tambien profundidad en DKNG y variacion del quote."
+        },
+        "priority": "prioridad de investigacion por cruce stock real y pool exacto; no lanzamiento validado"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "x-long-preipo",
+        "kind": "official-announcement",
+        "url": "https://x.com/longdotxyz/status/2098554655110480307",
+        "author": "@longdotxyz",
+        "publishedAt": "2026-09-11T23:29:00Z",
+        "publishedAtPrecision": "minute",
+        "observedAt": "2026-09-12T06:03:00Z",
+        "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+        "paraphrase": "LONG anuncia pares pre-IPO OpenAI/Anthropic basados en perps de Lighter; menciona Anthropic1x, OpenAI1x y NVDA3x, menor profundidad y caracter experimental.",
+        "metrics": {
+          "views": 90982,
+          "likes": 449,
+          "reposts": 79
+        },
+        "verified": "native-x"
+      },
+      {
+        "id": "x-okx-preipo",
+        "kind": "official-announcement",
+        "url": "https://x.com/okx/status/2097958461254590855",
+        "author": "@okx",
+        "publishedAt": "2026-09-10T08:00:00Z",
+        "publishedAtPrecision": "minute",
+        "observedAt": "2026-09-12T06:03:45.928Z",
+        "paraphrase": "OKX anuncia acceso pre-IPO OpenAI/Anthropic y stocks tokenizados 24/7 en Europa. Respuesta oficial visible aclara derivados y ausencia de propiedad directa.",
+        "metrics": {
+          "views": 105715,
+          "likes": 121,
+          "reposts": 21
+        },
+        "verified": "native-x"
+      },
+      {
+        "id": "okx-docs-preipo",
+        "kind": "official-documentation",
+        "url": "https://www.okx.com/en-us/learn/pre-ipo-x-perps-explained-eea",
+        "author": "OKX Learn",
+        "publishedAt": "2026-09-11",
+        "observedAt": "2026-09-12T06:04:00Z",
+        "observedAtPrecision": "minute-approx",
+        "paraphrase": "Guia EEA: X-Perps pre-IPO son derivados liquidados en efectivo y de precio formado por mercado; no entregan acciones ni derechos sobre equity. Es un producto diferente de stocks tokenizados.",
+        "metrics": null,
+        "verified": "web-current"
+      },
+      {
+        "id": "x-cuniff-verdict",
+        "kind": "direct-reporting",
+        "url": "https://x.com/meghanncuniff/status/2098566297483383085",
+        "author": "@meghanncuniff",
+        "publishedAt": "2026-09-12T00:16:00Z",
+        "publishedAtPrecision": "minute",
+        "observedAt": "2026-09-12T06:04:10.03Z",
+        "paraphrase": "La periodista informa absolucion de Durk en todos los cargos de este juicio y distingue el resultado de los otros acusados.",
+        "metrics": {
+          "views": 2914907,
+          "likes": 27188,
+          "reposts": 11887
+        },
+        "verified": "native-x"
+      },
+      {
+        "id": "x-cuniff-custody",
+        "kind": "direct-reporting",
+        "url": "https://x.com/meghanncuniff/status/2098569494017024085",
+        "author": "@meghanncuniff",
+        "publishedAt": "2026-09-12",
+        "observedAt": "2026-09-12T06:04:10.03Z",
+        "paraphrase": "En el mismo hilo aclara que Durk no sale de prision porque afronta otro juicio por un cargo RICO.",
+        "metrics": {
+          "views": 783486,
+          "likes": 4026,
+          "reposts": 1661
+        },
+        "verified": "native-x-thread"
+      },
+      {
+        "id": "x-fearbuck-steel",
+        "kind": "meme-expression",
+        "url": "https://x.com/FearedBuck/status/2098567760829661472",
+        "author": "@FearedBuck",
+        "publishedAt": "2026-09-12T00:21:00Z",
+        "publishedAtPrecision": "minute",
+        "observedAt": "2026-09-12T06:03:00Z",
+        "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+        "paraphrase": "Presenta a Brian Steel con un marcador 2-for-2 tras representar a Lil Durk y Young Thug; contiene dos imagenes.",
+        "metrics": {
+          "views": 2300477,
+          "likes": 98325,
+          "reposts": 10064
+        },
+        "verified": "native-x"
+      },
+      {
+        "id": "x-kira-steel",
+        "kind": "meme-reinterpretation",
+        "url": "https://x.com/kirawontmiss/status/2098571313908523312",
+        "author": "@kirawontmiss",
+        "publishedAt": "2026-09-12T00:36:00Z",
+        "publishedAtPrecision": "minute",
+        "observedAt": "2026-09-12T06:05:13.839Z",
+        "paraphrase": "Cita a FearBuck y exagera la capacidad del abogado para conseguir absoluciones. Es humor, no afirmacion juridica.",
+        "metrics": {
+          "views": 144952,
+          "likes": 6694,
+          "reposts": 258
+        },
+        "verified": "native-x",
+        "quotesEvidenceId": "x-fearbuck-steel"
+      },
+      {
+        "id": "x-steel-rico-reaction",
+        "kind": "meme-reaction",
+        "url": "https://x.com/JuiceWRLDsGUN/status/2098568234974724163",
+        "author": "@JuiceWRLDsGUN",
+        "publishedAt": "2026-09-12",
+        "observedAt": "2026-09-12T06:03:00Z",
+        "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+        "paraphrase": "Respuesta a FearBuck sobre Steel defendiendo un caso RICO con video de 9 segundos; el contenido del video no se inspecciono.",
+        "metrics": {
+          "views": 90721,
+          "likes": 3830,
+          "reposts": 102
+        },
+        "verified": "native-x-thread"
+      },
+      {
+        "id": "x-coxon-origin",
+        "kind": "author-statement",
+        "url": "https://x.com/hilbertspaess/status/2097476196791709843",
+        "author": "@hilbertspaess",
+        "publishedAt": "2026-09-09T00:04:00Z",
+        "publishedAtPrecision": "minute",
+        "observedAt": "2026-09-12T06:04:29.755Z",
+        "paraphrase": "Coxon declara que renuncio a Anthropic y critica la carrera hacia sistemas mas capaces; son declaraciones del autor, no especificaciones de producto verificadas.",
+        "metrics": {
+          "views": 166897386,
+          "likes": 783206,
+          "reposts": 199988
+        },
+        "verified": "native-x"
+      },
+      {
+        "id": "x-acme-parody",
+        "kind": "meme-expression",
+        "url": "https://x.com/jaeporeon/status/2097861672274743520",
+        "author": "@jaeporeon",
+        "publishedAt": "2026-09-10T01:36:00Z",
+        "publishedAtPrecision": "minute",
+        "observedAt": "2026-09-12T06:03:00Z",
+        "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+        "paraphrase": "Parodia una renuncia a ACME por la carrera hacia tuneles falsos que se pintan solos. Es texto sin imagen adjunta en el post leido.",
+        "metrics": {
+          "views": 60863,
+          "likes": 2769,
+          "reposts": 356
+        },
+        "verified": "native-x"
+      },
+      {
+        "id": "x-acme-roadrunner-reaction",
+        "kind": "meme-reaction",
+        "url": "https://x.com/juanstoppable/status/2098138766481182873",
+        "author": "@juanstoppable",
+        "publishedAt": "2026-09-10",
+        "observedAt": "2026-09-12T06:03:00Z",
+        "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+        "paraphrase": "Relaciona el Correcaminos, los limites de seguridad y el uso de los dibujos como tuneles reales.",
+        "metrics": {
+          "views": 464,
+          "likes": 7,
+          "reposts": 0
+        },
+        "verified": "native-x-thread"
+      },
+      {
+        "id": "x-solana-dkng",
+        "kind": "official-announcement",
+        "url": "https://x.com/solana/status/2098504287672267068",
+        "author": "@solana",
+        "publishedAt": "2026-09-11T20:09:00Z",
+        "publishedAtPrecision": "minute",
+        "observedAt": "2026-09-12T06:07:50.301Z",
+        "paraphrase": "Solana anuncia DKNG en su red mediante Sunrise y atribuye su emision a Backpack Securities.",
+        "metrics": {
+          "views": 73204,
+          "likes": 272,
+          "reposts": 40
+        },
+        "verified": "native-x"
+      },
+      {
+        "id": "x-solana-dkng-detail",
+        "kind": "official-announcement",
+        "url": "https://x.com/solana/status/2098504290998338029",
+        "author": "@solana",
+        "publishedAt": "2026-09-11",
+        "observedAt": "2026-09-12T06:07:50.301Z",
+        "paraphrase": "El hilo identifica DraftKings como plataforma estadounidense de apuestas y juegos, y enlaza a Tokens.xyz para verificar la direccion.",
+        "metrics": {
+          "views": 9807,
+          "likes": 24,
+          "reposts": 1
+        },
+        "verified": "native-x-thread"
+      },
+      {
+        "id": "x-sunrise-dkng",
+        "kind": "official-announcement",
+        "url": "https://x.com/sunrise/status/2098502807099945229",
+        "author": "@sunrise",
+        "publishedAt": "2026-09-11",
+        "observedAt": "2026-09-12T06:07:50.301Z",
+        "paraphrase": "La cita de Sunrise visible en el hilo de Solana tambien anuncia DKNG en Solana y atribuye emision a Backpack Securities.",
+        "metrics": null,
+        "verified": "native-x-quoted-post",
+        "limitation": "El post fue leido como cita en el hilo; sus metricas propias y minuto exacto no se recuperaron."
+      }
+    ],
+    "limitations": [
+      "No se publicaron mensajes, siguieron cuentas ni conectaron wallets.",
+      "No se midieron organicidad, comunidades completas, autores unicos, bots o conversion a compradores.",
+      "Los posts fueron seleccionados con pistas previas; no prueban que sean las mayores tendencias de X hoy.",
+      "ACME es de hace mas de dos dias y el origen de renuncias tiene mas de tres dias.",
+      "No se cuantifica una brecha con un score inventado: cada brecha incluye evidencia faltante y prueba que puede descartarla."
+    ]
+  },
+  "market": {
+    "currentObservedAt": "2026-09-12T06:02:20.077Z",
+    "collectionStartedAt": "2026-09-12T06:02:08.683Z",
+    "source": "DEX Screener public API",
+    "scanFile": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\output\\market-agent\\2026-09-12T06-02-20-447Z-f1385289-4523-4c7a-b838-85d2bf9afdc8\\scan.json",
+    "nodes": [
+      {
+        "id": "catgpt",
+        "name": "CATGPT",
+        "symbol": "CATGPT",
+        "chain": "robinhood",
+        "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+        "pair": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+        "quote": "OPENAIx1L",
+        "quoteName": "OPENAI 1x Long",
+        "quoteContract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+        "priceUsd": 0.006653,
+        "liquidityUsd": 4273355.35,
+        "volume1h": 401974.93,
+        "sourceUrl": "https://dexscreener.com/robinhood/0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+        "observedAt": "2026-09-12T06:02:13.449Z",
+        "notes": [
+          "Identidad del par OPENAIx1L seguido previamente; existen homonimos en Robinhood y Solana.",
+          "El quote se llama OPENAI 1x Long; la metadata del pool no prueba emision o respaldo de OpenAI.",
+          "Liquidez nominal: aproximadamente 96.67% es valoracion del propio token; residual quote contable aproximado 142129.00 USD. No mide profundidad ejecutable ni efectivo garantizado."
+        ]
+      },
+      {
+        "id": "anthropig",
+        "name": "Anthropig",
+        "symbol": "ANTHROPIG",
+        "chain": "robinhood",
+        "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+        "pair": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+        "quote": "ANTHROPICx1L",
+        "quoteName": "ANTHROPIC 1x Long",
+        "quoteContract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+        "priceUsd": 0.001825,
+        "liquidityUsd": 1243536.52,
+        "volume1h": 152158.9,
+        "sourceUrl": "https://dexscreener.com/robinhood/0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+        "observedAt": "2026-09-12T06:02:14.740Z",
+        "notes": [
+          "Identidad del par ANTHROPICx1L seguido previamente.",
+          "ANTHROPIG/WETH 0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6 es otro token: no sumar sus metricas.",
+          "El nombre ANTHROPIC 1x Long del quote no prueba emision o respaldo de Anthropic.",
+          "Liquidez nominal: aproximadamente 94.23% es valoracion del propio token; residual quote contable aproximado 71733.62 USD. No mide profundidad ejecutable ni efectivo garantizado."
+        ]
+      },
+      {
+        "id": "stonk",
+        "name": "STONK",
+        "symbol": "STONK",
+        "chain": "solana",
+        "contract": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+        "pair": "zxTpi4BtaWX3mgdAPoezkMD1hxx8CdeCfrqXMWvSCLX",
+        "quote": "SOL",
+        "quoteName": "Wrapped SOL",
+        "quoteContract": "So11111111111111111111111111111111111111112",
+        "priceUsd": 0.2674,
+        "liquidityUsd": 4706933.51,
+        "volume1h": 1399188.84,
+        "sourceUrl": "https://dexscreener.com/solana/zxtpi4btawx3mgdapoezkmd1hxx8cdecfrqxmwvsclx",
+        "observedAt": "2026-09-12T06:02:16.087Z",
+        "notes": [
+          "Contrato y pool SOL seguidos previamente; es el pool con mayor liquidez reportada de esta identidad en la busqueda.",
+          "Otros contratos llamados STONK reportan hasta 161.3M USD de liquidez y menos de 1 USD de volumen/h: no son esta identidad.",
+          "Los varios pools del mismo mint no se suman; el nodo muestra un pool."
+        ]
+      },
+      {
+        "id": "allinu",
+        "name": "ALLINU",
+        "symbol": "ALLINU",
+        "chain": "solana",
+        "contract": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
+        "pair": "5752ia7jC3ZU1c8ycytaSyi5D4nVhApSKvreGbs7pwWL",
+        "quote": "DKNG",
+        "quoteName": "DraftKings - Backpack Securities",
+        "quoteContract": "DKNGQFNGQmoBdXSRGKJ8tTu7uPDasw5JDcfMmWniNfow",
+        "priceUsd": 0.001256,
+        "liquidityUsd": 106379.1,
+        "volume1h": 232289.09,
+        "sourceUrl": "https://dexscreener.com/solana/5752ia7jc3zu1c8ycytasyi5d4nvhapskvregbs7pwwl",
+        "observedAt": "2026-09-12T06:02:17.445Z",
+        "notes": [
+          "Contrato del par DKNG seguido previamente; es el pool con mayor liquidez reportada de esta identidad en la busqueda.",
+          "Quote identificado por contrato como DraftKings - Backpack Securities segun DEX; no se audito aqui el emisor ni la elegibilidad de uso.",
+          "Los ALLINU con liquidez nominal millonaria y volumen/h cero son otros contratos."
+        ]
+      },
+      {
+        "id": "steel",
+        "name": "Brian Steel",
+        "symbol": "STEEL",
+        "chain": "solana",
+        "contract": "TH5vjP7bP8mVzVSyRZiCxVUMpTABotrhVQEJNbepump",
+        "pair": "EJKPJgTVGjA1TDgR9LEtk6mzxYHE4urmn3njDHTdDmnw",
+        "quote": "SOL",
+        "quoteName": "Wrapped SOL",
+        "quoteContract": "So11111111111111111111111111111111111111112",
+        "priceUsd": 0.000003615,
+        "liquidityUsd": null,
+        "volume1h": 5.01,
+        "sourceUrl": "https://dexscreener.com/solana/ejkpjgtvgja1tdgr9letk6mzxyhe4urmn3njdhtddmnw",
+        "observedAt": "2026-09-12T06:02:18.723Z",
+        "notes": [
+          "Coincidencia exacta Brian Steel, simbolo STEEL, contrato seguido previamente.",
+          "Liquidez no reportada por DEX: null significa desconocida, no cero. Solo 5.01 USD de volumen en la ultima hora.",
+          "La busqueda incluye Brian Armstrong, Anthropic Cat y Ballz of Steel: no son evidencia de adopcion de Brian Steel."
+        ]
+      },
+      {
+        "id": "polarbear",
+        "name": "Polar Bear 2026",
+        "symbol": "PolarBear",
+        "chain": "solana",
+        "contract": "yf1xw3TZ8ZLbmdYHDW6QEg5bcbKRpP3QNNhqPv5pump",
+        "pair": "G1qdtYH5FmNvaFSxsanEbKhHDzGTQ7vkFuDT8waRHYiS",
+        "quote": "SOL",
+        "quoteName": "Wrapped SOL",
+        "quoteContract": "So11111111111111111111111111111111111111112",
+        "priceUsd": 0.0000269,
+        "liquidityUsd": 14904.38,
+        "volume1h": 0,
+        "sourceUrl": "https://dexscreener.com/solana/g1qdtyh5fmnvafsxsanebkhhdzgtq7vkfudt8warhyis",
+        "observedAt": "2026-09-12T06:02:20.077Z",
+        "notes": [
+          "Polar Bear 2026, contrato seguido previamente y mayor liquidez reportada entre coincidencias relevantes de la busqueda actual.",
+          "Volumen/h cero: el precio visible no demuestra actividad actual. Hay homonimos en varias redes."
+        ]
+      }
+    ],
+    "coverage": [
+      "Captura puntual de 3 metas trending y 6 busquedas; consultas de todas las redes, hasta 30 pares por respuesta. No es un censo del mercado.",
+      "Precios de pools distintos capturados entre 06:02:13 y 06:02:20 UTC del 2026-09-12; no son cotizaciones ejecutables simultaneas.",
+      "Se seleccionaron identidades exactas previamente investigadas y pools relevantes; no se eligio automaticamente el mayor valor de liquidez entre homonimos.",
+      "No se sumaron capitalizaciones, liquidez ni volumen de pools o contratos.",
+      "Identidad verificada contra respuesta DEX por red, contrato base, pair y contrato quote; no constituye auditoria del contrato o del emisor."
+    ],
+    "queryAmbiguities": [
+      {
+        "query": "CATGPT",
+        "returnedPairs": 30,
+        "distinctBaseTokens": 14
+      },
+      {
+        "query": "ANTHROPIG",
+        "returnedPairs": 30,
+        "distinctBaseTokens": 12
+      },
+      {
+        "query": "STONK",
+        "returnedPairs": 30,
+        "distinctBaseTokens": 14
+      },
+      {
+        "query": "ALLINU",
+        "returnedPairs": 30,
+        "distinctBaseTokens": 24
+      },
+      {
+        "query": "Brian Steel",
+        "returnedPairs": 30,
+        "distinctBaseTokens": 30
+      },
+      {
+        "query": "Polar Bear",
+        "returnedPairs": 30,
+        "distinctBaseTokens": 29
+      }
+    ],
+    "excludedHomonyms": [
+      {
+        "query": "ANTHROPIG",
+        "chain": "robinhood",
+        "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+        "quote": "WETH",
+        "reason": "Otro token, no otro pool del ANTHROPIG de LONG.",
+        "priceUsd": 0.002824,
+        "liquidityUsd": 200806.79,
+        "volume1h": 2903924.37
+      },
+      {
+        "query": "STONK",
+        "chain": "solana",
+        "contract": "6mNyiGNer9sdgCcdpMQFb3DtFVqdu1KptufwSwetN4AL",
+        "quote": "USDC",
+        "reason": "Homonimo con gran liquidez nominal y actividad casi nula; no corresponde al mint seguido.",
+        "liquidityUsd": 161297713.18,
+        "volume1h": 0.97
+      },
+      {
+        "query": "ALLINU",
+        "chain": "solana",
+        "contract": "RZjZXpA84nxb3VFtUd2hGigGRqKsuQvLt1HNK9eVqNX",
+        "quote": "USDC",
+        "reason": "Homonimo con volumen/h cero; no es ALLINU/DKNG seguido.",
+        "liquidityUsd": 16837728.89,
+        "volume1h": 0
+      }
+    ]
+  },
+  "local": {
+    "docs\\competitor-flybrain\\REVIEW.md": "# FLYBRAIN — verified competitor update, 2026-09-10\n\nThe user identified https://flybrain.online/. The site was opened in a normal browser, followed to its source repository and independently to Blockscout. Public source files in this folder are research snapshots, **not an installed integration or instructions to execute**. No competitor code was run, wallet connected or transaction sent.\n\n## Confirmed token launch\n\n- Token: `flybrain` / `FLYBRAIN`, `0x4Eb990547BCe4a982432CA88Cf5fae7EED1A2d35`.\n- Creation: `0x63b2164f3d784e46538cc81d3c48095bd7252a3d12398fdad9991870d12a4f1c`.\n- Explorer showed Success, method `launchToken`, block 59,614,342, 2026-09-10 15:23:09 Argentina / 18:23:09 UTC.\n- Chain 4663; interacted with `PonsV2LaunchFactory` at `0x7eD598BcEf8bd9Edd8C97A195C6d13f40801EC7e`.\n- Sender `0x6ce4085EfB52a6eBDb7d6989beb8860847f4b42A`; minted 1,000,000,000 FLYBRAIN.\n- That transaction transferred 0.0005 ETH and incurred 0.000476844685872 ETH transaction fee. These are historical actual amounts, not a quote for our launch.\n\n[Contract](https://robinhoodchain.blockscout.com/address/0x4eb990547bce4a982432ca88cf5fae7eed1a2d35) · [Creation transaction](https://robinhoodchain.blockscout.com/tx/0x63b2164f3d784e46538cc81d3c48095bd7252a3d12398fdad9991870d12a4f1c).\n\nShell RPC and explorer REST requests returned HTTP 403 on that route (`rpc.json`). The ordinary public explorer UI loaded and supplied the findings above; no geographical/access-control bypass was attempted. The website itself reports GOOGL pairing and 1% creator tax; those two fields were not independently decoded in this bounded review.\n\n## What the fly actually does, according to published material\n\nThe project describes a MaleCNS model, 165,122 traced neurons and 10,228,000 signed connections, receiving browser screenshots via 892 visual columns. Descending-neuron outputs control cursor movement/clicks. It reports learned per-cell-type gains and partial form completion. These scientific/training figures are author claims here, not our measured results.\n\nThe current site says the token launched but later unrestricted operation has not been released. These statuses are compatible: a token exists while their broader autonomous-agent experiment remains unfinished.\n\nSource pin: `9381313152906571b859fc24897f7d6d27859afd`, from [fruitflydev/flycoinrh](https://github.com/fruitflydev/flycoinrh).\n\nThe authors explicitly disclose that their rig fills missing fields, selects the quote and creator fee, and confirms the launch. Inspected `rhlive.py` lines 988–1061 implement those actions: select quote, set fee, locate launch button, move cursor there, and when `live_flag` is true call `page.mouse.click`; then programmatically locate and click the confirmation. It is not evidence of a separate precommitted neural yes/no launch decision. It also does not independently prove which exact version ran for this historical transaction.\n\nThe repository README gives older **TEST** deployments, wallet and 2% fee. Those are not the current FLYBRAIN address, live sender or website's 1% claim. Keep their evidence separate.\n\n## Implication for BELLFLY\n\nThis is a direct relevant competitor with a real deployment, not merely a themed landing. They are ahead of our current demo on live launch integration and have a richer browser-control experiment. We should not defend novelty by dismissing the scripted portions; all such systems require an execution layer.\n\nOur intended distinction is specific: does the frozen neural rule determine **whether** emission happens, with valid NO_LAUNCH preserved, prior commitment and auditable artifacts? A script interpreting that rule is acceptable; a script always launching after the demo is a different experiment. This distinction remains to be demonstrated in our official run and is not evidence of market demand or world-first status.\n\nNext integration research should inspect this exact Pons V2 factory, current `canLaunch`/quote eligibility and preview semantics alongside Bankr. Prior indexed documentation suggesting restricted public launching cannot support a blanket claim that Pons deployment is unavailable: this confirmed transaction is contrary evidence. It does not prove our account is eligible or NVDA is accepted. No launch authorization follows from the competitor existing.\n",
+    "README.md": "# BELLFLY — local experiment lab\n\nA published fly neural model produces spikes; a fixed decoder interprets them as LAUNCH_SIGNAL, NO_LAUNCH or INVALID. The model does not understand finance. **The live executor does not exist. No token was issued.**\n\nThis first delivery runs the original Shiu model on FlyWire v630, an explicitly synthetic MOCK integration runner, a persistent TypeScript controller, offline preview, export/verifier/replay and a read-only English React interface. Name, ticker, chain/platform selection and economics are provisional.\n\n## Requirements and installation (Windows PowerShell)\n\nLong / GOOGL preparation is isolated in [`integrations/long/README.md`](integrations/long/README.md). It has no signer or broadcast methods. The first diagnostic reverted because the reviewed factory was paused; this is not a successful provider preview. Historical neural manifests retain their original proposed terms.\n\nMeasured host: Windows, 16 logical CPU cores, about 61.7 GiB physical RAM; RTX 5060 Ti 16 GiB available but unused. The reference uses NumPy CPU with a measured peak around 2 GiB RAM. Allow ~3 GiB available RAM per concurrent reference run and sufficient disk for the virtual environment and ~86 MiB of model input data. Node **22.16.0** and Python **3.13.5** were used.\n\nFrom this repository root:\n\n```powershell\nnpm.cmd ci\npython -m venv .venv\n.\\.venv\\Scripts\\python.exe -m pip install -r requirements.lock.txt\npython scripts/download-model.py\nnpm.cmd test\n.\\.venv\\Scripts\\python.exe -m unittest discover -s tests -p test_reference.py -v\nnpm.cmd run build\nnpm.cmd run demo\nnpm.cmd run dev\n```\n\nOpen **http://127.0.0.1:8787**. Keep the server terminal running. `npm run dev` serves the built UI; after changing web files, build again. For Vite HMR, run `npm.cmd run web` in a separate terminal alongside the controller, then open port 5173. Both bind to loopback. No wallet/login/provider credential is required to watch or replay.\n\n`npm.cmd` is intentional on Windows: a PowerShell npm wrapper dropped dash-prefixed arguments during initial tests. The reference control scripts below use fixed positional arguments. In other shells use `npm` and `.venv/bin/python` equivalents. Cross-platform numerical equality has not been tested.\n\nBrian2 creates a CPU-feature cache under the OS user's `.brian` directory on first import, even when NumPy is selected. The Codex sandbox initially blocked that cache; a scoped first import outside the sandbox resolved it. Ordinary local use must allow that normal library cache. No existing credential file is needed.\n\n## Actual model runs\n\n```powershell\nnpm.cmd run reference\nnpm.cmd run reference:negative\nnpm.cmd run reference:ablated\n```\n\n- `reference`: the upstream sugarR example stimulus at 100 Hz, 21 published input IDs, one 1000 ms trial, MN9 output. All 127,400 rows in the supplied completeness table and 14,687,178 connectivity rows are loaded. A connectivity row is not the same thing as an individual anatomical synaptic contact.\n- `reference:negative`: identical seed/duration/decoder with no stimulus.\n- `reference:ablated`: identical stimulus with all incoming MN9 connection weights zeroed and independently checked. The final run records 229 affected connection rows.\n- The seed is always **20260910**, declared as FIXED_LOCAL engineering work; it is not public randomness. Repeated development attempts are retained and documented, never presented as independent official trials.\n- The decoder requires at least one MN9 spike in each of three consecutive 10 ms bins. This was fixed before the first reference and was not retuned to get a yes. It remains a provisional engineering policy, not a scientifically validated launch threshold.\n\nEach command prints a run ID and writes its full evidence to `examples/<run-id>.json`. The controller's durable database is `.local/bellfly.sqlite`. Do not delete it to hide trials. `examples/reference-positive.json`, `reference-negative.json`, `reference-ablated.json` and `mock-demo.json` are named copies of the final delivery's records; the UUID records remain present. Consult [docs/RUN_LOG.md](docs/RUN_LOG.md) for failed and superseded engineering attempts.\n\n## Verification and replay\n\n```powershell\nnpm.cmd run verify -- examples/reference-positive.json\nnpm.cmd run replay -- examples/reference-positive.json\nnpm.cmd run verify -- examples/reference-negative.json\nnpm.cmd run verify -- examples/reference-ablated.json\nnpm.cmd run replay -- examples/mock-demo.json\n```\n\n`verify` checks the canonical export digest, manifest/artifact hashes, state/event history, complete clock/provenance, decoder recomputation and mock receipt boundaries. `replay` additionally checks current code/data/environment pins and reruns Python. It compares exact integer-microsecond spikes in the pinned local environment, with zero tolerance. It excludes wall time/RAM from numerical equality. Different hardware or original Brian2/Python may differ; no bitwise equivalence claim across those environments.\n\nChanging runner/controller code, pinned dependencies or data intentionally blocks replay of the previous code hash. Older UUID examples are the engineering history, not promises to replay under modified code. Use the final named examples or the exact historical code snapshot if separately preserved. The current delivery has no earlier Git commits.\n\nCanonical format `BELLFLY-C14N-1`: recursively sorted ASCII object keys, UTF-8 JSON, compact separators, finite JSON numbers, no undefined. The manifest digest is separate from the input object. `export_hash` is excluded from its own input. This restricted format is not a general RFC 8785 implementation. A local digest detects changes against a trusted reference; it cannot stop a hostile host replacing all evidence. There is no independently published timestamp or cryptographic execution proof.\n\n## Safety and private control\n\n`.env.example` documents defaults; the app does not automatically load `.env`. `LIVE_EXECUTION_ENABLED` must be unset or the string `false`. Any other setting refuses server startup. The manifest's field is a false literal, and `requestLive` always throws. There is no Bankr key lookup, wallet dependency, signed transaction builder or broadcasting path.\n\nThe public browser only reads `/api/runs`, individual records and `/evidence` downloads. There is no neural-event ingestion endpoint. Optional `POST /api/control/rehearsal` accepts only `{}`, launches a fixed MOCK rehearsal and requires a caller-supplied `BELLFLY_CONTROL_TOKEN` of at least 32 characters via bearer auth. This token is never provided to the public client or child runner. Without it HTTP control is disabled; the local CLI remains available. Do not reuse financial credentials for local control.\n\nOffline adapter interface names `preview`, `request_once`, `reconcile`, `verify_receipt` are ours, not provider endpoints. Atomic SQLite reservation prevents duplicate simulated creation. Ambiguous attempts do not retry. MOCK receipts have no transaction hash, token/curve address or pool ID. A positive neural result is independent from deployment state, which remains disarmed.\n\nThe runner receives an environment allowlist and communicates over its private child stdout pipe. This is process separation, not an OS security boundary against a malicious same-user process. The live integration needs additional isolation, signer policy and remote reconciliation work; see [architecture](docs/ARCHITECTURE.md).\n\n## What this proves and what it does not\n\nThe recorded reference, negative and ablation experiments demonstrate a local signal dependent on the stimulated circuit and its connection to the decoder. They do not establish biological consciousness, financial reasoning, a calibrated probabilistic rule, full reproduction of the paper's ensemble/figures, public autonomous execution, or any token value.\n\nThe original model's code is MIT. Dataset terms and the intended public use are separate questions; local work is not being stopped on a presumption of token sales. See [research](docs/RESEARCH.md), [source register](FUENTES.md), [competitors](competidores.json), [future official protocol](docs/PUBLIC_RUN_PROTOCOL.md), [issuance checklist](docs/FUTURE_ISSUANCE_CHECKLIST.md), [private launch/copy draft](docs/LAUNCH_DRAFT.md), and [NEXT_STEPS.md](NEXT_STEPS.md).\n\nDependencies are deliberately small: React for UI, Vite/TypeScript/tsx for building/running, Zod for strict boundaries, Node's SQLite for durable local state. Scientific packages and all transitive Python versions are pinned in `requirements.lock.txt`; model commit, licenses and exact input checksums are in `vendor/shiu.pin.json`.\n"
+  }
+}

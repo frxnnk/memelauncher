@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-09-15T06:54:38.748Z",
+  "passed": true,
+  "scope": "isolated-copy-of-stopped-live-backup",
+  "modelReplays": 2,
+  "depositRechecks": 2,
+  "newInferenceCalls": 0,
+  "walletRequests": 0,
+  "externalNetworkCalls": 0,
+  "liveLedgerModified": false,
+  "balancesUnchanged": true,
+  "eventCountBefore": 12,
+  "eventCountAfter": 12,
+  "receiptId": "fc156278-9597-4db3-b34b-28cbe527906c",
+  "clone": "C:/vault-beta/shared/drills/circuit-replay-1789455278621",
+  "limitation": "Existing authenticated ownership is represented by a fixture derived from the copied order; this does not retest Privy authentication."
+}

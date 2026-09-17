@@ -1,0 +1,602 @@
+[
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+    "name": "PoolManager",
+    "isContract": true,
+    "proxyType": null,
+    "percentage": 62.5661344023149552582930451,
+    "amount": 625661344.023149552582930451
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0xa37cD19f9A6FDcc323BA42FA498807B4212222f3",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 2.0,
+    "amount": 20000000.0
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0x7F6e4E1e59be05dc717C8e5429154A7408609Ee2",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.6037463696267067050917578,
+    "amount": 16037463.696267067050917578
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0x50C0b87BDF73888cc5972A40f060eE8D08E836B2",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.5682692971266318609545778,
+    "amount": 15682692.971266318609545778
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0x1890E719822bc704C4f117AA4109401C2BAb6f79",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.4890324416597745635063601,
+    "amount": 14890324.416597745635063601
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0xC47ca82b9fEd94676B1195a49FD1A68192b7CEE0",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.3014965213411762800917539,
+    "amount": 13014965.213411762800917539
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0x420B2Bbe06002bBC2d26B1599cc8BCf7b37278Bf",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 1.2102679452626042821486732,
+    "amount": 12102679.452626042821486732
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0xa2b68ab4A1B7077543C5E3fDe03157aA9Ec8f7b4",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.0510948542121378863839489,
+    "amount": 10510948.542121378863839489
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0xB11C68021541203727EcD54E4E656b956A057B76",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.9512545464741693042858767,
+    "amount": 9512545.464741693042858767
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0x80f3B0B712a82172A67E454e313BA6E2b0E7aE64",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.8225475775163127284798423,
+    "amount": 8225475.775163127284798423
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0x38E23ACC292d79B3ade1Dd6022830A3756755487",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.7540645468783647465123441,
+    "amount": 7540645.468783647465123441
+  },
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "address": "0xA8c6bdAe9Ba7E6371d839f4bdab94085b32c8c39",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.7374335883882806586067377,
+    "amount": 7374335.883882806586067377
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+    "name": "PoolManager",
+    "isContract": true,
+    "proxyType": null,
+    "percentage": 65.9863645164054089471528264,
+    "amount": 659863645.164054089471528264
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0xC47ca82b9fEd94676B1195a49FD1A68192b7CEE0",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.3550851424371599887993834,
+    "amount": 13550851.424371599887993834
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0xbaFd34a2EAa6e1919ADf99eC3A3188f7D4f0BF02",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 1.1614413871579718685593225,
+    "amount": 11614413.871579718685593225
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0xF7c0D9aEe226B632a25b1C096d8c285eD20d55b1",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.1511942253416689058943546,
+    "amount": 11511942.253416689058943546
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0x16F5EF133d0D15B196A778d22BF1ec56f8f37C05",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.1499999768165947386342979,
+    "amount": 11499999.768165947386342979
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0x7993c7e9c22CFC0D921E62C37D400e2d7a4dcB54",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.929128464382008601642176,
+    "amount": 9291284.64382008601642176
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0x8753e78C7FCD2c274405bB97D2393ccc4217745e",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.909341054297794154418612,
+    "amount": 9093410.54297794154418612
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0x4feBF9186C71d7Ed000510f3da6321E6386c6740",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.8750911778157285566611185,
+    "amount": 8750911.778157285566611185
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0x8F5369DE2Ca0C17a722C43d1E02Ee9aC7a16c763",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.7477683608370503382520954,
+    "amount": 7477683.608370503382520954
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0x77E2699F45293edFa773b653dfF1Cd1A316eCf07",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.7122716277695836200859607,
+    "amount": 7122716.277695836200859607
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0x7F6e4E1e59be05dc717C8e5429154A7408609Ee2",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.6832745398973650941972156,
+    "amount": 6832745.398973650941972156
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "address": "0xFc400B2448DF60F8e607EEDb5AC71DB41340927C",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.6187373923402892660710632,
+    "amount": 6187373.923402892660710632
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0xD3246b31d9254A726DC81F3b3000e42147868856",
+    "name": "Uniswap V2",
+    "isContract": true,
+    "proxyType": null,
+    "percentage": 1.8079622755149561,
+    "amount": 18079622.755149561
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0x8cB1Bf96F3a52F5DD86B59268Df522510C3b2486",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.3847263672465768,
+    "amount": 3847263.672465768
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0xAc516D82459a337138Ed13Ed3B2Adedd08fb2ADA",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.320613454248387,
+    "amount": 3206134.54248387
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0xA2feA804eDbe11fF67807504Ef4794e6e81531Ed",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.2909025457396976,
+    "amount": 2909025.457396976
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0x65e1d1d538f778b298243725e566913EF862B022",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.2873073757759415,
+    "amount": 2873073.757759415
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0x1790F6BED4D159fd965e06C5d432ea75b8581526",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.2869031355775949,
+    "amount": 2869031.355775949
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0xe0744b8222EF785f17f9333F60314C720eC2DE47",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.2790375524017446,
+    "amount": 2790375.524017446
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0x78ac29F911D6Ce4153A0DAe9Ec5254537cA40a68",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.2749188891885425,
+    "amount": 2749188.891885425
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0x1C2558b0E37A545F9e5d005255c76EdA45f37EdA",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.2657734214072342,
+    "amount": 2657734.214072342
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0xfE3ed244595cF8c2EF586034cd5E5c61f3404e01",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.2614439772338691,
+    "amount": 2614439.772338691
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0xbD05612e88B596d33c866885e597b34B304ddde5",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.261052784704042,
+    "amount": 2610527.84704042
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "address": "0x0584206F43A04E2Dc30ecd1D2bb257f88efc3b42",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.2574700679277944,
+    "amount": 2574700.679277944
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+    "name": "PoolManager",
+    "isContract": true,
+    "proxyType": null,
+    "percentage": 79.25865431170065088098958002,
+    "amount": 457626.477825854841192798
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x92d435C96E63c43E12d6D0AB28f6b0B04072F765",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 12.233793212570053703398620069,
+    "amount": 70635.916631905229591705
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0xabfDa8242b0268E44EEe6c7201f5A55F9DF0d5ab",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 1.9991902709725679921255723049,
+    "amount": 11542.99691502372682354
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x47Eeb1541D122880449D71d3097fc167b8Bdbb76",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 1.3135456879646536635025115287,
+    "amount": 7584.197484385800064108
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+    "name": "RehypeDopplerHookInitializer",
+    "isContract": true,
+    "proxyType": null,
+    "percentage": 0.8654633667436626883459448381,
+    "amount": 4997.043611825992946556
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x98a262D0856857b56954F040790ac9494a18aF19",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.8468664154888136952735652088,
+    "amount": 4889.667863714164482794
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x076873e3d183eCBEBA6FA27b8C9FE4Bc8486Ef28",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.3906346905095331649653201551,
+    "amount": 2255.460669713643997874
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x9d4Df2a142aefbd48Ad594dCd1e66bD4A48f1a4C",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.3855309157896371426723539039,
+    "amount": 2225.992311097594966963
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x0c947e5e0d14B7A0aE7A3038EB4F2D9E951d0510",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.3252112875141871010867443679,
+    "amount": 1877.716665098089353273
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x07294288A7c98700866049F08c862d83437b8A92",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.3200299762046696204406141222,
+    "amount": 1847.800622923453099053
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0xaFBE5E8C51eaE546B1b2Ff2d707d16f62ABECf89",
+    "name": null,
+    "isContract": true,
+    "proxyType": null,
+    "percentage": 0.170979840269919384367999085,
+    "amount": 987.209570506163277677
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "address": "0x3dD5AA581Aa1A372c8d391D123efad6137680CFE",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.139740452148479695499856405,
+    "amount": 806.838464289452838804
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+    "name": "PoolManager",
+    "isContract": true,
+    "proxyType": null,
+    "percentage": 67.452699276983262385709772865,
+    "amount": 304764.577956521602965047
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x92d435C96E63c43E12d6D0AB28f6b0B04072F765",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 24.015491172360145017642278508,
+    "amount": 108506.71818941396259427
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x26DD7E095BA6182c5eF56C77f608cb9D7466EF78",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 2.3471112646560903384397356265,
+    "amount": 10604.710881214458670342
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x07294288A7c98700866049F08c862d83437b8A92",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 1.0848480167463023825924631789,
+    "amount": 4901.556965318868661921
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+    "name": "RehypeDopplerHookInitializer",
+    "isContract": true,
+    "proxyType": null,
+    "percentage": 0.8347709666457260845967611615,
+    "amount": 3771.659608393960621402
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x98a262D0856857b56954F040790ac9494a18aF19",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.6038498231928318759629988628,
+    "amount": 2728.312409838288677761
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x7262D8130107692D94b59054a48B721D60c3d06c",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.5533199603009659244110001976,
+    "amount": 2500.00853907391677358
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0xCBd2AA0DFCF4932A7C3E1631808985b16a48B4d1",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.4940599125170953455732627875,
+    "amount": 2232.259973840481871549
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "name": "BeaconProxy",
+    "isContract": true,
+    "proxyType": "eip1967_beacon",
+    "percentage": 0.4666032156691577505265266611,
+    "amount": 2108.205210774873997659
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0xA8c6bdAe9Ba7E6371d839f4bdab94085b32c8c39",
+    "name": null,
+    "isContract": true,
+    "proxyType": "eip7702",
+    "percentage": 0.2116038468285495475203948599,
+    "amount": 956.067848491348780549
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x0d56D0f7d148b75af0527A5Cea73Ab926b59A190",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.1510854290544898755729771743,
+    "amount": 682.633719847051322971
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "address": "0x290d6F9fE17f1409Be99818FC1861dF9Db89917f",
+    "name": null,
+    "isContract": false,
+    "proxyType": null,
+    "percentage": 0.1277677383531893923850092356,
+    "amount": 577.279801595073325572
+  }
+]

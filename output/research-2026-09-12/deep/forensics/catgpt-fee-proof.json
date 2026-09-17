@@ -1,0 +1,24 @@
+{
+  "method": "collectFees",
+  "poolId": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+  "tx": "0x20926bd69c982d2c0ae71ba761b09b98121c280aa81bf9706ce2fd518c892ae0",
+  "timestamp": "2026-09-12T04:29:41Z",
+  "status": "ok",
+  "transfers": [
+    {
+      "from": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+      "token": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "symbol": "OPENAIx1L",
+      "units": 286.781428965212428205
+    },
+    {
+      "from": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+      "token": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "symbol": "CATGPT",
+      "units": 31868.324066993950389299
+    }
+  ],
+  "matchingClaimsInFirst50Transactions": 7
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "token": "CATGPT",
+    "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "capturedAt": "2026-09-12T04:37:00.736765Z",
+    "holdersCount": "2719",
+    "supply": 1000000000.0,
+    "sampleCount": 50,
+    "top10NonKnownPoolPct": 12.75177410009788,
+    "largestNonKnownPoolPct": 2.0,
+    "top50Pct": 88.70176775840358,
+    "top50FeeReceiverMatches": 0
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "capturedAt": "2026-09-12T04:38:02.5838725Z",
+    "holdersCount": "2084",
+    "supply": 1000000000.0,
+    "sampleCount": 50,
+    "top10NonKnownPoolPct": 9.674595956752926,
+    "largestNonKnownPoolPct": 1.35508514243716,
+    "top50Pct": 86.9235131719334,
+    "top50FeeReceiverMatches": 0
+  },
+  {
+    "token": "ANTHROPIG",
+    "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+    "capturedAt": "2026-09-12T04:38:04.9174449Z",
+    "holdersCount": "2053",
+    "supply": 1000000000.0,
+    "sampleCount": 50,
+    "top10NonKnownPoolPct": 2.9126795035236306,
+    "largestNonKnownPoolPct": 0.38472636724657683,
+    "top50Pct": 12.173501244299187,
+    "top50FeeReceiverMatches": 0
+  },
+  {
+    "token": "OPENAIx1L",
+    "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "capturedAt": "2026-09-12T04:38:14.601129Z",
+    "holdersCount": "335",
+    "supply": 577383.60788482022081232,
+    "sampleCount": 50,
+    "top10NonKnownPoolPct": 18.8512456640277,
+    "largestNonKnownPoolPct": 12.233793212570054,
+    "top50Pct": 99.73947622558973,
+    "top50FeeReceiverMatches": 0
+  },
+  {
+    "token": "ANTHROPICx1L",
+    "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "capturedAt": "2026-09-12T04:38:23.4648517Z",
+    "holdersCount": "316",
+    "supply": 451819.691759193624897611,
+    "sampleCount": 50,
+    "top10NonKnownPoolPct": 30.76274360797136,
+    "largestNonKnownPoolPct": 24.015491172360147,
+    "top50Pct": 99.61905456871293,
+    "top50FeeReceiverMatches": 0
+  }
+]

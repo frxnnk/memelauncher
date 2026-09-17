@@ -1,0 +1,8 @@
+{
+  "createdAt": "2026-09-15T01:12:19.586Z",
+  "input": {
+    "modelId": "google/gemini-2.5-flash",
+    "sessionId": "303345b6-e5ba-480d-aa4f-dafca6e43c73",
+    "prompt": "Please ease up on the teasing. In English, tell me the exact phrase I asked you to use in my previous message, then explain whether the vault opened."
+  }
+}

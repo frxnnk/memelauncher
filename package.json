@@ -1,0 +1,31 @@
+{
+  "name": "bellfly-local-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server/main.ts",
+    "web": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "test": "tsx --test tests/*.test.ts",
+    "demo": "tsx server/cli.ts demo",
+    "replay": "tsx server/cli.ts replay",
+    "verify": "tsx server/cli.ts verify",
+    "reference": "tsx server/cli.ts reference",
+    "reference:negative": "tsx server/cli.ts reference no-stimulus",
+    "reference:ablated": "tsx server/cli.ts reference silence-output"
+  },
+  "dependencies": {
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "zod": "3.25.67"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.30",
+    "@types/react": "19.1.6",
+    "@types/react-dom": "19.1.6",
+    "tsx": "4.20.3",
+    "typescript": "5.8.3",
+    "vite": "6.4.3"
+  }
+}

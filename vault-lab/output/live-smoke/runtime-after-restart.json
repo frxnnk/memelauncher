@@ -1,0 +1,10 @@
+{
+  "verifiedAt": "2026-09-15T01:18:12.500Z",
+  "configured": true,
+  "accessMode": "local",
+  "defaultModel": "google/gemini-2.5-flash",
+  "catalogSize": 12,
+  "configurationVersion": "vault-candidate-profiles-v2-2026-09-15",
+  "promptVersion": "vault-practice-v2-en-2026-09-14",
+  "inferenceCallsInThisCheck": 0
+}

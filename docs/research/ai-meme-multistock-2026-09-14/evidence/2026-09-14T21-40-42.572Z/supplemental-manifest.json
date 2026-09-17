@@ -1,0 +1,11 @@
+{
+  "recordedAt": "2026-09-14T21:47:49.187Z",
+  "source": {
+    "url": "https://docs.bankr.bot/llms-full.txt",
+    "file": "bankr-llms-full.txt",
+    "httpStatusObserved": 200,
+    "fileWrittenAt": "2026-09-14T21:43:17.969Z",
+    "sha256": "03a7a68b386ce0d26dc700478d3d52aa071259dcd3f1ea713d8a118c3db8f182",
+    "bytes": 740906
+  }
+}

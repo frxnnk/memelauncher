@@ -1,0 +1,83 @@
+{
+  "readAtUtc": "2026-09-12T05:57:00Z",
+  "method": "Public Solscan browser DOM. Approximate read timestamp; transaction timestamps are explorer UTC.",
+  "feeDistribution": {
+    "associatedMintFromALLPage": "4P28KmEcwwnYHMdgJDkk7F1eYKgUqrPJwryaYDxWQALL",
+    "url": "https://solscan.io/tx/3jSqXwRhY4ED3Kf6v2E1aJE3nzBdHpj7p4jydxtAUcZRUiAqswc754CkMvVKmRfcyn5WTa1Bk65xHD6NPYp192Bz",
+    "atUtc": "2026-09-12T05:15:42Z",
+    "status": "SUCCESS, finalized",
+    "instruction": "Distribute_creator_fees_v2 on Pump.fun",
+    "source": "7fy9TksJjZPA5xRpXW3KE2mSnDgwoTnHCFVJA11c272x",
+    "asset": "SOL",
+    "totalLamports": 1278112,
+    "transfers": [
+      {"recipient": "P9YXPv62dWAJ5VaiXkn4TVoEdWBasC3tgdkQzdvGALL", "lamports": 639057, "roleSourceALL": "holders operator"},
+      {"recipient": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL", "lamports": 127811, "roleSourceALL": "ALL drop treasury"},
+      {"recipient": "Cu3nUxTHDcdQiCRWU3oW9aw5RA7dAdBqVrj3GjZdQEvj", "lamports": 127811, "roleSourceALL": "platform"},
+      {"recipient": "E3jxkMVDk9YdnLPQwzupjZEYDMLMKUtGv7K4WJiYPxXc", "lamports": 127811, "roleSourceALL": "other; human identity unknown"},
+      {"recipient": "3KLZGexX9vNgjkg8Tbc1HpHA7ZwR2ckRzNnC52hjTARj", "lamports": 255622, "roleSourceALL": "launcher"}
+    ],
+    "feeSol": 0.000005,
+    "limitation": "This is SOL fee allocation, not delivery of ALL tokens to individual holders. Roles are labels from coin-154.json; transfer amounts independently read on Solscan."
+  },
+  "operatorPayoutSample": [
+    {
+      "url": "https://solscan.io/tx/bsTkbZZrgH7YPudiVp1RXjKf3e6hFwTqG7aWHhVzToBZsjmJfJrr6txKaTAi44P1rqsFxPxVeBvE3bMQVWJwkkc",
+      "atUtc": "2026-09-12T05:55:24Z",
+      "status": "SUCCESS, finalized",
+      "sender": "P9YXPv62dWAJ5VaiXkn4TVoEdWBasC3tgdkQzdvGALL",
+      "mint": "ASoQZA3Dee2HU34Vwx3b5SAtTaczJtZcyx1T413nDALL",
+      "asset": "ALL",
+      "transfers": [{"recipient": "BYEkjPAhnGvTYzEZEawTwvHmmaeZKmx9HUumhW9fVDPM", "amount": "1.136305"}],
+      "feeSol": 0.000015,
+      "instruction": "TransferChecked; CreateIdempotent also present",
+      "sourceDerivative": null,
+      "newWallet": null,
+      "newTokenAccount": null
+    },
+    {
+      "url": "https://solscan.io/tx/5V6WJZqCghhu65S236A6QcDpuQoMX4m4Vqhu6kKK3phtUJ7tWBQSqyFzfBP5a2XBnPrUqF8Nf5tobWjc9LNn6gvQ",
+      "atUtc": "2026-09-12T05:55:22Z",
+      "status": "SUCCESS, finalized",
+      "sender": "P9YXPv62dWAJ5VaiXkn4TVoEdWBasC3tgdkQzdvGALL",
+      "mint": "ASoQZA3Dee2HU34Vwx3b5SAtTaczJtZcyx1T413nDALL",
+      "asset": "ALL",
+      "transfers": [
+        {"recipient": "4Mf5WkvR7kt228rRBVM6eaMpuyCyE3hP3pFHJ6Mr9TLS", "amount": "1.438423"},
+        {"recipient": "2djudVDwv7J1uzJb9HeaseMkRkd45Xde7TnsLRj4bWUw", "amount": "0.000626"},
+        {"recipient": "EmpSu8yMrE4GDtGRWmwDL2RM3k3o16vuwtyZZmbvD19P", "amount": "0.597220"},
+        {"recipient": "8psNvWTrdNTiVRNzAgsou9kETXNJm2SXZyaKuJraVRtf", "amount": "0.002004", "explorerLabel": "Phantom: Fees (8psNv)"},
+        {"recipient": "3J3hY52dEtwEEd6yKBn9Zdgm2KaQyLz5Ei8ZJPQ5TBpN", "amount": "0.159119"},
+        {"recipient": "GHhi3J63hQ1y72cxdqeLQyFfT5vHX15PBxS45ZwBJGGG", "amount": "0.002839", "explorerLabel": "Sol-Cleaner Burn Vault"},
+        {"recipient": "CYuBqP3zdPG5ep7NWeeYe35GtrCG45ScMfMv8hBfHWxd", "amount": "1.143488"},
+        {"recipient": "8N4QDR8m54PuV2KgHSu39QRHrNooNEK667hBeKVokZoc", "amount": "0.000041", "displayNote": "Solscan DOM 0.0<sub>4</sub>41; verified against batch sum 3.343760"}
+      ],
+      "feeSol": 0.000015,
+      "sourceDerivative": null,
+      "newWallet": null,
+      "newTokenAccount": null
+    },
+    {
+      "url": "https://solscan.io/tx/61fybCESmXfRwmZQ5MeDNvxeXty9ApP1yWNKT5ph74WmnCLSummNfya5fwzyQBbA5MNenLYtZbH83UD3zjJTeYf4",
+      "atUtc": "2026-09-12T05:55:21Z",
+      "status": "SUCCESS, finalized",
+      "sender": "P9YXPv62dWAJ5VaiXkn4TVoEdWBasC3tgdkQzdvGALL",
+      "mint": "ASoQZA3Dee2HU34Vwx3b5SAtTaczJtZcyx1T413nDALL",
+      "asset": "ALL",
+      "transfers": [
+        {"recipient": "jmemehQbZXX7QqNE7Eyi81MdTZw6cEAT6TU4Kinwtru", "amount": "2.593271"},
+        {"recipient": "AUBD6ZasK2umDitRZkVP19Gm5792NVGuLhHpx6WLeySV", "amount": "0.410077"},
+        {"recipient": "3mo5chCT28tnEfMTZ9FSx7uXRyCbKCkZL4mevLZd4xGT", "amount": "4.371107"},
+        {"recipient": "AmpVwbdwRokadVsXWJ4e6zDamPpW1G9REWTKVwY1ubwE", "amount": "0.942605"},
+        {"recipient": "BxScXNAGhGPnbwyqiArZhHtrVKMDbaijDJRS1DUoAQvJ", "amount": "3.819785"},
+        {"recipient": "8rtyuY3XQKXFaZbs2a35yQBbdLWbkhR5Aed4GaJHe2v5", "amount": "0.002088"},
+        {"recipient": "9jUNzULgVwzVdeD11wLtffdTqQYK5iJRwPR3S7QqhBhw", "amount": "0.392452"},
+        {"recipient": "mDR91ufq4S2uSHa9E2PYL7xg4LwcQXaQFP7YK864a1z", "amount": "0.001503"}
+      ],
+      "feeSol": 0.000015,
+      "sourceDerivative": null,
+      "newWallet": null,
+      "newTokenAccount": null
+    }
+  ]
+}

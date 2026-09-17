@@ -1,0 +1,13 @@
+{
+  "status": "not-approved",
+  "network": { "name": "Robinhood Chain", "chainId": 4663, "asset": "USDG", "assetAddress": "", "assetDecimals": 6 },
+  "pricePolicy": { "baseUsd": 5, "stepUsd": 1, "maximumUsd": 25, "pricingScope": "round-global" },
+  "round": { "id": "", "guardianModel": "", "manifestHash": "", "bountyCapUsd": 0, "durationDays": 150 },
+  "allocationBps": { "bounty": 7000, "operations": 3000, "continuity": 0 },
+  "winRetainBps": 2500,
+  "funding": { "seedUsd": 0, "operatingReserveUsd": 0, "errorReserveUsd": 0, "creatorFeeShareBps": 0, "feeRecipient": "" },
+  "provider": { "name": "BlockRun", "payment": "x402", "network": "eip155:8453", "asset": "USDC", "endpoint": "", "fallbacks": false, "contextTruncation": false },
+  "terms": { "creditPolicyVersion": "", "ordinaryCashout": false, "technicalErrorRestoresCredit": true, "closureReturnPolicy": "", "expiryPolicy": "" },
+  "authority": { "escrowAddress": "", "verifierAddress": "", "independentReview": false, "fairExecutionStatus": "pending" },
+  "operations": { "operatorName": "", "jurisdictions": [], "publicOrigin": "", "monitoring": false, "backupRestoreDrill": false }
+}

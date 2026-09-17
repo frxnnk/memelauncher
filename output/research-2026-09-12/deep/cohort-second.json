@@ -1,0 +1,1692 @@
+[
+  {
+    "requestedAt": "2026-09-12T04:48:40.5024214Z",
+    "capturedAt": "2026-09-12T04:48:40.9851161Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+          "pairAddress": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+            "name": "CATGPT",
+            "symbol": "CATGPT"
+          },
+          "quoteToken": {
+            "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+            "name": "OPENAI 1x Long",
+            "symbol": "OPENAIx1L"
+          },
+          "priceNative": "0.008296",
+          "priceUsd": "0.009069",
+          "txns": {
+            "m5": {
+              "buys": 49,
+              "sells": 96
+            },
+            "h1": {
+              "buys": 576,
+              "sells": 1198
+            },
+            "h6": {
+              "buys": 9075,
+              "sells": 17505
+            },
+            "h24": {
+              "buys": 9075,
+              "sells": 17505
+            }
+          },
+          "volume": {
+            "h24": 6587973.81,
+            "h6": 6587973.81,
+            "h1": 686777.5,
+            "m5": 45306.2
+          },
+          "priceChange": {
+            "m5": 5.38,
+            "h1": -37.06,
+            "h6": 28114,
+            "h24": 28114
+          },
+          "liquidity": {
+            "usd": 5771937.81,
+            "base": 617879281,
+            "quote": 153824
+          },
+          "fdv": 9069388,
+          "marketCap": 9069388,
+          "pairCreatedAt": 1789170032000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/vqMth_qhJYB45t4a?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xd6fde6a3fc6ab2d83b2be58383944ca1bade1e18?timestamp=1789188600000",
+            "websites": [],
+            "socials": []
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+        "pairAddress": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+          "name": "CATGPT",
+          "symbol": "CATGPT"
+        },
+        "quoteToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "priceNative": "0.008296",
+        "priceUsd": "0.009069",
+        "txns": {
+          "m5": {
+            "buys": 49,
+            "sells": 96
+          },
+          "h1": {
+            "buys": 576,
+            "sells": 1198
+          },
+          "h6": {
+            "buys": 9075,
+            "sells": 17505
+          },
+          "h24": {
+            "buys": 9075,
+            "sells": 17505
+          }
+        },
+        "volume": {
+          "h24": 6587973.81,
+          "h6": 6587973.81,
+          "h1": 686777.5,
+          "m5": 45306.2
+        },
+        "priceChange": {
+          "m5": 5.38,
+          "h1": -37.06,
+          "h6": 28114,
+          "h24": 28114
+        },
+        "liquidity": {
+          "usd": 5771937.81,
+          "base": 617879281,
+          "quote": 153824
+        },
+        "fdv": 9069388,
+        "marketCap": 9069388,
+        "pairCreatedAt": 1789170032000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/vqMth_qhJYB45t4a?width=800&height=800&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xd6fde6a3fc6ab2d83b2be58383944ca1bade1e18?timestamp=1789188600000",
+          "websites": [],
+          "socials": []
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:40.9888188Z",
+    "capturedAt": "2026-09-12T04:48:41.2863862Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+          "pairAddress": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+            "name": "Anthropig",
+            "symbol": "ANTHROPIG"
+          },
+          "quoteToken": {
+            "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+            "name": "ANTHROPIC 1x Long",
+            "symbol": "ANTHROPICx1L"
+          },
+          "priceNative": "0.002305",
+          "priceUsd": "0.002740",
+          "txns": {
+            "m5": {
+              "buys": 68,
+              "sells": 120
+            },
+            "h1": {
+              "buys": 1343,
+              "sells": 2405
+            },
+            "h6": {
+              "buys": 9885,
+              "sells": 18485
+            },
+            "h24": {
+              "buys": 9885,
+              "sells": 18485
+            }
+          },
+          "volume": {
+            "h24": 4622819.6,
+            "h6": 4622819.6,
+            "h1": 648766.12,
+            "m5": 30397.43
+          },
+          "priceChange": {
+            "m5": -20.33,
+            "h1": -51.74,
+            "h6": 7149,
+            "h24": 7149
+          },
+          "liquidity": {
+            "usd": 1836243.66,
+            "base": 635971564,
+            "quote": 78585
+          },
+          "fdv": 2740397,
+          "marketCap": 2740397,
+          "pairCreatedAt": 1789170947000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/p5Pe9Nmo4jUJ1KNt?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/bMMgbhg8_xVmQ8u-?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x351ab2c51e223b28d219fe28cc3956410cc11e18?timestamp=1789188600000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/KriptoDuo/status/2098565856879931566",
+                "type": "twitter"
+              }
+            ]
+          },
+          "boosts": {
+            "active": 50
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+        "pairAddress": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+          "name": "Anthropig",
+          "symbol": "ANTHROPIG"
+        },
+        "quoteToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "priceNative": "0.002305",
+        "priceUsd": "0.002740",
+        "txns": {
+          "m5": {
+            "buys": 68,
+            "sells": 120
+          },
+          "h1": {
+            "buys": 1343,
+            "sells": 2405
+          },
+          "h6": {
+            "buys": 9885,
+            "sells": 18485
+          },
+          "h24": {
+            "buys": 9885,
+            "sells": 18485
+          }
+        },
+        "volume": {
+          "h24": 4622819.6,
+          "h6": 4622819.6,
+          "h1": 648766.12,
+          "m5": 30397.43
+        },
+        "priceChange": {
+          "m5": -20.33,
+          "h1": -51.74,
+          "h6": 7149,
+          "h24": 7149
+        },
+        "liquidity": {
+          "usd": 1836243.66,
+          "base": 635971564,
+          "quote": 78585
+        },
+        "fdv": 2740397,
+        "marketCap": 2740397,
+        "pairCreatedAt": 1789170947000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/p5Pe9Nmo4jUJ1KNt?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/bMMgbhg8_xVmQ8u-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x351ab2c51e223b28d219fe28cc3956410cc11e18?timestamp=1789188600000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/KriptoDuo/status/2098565856879931566",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 50
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:41.2865603Z",
+    "capturedAt": "2026-09-12T04:48:41.6521219Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0x6e40cd967162fb4430c8b5ae934b40d10375c2812986fb9a7d2f04340631de28",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x6e40cd967162fb4430c8b5ae934b40d10375c2812986fb9a7d2f04340631de28",
+          "pairAddress": "0x6e40cd967162fb4430c8b5ae934b40d10375c2812986fb9a7d2f04340631de28",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x990FB9D2986458788e3cB71AB4b3AD49213E1E18",
+            "name": "FROGE",
+            "symbol": "FROGE"
+          },
+          "quoteToken": {
+            "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+            "name": "OPENAI 1x Long",
+            "symbol": "OPENAIx1L"
+          },
+          "priceNative": "0.0006345",
+          "priceUsd": "0.0006950",
+          "txns": {
+            "m5": {
+              "buys": 6,
+              "sells": 7
+            },
+            "h1": {
+              "buys": 88,
+              "sells": 150
+            },
+            "h6": {
+              "buys": 7074,
+              "sells": 13797
+            },
+            "h24": {
+              "buys": 7074,
+              "sells": 13797
+            }
+          },
+          "volume": {
+            "h24": 2271116.09,
+            "h6": 2271116.09,
+            "h1": 40533.27,
+            "m5": 1434.75
+          },
+          "priceChange": {
+            "m5": 5.04,
+            "h1": -10.94,
+            "h6": 2734,
+            "h24": 2734
+          },
+          "liquidity": {
+            "usd": 505462.75,
+            "base": 668995257,
+            "quote": 36923
+          },
+          "fdv": 695095,
+          "marketCap": 695095,
+          "pairCreatedAt": 1789169128000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/62YcW6jtGAXm9l7x?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x990fb9d2986458788e3cb71ab4b3ad49213e1e18?timestamp=1789188600000",
+            "websites": [],
+            "socials": []
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x6e40cd967162fb4430c8b5ae934b40d10375c2812986fb9a7d2f04340631de28",
+        "pairAddress": "0x6e40cd967162fb4430c8b5ae934b40d10375c2812986fb9a7d2f04340631de28",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x990FB9D2986458788e3cB71AB4b3AD49213E1E18",
+          "name": "FROGE",
+          "symbol": "FROGE"
+        },
+        "quoteToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "priceNative": "0.0006345",
+        "priceUsd": "0.0006950",
+        "txns": {
+          "m5": {
+            "buys": 6,
+            "sells": 7
+          },
+          "h1": {
+            "buys": 88,
+            "sells": 150
+          },
+          "h6": {
+            "buys": 7074,
+            "sells": 13797
+          },
+          "h24": {
+            "buys": 7074,
+            "sells": 13797
+          }
+        },
+        "volume": {
+          "h24": 2271116.09,
+          "h6": 2271116.09,
+          "h1": 40533.27,
+          "m5": 1434.75
+        },
+        "priceChange": {
+          "m5": 5.04,
+          "h1": -10.94,
+          "h6": 2734,
+          "h24": 2734
+        },
+        "liquidity": {
+          "usd": 505462.75,
+          "base": 668995257,
+          "quote": 36923
+        },
+        "fdv": 695095,
+        "marketCap": 695095,
+        "pairCreatedAt": 1789169128000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/62YcW6jtGAXm9l7x?width=800&height=800&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x990fb9d2986458788e3cb71ab4b3ad49213e1e18?timestamp=1789188600000",
+          "websites": [],
+          "socials": []
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:41.6522388Z",
+    "capturedAt": "2026-09-12T04:48:41.9479054Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0xc218e2ea7aba9a20e324dbe391dc5e712341195ff24b3d78ba70ae836740a916",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0xc218e2ea7aba9a20e324dbe391dc5e712341195ff24b3d78ba70ae836740a916",
+          "pairAddress": "0xc218e2ea7aba9a20e324dbe391dc5e712341195ff24b3d78ba70ae836740a916",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xE06f748b55563a94778b792f257E1fB9a5191e18",
+            "name": "OpenAI Token",
+            "symbol": "OPENAITOKEN"
+          },
+          "quoteToken": {
+            "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+            "name": "OPENAI 1x Long",
+            "symbol": "OPENAIx1L"
+          },
+          "priceNative": "0.0001191",
+          "priceUsd": "0.0001301",
+          "txns": {
+            "m5": {
+              "buys": 4,
+              "sells": 8
+            },
+            "h1": {
+              "buys": 54,
+              "sells": 125
+            },
+            "h6": {
+              "buys": 6441,
+              "sells": 12035
+            },
+            "h24": {
+              "buys": 6441,
+              "sells": 12035
+            }
+          },
+          "volume": {
+            "h24": 2294580.92,
+            "h6": 2294580.92,
+            "h1": 18212.83,
+            "m5": 1131.4
+          },
+          "priceChange": {
+            "m5": -9.07,
+            "h1": -35.31,
+            "h6": 488,
+            "h24": 488
+          },
+          "liquidity": {
+            "usd": 111453.1,
+            "base": 759762339,
+            "quote": 11501
+          },
+          "fdv": 130158,
+          "marketCap": 130158,
+          "pairCreatedAt": 1789174179000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VurW_ueTy7OlUMT0?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xe06f748b55563a94778b792f257e1fb9a5191e18?timestamp=1789188600000",
+            "websites": [],
+            "socials": []
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xc218e2ea7aba9a20e324dbe391dc5e712341195ff24b3d78ba70ae836740a916",
+        "pairAddress": "0xc218e2ea7aba9a20e324dbe391dc5e712341195ff24b3d78ba70ae836740a916",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xE06f748b55563a94778b792f257E1fB9a5191e18",
+          "name": "OpenAI Token",
+          "symbol": "OPENAITOKEN"
+        },
+        "quoteToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "priceNative": "0.0001191",
+        "priceUsd": "0.0001301",
+        "txns": {
+          "m5": {
+            "buys": 4,
+            "sells": 8
+          },
+          "h1": {
+            "buys": 54,
+            "sells": 125
+          },
+          "h6": {
+            "buys": 6441,
+            "sells": 12035
+          },
+          "h24": {
+            "buys": 6441,
+            "sells": 12035
+          }
+        },
+        "volume": {
+          "h24": 2294580.92,
+          "h6": 2294580.92,
+          "h1": 18212.83,
+          "m5": 1131.4
+        },
+        "priceChange": {
+          "m5": -9.07,
+          "h1": -35.31,
+          "h6": 488,
+          "h24": 488
+        },
+        "liquidity": {
+          "usd": 111453.1,
+          "base": 759762339,
+          "quote": 11501
+        },
+        "fdv": 130158,
+        "marketCap": 130158,
+        "pairCreatedAt": 1789174179000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/VurW_ueTy7OlUMT0?width=800&height=800&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xe06f748b55563a94778b792f257e1fb9a5191e18?timestamp=1789188600000",
+          "websites": [],
+          "socials": []
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:41.9480291Z",
+    "capturedAt": "2026-09-12T04:48:42.2930721Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0x3b48256216db57a3411e12238b4ecd3e218e3b6c3cd0cdf914875eefce09a3b1",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x3b48256216db57a3411e12238b4ecd3e218e3b6c3cd0cdf914875eefce09a3b1",
+          "pairAddress": "0x3b48256216db57a3411e12238b4ecd3e218e3b6c3cd0cdf914875eefce09a3b1",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xCA06B713D5160AC8Da2c52a3D9f97CC805E91e18",
+            "name": "Vibe Coded Ballistic Missile",
+            "symbol": "MISSILE"
+          },
+          "quoteToken": {
+            "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+            "name": "ANTHROPIC 1x Long",
+            "symbol": "ANTHROPICx1L"
+          },
+          "priceNative": "0.0002065",
+          "priceUsd": "0.0002438",
+          "txns": {
+            "m5": {
+              "buys": 15,
+              "sells": 32
+            },
+            "h1": {
+              "buys": 460,
+              "sells": 963
+            },
+            "h6": {
+              "buys": 5555,
+              "sells": 10855
+            },
+            "h24": {
+              "buys": 5555,
+              "sells": 10855
+            }
+          },
+          "volume": {
+            "h24": 1871862.21,
+            "h6": 1871862.21,
+            "h1": 164702.74,
+            "m5": 6797.91
+          },
+          "priceChange": {
+            "m5": -27.45,
+            "h1": -54.2,
+            "h6": 1061,
+            "h24": 1061
+          },
+          "liquidity": {
+            "usd": 197429.7,
+            "base": 724379203,
+            "quote": 17633
+          },
+          "fdv": 243818,
+          "marketCap": 243818,
+          "pairCreatedAt": 1789180715000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/AsbzXCWtxC9VwZhJ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/6W6sq1l0QywnPn45?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xca06b713d5160ac8da2c52a3d9f97cc805e91e18?timestamp=1789188600000",
+            "websites": [
+              {
+                "url": "https://teeksocial.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/FrenzyMalc/status/2098601907908718859",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x3b48256216db57a3411e12238b4ecd3e218e3b6c3cd0cdf914875eefce09a3b1",
+        "pairAddress": "0x3b48256216db57a3411e12238b4ecd3e218e3b6c3cd0cdf914875eefce09a3b1",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xCA06B713D5160AC8Da2c52a3D9f97CC805E91e18",
+          "name": "Vibe Coded Ballistic Missile",
+          "symbol": "MISSILE"
+        },
+        "quoteToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "priceNative": "0.0002065",
+        "priceUsd": "0.0002438",
+        "txns": {
+          "m5": {
+            "buys": 15,
+            "sells": 32
+          },
+          "h1": {
+            "buys": 460,
+            "sells": 963
+          },
+          "h6": {
+            "buys": 5555,
+            "sells": 10855
+          },
+          "h24": {
+            "buys": 5555,
+            "sells": 10855
+          }
+        },
+        "volume": {
+          "h24": 1871862.21,
+          "h6": 1871862.21,
+          "h1": 164702.74,
+          "m5": 6797.91
+        },
+        "priceChange": {
+          "m5": -27.45,
+          "h1": -54.2,
+          "h6": 1061,
+          "h24": 1061
+        },
+        "liquidity": {
+          "usd": 197429.7,
+          "base": 724379203,
+          "quote": 17633
+        },
+        "fdv": 243818,
+        "marketCap": 243818,
+        "pairCreatedAt": 1789180715000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/AsbzXCWtxC9VwZhJ?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/6W6sq1l0QywnPn45?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xca06b713d5160ac8da2c52a3d9f97cc805e91e18?timestamp=1789188600000",
+          "websites": [
+            {
+              "url": "https://teeksocial.com",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/FrenzyMalc/status/2098601907908718859",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:42.2932550Z",
+    "capturedAt": "2026-09-12T04:48:42.5937806Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0xbfe91882eba961ca01ee3f21b864b299d48402d47dfc48d5a977b077b934319c",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0xbfe91882eba961ca01ee3f21b864b299d48402d47dfc48d5a977b077b934319c",
+          "pairAddress": "0xbfe91882eba961ca01ee3f21b864b299d48402d47dfc48d5a977b077b934319c",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x9Fd44B424770d122Fa0FdBf6e65E2f5418101E18",
+            "name": "Claude GATOR",
+            "symbol": "CLAUDEGATOR"
+          },
+          "quoteToken": {
+            "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+            "name": "ANTHROPIC 1x Long",
+            "symbol": "ANTHROPICx1L"
+          },
+          "priceNative": "0.0007009",
+          "priceUsd": "0.0008279",
+          "txns": {
+            "m5": {
+              "buys": 50,
+              "sells": 98
+            },
+            "h1": {
+              "buys": 2708,
+              "sells": 5037
+            },
+            "h6": {
+              "buys": 4445,
+              "sells": 8297
+            },
+            "h24": {
+              "buys": 4445,
+              "sells": 8297
+            }
+          },
+          "volume": {
+            "h24": 1267276.7,
+            "h6": 1267276.7,
+            "h1": 844955.56,
+            "m5": 14181.72
+          },
+          "priceChange": {
+            "m5": -6.35,
+            "h1": 22.32,
+            "h6": 2758,
+            "h24": 2758
+          },
+          "liquidity": {
+            "usd": 598443.82,
+            "base": 666348392,
+            "quote": 39575
+          },
+          "fdv": 827947,
+          "marketCap": 827947,
+          "pairCreatedAt": 1789184117000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/tufkS9RPzY_95MXv?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/n4IOkpdVGrE99GBi?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x9fd44b424770d122fa0fdbf6e65e2f5418101e18?timestamp=1789188600000",
+            "websites": [
+              {
+                "url": "https://krwnews.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/search?q=0x9fd44b424770d122fa0fdbf6e65e2f5418101e18",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xbfe91882eba961ca01ee3f21b864b299d48402d47dfc48d5a977b077b934319c",
+        "pairAddress": "0xbfe91882eba961ca01ee3f21b864b299d48402d47dfc48d5a977b077b934319c",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x9Fd44B424770d122Fa0FdBf6e65E2f5418101E18",
+          "name": "Claude GATOR",
+          "symbol": "CLAUDEGATOR"
+        },
+        "quoteToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "priceNative": "0.0007009",
+        "priceUsd": "0.0008279",
+        "txns": {
+          "m5": {
+            "buys": 50,
+            "sells": 98
+          },
+          "h1": {
+            "buys": 2708,
+            "sells": 5037
+          },
+          "h6": {
+            "buys": 4445,
+            "sells": 8297
+          },
+          "h24": {
+            "buys": 4445,
+            "sells": 8297
+          }
+        },
+        "volume": {
+          "h24": 1267276.7,
+          "h6": 1267276.7,
+          "h1": 844955.56,
+          "m5": 14181.72
+        },
+        "priceChange": {
+          "m5": -6.35,
+          "h1": 22.32,
+          "h6": 2758,
+          "h24": 2758
+        },
+        "liquidity": {
+          "usd": 598443.82,
+          "base": 666348392,
+          "quote": 39575
+        },
+        "fdv": 827947,
+        "marketCap": 827947,
+        "pairCreatedAt": 1789184117000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/tufkS9RPzY_95MXv?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/n4IOkpdVGrE99GBi?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x9fd44b424770d122fa0fdbf6e65e2f5418101e18?timestamp=1789188600000",
+          "websites": [
+            {
+              "url": "https://krwnews.com",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/search?q=0x9fd44b424770d122fa0fdbf6e65e2f5418101e18",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:42.5946613Z",
+    "capturedAt": "2026-09-12T04:48:42.9150197Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0x29abb6131c0ca1253ab9e9e766e91bc201e2f90330d937e5aafd9836a9345f4d",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x29abb6131c0ca1253ab9e9e766e91bc201e2f90330d937e5aafd9836a9345f4d",
+          "pairAddress": "0x29abb6131c0ca1253ab9e9e766e91bc201e2f90330d937e5aafd9836a9345f4d",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xd62eB2813bB442814FA35df447b24bE864721E18",
+            "name": "MoltHood",
+            "symbol": "MH"
+          },
+          "quoteToken": {
+            "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+            "name": "ANTHROPIC 1x Long",
+            "symbol": "ANTHROPICx1L"
+          },
+          "priceNative": "0.00005781",
+          "priceUsd": "0.00006863",
+          "txns": {
+            "m5": {
+              "buys": 4,
+              "sells": 7
+            },
+            "h1": {
+              "buys": 158,
+              "sells": 486
+            },
+            "h6": {
+              "buys": 1414,
+              "sells": 2636
+            },
+            "h24": {
+              "buys": 1414,
+              "sells": 2636
+            }
+          },
+          "volume": {
+            "h24": 350202.03,
+            "h6": 350202.03,
+            "h1": 57698.94,
+            "m5": 329.41
+          },
+          "priceChange": {
+            "m5": -5.57,
+            "h1": -71.72,
+            "h6": 181,
+            "h24": 181
+          },
+          "liquidity": {
+            "usd": 63982.11,
+            "base": 835013131,
+            "quote": 5620.2747
+          },
+          "fdv": 68634,
+          "marketCap": 68634,
+          "pairCreatedAt": 1789182251000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/VDTIvd4-zgj4frrY?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/sm1XYi8QLJ8Pa2PN?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xd62eb2813bb442814fa35df447b24be864721e18?timestamp=1789188600000",
+            "websites": [
+              {
+                "url": "https://molthood.world",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/molthoodrh",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x29abb6131c0ca1253ab9e9e766e91bc201e2f90330d937e5aafd9836a9345f4d",
+        "pairAddress": "0x29abb6131c0ca1253ab9e9e766e91bc201e2f90330d937e5aafd9836a9345f4d",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xd62eB2813bB442814FA35df447b24bE864721E18",
+          "name": "MoltHood",
+          "symbol": "MH"
+        },
+        "quoteToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "priceNative": "0.00005781",
+        "priceUsd": "0.00006863",
+        "txns": {
+          "m5": {
+            "buys": 4,
+            "sells": 7
+          },
+          "h1": {
+            "buys": 158,
+            "sells": 486
+          },
+          "h6": {
+            "buys": 1414,
+            "sells": 2636
+          },
+          "h24": {
+            "buys": 1414,
+            "sells": 2636
+          }
+        },
+        "volume": {
+          "h24": 350202.03,
+          "h6": 350202.03,
+          "h1": 57698.94,
+          "m5": 329.41
+        },
+        "priceChange": {
+          "m5": -5.57,
+          "h1": -71.72,
+          "h6": 181,
+          "h24": 181
+        },
+        "liquidity": {
+          "usd": 63982.11,
+          "base": 835013131,
+          "quote": 5620.2747
+        },
+        "fdv": 68634,
+        "marketCap": 68634,
+        "pairCreatedAt": 1789182251000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/VDTIvd4-zgj4frrY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/sm1XYi8QLJ8Pa2PN?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xd62eb2813bb442814fa35df447b24be864721e18?timestamp=1789188600000",
+          "websites": [
+            {
+              "url": "https://molthood.world",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/molthoodrh",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:42.9151981Z",
+    "capturedAt": "2026-09-12T04:48:43.2385361Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0xbf2be8eb9bcb5bd197a319d94f4986d67b71667af4185cc658daae383f8642a2",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0xbf2be8eb9bcb5bd197a319d94f4986d67b71667af4185cc658daae383f8642a2",
+          "pairAddress": "0xbf2be8eb9bcb5bd197a319d94f4986d67b71667af4185cc658daae383f8642a2",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xe764F2A7D6E739685D0f7f2e1f67778668B21E18",
+            "name": "Lost Cat",
+            "symbol": "OZZY"
+          },
+          "quoteToken": {
+            "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+            "name": "OPENAI 1x Long",
+            "symbol": "OPENAIx1L"
+          },
+          "priceNative": "0.00009541",
+          "priceUsd": "0.0001043",
+          "txns": {
+            "m5": {
+              "buys": 1,
+              "sells": 6
+            },
+            "h1": {
+              "buys": 35,
+              "sells": 87
+            },
+            "h6": {
+              "buys": 614,
+              "sells": 988
+            },
+            "h24": {
+              "buys": 614,
+              "sells": 988
+            }
+          },
+          "volume": {
+            "h24": 190643.46,
+            "h6": 190643.46,
+            "h1": 16327.87,
+            "m5": 1037.85
+          },
+          "priceChange": {
+            "m5": -9.68,
+            "h1": -46.31,
+            "h6": 324,
+            "h24": 324
+          },
+          "liquidity": {
+            "usd": 91705.08,
+            "base": 779445710,
+            "quote": 9487.07647
+          },
+          "fdv": 104344,
+          "marketCap": 104344,
+          "pairCreatedAt": 1789170932000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/DX9rgqq-s_bvGuGp?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/fWYk7Hui_E27fTUe?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xe764f2a7d6e739685d0f7f2e1f67778668b21e18?timestamp=1789188600000",
+            "websites": [
+              {
+                "url": "https://www.youtube.com/watch?v=piNZDb8XLZo",
+                "label": "Website"
+              }
+            ],
+            "socials": []
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xbf2be8eb9bcb5bd197a319d94f4986d67b71667af4185cc658daae383f8642a2",
+        "pairAddress": "0xbf2be8eb9bcb5bd197a319d94f4986d67b71667af4185cc658daae383f8642a2",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xe764F2A7D6E739685D0f7f2e1f67778668B21E18",
+          "name": "Lost Cat",
+          "symbol": "OZZY"
+        },
+        "quoteToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "priceNative": "0.00009541",
+        "priceUsd": "0.0001043",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 6
+          },
+          "h1": {
+            "buys": 35,
+            "sells": 87
+          },
+          "h6": {
+            "buys": 614,
+            "sells": 988
+          },
+          "h24": {
+            "buys": 614,
+            "sells": 988
+          }
+        },
+        "volume": {
+          "h24": 190643.46,
+          "h6": 190643.46,
+          "h1": 16327.87,
+          "m5": 1037.85
+        },
+        "priceChange": {
+          "m5": -9.68,
+          "h1": -46.31,
+          "h6": 324,
+          "h24": 324
+        },
+        "liquidity": {
+          "usd": 91705.08,
+          "base": 779445710,
+          "quote": 9487.07647
+        },
+        "fdv": 104344,
+        "marketCap": 104344,
+        "pairCreatedAt": 1789170932000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/DX9rgqq-s_bvGuGp?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/fWYk7Hui_E27fTUe?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xe764f2a7d6e739685d0f7f2e1f67778668b21e18?timestamp=1789188600000",
+          "websites": [
+            {
+              "url": "https://www.youtube.com/watch?v=piNZDb8XLZo",
+              "label": "Website"
+            }
+          ],
+          "socials": []
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:43.2388010Z",
+    "capturedAt": "2026-09-12T04:48:43.5535438Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0x352a08962375a6dbb23e2604dbacf7a9ed60198745639e3c99c19ba2b1c8c2a3",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x352a08962375a6dbb23e2604dbacf7a9ed60198745639e3c99c19ba2b1c8c2a3",
+          "pairAddress": "0x352a08962375a6dbb23e2604dbacf7a9ed60198745639e3c99c19ba2b1c8c2a3",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xD81385283C2377C04D3BEC464f50f1F7133e1E18",
+            "name": "Goblin Coin",
+            "symbol": "GOBLINS"
+          },
+          "quoteToken": {
+            "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+            "name": "OPENAI 1x Long",
+            "symbol": "OPENAIx1L"
+          },
+          "priceNative": "0.00005995",
+          "priceUsd": "0.00006555",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h1": {
+              "buys": 9,
+              "sells": 28
+            },
+            "h6": {
+              "buys": 639,
+              "sells": 1085
+            },
+            "h24": {
+              "buys": 639,
+              "sells": 1085
+            }
+          },
+          "volume": {
+            "h24": 196670.18,
+            "h6": 196670.18,
+            "h1": 5135.22,
+            "m5": 3.98
+          },
+          "priceChange": {
+            "m5": -1.33,
+            "h1": -30.92,
+            "h6": 136,
+            "h24": 136
+          },
+          "liquidity": {
+            "usd": 60629.08,
+            "base": 826342099,
+            "quote": 5909.3675
+          },
+          "fdv": 65551,
+          "marketCap": 65551,
+          "pairCreatedAt": 1789171826000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/NdK0Up8dYL_1W5Dt?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/YE-tlchurXMWDH1l?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xd81385283c2377c04d3bec464f50f1f7133e1e18?timestamp=1789188600000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/GoblinCoinRH",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x352a08962375a6dbb23e2604dbacf7a9ed60198745639e3c99c19ba2b1c8c2a3",
+        "pairAddress": "0x352a08962375a6dbb23e2604dbacf7a9ed60198745639e3c99c19ba2b1c8c2a3",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xD81385283C2377C04D3BEC464f50f1F7133e1E18",
+          "name": "Goblin Coin",
+          "symbol": "GOBLINS"
+        },
+        "quoteToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "priceNative": "0.00005995",
+        "priceUsd": "0.00006555",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 9,
+            "sells": 28
+          },
+          "h6": {
+            "buys": 639,
+            "sells": 1085
+          },
+          "h24": {
+            "buys": 639,
+            "sells": 1085
+          }
+        },
+        "volume": {
+          "h24": 196670.18,
+          "h6": 196670.18,
+          "h1": 5135.22,
+          "m5": 3.98
+        },
+        "priceChange": {
+          "m5": -1.33,
+          "h1": -30.92,
+          "h6": 136,
+          "h24": 136
+        },
+        "liquidity": {
+          "usd": 60629.08,
+          "base": 826342099,
+          "quote": 5909.3675
+        },
+        "fdv": 65551,
+        "marketCap": 65551,
+        "pairCreatedAt": 1789171826000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/NdK0Up8dYL_1W5Dt?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/YE-tlchurXMWDH1l?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xd81385283c2377c04d3bec464f50f1f7133e1e18?timestamp=1789188600000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/GoblinCoinRH",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:43.5538620Z",
+    "capturedAt": "2026-09-12T04:48:43.8863201Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0x5bfc483992fec583051b50c3ba390046bd81a9b6aa94eaaade4a00724f40c977",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x5bfc483992fec583051b50c3ba390046bd81a9b6aa94eaaade4a00724f40c977",
+          "pairAddress": "0x5bfc483992fec583051b50c3ba390046bd81a9b6aa94eaaade4a00724f40c977",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x4c3eDAf84bf311F5a4BC9dFc135Cd32C24B71E18",
+            "name": "PUGCOIN",
+            "symbol": "PUGCOIN"
+          },
+          "quoteToken": {
+            "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+            "name": "OPENAI 1x Long",
+            "symbol": "OPENAIx1L"
+          },
+          "priceNative": "0.00006709",
+          "priceUsd": "0.00007351",
+          "txns": {
+            "m5": {
+              "buys": 4,
+              "sells": 4
+            },
+            "h1": {
+              "buys": 252,
+              "sells": 426
+            },
+            "h6": {
+              "buys": 817,
+              "sells": 1304
+            },
+            "h24": {
+              "buys": 817,
+              "sells": 1304
+            }
+          },
+          "volume": {
+            "h24": 207209.27,
+            "h6": 207209.27,
+            "h1": 89983.03,
+            "m5": 426.12
+          },
+          "priceChange": {
+            "m5": 4.67,
+            "h1": -12.31,
+            "h6": 136,
+            "h24": 136
+          },
+          "liquidity": {
+            "usd": 67255.87,
+            "base": 815075732,
+            "quote": 6694.4869
+          },
+          "fdv": 73516,
+          "marketCap": 73516,
+          "pairCreatedAt": 1789170342000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/P6-2VmmoFn5sgAah?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/g6O6hC_gFXF0lzIA?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x4c3edaf84bf311f5a4bc9dfc135cd32c24b71e18?timestamp=1789188600000",
+            "websites": [
+              {
+                "url": "https://model-spec.openai.com/2025-04-11.html",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/KriptoDuo/status/2098622058938724504",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x5bfc483992fec583051b50c3ba390046bd81a9b6aa94eaaade4a00724f40c977",
+        "pairAddress": "0x5bfc483992fec583051b50c3ba390046bd81a9b6aa94eaaade4a00724f40c977",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x4c3eDAf84bf311F5a4BC9dFc135Cd32C24B71E18",
+          "name": "PUGCOIN",
+          "symbol": "PUGCOIN"
+        },
+        "quoteToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "priceNative": "0.00006709",
+        "priceUsd": "0.00007351",
+        "txns": {
+          "m5": {
+            "buys": 4,
+            "sells": 4
+          },
+          "h1": {
+            "buys": 252,
+            "sells": 426
+          },
+          "h6": {
+            "buys": 817,
+            "sells": 1304
+          },
+          "h24": {
+            "buys": 817,
+            "sells": 1304
+          }
+        },
+        "volume": {
+          "h24": 207209.27,
+          "h6": 207209.27,
+          "h1": 89983.03,
+          "m5": 426.12
+        },
+        "priceChange": {
+          "m5": 4.67,
+          "h1": -12.31,
+          "h6": 136,
+          "h24": 136
+        },
+        "liquidity": {
+          "usd": 67255.87,
+          "base": 815075732,
+          "quote": 6694.4869
+        },
+        "fdv": 73516,
+        "marketCap": 73516,
+        "pairCreatedAt": 1789170342000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/P6-2VmmoFn5sgAah?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/g6O6hC_gFXF0lzIA?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x4c3edaf84bf311f5a4bc9dfc135cd32c24b71e18?timestamp=1789188600000",
+          "websites": [
+            {
+              "url": "https://model-spec.openai.com/2025-04-11.html",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/KriptoDuo/status/2098622058938724504",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "requestedAt": "2026-09-12T04:48:43.8865221Z",
+    "capturedAt": "2026-09-12T04:48:44.3145750Z",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/robinhood/0x612f0bc0e979cbe7a440173b2e06bc90a594ac3402c75c44ec822ce98a745633",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x612f0bc0e979cbe7a440173b2e06bc90a594ac3402c75c44ec822ce98a745633",
+          "pairAddress": "0x612f0bc0e979cbe7a440173b2e06bc90a594ac3402c75c44ec822ce98a745633",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18",
+            "name": "Artificial Inu",
+            "symbol": "AI"
+          },
+          "quoteToken": {
+            "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+            "name": "OPENAI 1x Long",
+            "symbol": "OPENAIx1L"
+          },
+          "priceNative": "0.2615",
+          "priceUsd": "0.2887",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 36,
+              "sells": 19
+            },
+            "h6": {
+              "buys": 4648,
+              "sells": 5301
+            },
+            "h24": {
+              "buys": 4648,
+              "sells": 5301
+            }
+          },
+          "volume": {
+            "h24": 1163771.46,
+            "h6": 1163771.46,
+            "h1": 4585.63,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": 0.4,
+            "h6": 7.56,
+            "h24": 7.56
+          },
+          "liquidity": {
+            "usd": 11499.64,
+            "base": 1.2705,
+            "quote": 10415
+          },
+          "fdv": 285627255,
+          "marketCap": 286219083,
+          "pairCreatedAt": 1789165977000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/U6RIzs8Fm7Jar6GE?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/gwos4je2c8JZxM-p?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x2e8c31162b855a2ffa90f6f8634643ad6f111e18?timestamp=1789188600000",
+            "websites": [
+              {
+                "url": "https://artificialinu.com/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/artificiallyinu",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x612f0bc0e979cbe7a440173b2e06bc90a594ac3402c75c44ec822ce98a745633",
+        "pairAddress": "0x612f0bc0e979cbe7a440173b2e06bc90a594ac3402c75c44ec822ce98a745633",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18",
+          "name": "Artificial Inu",
+          "symbol": "AI"
+        },
+        "quoteToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "priceNative": "0.2615",
+        "priceUsd": "0.2887",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 36,
+            "sells": 19
+          },
+          "h6": {
+            "buys": 4648,
+            "sells": 5301
+          },
+          "h24": {
+            "buys": 4648,
+            "sells": 5301
+          }
+        },
+        "volume": {
+          "h24": 1163771.46,
+          "h6": 1163771.46,
+          "h1": 4585.63,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 0.4,
+          "h6": 7.56,
+          "h24": 7.56
+        },
+        "liquidity": {
+          "usd": 11499.64,
+          "base": 1.2705,
+          "quote": 10415
+        },
+        "fdv": 285627255,
+        "marketCap": 286219083,
+        "pairCreatedAt": 1789165977000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/U6RIzs8Fm7Jar6GE?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/gwos4je2c8JZxM-p?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x2e8c31162b855a2ffa90f6f8634643ad6f111e18?timestamp=1789188600000",
+          "websites": [
+            {
+              "url": "https://artificialinu.com/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/artificiallyinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    }
+  }
+]

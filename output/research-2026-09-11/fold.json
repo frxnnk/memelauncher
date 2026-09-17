@@ -1,0 +1,2045 @@
+{
+  "capturedAt": "2026-09-11T12:16:00.8886367Z",
+  "query": "fold",
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x055a94001ab95a9cd2d2dd9bfc66761808f903557a7e10bb92fb5695024b796d",
+        "pairAddress": "0x055a94001ab95a9cd2d2dd9bfc66761808f903557a7e10bb92fb5695024b796d",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x665AB4Ab7B60E6fC2004FbD1b8a17F49D0E71E18",
+          "name": "iPhone FOLD",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+          "name": "Apple • Robinhood Token",
+          "symbol": "AAPL"
+        },
+        "priceNative": "0.00000006795",
+        "priceUsd": "0.00002210",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 2,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 4,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 15,
+            "sells": 9
+          }
+        },
+        "volume": {
+          "h24": 147.31,
+          "h6": 26.58,
+          "h1": 16.67,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.19,
+          "h6": 0.22,
+          "h24": 2.09
+        },
+        "liquidity": {
+          "usd": 22445.14,
+          "base": 960608038,
+          "quote": 3.7251
+        },
+        "fdv": 22104,
+        "marketCap": 22104,
+        "pairCreatedAt": 1788319989000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/CftVoWtkEXHQvuDh?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/UDPftnIBhKR516RD?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x665ab4ab7b60e6fc2004fbd1b8a17f49d0e71e18?timestamp=1789128900000",
+          "websites": [],
+          "socials": []
+        }
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "vapordex",
+        "url": "https://dexscreener.com/avalanche/0xcf55499e13bf758ddb9d40883c1e123ce18c2888",
+        "pairAddress": "0xcf55499E13bF758Ddb9D40883c1e123cE18c2888",
+        "baseToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "quoteToken": {
+          "address": "0x32f0c28Be6a6ac5D3b471278b77f6971a3141348",
+          "name": "Fate",
+          "symbol": "FATE"
+        },
+        "priceNative": "1.3723",
+        "priceUsd": "0.0004674",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 258511.64,
+          "base": 276528632,
+          "quote": 379499667
+        },
+        "fdv": 1239606,
+        "marketCap": 651476,
+        "pairCreatedAt": 1755549049000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/9884bdf6bdac3cf810dd717b25e174d23a154512b8c0496280e45f2ab4dc06f1?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4a766ffcf3cf693666220a5c8bba40c99918db5855cea5177d3c5e36c7076dab?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/avalanche/0x88f89be3e9b1dc1c5f208696fb9cabfcc684bd5f?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.ninety1.io/",
+              "label": "Website"
+            },
+            {
+              "url": "https://dapp.ninety1.io",
+              "label": "dAPP"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://twitter.com/LabNinety1",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/LabNinety1",
+              "type": "telegram"
+            },
+            {
+              "url": "https://discord.gg/HvgbRQkZwM",
+              "type": "discord"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "traderjoe",
+        "url": "https://dexscreener.com/avalanche/0xf1840b4ae6dcc58e8dbe514510ffe7737b9acb47",
+        "pairAddress": "0xf1840b4AE6DCC58e8DbE514510FFe7737b9acB47",
+        "baseToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "quoteToken": {
+          "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+          "name": "Wrapped AVAX",
+          "symbol": "WAVAX"
+        },
+        "priceNative": "0.00006233",
+        "priceUsd": "0.0004600",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 12,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 39,
+            "sells": 40
+          }
+        },
+        "volume": {
+          "h24": 1736.09,
+          "h6": 28.2,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -2.06,
+          "h24": -0.29
+        },
+        "liquidity": {
+          "usd": 43922.72,
+          "base": 47738122,
+          "quote": 2975.552
+        },
+        "fdv": 1220021,
+        "marketCap": 641184,
+        "pairCreatedAt": 1685824380000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/9884bdf6bdac3cf810dd717b25e174d23a154512b8c0496280e45f2ab4dc06f1?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4a766ffcf3cf693666220a5c8bba40c99918db5855cea5177d3c5e36c7076dab?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/avalanche/0x88f89be3e9b1dc1c5f208696fb9cabfcc684bd5f?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.ninety1.io/",
+              "label": "Website"
+            },
+            {
+              "url": "https://dapp.ninety1.io",
+              "label": "dAPP"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://twitter.com/LabNinety1",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/LabNinety1",
+              "type": "telegram"
+            },
+            {
+              "url": "https://discord.gg/HvgbRQkZwM",
+              "type": "discord"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "vapordex",
+        "url": "https://dexscreener.com/avalanche/0x0dbcb787458fa66ba71b1b808008fee43edac252",
+        "pairAddress": "0x0DBcB787458fa66BA71B1b808008FeE43eDaC252",
+        "baseToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "quoteToken": {
+          "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+          "name": "Wrapped AVAX",
+          "symbol": "WAVAX"
+        },
+        "priceNative": "0.00006233",
+        "priceUsd": "0.0004605",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 8,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 40,
+            "sells": 10
+          }
+        },
+        "volume": {
+          "h24": 681.4,
+          "h6": 17.86,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -1.77,
+          "h24": -1.51
+        },
+        "liquidity": {
+          "usd": 43962.5,
+          "base": 47731031,
+          "quote": 2975.2151
+        },
+        "fdv": 1221308,
+        "marketCap": 641860,
+        "pairCreatedAt": 1700844666000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/9884bdf6bdac3cf810dd717b25e174d23a154512b8c0496280e45f2ab4dc06f1?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4a766ffcf3cf693666220a5c8bba40c99918db5855cea5177d3c5e36c7076dab?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/avalanche/0x88f89be3e9b1dc1c5f208696fb9cabfcc684bd5f?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.ninety1.io/",
+              "label": "Website"
+            },
+            {
+              "url": "https://dapp.ninety1.io",
+              "label": "dAPP"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://twitter.com/LabNinety1",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/LabNinety1",
+              "type": "telegram"
+            },
+            {
+              "url": "https://discord.gg/HvgbRQkZwM",
+              "type": "discord"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0x909e4a022a7505d44b19b36fe76ee18567379ee4c9697438acde2e159c006c32",
+        "pairAddress": "0x909e4a022a7505d44b19b36fe76ee18567379ee4c9697438acde2e159c006c32",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904",
+          "name": "Interfold",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.00002065",
+        "priceUsd": "0.05065",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 7,
+            "sells": 3
+          },
+          "h6": {
+            "buys": 36,
+            "sells": 19
+          },
+          "h24": {
+            "buys": 173,
+            "sells": 238
+          }
+        },
+        "volume": {
+          "h24": 794117.19,
+          "h6": 47605.91,
+          "h1": 7302.74,
+          "m5": 1002.5
+        },
+        "priceChange": {
+          "m5": -0.02,
+          "h1": 0.15,
+          "h6": -0.04,
+          "h24": 2.03
+        },
+        "liquidity": {
+          "usd": 1579515.01,
+          "base": 14519036,
+          "quote": 344.2525
+        },
+        "fdv": 60785509,
+        "marketCap": 19080905,
+        "pairCreatedAt": 1783693559000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/wPJHhSCaeu9-HTD7?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/R_257h714ZBlSgCR?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0xe172e9b6cfbeeb5593bdce3f077356fdb33af904?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.theinterfold.com/",
+              "label": "Website"
+            },
+            {
+              "url": "https://docs.theinterfold.com/",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/theInterfold",
+              "type": "twitter"
+            },
+            {
+              "url": "http://telegram.me/enclave_e3",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "vapordex",
+        "url": "https://dexscreener.com/avalanche/0x14007ec1b477e746bf1a5916d3d1e3b0f2ae422c",
+        "pairAddress": "0x14007EC1B477E746BF1A5916D3D1E3B0F2AE422C",
+        "baseToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "quoteToken": {
+          "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.0004625",
+        "priceUsd": "0.0004625",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 0.81,
+          "h6": 0.14,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.63,
+          "h24": -0.27
+        },
+        "liquidity": {
+          "usd": 24737.91,
+          "base": 53173884,
+          "quote": 144.9222
+        },
+        "fdv": 1226553,
+        "marketCap": 644617,
+        "pairCreatedAt": 1758901591000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/9884bdf6bdac3cf810dd717b25e174d23a154512b8c0496280e45f2ab4dc06f1?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4a766ffcf3cf693666220a5c8bba40c99918db5855cea5177d3c5e36c7076dab?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/avalanche/0x88f89be3e9b1dc1c5f208696fb9cabfcc684bd5f?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.ninety1.io/",
+              "label": "Website"
+            },
+            {
+              "url": "https://dapp.ninety1.io",
+              "label": "dAPP"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://twitter.com/LabNinety1",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/LabNinety1",
+              "type": "telegram"
+            },
+            {
+              "url": "https://discord.gg/HvgbRQkZwM",
+              "type": "discord"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0x53fe4b18518342d4a54253d25e01c2a4637255fa399a101cc406097e70d54247",
+        "pairAddress": "0x53fe4b18518342d4a54253d25e01c2a4637255fa399a101cc406097e70d54247",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904",
+          "name": "Interfold",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.05064",
+        "priceUsd": "0.05064",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 7,
+            "sells": 3
+          },
+          "h6": {
+            "buys": 27,
+            "sells": 17
+          },
+          "h24": {
+            "buys": 134,
+            "sells": 185
+          }
+        },
+        "volume": {
+          "h24": 463993.7,
+          "h6": 37448.66,
+          "h1": 4019.79,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.03,
+          "h6": -0.03,
+          "h24": 1.95
+        },
+        "liquidity": {
+          "usd": 754783.16,
+          "base": 8130686,
+          "quote": 343033
+        },
+        "fdv": 60769761,
+        "marketCap": 19075962,
+        "pairCreatedAt": 1787153363000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/wPJHhSCaeu9-HTD7?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/R_257h714ZBlSgCR?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0xe172e9b6cfbeeb5593bdce3f077356fdb33af904?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.theinterfold.com/",
+              "label": "Website"
+            },
+            {
+              "url": "https://docs.theinterfold.com/",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/theInterfold",
+              "type": "twitter"
+            },
+            {
+              "url": "http://telegram.me/enclave_e3",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0xf98eb3f652dec36570524587f7a2c5ae34f25afefcd2d267d054829c3cd7f21a",
+        "pairAddress": "0xf98eb3f652dec36570524587f7a2c5ae34f25afefcd2d267d054829c3cd7f21a",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904",
+          "name": "Interfold",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.05064",
+        "priceUsd": "0.05064",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 8,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 46,
+            "sells": 76
+          }
+        },
+        "volume": {
+          "h24": 51953.97,
+          "h6": 1943.84,
+          "h1": 146.07,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.36,
+          "h6": -0.22,
+          "h24": 2.04
+        },
+        "liquidity": {
+          "usd": 47507.31,
+          "base": 675032,
+          "quote": 13322
+        },
+        "fdv": 60770135,
+        "marketCap": 19076079,
+        "pairCreatedAt": 1787858903000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/wPJHhSCaeu9-HTD7?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/R_257h714ZBlSgCR?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0xe172e9b6cfbeeb5593bdce3f077356fdb33af904?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.theinterfold.com/",
+              "label": "Website"
+            },
+            {
+              "url": "https://docs.theinterfold.com/",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/theInterfold",
+              "type": "twitter"
+            },
+            {
+              "url": "http://telegram.me/enclave_e3",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/8ekbbg7tda38xc6qwqodvajopqgqe5agweav9y4ay48k",
+        "pairAddress": "8EkBBg7TDa38XC6qWqoDVajopQGQe5aGWEav9y4AY48K",
+        "baseToken": {
+          "address": "2TfSKMphshQ8zFLMJuGsw2iotSdGHLhYYPM4uy1opump",
+          "name": "Clarity Protocol",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000003465",
+        "priceUsd": "0.00003455",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 2.45,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.11
+        },
+        "liquidity": {
+          "usd": 20747.6,
+          "base": 300169974,
+          "quote": 104.0183
+        },
+        "fdv": 34560,
+        "marketCap": 30412,
+        "pairCreatedAt": 1770768113000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/EMQlzovoyy65BEfO?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/5L136KspGhn3Pylw?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2TfSKMphshQ8zFLMJuGsw2iotSdGHLhYYPM4uy1opump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://clarityprotocol.io/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/clarity_proto",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "vapordex",
+        "url": "https://dexscreener.com/avalanche/0x437705f77b5536dade2b3425475b72a0af5f1fe7",
+        "pairAddress": "0x437705F77B5536DadE2B3425475b72a0Af5f1fE7",
+        "baseToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "quoteToken": {
+          "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.0004584",
+        "priceUsd": "0.0004584",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 18
+          },
+          "h24": {
+            "buys": 22,
+            "sells": 47
+          }
+        },
+        "volume": {
+          "h24": 196.46,
+          "h6": 36.23,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -1.61,
+          "h24": -1.96
+        },
+        "liquidity": {
+          "usd": 8435.49,
+          "base": 9200670,
+          "quote": 4217.746
+        },
+        "fdv": 1215723,
+        "marketCap": 638925,
+        "pairCreatedAt": 1685942093000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/9884bdf6bdac3cf810dd717b25e174d23a154512b8c0496280e45f2ab4dc06f1?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4a766ffcf3cf693666220a5c8bba40c99918db5855cea5177d3c5e36c7076dab?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/avalanche/0x88f89be3e9b1dc1c5f208696fb9cabfcc684bd5f?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.ninety1.io/",
+              "label": "Website"
+            },
+            {
+              "url": "https://dapp.ninety1.io",
+              "label": "dAPP"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://twitter.com/LabNinety1",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/LabNinety1",
+              "type": "telegram"
+            },
+            {
+              "url": "https://discord.gg/HvgbRQkZwM",
+              "type": "discord"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0x14d8d51ab2de262f297f4f5c22f5bcff63ba02f01c8e46f6ebc6b87b5725fcb2",
+        "pairAddress": "0x14d8d51ab2de262f297f4f5c22f5bcff63ba02f01c8e46f6ebc6b87b5725fcb2",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904",
+          "name": "Interfold",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.05223",
+        "priceUsd": "0.05223",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 8
+          }
+        },
+        "volume": {
+          "h24": 305.45,
+          "h6": 15.17,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -1.14,
+          "h24": 1.47
+        },
+        "liquidity": {
+          "usd": 2784.72,
+          "base": 1449.01283,
+          "quote": 2709.03394
+        },
+        "fdv": 62686138,
+        "marketCap": 19677523,
+        "pairCreatedAt": 1788314399000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/wPJHhSCaeu9-HTD7?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/R_257h714ZBlSgCR?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0xe172e9b6cfbeeb5593bdce3f077356fdb33af904?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.theinterfold.com/",
+              "label": "Website"
+            },
+            {
+              "url": "https://docs.theinterfold.com/",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/theInterfold",
+              "type": "twitter"
+            },
+            {
+              "url": "http://telegram.me/enclave_e3",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x1795d8e47fd918135f3d28c4c6af9b6bba955a0a875da7dcb32175e406ce0806",
+        "pairAddress": "0x1795d8e47fd918135f3d28c4c6af9b6bba955a0a875da7dcb32175e406ce0806",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xb200000000000000000000bDb45b1887FbB06001",
+          "name": "fold.",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000003272",
+        "priceUsd": "0.000008055",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 3.24,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 7812.62,
+          "base": 826007530,
+          "quote": 0.4707
+        },
+        "fdv": 8055,
+        "marketCap": 8055,
+        "pairCreatedAt": 1785438441000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/qt4Kxtp4CuWi2VXz?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4L5GC-gF7Wr3Lpl_?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb200000000000000000000bdb45b1887fbb06001?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://fold.computer",
+              "label": "Website"
+            },
+            {
+              "url": "https://fold.computer/docs",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/foldcomputer",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/foldcomputer",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0x7fcb9037f1f19d5ff96fe3a0ed7bc443e6fda0385b167d912d086d10e9e358d8",
+        "pairAddress": "0x7fcb9037f1f19d5ff96fe3a0ed7bc443e6fda0385b167d912d086d10e9e358d8",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+          "name": "Manifold Finance",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.00001393",
+        "priceUsd": "0.03394",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.08,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 803.16,
+          "base": 18383,
+          "quote": 0.07353
+        },
+        "fdv": 67890,
+        "marketCap": 67890,
+        "pairCreatedAt": 1744279079000
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0xe081eeab0adde30588ba8d5b3f6ae5284790f54a",
+        "pairAddress": "0xe081EEAB0AdDe30588bA8d5B3F6aE5284790F54A",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+          "name": "Manifold Finance",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.03495",
+        "priceUsd": "0.03495",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.08,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 723.33,
+          "base": 7725.2654,
+          "quote": 453.284
+        },
+        "fdv": 69913,
+        "marketCap": 69913,
+        "pairCreatedAt": 1659583565000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/cumdembvncw8n4fmargftrv8ajgtubypo6w8fscu3j6m",
+        "pairAddress": "CUmdeMbvnCw8n4FmArGfTrv8aJgtUbYpo6W8fScu3J6M",
+        "baseToken": {
+          "address": "56Hy6qVfp1eBU6mNNhjYttxgUyQ1WEDzgh1LgKdBpump",
+          "name": "PepFold",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000003182",
+        "priceUsd": "0.000003151",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.5,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 4903.71,
+          "base": 773152528,
+          "quote": 24.9118
+        },
+        "fdv": 3151,
+        "marketCap": 3151,
+        "pairCreatedAt": 1781725093000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/7jVcLJzW4AdbIYr3?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/pRMxhJnIt89ghwkA?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/56Hy6qVfp1eBU6mNNhjYttxgUyQ1WEDzgh1LgKdBpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.pepfold.sh/",
+              "label": "Website"
+            },
+            {
+              "url": "https://www.youtube.com/live/yXm3LSVh1WM",
+              "label": "Youtube Live"
+            },
+            {
+              "url": "https://www.pepfold.sh/scan",
+              "label": "PepScan"
+            },
+            {
+              "url": "https://www.pepfold.sh/simulator",
+              "label": "PepSimulator"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/pepfold",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "pulsechain",
+        "dexId": "pulsex",
+        "url": "https://dexscreener.com/pulsechain/0x182513f19c47468c978ae0f014964fe76fdb24df",
+        "pairAddress": "0x182513f19C47468C978ae0F014964fe76fDB24df",
+        "labels": [
+          "v1"
+        ],
+        "baseToken": {
+          "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+          "name": "Manifold Finance",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+          "name": "Wrapped Ether from Ethereum",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.00001173",
+        "priceUsd": "0.02872",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.11,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 12.86,
+          "base": 223.9032,
+          "quote": 0.002628
+        },
+        "fdv": 57448,
+        "marketCap": 57448,
+        "pairCreatedAt": 1684758735000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/649g7wapxehdgq2t2ccpc9xfezumeah8huzzkkyy76qo",
+        "pairAddress": "649g7wapxEhDgQ2t2cCpc9xfEZumEAh8HUzZKkYy76qo",
+        "baseToken": {
+          "address": "E1U1WVN8vimpTxJUw5hXaQEX5SUvq4sN9iZZndDpump",
+          "name": "Interfold",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000001775",
+        "priceUsd": "0.000001774",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 2.07,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 1.48
+        },
+        "liquidity": {
+          "usd": 1788.79,
+          "base": 999067266,
+          "quote": 0.1635
+        },
+        "fdv": 1774,
+        "marketCap": 1774,
+        "pairCreatedAt": 1788134778000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/9zubrt2qz7abwz5tvnu2jeq1jzoxlgkd92h7tnd7fknc",
+        "pairAddress": "9zubrT2qZ7abWZ5tVNu2Jeq1JZoxLgkd92H7TNd7FKnC",
+        "baseToken": {
+          "address": "BRqvJTqwyJkSnzHia21zZuazG7HEiLCiTmpkTbCMpump",
+          "name": "IPHONE FOLD",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002888",
+        "priceUsd": "0.000002888",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 4.07,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 0.25
+        },
+        "fdv": 2888.09,
+        "marketCap": 2888.09,
+        "pairCreatedAt": 1744738430000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x75248f62307deec4a801406544bbe766bf122f997c68a7e905ee4e1fabc60d38",
+        "pairAddress": "0x75248f62307deec4a801406544bbe766bf122f997c68a7e905ee4e1fabc60d38",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xb200000000000000000000c939857F1C43873501",
+          "name": "foldable iPhone",
+          "symbol": "fold"
+        },
+        "quoteToken": {
+          "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+          "name": "Apple Inc.",
+          "symbol": "AAPLc"
+        },
+        "priceNative": "0.00000001291",
+        "priceUsd": "0.000004186",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 2.65,
+          "h6": 0.4,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.05,
+          "h24": -0.05
+        },
+        "liquidity": {
+          "usd": 4186.76,
+          "base": 996403074,
+          "quote": 0.04628
+        },
+        "fdv": 4187,
+        "marketCap": 4187,
+        "pairCreatedAt": 1788970301000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/2jkumc7k1vrqmbitmsachdzm7dpf8nniozfv1ml16tr9",
+        "pairAddress": "2Jkumc7K1VrQMbitmSaCHDzM7DpF8nNioZFv1mL16tr9",
+        "baseToken": {
+          "address": "3ap154Y5LNpChrQ58dzd9TkmpnKVDHmTteDDTjJypump",
+          "name": "iPhone Fold",
+          "symbol": "Fold"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002802",
+        "priceUsd": "0.000002787",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 118.18,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "fdv": 2787.16,
+        "marketCap": 2787.16,
+        "pairCreatedAt": 1771638552000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xe0ef531da9f0b60ec364cdeb1c8bc8c9e04c89e8092631db6b672956ad3187e0",
+        "pairAddress": "0xe0ef531da9f0b60ec364cdeb1c8bc8c9e04c89e8092631db6b672956ad3187e0",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x09480d1D8bBEFe740004547aE2E5A723B1b46Ab0",
+          "name": "Fent Fold",
+          "symbol": "FOLD"
+        },
+        "quoteToken": {
+          "address": "0x9875A3c80ffF892f0e14e26E7aa8e255Fd70AfaA",
+          "name": "Fentanyl Pill",
+          "symbol": "FENT"
+        },
+        "priceNative": "0.000001003",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 15
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.69
+        },
+        "pairCreatedAt": 1789090364000
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "vapordex",
+        "url": "https://dexscreener.com/avalanche/0x3770ee1844d6ec809ad66e060518b18ba07f9ca4",
+        "pairAddress": "0x3770Ee1844D6eC809ad66E060518B18bA07F9CA4",
+        "baseToken": {
+          "address": "0x0256B279D973C8d687264AC3eB36bE09232D4474",
+          "name": "MyStandard",
+          "symbol": "MYST"
+        },
+        "quoteToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "priceNative": "15.6412",
+        "priceUsd": "0.007311",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 9
+          }
+        },
+        "volume": {
+          "h24": 41.56,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -2.09
+        },
+        "liquidity": {
+          "usd": 7825.02,
+          "base": 535148,
+          "quote": 8370393
+        },
+        "fdv": 7273540,
+        "marketCap": 316148,
+        "pairCreatedAt": 1734642379000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/036f8f725a76b34db0ec7027cfff6f62561d747b08282fdc865b0551dbdab258?width=800&height=800&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/avalanche/0x0256b279d973c8d687264ac3eb36be09232d4474?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://mystandard.io",
+              "label": "Website"
+            },
+            {
+              "url": "https://linktr.ee/mystandard",
+              "label": "Link Tree"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://twitter.com/MyStandardDotIO",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/MyStandardTG",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "traderjoe",
+        "url": "https://dexscreener.com/avalanche/0xf129618253bcff0f9a597e8103d2be065d17a310",
+        "pairAddress": "0xF129618253BCFf0f9A597E8103D2BE065d17a310",
+        "baseToken": {
+          "address": "0xebe2eae72D6eAA44A3bCA32cFDF81D3A687917c2",
+          "name": "EVERBURN",
+          "symbol": "EVB"
+        },
+        "quoteToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "priceNative": "0.1242",
+        "priceUsd": "0.00005806",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 9.23,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.25
+        },
+        "liquidity": {
+          "usd": 7981.42,
+          "base": 68724476,
+          "quote": 8537686
+        },
+        "fdv": 38310,
+        "marketCap": 38310,
+        "pairCreatedAt": 1687705415000
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "vapordex",
+        "url": "https://dexscreener.com/avalanche/0xe8ef9cc2f20205c5a243efc957a47865e53bfcad",
+        "pairAddress": "0xe8EF9CC2f20205c5A243EFC957A47865e53bFcAD",
+        "baseToken": {
+          "address": "0x7bddaF6DbAB30224AA2116c4291521C7a60D5f55",
+          "name": "VapeToken",
+          "symbol": "VAPE"
+        },
+        "quoteToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "priceNative": "81.2839",
+        "priceUsd": "0.03799",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 8,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 29.39,
+          "h6": 2.54,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.27,
+          "h24": 0.45
+        },
+        "liquidity": {
+          "usd": 3758.76,
+          "base": 49465,
+          "quote": 4020727
+        },
+        "fdv": 36529,
+        "marketCap": 36529,
+        "pairCreatedAt": 1686126877000
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "traderjoe",
+        "url": "https://dexscreener.com/avalanche/0x578a3da390396b03145a05adff8b74a9df4ec4e1",
+        "pairAddress": "0x578a3DA390396b03145A05adfF8B74A9dF4eC4E1",
+        "baseToken": {
+          "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+          "name": "Snowball",
+          "symbol": "SNOB"
+        },
+        "quoteToken": {
+          "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+          "name": "Fold",
+          "symbol": "FLD"
+        },
+        "priceNative": "124.8155",
+        "priceUsd": "0.05834",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 5.46,
+          "base": 46.7985,
+          "quote": 5841.1863
+        },
+        "fdv": 1038828,
+        "marketCap": 921616,
+        "pairCreatedAt": 1716439646000
+      },
+      {
+        "chainId": "pulsechain",
+        "dexId": "sushiswap",
+        "url": "https://dexscreener.com/pulsechain/0xa914a9b9e03b6af84f9c6bd2e0e8d27d405695db",
+        "pairAddress": "0xA914a9b9E03b6aF84F9c6bd2e0e8d27D405695Db",
+        "baseToken": {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "quoteToken": {
+          "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+          "name": "Manifold Finance",
+          "symbol": "FOLD"
+        },
+        "priceNative": "0.0004034",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1683952145000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb8d83170ad5e6e7483ef3f87e3ccde37b916b3386863998a6c5d084b3bd8ba1e",
+        "pairAddress": "0xb8d83170ad5e6e7483ef3f87e3ccde37b916b3386863998a6c5d084b3bd8ba1e",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x2A4a33A2163D005d8E7f1D9aC08d14c98db288d5",
+          "name": "Twofold",
+          "symbol": "TWO"
+        },
+        "quoteToken": {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "name": "WETH",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.0000001665",
+        "priceUsd": "0.0004092",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 14,
+            "sells": 6
+          },
+          "h6": {
+            "buys": 109,
+            "sells": 45
+          },
+          "h24": {
+            "buys": 572,
+            "sells": 437
+          }
+        },
+        "volume": {
+          "h24": 311584.77,
+          "h6": 30852.01,
+          "h1": 3480.53,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 12.74,
+          "h6": -0.8,
+          "h24": -72.81
+        },
+        "liquidity": {
+          "usd": 85967.9,
+          "base": 121424518,
+          "quote": 14.7581
+        },
+        "fdv": 409255,
+        "marketCap": 409255,
+        "pairCreatedAt": 1787946446000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/sUon1eo8bpjbJd4M?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/RPES1wm_TQztwTee?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x2a4a33a2163d005d8e7f1d9ac08d14c98db288d5?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://twofold.fi/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/twofoldfi",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x9542802e6cbe42d8827781e25e94a46de37ebc2971abea0181781306bc3916bf",
+        "pairAddress": "0x9542802e6cbe42d8827781e25e94a46de37ebc2971abea0181781306bc3916bf",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x9d783133a3ff9BA27Fa1605547368CF9a316341E",
+          "name": "EquiFold",
+          "symbol": "EQUI"
+        },
+        "quoteToken": {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "name": "WETH",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.0000001335",
+        "priceUsd": "0.0003277",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 5,
+            "sells": 5
+          },
+          "h6": {
+            "buys": 41,
+            "sells": 49
+          },
+          "h24": {
+            "buys": 148,
+            "sells": 158
+          }
+        },
+        "volume": {
+          "h24": 64806.92,
+          "h6": 16955.62,
+          "h1": 1304.98,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -1.49,
+          "h6": -13.98,
+          "h24": 11.55
+        },
+        "liquidity": {
+          "usd": 46675.73,
+          "base": 68826364,
+          "quote": 9.8305
+        },
+        "fdv": 321936,
+        "marketCap": 321936,
+        "pairCreatedAt": 1784545270000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/TnQ7Lc91dfBKz2EX?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/wr95NKlQrsOCaVak?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x9d783133a3ff9ba27fa1605547368cf9a316341e?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://equifold.xyz",
+              "label": "Website"
+            },
+            {
+              "url": "https://equifold.xyz/docs",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/EquiFold",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/equifold",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x3b3d91291c39ae4d426dc73f22e71f3f46d294f13f47d5d116d9bbed0ab8f605",
+        "pairAddress": "0x3b3d91291c39ae4d426dc73f22e71f3f46d294f13f47d5d116d9bbed0ab8f605",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x2A4a33A2163D005d8E7f1D9aC08d14c98db288d5",
+          "name": "Twofold",
+          "symbol": "TWO"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0006316",
+        "priceUsd": "0.0006316",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 64,
+            "sells": 12
+          }
+        },
+        "volume": {
+          "h24": 33432.61,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -34.49
+        },
+        "liquidity": {
+          "usd": 3528.92,
+          "base": 8.6048,
+          "quote": 3528.9201
+        },
+        "fdv": 631616,
+        "marketCap": 631616,
+        "pairCreatedAt": 1789062164000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/sUon1eo8bpjbJd4M?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/RPES1wm_TQztwTee?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x2a4a33a2163d005d8e7f1d9ac08d14c98db288d5?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://twofold.fi/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/twofoldfi",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xe1baddc92fc94814ffa606c278346bd754c412e8fa24e1d11c0d315fc8427b6b",
+        "pairAddress": "0xe1baddc92fc94814ffa606c278346bd754c412e8fa24e1d11c0d315fc8427b6b",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x2A4a33A2163D005d8E7f1D9aC08d14c98db288d5",
+          "name": "Twofold",
+          "symbol": "TWO"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0003927",
+        "priceUsd": "0.0003927",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 6,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 22,
+            "sells": 8
+          },
+          "h24": {
+            "buys": 96,
+            "sells": 78
+          }
+        },
+        "volume": {
+          "h24": 53646.67,
+          "h6": 3146.49,
+          "h1": 520.68,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 5.08,
+          "h6": 1.61,
+          "h24": -73.74
+        },
+        "liquidity": {
+          "usd": 9691.62,
+          "base": 3877763,
+          "quote": 8168.5319
+        },
+        "fdv": 392776,
+        "marketCap": 392776,
+        "pairCreatedAt": 1787947108000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/sUon1eo8bpjbJd4M?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/RPES1wm_TQztwTee?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x2a4a33a2163d005d8e7f1d9ac08d14c98db288d5?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://twofold.fi/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/twofoldfi",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

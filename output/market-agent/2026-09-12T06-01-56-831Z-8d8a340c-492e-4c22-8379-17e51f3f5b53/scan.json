@@ -1,0 +1,111 @@
+{
+  "observedAt": "2026-09-12T06:01:50.369Z",
+  "source": "dexscreener",
+  "coverage": [
+    "Provider-selected trending metas: first 3; collected 0. This is a bounded sample, not a market census.",
+    "Explicit search queries: 6; search ranking and matching are provider-controlled.",
+    "Pair chain filter: none.",
+    "Public GET only; no social reach, independent demand, wallet ownership, contract safety or executable liquidity verification.",
+    "Reported volume is not net inflow; trending placement and descriptive metadata are not evidence of organic demand."
+  ],
+  "metas": [],
+  "searches": [
+    {
+      "query": "CATGPT",
+      "pairs": [],
+      "collectionError": "REQUEST_FAILED"
+    },
+    {
+      "query": "ANTHROPIG",
+      "pairs": [],
+      "collectionError": "REQUEST_FAILED"
+    },
+    {
+      "query": "STONK",
+      "pairs": [],
+      "collectionError": "REQUEST_FAILED"
+    },
+    {
+      "query": "ALLINU",
+      "pairs": [],
+      "collectionError": "REQUEST_FAILED"
+    },
+    {
+      "query": "Brian Steel",
+      "pairs": [],
+      "collectionError": "REQUEST_FAILED"
+    },
+    {
+      "query": "Polar Bear",
+      "pairs": [],
+      "collectionError": "REQUEST_FAILED"
+    }
+  ],
+  "errors": [
+    {
+      "endpoint": "https://api.dexscreener.com/metas/trending/v1",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=CATGPT",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=ANTHROPIG",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=STONK",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=ALLINU",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=Brian%20Steel",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=Polar%20Bear",
+      "message": "REQUEST_FAILED"
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://api.dexscreener.com/metas/trending/v1",
+      "observedAt": "2026-09-12T06:01:50.370Z",
+      "ok": false
+    },
+    {
+      "url": "https://api.dexscreener.com/latest/dex/search?q=CATGPT",
+      "observedAt": "2026-09-12T06:01:51.527Z",
+      "ok": false
+    },
+    {
+      "url": "https://api.dexscreener.com/latest/dex/search?q=ANTHROPIG",
+      "observedAt": "2026-09-12T06:01:52.585Z",
+      "ok": false
+    },
+    {
+      "url": "https://api.dexscreener.com/latest/dex/search?q=STONK",
+      "observedAt": "2026-09-12T06:01:53.643Z",
+      "ok": false
+    },
+    {
+      "url": "https://api.dexscreener.com/latest/dex/search?q=ALLINU",
+      "observedAt": "2026-09-12T06:01:54.701Z",
+      "ok": false
+    },
+    {
+      "url": "https://api.dexscreener.com/latest/dex/search?q=Brian%20Steel",
+      "observedAt": "2026-09-12T06:01:55.755Z",
+      "ok": false
+    },
+    {
+      "url": "https://api.dexscreener.com/latest/dex/search?q=Polar%20Bear",
+      "observedAt": "2026-09-12T06:01:56.826Z",
+      "ok": false
+    }
+  ]
+}

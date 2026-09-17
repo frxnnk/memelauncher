@@ -1,0 +1,65 @@
+{
+  "verifiedAt": "2026-09-12T06:46:51.175Z",
+  "method": "Offline parsed-instruction and balance checks against two finalized public Solana RPC receipts",
+  "errors": [],
+  "appSha256": "765d8562d414b01fd57c7e0296d46c4e4f91d90518e394d194706dd662cdd0c6",
+  "results": [
+    {
+      "file": "revcat-burn-rpc.json",
+      "signature": "4KfVCoRKscTsVFMYxHPEZZZr2scCUdHT1GN3m6RbVMWV5pnzJexhjxJsErQ7ZgDsYx3vWZ1C324b1oGiJmmJfeSi",
+      "url": "https://solscan.io/tx/4KfVCoRKscTsVFMYxHPEZZZr2scCUdHT1GN3m6RbVMWV5pnzJexhjxJsErQ7ZgDsYx3vWZ1C324b1oGiJmmJfeSi",
+      "capturedAt": "2026-09-12T06:43:29.5528012Z",
+      "slot": 446363812,
+      "utc": "2026-09-12T06:41:33.000Z",
+      "signer": "HEjnRRCNEqcEom6rSRj518GJBMyFEwv9ixpCdM8CxfSV",
+      "networkFeeLamports": "5000",
+      "creatorDebitLamports": "47875942",
+      "creatorDebitSol": "0.047875942",
+      "mint": "4pAM2FFrXN7wGVjhADY3fsDYE7jGcE1ARsfhYH6z5aCd",
+      "buyInstructionOneBased": 5,
+      "burnInstructionOneBased": 7,
+      "burnProgram": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+      "tokenRaw": "77643587103",
+      "tokenDecimals": 6,
+      "tokensBurned": "77643.587103",
+      "quoteSpentLamports": "47870942",
+      "quoteSpentSol": "0.047870942",
+      "creatorTokenBefore": "0",
+      "creatorTokenAfter": "0",
+      "wsolTransfers": [
+        {
+          "destinationTokenAccount": "Aj813wSb5fyKmBCv8wL2SNRMYvKZdUw27kTPi8Qf7gV4",
+          "amountLamports": "47397908"
+        },
+        {
+          "destinationTokenAccount": "BWXT6RUhit9FfJQM3pBmqeFLPYmuxgmyhMGC5sGr8RbA",
+          "amountLamports": "11826"
+        },
+        {
+          "destinationTokenAccount": "CSzq6qseTnP8JemutFKiv8VPSSDuTDmD6hodvbNryKcu",
+          "amountLamports": "449382"
+        },
+        {
+          "destinationTokenAccount": "CASRL2zkwDnppxEFQ4LgdwgR9pdz5Q8R8nEMKVZ9QoLp",
+          "amountLamports": "11826"
+        }
+      ]
+    },
+    {
+      "file": "revcat-treasury-rpc.json",
+      "signature": "3SCdnBRgYjwU39HUg5sa5qLVpPBm5hfaucQLcWTNeGKnryu5u8hC4MpRYKx1QkvhELTk3GKdoXetVGCpMe9PMAJf",
+      "url": "https://solscan.io/tx/3SCdnBRgYjwU39HUg5sa5qLVpPBm5hfaucQLcWTNeGKnryu5u8hC4MpRYKx1QkvhELTk3GKdoXetVGCpMe9PMAJf",
+      "capturedAt": "2026-09-12T06:45:00.5793020Z",
+      "slot": 446364225,
+      "utc": "2026-09-12T06:43:46.000Z",
+      "signer": "HEjnRRCNEqcEom6rSRj518GJBMyFEwv9ixpCdM8CxfSV",
+      "networkFeeLamports": "5000",
+      "creatorDebitLamports": "50093555",
+      "creatorDebitSol": "0.050093555",
+      "destination": "EoppPB2YkVWnMHP3VoMi6CpqeRdoZYtSjfRK6ne9BYZg",
+      "treasuryCreditLamports": "50088555",
+      "treasuryCreditSol": "0.050088555",
+      "classification": "Transfer to published treasury; percentage, fee origin and ledger category not established by this receipt"
+    }
+  ]
+}

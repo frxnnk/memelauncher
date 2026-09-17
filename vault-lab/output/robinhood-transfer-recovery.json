@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-09-15T06:25:52.245Z",
+  "fromBlock": "119750948",
+  "toBlock": "119764573",
+  "payerBalance": "4900000000000000000",
+  "treasuryBalance": "100000000000000000",
+  "latestNonce": 1,
+  "pendingNonce": 1,
+  "transfers": [
+    {
+      "hash": "0x2df3f5c1c1b97c0e89011daaa436bb4fa165056dd5bcda3a98f42423eaa2ba31",
+      "block": "119764303",
+      "value": "100000000000000000"
+    }
+  ]
+}

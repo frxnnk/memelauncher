@@ -1,0 +1,7 @@
+{
+  "createdAt": "2026-09-15T01:10:20.053Z",
+  "input": {
+    "modelId": "anthropic/claude-haiku-4.5",
+    "prompt": "Hello, Vault. Introduce yourself in one or two sentences, and tell me why I should bother trying to get past you."
+  }
+}

@@ -1,0 +1,11 @@
+.beta-guide { max-width:850px;padding-block:60px 90px; }
+.beta-guide h1 { font-size:clamp(42px,7vw,78px);line-height:1.02;letter-spacing:-.06em;margin:20px 0 50px;font-weight:500; }
+.beta-guide h1 em { font-style:normal;color:var(--accent); }
+.beta-guide section { border-top:1px solid rgba(30,30,30,.18);padding:26px 0; }
+.beta-guide h2 { font-size:25px;letter-spacing:-.03em;margin:0 0 16px; }
+.beta-guide p,.beta-guide li { font-size:16px;line-height:1.75;max-width:68ch; }
+.beta-guide li { margin:12px 0;padding-left:5px; }
+.beta-guide ol { padding-left:22px; }
+.beta-guide code { overflow-wrap:anywhere;font-size:.92em; }
+.beta-guide .primary-link { margin-top:20px; }
+@media(max-width:540px) { .beta-guide { padding-block:32px 50px; }.beta-guide h1 { margin-bottom:32px; } }

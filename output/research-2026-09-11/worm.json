@@ -1,0 +1,1893 @@
+{
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/4g8ucfuniirnfxtbl7xynrakvpnxshnl6fbrpkuuc945",
+        "pairAddress": "4g8uCFUNiiRNfxtBL7xYnrakvpNXSHnL6FBRPKUUC945",
+        "baseToken": {
+          "address": "83CHCpuAz2AcNzYgPzbHpRUphSSgu1EfpceCzYokpump",
+          "name": "worm",
+          "symbol": "worm"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000007215",
+        "priceUsd": "0.000007160",
+        "txns": {
+          "m5": {
+            "buys": 23,
+            "sells": 10
+          },
+          "h1": {
+            "buys": 1537,
+            "sells": 1156
+          },
+          "h6": {
+            "buys": 1537,
+            "sells": 1156
+          },
+          "h24": {
+            "buys": 1537,
+            "sells": 1156
+          }
+        },
+        "volume": {
+          "h24": 101584.74,
+          "h6": 101584.74,
+          "h1": 101584.74,
+          "m5": 731.88
+        },
+        "priceChange": {
+          "m5": 6.36,
+          "h1": 157,
+          "h6": 157,
+          "h24": 157
+        },
+        "fdv": 7160.36,
+        "marketCap": 7160.36,
+        "pairCreatedAt": 1789125820000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/qHwKCXDEoatQN4SZ?width=800&height=800&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/83CHCpuAz2AcNzYgPzbHpRUphSSgu1EfpceCzYokpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://iamworm.com",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/iamwormx",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x9171c06d4b47ceed7626490f52906b702ce4222de50f5860738fc9dcc7b7aa1b",
+        "pairAddress": "0x9171c06d4b47ceed7626490f52906b702ce4222de50f5860738fc9dcc7b7aa1b",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x11DbC488823F846a8904764f22e760e559b1af11",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.00000001032",
+        "priceUsd": "0.00002532",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 2
+          },
+          "h1": {
+            "buys": 26,
+            "sells": 42
+          },
+          "h6": {
+            "buys": 447,
+            "sells": 488
+          },
+          "h24": {
+            "buys": 6932,
+            "sells": 6074
+          }
+        },
+        "volume": {
+          "h24": 1296392,
+          "h6": 85884.38,
+          "h1": 2834.02,
+          "m5": 8.52
+        },
+        "priceChange": {
+          "m5": 0.02,
+          "h1": -34.75,
+          "h6": -73.31,
+          "h24": -49.11
+        },
+        "liquidity": {
+          "usd": 14591.66,
+          "base": 288120980,
+          "quote": 2.9749
+        },
+        "fdv": 24955,
+        "marketCap": 24955,
+        "pairCreatedAt": 1789099531000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/HzbY8HPkay1_Yb5r?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/YoV2ESTMKPvQNNDS?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x11dbc488823f846a8904764f22e760e559b1af11?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.worminstrument.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/wormonrh",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xf49ee5b66c4e7163026e5d25e6a1f93cff46dca4d3752f712d181d9392c1d567",
+        "pairAddress": "0xf49ee5b66c4e7163026e5d25e6a1f93cff46dca4d3752f712d181d9392c1d567",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x3bA500F1AbabbCF0F0247D06D1c56Fd7E6C4c09D",
+          "name": "Agent Wormhole",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
+          "name": "Palantir Technologies • Robinhood Token",
+          "symbol": "PLTR"
+        },
+        "priceNative": "0.000002139",
+        "priceUsd": "0.0003596",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 38,
+            "sells": 12
+          },
+          "h6": {
+            "buys": 90,
+            "sells": 77
+          },
+          "h24": {
+            "buys": 219,
+            "sells": 190
+          }
+        },
+        "volume": {
+          "h24": 57960.56,
+          "h6": 23856.6,
+          "h1": 11503.14,
+          "m5": 8.41
+        },
+        "priceChange": {
+          "m5": 0.07,
+          "h1": -8.12,
+          "h6": 2.48,
+          "h24": 20.48
+        },
+        "liquidity": {
+          "usd": 48189.85,
+          "base": 66998950,
+          "quote": 143.3623
+        },
+        "fdv": 347704,
+        "marketCap": 347704,
+        "pairCreatedAt": 1788893778000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/QgPLKaENYUblwMUU?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/-TGgMBa8a_eNb77M?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x3ba500f1ababbcf0f0247d06d1c56fd7e6c4c09d?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.agentwormhole.com/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/agentwormhole",
+              "type": "twitter"
+            },
+            {
+              "url": "http://t.me/agentwormhole1",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x9c4daf78699b786afbfcc93b0aa6220463d8f8d2",
+        "pairAddress": "0x9C4DaF78699b786AFbfcc93b0aa6220463D8F8d2",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0x5b1E512d9b8BB0B16dc7550B70Ec4f21fDbC359A",
+          "name": "WORM",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0001180",
+        "priceUsd": "0.0001180",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 4
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 205.83,
+          "h6": 205.83,
+          "h1": 91.67,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.47,
+          "h6": -0.94,
+          "h24": -0.94
+        },
+        "liquidity": {
+          "usd": 77629.96,
+          "base": 328713051,
+          "quote": 38814
+        },
+        "fdv": 118082,
+        "marketCap": 118082,
+        "pairCreatedAt": 1788202341000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/pLXFJZbvsRhGySAE?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WvzWEv-re2LXRKbl?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x5b1e512d9b8bb0b16dc7550b70ec4f21fdbc359a?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://wormtoarc.fun/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/wormtoarc",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x0c5883b881c017988ef0cb7bb7e7f2c01495215504cb8c4124bd1d5f39315c92",
+        "pairAddress": "0x0c5883b881c017988ef0cb7bb7e7f2c01495215504cb8c4124bd1d5f39315c92",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xb12C4b28ab25c007B5140E47fD9fC20de2cC5b4E",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "name": "WETH",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.00000005587",
+        "priceUsd": "0.0001365",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 384,
+            "sells": 211
+          }
+        },
+        "volume": {
+          "h24": 293105.74,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 459
+        },
+        "liquidity": {
+          "usd": 91114.04,
+          "base": 423037520,
+          "quote": 13.6385
+        },
+        "fdv": 136579,
+        "marketCap": 136579,
+        "pairCreatedAt": 1789096462000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x8d121ccd42c084d875133d94d07dd18c59d939c7eda29835dfd83026a9a72ef3",
+        "pairAddress": "0x8d121ccd42c084d875133d94d07dd18c59d939c7eda29835dfd83026a9a72ef3",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xaaecd94f001287480Be1C9Da434Ca9891721Af11",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000005896",
+        "priceUsd": "0.001449",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 35,
+            "sells": 19
+          }
+        },
+        "volume": {
+          "h24": 22798.48,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 150
+        },
+        "liquidity": {
+          "usd": 40224.75,
+          "base": 13871617,
+          "quote": 8.1787
+        },
+        "fdv": 47069,
+        "marketCap": 47069,
+        "pairCreatedAt": 1789101613000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x263e2a59ed269ef783e919ddc462f5e4ed7340a1ba2ab92eda524e66b6ffb599",
+        "pairAddress": "0x263e2a59ed269ef783e919ddc462f5e4ed7340a1ba2ab92eda524e66b6ffb599",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x002c391b179Ae95ed1c9501d9fB5958e11AeAf11",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000002358",
+        "priceUsd": "0.0005776",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 428.5,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 25334.73,
+          "base": 21930541,
+          "quote": 5.1732
+        },
+        "fdv": 18751,
+        "marketCap": 18751,
+        "pairCreatedAt": 1789100245000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x090746351586a2880eb7eb2ca4a36646c10a9d8c862bce51ec51ccc9457b2351",
+        "pairAddress": "0x090746351586a2880eb7eb2ca4a36646c10a9d8c862bce51ec51ccc9457b2351",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xa79fF60Ace2792de9a0782b2D8AE9874905e7ca1",
+          "name": "WORM",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0xf8B22f75b7Ee248fF723650f43C98B253e7dfb60",
+          "name": "Kairence DIEM",
+          "symbol": "kDIEM"
+        },
+        "priceNative": "0.00000001683",
+        "priceUsd": "0.00003277",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 8,
+            "sells": 20
+          }
+        },
+        "volume": {
+          "h24": 1151.85,
+          "h6": 42.63,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 2.76,
+          "h24": 9.16
+        },
+        "liquidity": {
+          "usd": 16019.76,
+          "base": 439215275,
+          "quote": 0.8335
+        },
+        "fdv": 32328,
+        "marketCap": 32328,
+        "pairCreatedAt": 1788141167000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/g4ebeajvfndmuberwqahkqh94jktnedfs6zudscsxa5",
+        "pairAddress": "G4EBEAJvfNdmubERWqAHkQh94jKtnEDfs6ZudScSXA5",
+        "baseToken": {
+          "address": "DwDtUqBZJtbRpdjsFw3N7YKB5epocSru25BGcVhfcYtg",
+          "name": "Deep Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000005298",
+        "priceUsd": "0.00005301",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 6
+          }
+        },
+        "volume": {
+          "h24": 508.15,
+          "h6": 206.86,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -1.46,
+          "h24": 0.56
+        },
+        "liquidity": {
+          "usd": 59245.61,
+          "base": 558121036,
+          "quote": 296.3821
+        },
+        "fdv": 53014,
+        "marketCap": 53014,
+        "pairCreatedAt": 1729748738000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/5b9f5c86e78e026a7192d28450c0084f9119f4538be86371298a338f7a4c7c1c?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/3b78559dbab66f4f9ec3fecb33b2f223e014b289ba015e0510b0ae2156057145?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DwDtUqBZJtbRpdjsFw3N7YKB5epocSru25BGcVhfcYtg?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.deepworm.xyz",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/deepwormxyz",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/thedeepworm",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ink",
+        "dexId": "dyorswap",
+        "url": "https://dexscreener.com/ink/0x3640c0c5daa198f4670991dac4e7de9cad290899",
+        "pairAddress": "0x3640c0C5daa198F4670991Dac4e7De9caD290899",
+        "baseToken": {
+          "address": "0x2dC2b752F4C6dFfe2dbcf60b848B8357a8879A01",
+          "name": "The CthulhuWorm of Superchain",
+          "symbol": "Worm"
+        },
+        "quoteToken": {
+          "address": "0x4200000000000000000000000000000000000006",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.0000000001368",
+        "priceUsd": "0.0000003360",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 2,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 14,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 21,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 46.06,
+          "h6": 4.47,
+          "h1": 0.1,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.36,
+          "h6": 0.7,
+          "h24": -1.43
+        },
+        "liquidity": {
+          "usd": 3434.31,
+          "base": 5109400341,
+          "quote": 0.6994
+        },
+        "fdv": 33608,
+        "marketCap": 33608,
+        "pairCreatedAt": 1734727248000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/b618cab2c8127753bc31b4d295d7c924905fb96fb515317838e77818949feeba?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/e014aadbbf1e02b5a93b06460f8d60002cc04204fa908bee8caebefa628379ed?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ink/0x2dc2b752f4c6dffe2dbcf60b848b8357a8879a01?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/SuperchainWorm",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/Worm_SuperchainErc20",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x5f45f5bf9c1832dda0e15831a9b76b26b4b46ec9c6b04a73eeb19effe302e678",
+        "pairAddress": "0x5f45f5bf9c1832dda0e15831a9b76b26b4b46ec9c6b04a73eeb19effe302e678",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xa79fF60Ace2792de9a0782b2D8AE9874905e7ca1",
+          "name": "WORM",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.00003026",
+        "priceUsd": "0.00003026",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 12,
+            "sells": 5
+          }
+        },
+        "volume": {
+          "h24": 1091.62,
+          "h6": 21.92,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.7,
+          "h24": 2.49
+        },
+        "liquidity": {
+          "usd": 7242.91,
+          "base": 203206517,
+          "quote": 1093.1445
+        },
+        "fdv": 29848,
+        "marketCap": 29848,
+        "pairCreatedAt": 1788141167000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x4a5fc0d81ade0fcc8d04ae2154d492a86b70bb2dddb0bf27131621fcf1034e4e",
+        "pairAddress": "0x4a5fc0d81ade0fcc8d04ae2154d492a86b70bb2dddb0bf27131621fcf1034e4e",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xa79fF60Ace2792de9a0782b2D8AE9874905e7ca1",
+          "name": "WORM",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+          "name": "Apple Inc.",
+          "symbol": "AAPLc"
+        },
+        "priceNative": "0.00000009243",
+        "priceUsd": "0.00002996",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 10,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 494.48,
+          "h6": 19.97,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.61,
+          "h24": 2.27
+        },
+        "liquidity": {
+          "usd": 7200.05,
+          "base": 206297065,
+          "quote": 3.1402
+        },
+        "fdv": 29555,
+        "marketCap": 29555,
+        "pairCreatedAt": 1788141167000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/6fjsgqdfeqjkp633magrwa7m62s2wawdqvdxdsxi81jk",
+        "pairAddress": "6FjsGQdfeQJKp633mAgrwA7M62s2WAWDQVDxDsXi81jK",
+        "baseToken": {
+          "address": "DPCDdMEuk7ukHx1BFzmMMTvJGZnzcC2jFdSqwdMcpump",
+          "name": "Elon is Physiologically a Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000006076",
+        "priceUsd": "0.000006012",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 51.27,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -3.28
+        },
+        "liquidity": {
+          "usd": 5830.44,
+          "base": 625573373,
+          "quote": 20.909
+        },
+        "fdv": 5796,
+        "marketCap": 5796,
+        "pairCreatedAt": 1784966539000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/thmj3v_bFZH9CIUO?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/_eEL6Y2xBbadRhK-?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DPCDdMEuk7ukHx1BFzmMMTvJGZnzcC2jFdSqwdMcpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://aiworms.neocities.org/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/AIWORMS",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/elonisphysiologicallyaworm",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x62470f43054a0b4d8997cbcedb1510c6e20d116dd24e59d303aa48297a777f9d",
+        "pairAddress": "0x62470f43054a0b4d8997cbcedb1510c6e20d116dd24e59d303aa48297a777f9d",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x11DbC488823F846a8904764f22e760e559b1af11",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0001351",
+        "priceUsd": "0.0001351",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 66,
+            "sells": 87
+          }
+        },
+        "volume": {
+          "h24": 2989.85,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -51.12
+        },
+        "liquidity": {
+          "usd": 316.98,
+          "base": 1869130,
+          "quote": 64.3994
+        },
+        "fdv": 133176,
+        "marketCap": 133176,
+        "pairCreatedAt": 1789100024000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/HzbY8HPkay1_Yb5r?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/YoV2ESTMKPvQNNDS?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x11dbc488823f846a8904764f22e760e559b1af11?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.worminstrument.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/wormonrh",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x75eff145d54185be7d30ff6535a17473a698af2babd51d8b77b83ba4f78dd766",
+        "pairAddress": "0x75eff145d54185be7d30ff6535a17473a698af2babd51d8b77b83ba4f78dd766",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x11DbC488823F846a8904764f22e760e559b1af11",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.00007466",
+        "priceUsd": "0.00007466",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 7,
+            "sells": 9
+          }
+        },
+        "volume": {
+          "h24": 53.88,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -38.26
+        },
+        "liquidity": {
+          "usd": 105.48,
+          "base": 706345,
+          "quote": 52.7422
+        },
+        "fdv": 73586,
+        "marketCap": 73586,
+        "pairCreatedAt": 1789101512000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/HzbY8HPkay1_Yb5r?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/YoV2ESTMKPvQNNDS?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x11dbc488823f846a8904764f22e760e559b1af11?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.worminstrument.xyz/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/wormonrh",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/5x4upnhv9fgdv3cpvxmzfepcumfvhykypjk8omwvywj9",
+        "pairAddress": "5X4UPNhv9fGdv3cPvXMzfepcuMfvHyKYpjK8oMwVywJ9",
+        "baseToken": {
+          "address": "6xapjEuSr7Ckskwm2fDUM4xXPwYXTDvsjACRiSzBpump",
+          "name": "worm",
+          "symbol": "worm"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002519",
+        "priceUsd": "0.000002519",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 1.65,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 2821.73,
+          "base": 903579611,
+          "quote": 5.4493
+        },
+        "fdv": 2397,
+        "marketCap": 2397,
+        "pairCreatedAt": 1784958672000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/PW-wu5bNrGGC3yr1?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/HKs-RvyEnRTDYe8D?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6xapjEuSr7Ckskwm2fDUM4xXPwYXTDvsjACRiSzBpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://thewormstudy.com",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/thewormstudy",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/ateq2mz8iklpjnu8ntgjepvtlwcvtvqhbzhoibdpwptt",
+        "pairAddress": "ATeQ2mz8iKLPJnU8ntGjEPvtLWcvTVqHbZHoibDPWPtT",
+        "baseToken": {
+          "address": "8JUQps2GsryEuJiMmyCuukpEXg8c8zDZk7gXWednpump",
+          "name": "would you buy me if i was a",
+          "symbol": "worm"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002268",
+        "priceUsd": "0.000002259",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 0.03,
+          "h6": 0.02,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.28,
+          "h24": 0.28
+        },
+        "liquidity": {
+          "usd": 2303.95,
+          "base": 891749775,
+          "quote": 2.8971
+        },
+        "fdv": 2190,
+        "marketCap": 2190,
+        "pairCreatedAt": 1788047460000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/1mQkDjzkGVIb3n_s?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/rYsFPQUqc3uy1Saj?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8JUQps2GsryEuJiMmyCuukpEXg8c8zDZk7gXWednpump?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/i/communities/2036207787953598716",
+              "type": "twitter"
+            },
+            {
+              "url": "https://www.tiktok.com/discover/would-u-still-love-me-if-i-was-a-worm",
+              "type": "tiktok"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/9mvfqnej6n6k8cqmwzf97qx6cw2coslwnzvcnqajk6j7",
+        "pairAddress": "9MvFQnej6n6K8CqMwzf97Qx6Cw2CoSLwnZVcnQAjk6J7",
+        "baseToken": {
+          "address": "GzwLA17MrGBCxYAuM9an5m3ByUmPAxkvXPqgFC1mpump",
+          "name": "would you buy me if i was a",
+          "symbol": "worm"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000001993",
+        "priceUsd": "0.000001988",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.56,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 1993.39,
+          "base": 936480418,
+          "quote": 1.317
+        },
+        "fdv": 1890,
+        "marketCap": 1890,
+        "pairCreatedAt": 1786229837000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/yCoMYVa2-t-sJlCU?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/g7W865vJsGsVfI6l?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GzwLA17MrGBCxYAuM9an5m3ByUmPAxkvXPqgFC1mpump?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/einsteindevs/status/2086223112580759637",
+              "type": "twitter"
+            },
+            {
+              "url": "https://www.tiktok.com/discover/would-u-still-love-me-if-i-was-a-worm",
+              "type": "tiktok"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/3yoxzvxhbtsczp8nuibrhjibkzdrxiphsagbshbvtzmq",
+        "pairAddress": "3yoXzvXhbTSczP8NuiBrHJibkzDRXipHsagbshbvtZmq",
+        "baseToken": {
+          "address": "BtCw2Fe4vBSiDqDHjeLoFjkyU8nag9gzCTV2mdDxBwaq",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000009438",
+        "priceUsd": "0.00009411",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2958,
+            "sells": 2056
+          }
+        },
+        "volume": {
+          "h24": 1489809.71,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 774
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.003665,
+          "quote": 4E-09
+        },
+        "fdv": 94120,
+        "marketCap": 94120,
+        "pairCreatedAt": 1789100049000
+      },
+      {
+        "chainId": "ink",
+        "dexId": "dyorswap",
+        "url": "https://dexscreener.com/ink/0x874bb87b57eedb22bddfcfb8af111d7aa8d9652c",
+        "pairAddress": "0x874bb87B57EedB22bDDfcFB8aF111D7aa8D9652C",
+        "baseToken": {
+          "address": "0x2dC2b752F4C6dFfe2dbcf60b848B8357a8879A01",
+          "name": "The CthulhuWorm of Superchain",
+          "symbol": "Worm"
+        },
+        "quoteToken": {
+          "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+          "name": "Bridged USDC (Stargate)",
+          "symbol": "USDC.e"
+        },
+        "priceNative": "0.0000003384",
+        "priceUsd": "0.0000003385",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 5
+          }
+        },
+        "volume": {
+          "h24": 0.12,
+          "h6": 0.01,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.72,
+          "h24": -1.24
+        },
+        "liquidity": {
+          "usd": 9.35,
+          "base": 13821664,
+          "quote": 4.6784
+        },
+        "fdv": 33855,
+        "marketCap": 33855,
+        "pairCreatedAt": 1736468650000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/b618cab2c8127753bc31b4d295d7c924905fb96fb515317838e77818949feeba?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/e014aadbbf1e02b5a93b06460f8d60002cc04204fa908bee8caebefa628379ed?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ink/0x2dc2b752f4c6dffe2dbcf60b848b8357a8879a01?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/SuperchainWorm",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/Worm_SuperchainErc20",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ink",
+        "dexId": "dyorswap",
+        "url": "https://dexscreener.com/ink/0xdba148d897e547746319ed23341cc0000e097937",
+        "pairAddress": "0xdbA148D897e547746319ed23341cc0000E097937",
+        "baseToken": {
+          "address": "0x2dC2b752F4C6dFfe2dbcf60b848B8357a8879A01",
+          "name": "The CthulhuWorm of Superchain",
+          "symbol": "Worm"
+        },
+        "quoteToken": {
+          "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+          "name": "USD₮0",
+          "symbol": "USD₮0"
+        },
+        "priceNative": "0.0000003420",
+        "priceUsd": "0.0000003430",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 0.48,
+          "base": 708184,
+          "quote": 0.2422
+        },
+        "fdv": 34301,
+        "marketCap": 34301,
+        "pairCreatedAt": 1737105034000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/b618cab2c8127753bc31b4d295d7c924905fb96fb515317838e77818949feeba?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/e014aadbbf1e02b5a93b06460f8d60002cc04204fa908bee8caebefa628379ed?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ink/0x2dc2b752f4c6dffe2dbcf60b848b8357a8879a01?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/SuperchainWorm",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/Worm_SuperchainErc20",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/4s7ujf3varkbikjkpvamuwuitn3kvkcsuvgez9dbvh5f",
+        "pairAddress": "4s7ujF3vaRkbikjKPvAmUwuiTN3KvkcsuVgeZ9DBVH5F",
+        "baseToken": {
+          "address": "BQsM9Q6ThTk55xpBLHVfn4zawJg9tjx7c8dp1N7kUD2Z",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000001755",
+        "priceUsd": "0.00001753",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3686,
+            "sells": 1675
+          }
+        },
+        "volume": {
+          "h24": 399696.44,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 104
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.007889,
+          "quote": 2E-09
+        },
+        "fdv": 17535,
+        "marketCap": 17535,
+        "pairCreatedAt": 1789100199000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/336389mjxyaqfaazumwa3iwzkn1wyhdxkurneejcqmuq",
+        "pairAddress": "336389MjxyaQfAAzUmwa3iwZKn1WYHDXkurNEEjcQMUQ",
+        "baseToken": {
+          "address": "4cNJph2ZoFocbro6KjzxVV8wvsgo5vWhFPDzyGYdS8BZ",
+          "name": "worm",
+          "symbol": "worm"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000003234",
+        "priceUsd": "0.00003199",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 1011,
+            "sells": 34
+          },
+          "h6": {
+            "buys": 1011,
+            "sells": 34
+          },
+          "h24": {
+            "buys": 1011,
+            "sells": 34
+          }
+        },
+        "volume": {
+          "h24": 587.67,
+          "h6": 587.67,
+          "h1": 587.67,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -67.75,
+          "h6": -67.75,
+          "h24": -67.75
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.01236,
+          "quote": 1E-09
+        },
+        "fdv": 31995,
+        "marketCap": 31995,
+        "pairCreatedAt": 1789125926000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/b5cuuzq79hebbpay2vfyrwggmbkztg6fqecruu8l121f",
+        "pairAddress": "B5cUuzQ79HebBPay2vfyrwGGmBKZTG6fQeCrUu8L121f",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "4cNJph2ZoFocbro6KjzxVV8wvsgo5vWhFPDzyGYdS8BZ",
+          "name": "worm",
+          "symbol": "worm"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000007385",
+        "priceUsd": "0.00007304",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 16,
+            "sells": 4
+          },
+          "h6": {
+            "buys": 16,
+            "sells": 4
+          },
+          "h24": {
+            "buys": 16,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 7.71,
+          "h6": 7.71,
+          "h1": 7.71,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 4046,
+          "h6": 4046,
+          "h24": 4046
+        },
+        "liquidity": {
+          "usd": 0.35,
+          "base": 2429.9352,
+          "quote": 0.001844
+        },
+        "fdv": 73047,
+        "marketCap": 73047,
+        "pairCreatedAt": 1789125920000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/7huqtkzpajaqtmk4neihvwtltvykbxmlwrzm6zjmuayj",
+        "pairAddress": "7hUQtKzpajaQTmK4nEiHvwTLtvYKBxmLwrZM6zjMuaYJ",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "2xwu6wrhffkM14peUKebuntKNgSMbL8iCpUsoDUAJVxi",
+          "name": "worm",
+          "symbol": "worm"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000006443",
+        "priceUsd": "0.00006378",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 14,
+            "sells": 3
+          },
+          "h6": {
+            "buys": 14,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 14,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 0.55,
+          "h6": 0.55,
+          "h1": 0.55,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 2607,
+          "h6": 2607,
+          "h24": 2607
+        },
+        "liquidity": {
+          "usd": 0.33,
+          "base": 2560.4214,
+          "quote": 0.00175
+        },
+        "fdv": 63781,
+        "marketCap": 63781,
+        "pairCreatedAt": 1789125917000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/46edcrzrjgc4smn1ba6kji214wmqdoygvyrkte5pryg1",
+        "pairAddress": "46EDcRzrjGC4SmN1BA6Kji214WmqdoyGvYrKtE5PrYg1",
+        "baseToken": {
+          "address": "HvocPjLvnotgdA2VeL7Kdw65M5jjWzcVEMCaYz3CRiB8",
+          "name": "Worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000004984",
+        "priceUsd": "0.00004953",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 259,
+            "sells": 28
+          }
+        },
+        "volume": {
+          "h24": 13271.97,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 360
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 70.5265,
+          "quote": 4.003E-05
+        },
+        "fdv": 49539,
+        "marketCap": 49539,
+        "pairCreatedAt": 1789099989000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/dazjbmvxna3cbmru1ny6kc2lgk1tt19z75pev2bpufzq",
+        "pairAddress": "DAzJbMvxna3cBMRU1ny6KC2LGK1TT19z75pEV2bpUfZQ",
+        "baseToken": {
+          "address": "2xwu6wrhffkM14peUKebuntKNgSMbL8iCpUsoDUAJVxi",
+          "name": "worm",
+          "symbol": "worm"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000002718",
+        "priceUsd": "0.00002689",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 712,
+            "sells": 46
+          },
+          "h6": {
+            "buys": 712,
+            "sells": 46
+          },
+          "h24": {
+            "buys": 712,
+            "sells": 46
+          }
+        },
+        "volume": {
+          "h24": 3274.67,
+          "h6": 3274.67,
+          "h1": 3274.67,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -32.22,
+          "h6": -32.22,
+          "h24": -32.22
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.01102,
+          "quote": 1E-09
+        },
+        "fdv": 26894,
+        "marketCap": 26894,
+        "pairCreatedAt": 1789125922000
+      },
+      {
+        "chainId": "sui",
+        "dexId": "cetus",
+        "url": "https://dexscreener.com/sui/0x5d186585771d41955312d70b1d5e2a6749eb76fe5be0b294cc3c344a367dc664",
+        "pairAddress": "0x5d186585771d41955312d70b1d5e2a6749eb76fe5be0b294cc3c344a367dc664",
+        "baseToken": {
+          "address": "0x7e78a3a2d8d6fe6f881595129e2ff4ff5ed847308212ec168723df76377598bd::worm::WORM",
+          "name": "Wormhole Protocol",
+          "symbol": "Worm"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+          "name": "SUI Token",
+          "symbol": "SUI"
+        },
+        "priceNative": "0.08115",
+        "priceUsd": "0.05810",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.19,
+          "h6": 0.07,
+          "h1": 0.07,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -2.6,
+          "h6": -2.6,
+          "h24": -2.6
+        },
+        "liquidity": {
+          "usd": 380612.3,
+          "base": 6549928,
+          "quote": 8.186
+        },
+        "fdv": 755410,
+        "marketCap": 755410,
+        "pairCreatedAt": 1751130307000
+      },
+      {
+        "chainId": "icp",
+        "dexId": "icpswap",
+        "url": "https://dexscreener.com/icp/zxdtm-yaaaa-aaaag-qkh4q-cai",
+        "pairAddress": "zxdtm-yaaaa-aaaag-qkh4q-cai",
+        "baseToken": {
+          "address": "3j5nq-qqaaa-aaaam-acvrq-cai",
+          "name": "WORM",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "ryjl3-tyaaa-aaaaa-aaaba-cai",
+          "name": "Internet Computer",
+          "symbol": "ICP"
+        },
+        "priceNative": "0.0000003924",
+        "priceUsd": "0.000001079",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 117.34,
+          "base": 94375562,
+          "quote": 5.63
+        },
+        "fdv": 947,
+        "marketCap": 947
+      },
+      {
+        "chainId": "avalanche",
+        "dexId": "traderjoe",
+        "url": "https://dexscreener.com/avalanche/0x10866fe002e9fcfd3f9be92b6521cdb4a9f8378b",
+        "pairAddress": "0x10866fE002e9fcFD3f9Be92B6521Cdb4A9f8378b",
+        "baseToken": {
+          "address": "0x79BA10485ae46a9436D560D9664369176EC2eB2b",
+          "name": "chikn worm",
+          "symbol": "WORM"
+        },
+        "quoteToken": {
+          "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+          "name": "Wrapped AVAX",
+          "symbol": "WAVAX"
+        },
+        "priceNative": "0.0000001935",
+        "priceUsd": "0.000001489",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 526.95,
+          "base": 176934568,
+          "quote": 34.2451
+        },
+        "fdv": 2420,
+        "marketCap": 2420,
+        "pairCreatedAt": 1667177519000
+      }
+    ]
+  },
+  "capturedAt": "2026-09-11T12:14:52.2608348Z",
+  "query": "worm"
+}

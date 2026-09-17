@@ -1,0 +1,84 @@
+[
+  {
+    "mint": "7GHphuLo3CU22qVDPJFh8dSvhdust7BFTPVX5XRKPALL",
+    "at": 1789189849841,
+    "coin": {
+      "mint": "7GHphuLo3CU22qVDPJFh8dSvhdust7BFTPVX5XRKPALL",
+      "name": "ALL SHIT",
+      "symbol": "SHIT",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreifjxze47v2kibl6oxebxebkpehgu65gstft2q3sofkrkgqbluf4ze",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreifjxze47v2kibl6oxebxebkpehgu65gstft2q3sofkrkgqbluf4ze",
+      "createdAt": 1789162458000,
+      "marketCapUsd": 3509.0933088476936,
+      "source": "etc",
+      "quote": null,
+      "pricedFrom": "curve"
+    },
+    "pair": {
+      "mint": "7GHphuLo3CU22qVDPJFh8dSvhdust7BFTPVX5XRKPALL",
+      "stock": null,
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0
+    },
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "69901962",
+      "usd": 0.2011308305763588,
+      "payouts": 3,
+      "lastAt": 1789189565529,
+      "wallets": 9
+    },
+    "dropped": null,
+    "history": null,
+    "split": {
+      "config": "5sBTh3RMePZhRLAYWCZgJgX8t2NrHeM1vvrt6c4mjBo7",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders",
+          "label": "your holders",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys this coin and drops it into $all wallets",
+          "bps": 3000,
+          "role": "etc"
+        },
+        {
+          "key": "HufuiW43p5ekUTCmgiHJMqS6JuHcf9jLE5hqDrvyTKHN",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "CGnm6C7Vr4L6baNZN68d7kLKHaGoBHip6N5xnUsengjJ",
+      "waiting": "650242",
+      "claimable": null,
+      "earned": null
+    },
+    "claims": {
+      "lamports": "2121958",
+      "claims": 2,
+      "lastAt": 1789189525000,
+      "lastSignature": "3J2cvbd7zdx3yGgNrzocLaTQkxe4FsD28qJtkTHb1gzPAL4Ae26gsj9oAvoGe1Ttd1Ry4vr1W836PEdtwvGgNwA7",
+      "complete": false
+    },
+    "next": {
+      "at": 1789188275694,
+      "state": "running",
+      "held": "resuming frozen funding"
+    },
+    "feeRead": {
+      "at": 1789192288059,
+      "distributions": [],
+      "complete": false
+    }
+  }
+]

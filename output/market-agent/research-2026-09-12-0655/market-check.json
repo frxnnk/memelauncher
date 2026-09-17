@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "observedAt": "2026-09-12T06:56:52.536Z",
+  "preparedAt": "2026-09-12T06:59:03.112Z",
+  "source": "DEX Screener public GET + linked Collective public documentation",
+  "rawScanPath": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\output\\market-agent\\2026-09-12T06-56-52-907Z-6d482027-019f-4909-be4c-20444d570c93\\scan.json",
+  "baselineScanPath": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\output\\market-agent\\2026-09-12T06-02-20-447Z-f1385289-4523-4c7a-b838-85d2bf9afdc8\\scan.json",
+  "pools": [
+    {
+      "id": "catgpt",
+      "name": "CATGPT",
+      "symbol": "CATGPT",
+      "chain": "robinhood",
+      "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "pair": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+      "quote": {
+        "symbol": "OPENAIx1L",
+        "name": "OPENAI 1x Long",
+        "contract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5"
+      },
+      "priceUsd": 0.006306,
+      "liquidityUsd": 4058043.92,
+      "volume1h": 217211.01,
+      "observedAt": "2026-09-12T06:56:46.059Z",
+      "sourceUrl": "https://dexscreener.com/robinhood/0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+      "providerPairCreatedAt": "2026-09-11T23:40:32.000Z",
+      "identityVerification": "Exact chain, base contract, pair and quote copied from the public DEX response; not contract safety or project affiliation verification.",
+      "notes": [
+        "Nominal liquidity includes own-token valuation. Approximate quote residual 138303.78 USD; not executable depth or guaranteed cash."
+      ],
+      "changeFrom0302ART": {
+        "baselineObservedAt": "2026-09-12T06:02:13.449Z",
+        "pricePct": -5.22,
+        "liquidityPct": -5.04,
+        "reportedHourlyVolumePct": -45.96,
+        "quoteUnchanged": true
+      }
+    },
+    {
+      "id": "anthropig",
+      "name": "Anthropig",
+      "symbol": "ANTHROPIG",
+      "chain": "robinhood",
+      "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+      "pair": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+      "quote": {
+        "symbol": "ANTHROPICx1L",
+        "name": "ANTHROPIC 1x Long",
+        "contract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33"
+      },
+      "priceUsd": 0.001642,
+      "liquidityUsd": 1125500.74,
+      "volume1h": 75320.03,
+      "observedAt": "2026-09-12T06:56:47.351Z",
+      "sourceUrl": "https://dexscreener.com/robinhood/0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+      "providerPairCreatedAt": "2026-09-11T23:55:47.000Z",
+      "identityVerification": "Exact chain, base contract, pair and quote copied from the public DEX response; not contract safety or project affiliation verification.",
+      "notes": [
+        "Nominal liquidity includes own-token valuation. Approximate quote residual 67337.38 USD; not executable depth or guaranteed cash."
+      ],
+      "changeFrom0302ART": {
+        "baselineObservedAt": "2026-09-12T06:02:14.740Z",
+        "pricePct": -10.03,
+        "liquidityPct": -9.49,
+        "reportedHourlyVolumePct": -50.5,
+        "quoteUnchanged": true
+      }
+    },
+    {
+      "id": "stonk",
+      "name": "STONK",
+      "symbol": "STONK",
+      "chain": "solana",
+      "contract": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "pair": "zxTpi4BtaWX3mgdAPoezkMD1hxx8CdeCfrqXMWvSCLX",
+      "quote": {
+        "symbol": "SOL",
+        "name": "Wrapped SOL",
+        "contract": "So11111111111111111111111111111111111111112"
+      },
+      "priceUsd": 0.2737,
+      "liquidityUsd": 4771992.66,
+      "volume1h": 1358445.96,
+      "observedAt": "2026-09-12T06:56:48.688Z",
+      "sourceUrl": "https://dexscreener.com/solana/zxtpi4btawx3mgdapoezkmd1hxx8cdecfrqxmwvsclx",
+      "providerPairCreatedAt": "2026-08-12T10:51:40.000Z",
+      "identityVerification": "Exact chain, base contract, pair and quote copied from the public DEX response; not contract safety or project affiliation verification.",
+      "notes": [],
+      "changeFrom0302ART": {
+        "baselineObservedAt": "2026-09-12T06:02:16.087Z",
+        "pricePct": 2.36,
+        "liquidityPct": 1.38,
+        "reportedHourlyVolumePct": -2.91,
+        "quoteUnchanged": true
+      }
+    },
+    {
+      "id": "allinu",
+      "name": "ALLINU",
+      "symbol": "ALLINU",
+      "chain": "solana",
+      "contract": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
+      "pair": "5752ia7jC3ZU1c8ycytaSyi5D4nVhApSKvreGbs7pwWL",
+      "quote": {
+        "symbol": "DKNG",
+        "name": "DraftKings - Backpack Securities",
+        "contract": "DKNGQFNGQmoBdXSRGKJ8tTu7uPDasw5JDcfMmWniNfow"
+      },
+      "priceUsd": 0.001345,
+      "liquidityUsd": 110278.76,
+      "volume1h": 74658.11,
+      "observedAt": "2026-09-12T06:56:49.967Z",
+      "sourceUrl": "https://dexscreener.com/solana/5752ia7jc3zu1c8ycytasyi5d4nvhapskvregbs7pwwl",
+      "providerPairCreatedAt": "2026-09-11T20:02:18.000Z",
+      "identityVerification": "Exact chain, base contract, pair and quote copied from the public DEX response; not contract safety or project affiliation verification.",
+      "notes": [],
+      "changeFrom0302ART": {
+        "baselineObservedAt": "2026-09-12T06:02:17.445Z",
+        "pricePct": 7.09,
+        "liquidityPct": 3.67,
+        "reportedHourlyVolumePct": -67.86,
+        "quoteUnchanged": true
+      }
+    },
+    {
+      "id": "openclaw-sol-active",
+      "name": "OpenClaw",
+      "symbol": "OpenClaw",
+      "chain": "solana",
+      "contract": "9MzBPjeDZqY7GSWbt2KVBRtTQF7rXWZfmeANDWmpump",
+      "pair": "DMqhCes125Y39yuS2VyoiEBuK4fHBfznzntYCpAG6xcj",
+      "quote": {
+        "symbol": "SOL",
+        "name": "Wrapped SOL",
+        "contract": "So11111111111111111111111111111111111111112"
+      },
+      "priceUsd": 0.04326,
+      "liquidityUsd": 555748.4,
+      "volume1h": 100720.67,
+      "observedAt": "2026-09-12T06:56:51.243Z",
+      "sourceUrl": "https://dexscreener.com/solana/dmqhces125y39yus2vyoiebuk4fhbfznzntycpag6xcj",
+      "providerPairCreatedAt": "2026-09-12T03:05:00.000Z",
+      "identityVerification": "Exact chain, base contract, pair and quote copied from the public DEX response; not contract safety or project affiliation verification.",
+      "notes": [
+        "Not in the 03:02 ART baseline; newly inspected by this radar, not evidence that the token or concept is new.",
+        "Selected active exact-name pool; this response includes no website or social link establishing affiliation to the OpenClaw project. Other OpenClaw contracts differ."
+      ],
+      "changeFrom0302ART": null
+    },
+    {
+      "id": "collective-clctv",
+      "name": "Collective",
+      "symbol": "CLCTV",
+      "chain": "solana",
+      "contract": "4wmm49P3dgjmRhUx7hUS7fePTn3csSQzVXGxt6DKG113",
+      "pair": "96TnRrGCreVhwgaDRL2AnA1PfdAR18fyy7qRijhnpfU8",
+      "quote": {
+        "symbol": "SOL",
+        "name": "Wrapped SOL",
+        "contract": "So11111111111111111111111111111111111111112"
+      },
+      "priceUsd": 0.00005056,
+      "liquidityUsd": 17581.44,
+      "volume1h": 11165.36,
+      "observedAt": "2026-09-12T06:56:52.536Z",
+      "sourceUrl": "https://dexscreener.com/solana/96tnrrgcrevhwgadrl2ana1pfdar18fyy7qrijhnpfu8",
+      "providerPairCreatedAt": "2026-09-10T04:18:22.000Z",
+      "identityVerification": "Exact chain, base contract, pair and quote copied from the public DEX response; not contract safety or project affiliation verification.",
+      "notes": [
+        "Not in the 03:02 ART baseline; newly inspected by this radar, not evidence that the token or concept is new.",
+        "DEX metadata links collective.name, docs.collective.name and x.com/collectiveuser; website describes token plus holder-governed treasury. No onchain implementation audit performed."
+      ],
+      "changeFrom0302ART": null
+    }
+  ],
+  "findings": [
+    "All four tracked pair and quote identities remain unchanged. CATGPT and ANTHROPIG declined in price versus the 03:02 ART snapshot; STONK and ALLINU rose. These are observations, not recommendations.",
+    "The 1h volume windows overlap partly because observations are less than an hour apart. Deltas are changes in reported rolling volume, not net inflows or independent-hour counts.",
+    "OpenClaw/ANTHROPICx1L is already represented by at least two separate Robinhood contracts in this search. Both show zero 1h volume; this does not invalidate a distinct new idea, but a raw name-plus-quote pairing is already occupied.",
+    "Collective provides a concrete named mechanism for ideation: create a token and DAO together; trading fees fund a holder-governed treasury. The public site and docs describe it; novelty, implementation safety and economics are not independently established."
+  ],
+  "associations": [
+    {
+      "name": "OpenClaw x ANTHROPICx1L",
+      "status": "represented-in-current-search",
+      "contracts": [
+        "0x421e19770F5C2133d22c1629f58d098450de1E18",
+        "0xA2B4FB92dC8b66fc254bcDDe43B843F227Bc1e18"
+      ],
+      "chain": "robinhood",
+      "quoteContract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+      "note": "Both current responses have zero hourly volume. Naming alone does not establish affiliation or a distinctive agent mechanic."
+    },
+    {
+      "name": "Collective token + DAO treasury",
+      "status": "publicly-described-mechanism",
+      "sourceUrls": [
+        "https://collective.name/",
+        "https://docs.collective.name/"
+      ],
+      "observedAt": "2026-09-12T06:59:03.112Z",
+      "publishedAt": null,
+      "summary": "The project describes token and DAO creation in one launch, routing a minimum community fee share to a holder-governed treasury that can vote to pay contributors. The site calls the split immutable and describes an optional veto council. These are project claims, not audited properties.",
+      "creativeDirections": [
+        "A token persona whose proposals commission concrete public work.",
+        "A recurring visible task and a treasury proposal interface instead of another company-animal name."
+      ],
+      "note": "No publication date verified. This is a mechanic reference, not evidence of a new catalyst today."
+    }
+  ],
+  "searchTerms": [
+    {
+      "term": "OpenClaw Anthropic",
+      "purpose": "Verify an actual new catalyst or behavior; distinguish the software project from unrelated token names."
+    },
+    {
+      "term": "9MzBPjeDZqY7GSWbt2KVBRtTQF7rXWZfmeANDWmpump",
+      "purpose": "Find exact token-origin posts; do not inherit the OpenClaw project account."
+    },
+    {
+      "term": "from:collectiveuser",
+      "purpose": "Find dated launch or product-mechanism announcements from the metadata-linked account."
+    },
+    {
+      "term": "Collective self-funded DAO",
+      "purpose": "Compare independent discussion and concrete examples of the treasury mechanic."
+    }
+  ],
+  "limits": [
+    "At most4provider metas and6explicit searches; search responses up to30pairs. No market census.",
+    "Trending metas Dog,Cat,Trump,Character are provider labels, not proof of organic attention.",
+    "No quotes changed in the four tracked pools; newly searched topics have no same-query earlier baseline.",
+    "No token, wallet, transaction, publication or account connection performed.",
+    "No aggregate market caps or liquidity were summed across contracts or pools."
+  ],
+  "followupKeywordsStatus": "completed one bounded batch: U2, Songs of Innocence, undeletable, iTunes, Box on Wheels",
+  "followup": {
+    "rawScanPath": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\output\\market-agent\\2026-09-12T06-59-23-741Z-9a2b2b07-e124-47e3-a60c-f167559da006\\scan.json",
+    "observedAt": "2026-09-12T06:59:22.937Z",
+    "errors": [],
+    "keywordCompetition": [
+      {
+        "query": "U2",
+        "observedAt": "2026-09-12T06:59:16.753Z",
+        "returnedPairs": 30,
+        "exactNameMatches": [
+          {
+            "name": "U2",
+            "symbol": "U2",
+            "chain": "bsc",
+            "contract": "0x0dC904cBED07518dC4e0351CC66fDEcD93501b06",
+            "pair": "0xE2970E21d54a6aF92E393ea161FCc6d42931c77A",
+            "quote": {
+              "name": "Wrapped BNB",
+              "symbol": "WBNB",
+              "contract": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+            },
+            "priceUsd": 2.96e-7,
+            "liquidityUsd": 0.08,
+            "volume1h": 0,
+            "sourceUrl": "https://dexscreener.com/bsc/0xe2970e21d54a6af92e393ea161fcc6d42931c77a",
+            "providerPairCreatedAt": "2026-09-12T05:29:55.000Z"
+          }
+        ],
+        "assessment": "One exact U2 name collision; no metadata tying it to the band, Songs of Innocence or the unsolicited-installation joke. Other rows are unrelated, often matching U2 inside token/pair addresses.",
+        "competitionStatus": "name_collision_only",
+        "verifiedDirectCompetitorCount": 0,
+        "absenceClaim": "No result or no exact phrase in this bounded provider search does not prove uniqueness or a free market gap."
+      },
+      {
+        "query": "Songs of Innocence",
+        "observedAt": "2026-09-12T06:59:18.092Z",
+        "returnedPairs": 30,
+        "exactNameMatches": [],
+        "assessment": "No exact album-named identity among the30returned rows. Broad search returned unrelated partial matches; not evidence of30competing album tokens.",
+        "competitionStatus": "partial",
+        "verifiedDirectCompetitorCount": 0,
+        "absenceClaim": "No result or no exact phrase in this bounded provider search does not prove uniqueness or a free market gap."
+      },
+      {
+        "query": "undeletable",
+        "observedAt": "2026-09-12T06:59:20.010Z",
+        "returnedPairs": 0,
+        "exactNameMatches": [],
+        "assessment": "Zero returned pairs from this single query; not proof of an unused name or mechanism.",
+        "competitionStatus": "partial",
+        "verifiedDirectCompetitorCount": 0,
+        "absenceClaim": "No result or no exact phrase in this bounded provider search does not prove uniqueness or a free market gap."
+      },
+      {
+        "query": "iTunes",
+        "observedAt": "2026-09-12T06:59:21.380Z",
+        "returnedPairs": 0,
+        "exactNameMatches": [],
+        "assessment": "Zero returned pairs from this single query; not proof of exclusivity.",
+        "competitionStatus": "partial",
+        "verifiedDirectCompetitorCount": 0,
+        "absenceClaim": "No result or no exact phrase in this bounded provider search does not prove uniqueness or a free market gap."
+      },
+      {
+        "query": "Box on Wheels",
+        "observedAt": "2026-09-12T06:59:22.937Z",
+        "returnedPairs": 30,
+        "exactNameMatches": [],
+        "assessment": "No exact phrase or identified UQI/Stellantis counterpart among the30returned rows. Adjacent box/stock memes are separate concepts.",
+        "competitionStatus": "partial",
+        "verifiedDirectCompetitorCount": 0,
+        "absenceClaim": "No result or no exact phrase in this bounded provider search does not prove uniqueness or a free market gap."
+      }
+    ],
+    "adjacentCompetitors": [
+      {
+        "name": "BoxCat",
+        "symbol": "BOXY",
+        "chain": "robinhood",
+        "contract": "0x4BEeDe2E87CC6bA3e995b01911d36269465E1E18",
+        "pair": "0x5846268ea3de08b15b5ef1d0092eee66a8b5843902ab79b5f2d9eea1bf1d0468",
+        "quote": {
+          "name": "Amazon • Robinhood Token",
+          "symbol": "AMZN",
+          "contract": "0x12f190a9F9d7D37a250758b26824B97CE941bF54"
+        },
+        "priceUsd": 0.001682,
+        "liquidityUsd": 368956.99,
+        "volume1h": 20218.04,
+        "sourceUrl": "https://dexscreener.com/robinhood/0x5846268ea3de08b15b5ef1d0092eee66a8b5843902ab79b5f2d9eea1bf1d0468",
+        "providerPairCreatedAt": "2026-09-08T18:18:11.000Z",
+        "relationship": "Adjacent box/character association; no verified link to UQI autonomous delivery announcement."
+      },
+      {
+        "name": "An Amazon Box",
+        "symbol": "BOX",
+        "chain": "base",
+        "contract": "0x4D2EfF441848E1C21a207fFbE90295e7Db801Fc2",
+        "pair": "0x795cd8715CC2C939b1A921327F43bEFA5F7FC2c4",
+        "quote": {
+          "name": "Amazon.com Inc.",
+          "symbol": "AMZNc",
+          "contract": "0xb200000000000000000000d9192b6B456483C2E8"
+        },
+        "priceUsd": 0.0004591,
+        "liquidityUsd": 81620.58,
+        "volume1h": 3467.87,
+        "sourceUrl": "https://dexscreener.com/base/0x795cd8715cc2c939b1a921327f43befa5f7fc2c4",
+        "providerPairCreatedAt": "2026-08-31T17:38:51.000Z",
+        "relationship": "Adjacent box/character association; no verified link to UQI autonomous delivery announcement."
+      },
+      {
+        "name": "CAT ON WHEELS",
+        "symbol": "WHEELCAT",
+        "chain": "robinhood",
+        "contract": "0x885dD35dF03667226f3CF8E5aE9b269da2516AE3",
+        "pair": "0x314e391962988bbae6505c61dd82218b939898f3b2a973d30e0b648732e97ce9",
+        "quote": {
+          "name": "Ether",
+          "symbol": "ETH",
+          "contract": "0x0000000000000000000000000000000000000000"
+        },
+        "priceUsd": 0.000008692,
+        "liquidityUsd": 6563.73,
+        "volume1h": 0,
+        "sourceUrl": "https://dexscreener.com/robinhood/0x314e391962988bbae6505c61dd82218b939898f3b2a973d30e0b648732e97ce9",
+        "providerPairCreatedAt": "2026-09-11T08:39:43.000Z",
+        "relationship": "Adjacent box/character association; no verified link to UQI autonomous delivery announcement."
+      }
+    ],
+    "interpretationNotes": [
+      "U2/iTunes cue is an anniversary/reactivation of an old incident according to root X-source review, not a new Apple product launch. This market batch does not establish the original incident date.",
+      "Stellantis/UQI cue is an announcement of a proof-of-concept; no launch or future reveal is asserted as completed. Primary-event review belongs to the news source agent.",
+      "The raw analyzer classifies unfiltered search matches as narratives. Its RESEARCH statuses for U2, Songs of Innocence and Box on Wheels are not accepted as semantic relevance here.",
+      "A keyword-stuffed provider token name had34090characters and broad other-keyword symbols. Raw source preserved; not treated as evidence of this narrative.",
+      "First pair creation timestamps are provider pool timestamps, not proof of earliest token launch or first market existence."
+    ]
+  },
+  "completedAt": "2026-09-12T07:00:59.633Z"
+}

@@ -1,0 +1,3460 @@
+[
+  {
+    "capturedAt": "2026-09-12T04:37:05.3326935Z",
+    "quoteToken": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "url": "https://api.dexscreener.com/token-pairs/v1/robinhood/0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x9fc198dc34217e98cd95d0fb93641810182ae002226d2d9701b57680d552374c",
+        "pairAddress": "0x9fc198dc34217e98cd95d0fb93641810182ae002226d2d9701b57680d552374c",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1412",
+        "priceUsd": "1.14",
+        "txns": {
+          "m5": {
+            "buys": 28,
+            "sells": 45
+          },
+          "h1": {
+            "buys": 1256,
+            "sells": 1107
+          },
+          "h6": {
+            "buys": 42789,
+            "sells": 39642
+          },
+          "h24": {
+            "buys": 42789,
+            "sells": 39642
+          }
+        },
+        "volume": {
+          "h24": 17649884.31,
+          "h6": 17649884.31,
+          "h1": 813847.24,
+          "m5": 34471.81
+        },
+        "priceChange": {
+          "m5": -2.58,
+          "h1": -1.53,
+          "h6": 6.2,
+          "h24": 6.2
+        },
+        "liquidity": {
+          "usd": 200009.16,
+          "base": 71069,
+          "quote": 118897
+        },
+        "fdv": 658961,
+        "marketCap": 658961,
+        "pairCreatedAt": 1789167516000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x542b99e239466ea45f8e1eb70a40e2aff9a92e4602e260d0e15fae8b9dfbf816",
+        "pairAddress": "0x542b99e239466ea45f8e1eb70a40e2aff9a92e4602e260d0e15fae8b9dfbf816",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1408",
+        "priceUsd": "1.14",
+        "txns": {
+          "m5": {
+            "buys": 26,
+            "sells": 46
+          },
+          "h1": {
+            "buys": 1022,
+            "sells": 1003
+          },
+          "h6": {
+            "buys": 10911,
+            "sells": 9576
+          },
+          "h24": {
+            "buys": 10911,
+            "sells": 9576
+          }
+        },
+        "volume": {
+          "h24": 2733635.49,
+          "h6": 2733635.49,
+          "h1": 332762.39,
+          "m5": 13772.89
+        },
+        "priceChange": {
+          "m5": -2.5,
+          "h1": -1.74,
+          "h6": -14.09,
+          "h24": -14.09
+        },
+        "liquidity": {
+          "usd": 71294.45,
+          "base": 13685,
+          "quote": 55681
+        },
+        "fdv": 658697,
+        "marketCap": 658697,
+        "pairCreatedAt": 1789172368000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xd77cad187c02cdefd7922e23b6cc294c48bc012efa4355fb882116bf1e5ed9f1",
+        "pairAddress": "0xd77cad187c02cdefd7922e23b6cc294c48bc012efa4355fb882116bf1e5ed9f1",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.07101",
+        "priceUsd": "1.071",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 983,
+            "sells": 805
+          },
+          "h24": {
+            "buys": 983,
+            "sells": 805
+          }
+        },
+        "volume": {
+          "h24": 101839.58,
+          "h6": 101839.58,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -1.58,
+          "h24": -1.58
+        },
+        "liquidity": {
+          "usd": 25091.48,
+          "base": 2260.2485,
+          "quote": 22670
+        },
+        "fdv": 618388,
+        "marketCap": 618388,
+        "pairCreatedAt": 1789177137000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x63d6fe129337f7870c65d1732ccc3e26194343a298623636cca9e70f00ee035f",
+        "pairAddress": "0x63d6fe129337f7870c65d1732ccc3e26194343a298623636cca9e70f00ee035f",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.07654",
+        "priceUsd": "1.076",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 106,
+            "sells": 110
+          },
+          "h24": {
+            "buys": 106,
+            "sells": 110
+          }
+        },
+        "volume": {
+          "h24": 18210.82,
+          "h6": 18210.82,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.02,
+          "h24": 0.02
+        },
+        "liquidity": {
+          "usd": 24999,
+          "base": 389.5874,
+          "quote": 24579
+        },
+        "fdv": 621581,
+        "marketCap": 621581,
+        "pairCreatedAt": 1789179738000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xcff44986f56668426c94c0cb25c4fd10b0cc514fb6f7fc25612b3392c7238236",
+        "pairAddress": "0xcff44986f56668426c94c0cb25c4fd10b0cc514fb6f7fc25612b3392c7238236",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.08573",
+        "priceUsd": "1.085",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 20,
+            "sells": 18
+          },
+          "h24": {
+            "buys": 20,
+            "sells": 18
+          }
+        },
+        "volume": {
+          "h24": 734.74,
+          "h6": 734.74,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.46,
+          "h24": 0.46
+        },
+        "liquidity": {
+          "usd": 25200.95,
+          "base": 398.4229,
+          "quote": 24768
+        },
+        "fdv": 626886,
+        "marketCap": 626886,
+        "pairCreatedAt": 1789180765000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x93b0f50086cdaf13a085ca2183714bda24c66be059bdee53a40cf558af69107b",
+        "pairAddress": "0x93b0f50086cdaf13a085ca2183714bda24c66be059bdee53a40cf558af69107b",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.2944",
+        "priceUsd": "1.29",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 10,
+            "sells": 11
+          },
+          "h24": {
+            "buys": 10,
+            "sells": 11
+          }
+        },
+        "volume": {
+          "h24": 1814.1,
+          "h6": 1814.1,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -3.11,
+          "h24": -3.11
+        },
+        "liquidity": {
+          "usd": 22348.24,
+          "base": 594.552,
+          "quote": 21578
+        },
+        "fdv": 747416,
+        "marketCap": 747416,
+        "pairCreatedAt": 1789172177000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x70be295bfcb2d7d87294203fc28fdec0ad1cc833ba2dbc82e4e4de55f38c25ef",
+        "pairAddress": "0x70be295bfcb2d7d87294203fc28fdec0ad1cc833ba2dbc82e4e4de55f38c25ef",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1329",
+        "priceUsd": "1.13",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 290,
+            "sells": 289
+          },
+          "h24": {
+            "buys": 290,
+            "sells": 289
+          }
+        },
+        "volume": {
+          "h24": 38318.62,
+          "h6": 38318.62,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.98,
+          "h24": 0.98
+        },
+        "liquidity": {
+          "usd": 11829.72,
+          "base": 0.08591,
+          "quote": 11829
+        },
+        "fdv": 654127,
+        "marketCap": 654127,
+        "pairCreatedAt": 1789181844000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x5c35d0e21f6e4555c848fcd0deb108b839ba119f936ed322386de4b36e2e7c7d",
+        "pairAddress": "0x5c35d0e21f6e4555c848fcd0deb108b839ba119f936ed322386de4b36e2e7c7d",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1690",
+        "priceUsd": "1.16",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 28,
+            "sells": 21
+          },
+          "h6": {
+            "buys": 443,
+            "sells": 440
+          },
+          "h24": {
+            "buys": 443,
+            "sells": 440
+          }
+        },
+        "volume": {
+          "h24": 86522.73,
+          "h6": 86522.73,
+          "h1": 4672.12,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 0.54,
+          "h6": 4.55,
+          "h24": 4.55
+        },
+        "liquidity": {
+          "usd": 6280.79,
+          "base": 8.8578,
+          "quote": 6270.4361
+        },
+        "fdv": 674992,
+        "marketCap": 674992,
+        "pairCreatedAt": 1789182547000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xc86693b311002cb4a0ec1874097c9f99fcd014824f40d55066b24f25f60b53e4",
+        "pairAddress": "0xc86693b311002cb4a0ec1874097c9f99fcd014824f40d55066b24f25f60b53e4",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.3516",
+        "priceUsd": "1.35",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1102,
+            "sells": 1009
+          },
+          "h24": {
+            "buys": 1183,
+            "sells": 1074
+          }
+        },
+        "volume": {
+          "h24": 326552.89,
+          "h6": 325196.54,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 275,
+          "h24": -95.1
+        },
+        "liquidity": {
+          "usd": 14054.63,
+          "base": 1890.9517,
+          "quote": 11498
+        },
+        "fdv": 780421,
+        "marketCap": 780421,
+        "pairCreatedAt": 1789085964000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x939c76759d12ee902ef273fcc6a7712bd043731153c652fdb30796820c0dcf3f",
+        "pairAddress": "0x939c76759d12ee902ef273fcc6a7712bd043731153c652fdb30796820c0dcf3f",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.05290",
+        "priceUsd": "1.052",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 95,
+            "sells": 76
+          },
+          "h24": {
+            "buys": 95,
+            "sells": 76
+          }
+        },
+        "volume": {
+          "h24": 13451.51,
+          "h6": 13451.51,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -16.2,
+          "h24": -16.2
+        },
+        "liquidity": {
+          "usd": 9572.66,
+          "base": 3715.562,
+          "quote": 5660.535
+        },
+        "fdv": 607930,
+        "marketCap": 607930,
+        "pairCreatedAt": 1789175898000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xfef8ce18e08a6386246a13d96b3fd0893712ccf0d7fbc7f3f25841010a27be6a",
+        "pairAddress": "0xfef8ce18e08a6386246a13d96b3fd0893712ccf0d7fbc7f3f25841010a27be6a",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.3027",
+        "priceUsd": "1.30",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 21,
+            "sells": 26
+          },
+          "h24": {
+            "buys": 21,
+            "sells": 26
+          }
+        },
+        "volume": {
+          "h24": 1945.77,
+          "h6": 1945.77,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -1.29,
+          "h24": -1.29
+        },
+        "liquidity": {
+          "usd": 9596.1,
+          "base": 2648.6815,
+          "quote": 6145.5273
+        },
+        "fdv": 752188,
+        "marketCap": 752188,
+        "pairCreatedAt": 1789172167000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x90bbb172561377c75700b575fa76135d369428af7b5ff617ea68ad0e967de365",
+        "pairAddress": "0x90bbb172561377c75700b575fa76135d369428af7b5ff617ea68ad0e967de365",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1734",
+        "priceUsd": "1.17",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 167,
+            "sells": 140
+          },
+          "h6": {
+            "buys": 167,
+            "sells": 140
+          },
+          "h24": {
+            "buys": 167,
+            "sells": 140
+          }
+        },
+        "volume": {
+          "h24": 28409.83,
+          "h6": 28409.83,
+          "h1": 28409.83,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 0.53,
+          "h6": 0.53,
+          "h24": 0.53
+        },
+        "liquidity": {
+          "usd": 4732.87,
+          "base": 457.7329,
+          "quote": 4195.7556
+        },
+        "fdv": 677520,
+        "marketCap": 677520,
+        "pairCreatedAt": 1789184640000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x9b66212ad71e7fbac3d70b483c2badfa4e2a2d1c195cbf2bbea783a6626d5da3",
+        "pairAddress": "0x9b66212ad71e7fbac3d70b483c2badfa4e2a2d1c195cbf2bbea783a6626d5da3",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18",
+          "name": "Artificial Inu",
+          "symbol": "AI"
+        },
+        "priceNative": "0.6674",
+        "priceUsd": "0.1837",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 71,
+            "sells": 28
+          }
+        },
+        "volume": {
+          "h24": 1480.3,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 152
+        },
+        "liquidity": {
+          "usd": 3009.5,
+          "base": 10310,
+          "quote": 4050.8736
+        },
+        "fdv": 106085,
+        "marketCap": 106085,
+        "pairCreatedAt": 1789164274000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x2af8dca4fceb5b0b40255f484345df673856a055989bf5b07f41287dc7fa5f3c",
+        "pairAddress": "0x2af8dca4fceb5b0b40255f484345df673856a055989bf5b07f41287dc7fa5f3c",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.07971",
+        "priceUsd": "1.079",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 7,
+            "sells": 43
+          },
+          "h24": {
+            "buys": 7,
+            "sells": 43
+          }
+        },
+        "volume": {
+          "h24": 10697.49,
+          "h6": 10697.49,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.05,
+          "h24": -0.05
+        },
+        "liquidity": {
+          "usd": 7185.19,
+          "base": 6653.1927,
+          "quote": 1.626
+        },
+        "fdv": 623411,
+        "marketCap": 623411,
+        "pairCreatedAt": 1789179211000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xf53b40ceaaab918393d629c2d7e6e46ceb44b84eac956d30493f0fa1cfba3f32",
+        "pairAddress": "0xf53b40ceaaab918393d629c2d7e6e46ceb44b84eac956d30493f0fa1cfba3f32",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0004655",
+        "priceUsd": "1.16",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 7,
+            "sells": 10
+          },
+          "h6": {
+            "buys": 133,
+            "sells": 164
+          },
+          "h24": {
+            "buys": 133,
+            "sells": 164
+          }
+        },
+        "volume": {
+          "h24": 11864.45,
+          "h6": 11864.45,
+          "h1": 747.91,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 0.3,
+          "h6": -12.81,
+          "h24": -12.81
+        },
+        "liquidity": {
+          "usd": 2889.77,
+          "base": 917.6183,
+          "quote": 0.7238
+        },
+        "fdv": 674814,
+        "marketCap": 674814,
+        "pairCreatedAt": 1789171890000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x7d6d597c45638aeaf645401719b860b0728c3aab7cfccb81006d10317940e139",
+        "pairAddress": "0x7d6d597c45638aeaf645401719b860b0728c3aab7cfccb81006d10317940e139",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.07914",
+        "priceUsd": "1.079",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 219,
+            "sells": 215
+          },
+          "h24": {
+            "buys": 219,
+            "sells": 215
+          }
+        },
+        "volume": {
+          "h24": 21859.87,
+          "h6": 21859.87,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -2.3,
+          "h24": -2.3
+        },
+        "liquidity": {
+          "usd": 1761.72,
+          "base": 958.6104,
+          "quote": 727.2407
+        },
+        "fdv": 623083,
+        "marketCap": 623083,
+        "pairCreatedAt": 1789174880000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x0b52ddeaeebeb6e2f6e401e6d16fad22109d15a3b00805b55fe259627a3c9aff",
+        "pairAddress": "0x0b52ddeaeebeb6e2f6e401e6d16fad22109d15a3b00805b55fe259627a3c9aff",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.3478",
+        "priceUsd": "1.34",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 4,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 277.77,
+          "h6": 277.77,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.56,
+          "h24": 0.56
+        },
+        "liquidity": {
+          "usd": 6999.99,
+          "base": 3.87E-05,
+          "quote": 6999.9999
+        },
+        "fdv": 778209,
+        "marketCap": 778209,
+        "pairCreatedAt": 1789175631000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x77137b95ea654ceffc3580808c42a87a3faee8e50c1ee0173029fadb04adbb96",
+        "pairAddress": "0x77137b95ea654ceffc3580808c42a87a3faee8e50c1ee0173029fadb04adbb96",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1682",
+        "priceUsd": "1.16",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 11,
+            "sells": 6
+          },
+          "h24": {
+            "buys": 11,
+            "sells": 6
+          }
+        },
+        "volume": {
+          "h24": 798.17,
+          "h6": 798.17,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -6.06,
+          "h24": -6.06
+        },
+        "liquidity": {
+          "usd": 5719.03,
+          "base": 918.429,
+          "quote": 4646.05235
+        },
+        "fdv": 674549,
+        "marketCap": 674549,
+        "pairCreatedAt": 1789173343000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x683823ec91dc4591725c3e9645600070a788c6581772b79c652efbc22fec42bd",
+        "pairAddress": "0x683823ec91dc4591725c3e9645600070a788c6581772b79c652efbc22fec42bd",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1368",
+        "priceUsd": "1.13",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 78,
+            "sells": 109
+          },
+          "h24": {
+            "buys": 78,
+            "sells": 109
+          }
+        },
+        "volume": {
+          "h24": 2041.47,
+          "h6": 2041.47,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -93.16,
+          "h24": -93.16
+        },
+        "liquidity": {
+          "usd": 1426.41,
+          "base": 842.2694,
+          "quote": 468.8452
+        },
+        "fdv": 656426,
+        "marketCap": 656426,
+        "pairCreatedAt": 1789169425000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xf8e1af52cdad2ee3a2fbf1a9c3298677ed31d2a907e6f3e664b37e28416447df",
+        "pairAddress": "0xf8e1af52cdad2ee3a2fbf1a9c3298677ed31d2a907e6f3e664b37e28416447df",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1432",
+        "priceUsd": "1.14",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 3,
+            "sells": 5
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 5
+          }
+        },
+        "volume": {
+          "h24": 31.8,
+          "h6": 31.8,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -10.51,
+          "h24": -10.51
+        },
+        "liquidity": {
+          "usd": 4402.28,
+          "base": 175.9434,
+          "quote": 4201.1435
+        },
+        "fdv": 660081,
+        "marketCap": 660081,
+        "pairCreatedAt": 1789171474000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x23e679408d722ea8154da95cd8308b82c8ca2695271391fc6c322fa99a9f2f49",
+        "pairAddress": "0x23e679408d722ea8154da95cd8308b82c8ca2695271391fc6c322fa99a9f2f49",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1057",
+        "priceUsd": "1.10",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 14,
+            "sells": 10
+          },
+          "h24": {
+            "buys": 14,
+            "sells": 10
+          }
+        },
+        "volume": {
+          "h24": 2433.42,
+          "h6": 2433.42,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 1.77,
+          "h24": 1.77
+        },
+        "liquidity": {
+          "usd": 3449.53,
+          "base": 1730.1871,
+          "quote": 1536.4396
+        },
+        "fdv": 638422,
+        "marketCap": 638422,
+        "pairCreatedAt": 1789181168000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x019fdb054b545a25f9f380adf4aa199bda38a214747e09cf4e087c75453597f0",
+        "pairAddress": "0x019fdb054b545a25f9f380adf4aa199bda38a214747e09cf4e087c75453597f0",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.5846",
+        "priceUsd": "1.58",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 12,
+            "sells": 28
+          },
+          "h24": {
+            "buys": 12,
+            "sells": 28
+          }
+        },
+        "volume": {
+          "h24": 2169.13,
+          "h6": 2169.13,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -18.84,
+          "h24": -18.84
+        },
+        "liquidity": {
+          "usd": 2927.78,
+          "base": 370.4999,
+          "quote": 2340.6805
+        },
+        "fdv": 914931,
+        "marketCap": 914931,
+        "pairCreatedAt": 1789170344000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xde82e406d0cf705ab7bd6267870d05124d55adcbf39c823303884e73427ca430",
+        "pairAddress": "0xde82e406d0cf705ab7bd6267870d05124d55adcbf39c823303884e73427ca430",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.3461",
+        "priceUsd": "1.34",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 167.86,
+          "h6": 167.86,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -2.79,
+          "h24": -2.79
+        },
+        "liquidity": {
+          "usd": 2497.07,
+          "base": 122.5265,
+          "quote": 2332.1352
+        },
+        "fdv": 777266,
+        "marketCap": 777266,
+        "pairCreatedAt": 1789171434000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x2bd671ae40b997e443e0a631c7947df8be2a4d7f848747d04cda202da84b49bd",
+        "pairAddress": "0x2bd671ae40b997e443e0a631c7947df8be2a4d7f848747d04cda202da84b49bd",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0008355",
+        "priceUsd": "2.099",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 6,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 411.35,
+          "h6": 411.35,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 17.88,
+          "h24": 17.88
+        },
+        "liquidity": {
+          "usd": 1872.25,
+          "base": 460.1115,
+          "quote": 0.3606
+        },
+        "fdv": 1212299,
+        "marketCap": 1212299,
+        "pairCreatedAt": 1789170214000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x8018b1023bc032386d76e6ccf5054be9dc01ae54cf63cf82595ac6e61d77c738",
+        "pairAddress": "0x8018b1023bc032386d76e6ccf5054be9dc01ae54cf63cf82595ac6e61d77c738",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1533",
+        "priceUsd": "1.15",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 5
+          },
+          "h1": {
+            "buys": 6,
+            "sells": 19
+          },
+          "h6": {
+            "buys": 3484,
+            "sells": 3599
+          },
+          "h24": {
+            "buys": 3484,
+            "sells": 3599
+          }
+        },
+        "volume": {
+          "h24": 940857.33,
+          "h6": 940857.33,
+          "h1": 134.3,
+          "m5": 10.64
+        },
+        "priceChange": {
+          "m5": -1.99,
+          "h1": -1.28,
+          "h6": -12.19,
+          "h24": -12.19
+        },
+        "liquidity": {
+          "usd": 311.42,
+          "base": 251.08102,
+          "quote": 21.8523
+        },
+        "fdv": 665904,
+        "marketCap": 665904,
+        "pairCreatedAt": 1789170849000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xe047b0ec6f3a13f31015f302b8a0f78843c623fcb0ff0cb876304b99688aa9a0",
+        "pairAddress": "0xe047b0ec6f3a13f31015f302b8a0f78843c623fcb0ff0cb876304b99688aa9a0",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.05774",
+        "priceUsd": "1.057",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1118,
+            "sells": 1059
+          },
+          "h24": {
+            "buys": 1118,
+            "sells": 1059
+          }
+        },
+        "volume": {
+          "h24": 184701.22,
+          "h6": 184701.22,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -58.27,
+          "h24": -58.27
+        },
+        "liquidity": {
+          "usd": 100.33,
+          "base": 51.7421,
+          "quote": 45.6078
+        },
+        "fdv": 610723,
+        "marketCap": 610723,
+        "pairCreatedAt": 1789169956000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x1afe5f38c95d4a36220bf22cd1aed17fb65092c154b3a9379d61ea6b9629f321",
+        "pairAddress": "0x1afe5f38c95d4a36220bf22cd1aed17fb65092c154b3a9379d61ea6b9629f321",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.07309",
+        "priceUsd": "1.073",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 533,
+            "sells": 491
+          },
+          "h24": {
+            "buys": 533,
+            "sells": 491
+          }
+        },
+        "volume": {
+          "h24": 82550.36,
+          "h6": 82550.36,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -46.07,
+          "h24": -46.07
+        },
+        "liquidity": {
+          "usd": 415.14,
+          "base": 356.9543,
+          "quote": 32.1001
+        },
+        "fdv": 619588,
+        "marketCap": 619588,
+        "pairCreatedAt": 1789170747000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x5624a5fa313330efcf07ac38fc39eb0d867889aa8008098a608e3820e3fc3893",
+        "pairAddress": "0x5624a5fa313330efcf07ac38fc39eb0d867889aa8008098a608e3820e3fc3893",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.3364",
+        "priceUsd": "1.33",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 160,
+            "sells": 144
+          },
+          "h24": {
+            "buys": 180,
+            "sells": 153
+          }
+        },
+        "volume": {
+          "h24": 7259.81,
+          "h6": 7224.69,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 262,
+          "h24": 407
+        },
+        "liquidity": {
+          "usd": 105.41,
+          "base": 39.4352,
+          "quote": 52.705
+        },
+        "fdv": 771670,
+        "marketCap": 771670,
+        "pairCreatedAt": 1789164756000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x73105f08c6c1f40ae3d4429b6ed78a12e7400639206d6d392559e9059d50ca8d",
+        "pairAddress": "0x73105f08c6c1f40ae3d4429b6ed78a12e7400639206d6d392559e9059d50ca8d",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1805",
+        "priceUsd": "1.18",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 357,
+            "sells": 292
+          },
+          "h24": {
+            "buys": 357,
+            "sells": 292
+          }
+        },
+        "volume": {
+          "h24": 38388.2,
+          "h6": 38388.2,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.05,
+          "h24": 0.05
+        },
+        "liquidity": {
+          "usd": 199.99,
+          "base": 0.4854,
+          "quote": 199.4253
+        },
+        "fdv": 681620,
+        "marketCap": 681620,
+        "pairCreatedAt": 1789173853000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x29a999a786bcba44798deee72505c01941ba6a6c8190904602ba7321d61c88a4",
+        "pairAddress": "0x29a999a786bcba44798deee72505c01941ba6a6c8190904602ba7321d61c88a4",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "name": "OPENAI 1x Long",
+          "symbol": "OPENAIx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0007530",
+        "priceUsd": "1.89",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 55,
+            "sells": 62
+          },
+          "h24": {
+            "buys": 55,
+            "sells": 62
+          }
+        },
+        "volume": {
+          "h24": 11105.89,
+          "h6": 11105.89,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -74.92,
+          "h24": -74.92
+        },
+        "liquidity": {
+          "usd": 101.48,
+          "base": 26.815,
+          "quote": 0.02019
+        },
+        "fdv": 1092619,
+        "marketCap": 1092619,
+        "pairCreatedAt": 1789169456000
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-09-12T04:37:05.6685165Z",
+    "quoteToken": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "url": "https://api.dexscreener.com/token-pairs/v1/robinhood/0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x09f9f97c04966c8ac9e99649599162e521aa1acaabfbd1cdf8910622534db11e",
+        "pairAddress": "0x09f9f97c04966c8ac9e99649599162e521aa1acaabfbd1cdf8910622534db11e",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1933",
+        "priceUsd": "1.19",
+        "txns": {
+          "m5": {
+            "buys": 295,
+            "sells": 303
+          },
+          "h1": {
+            "buys": 7320,
+            "sells": 7032
+          },
+          "h6": {
+            "buys": 40778,
+            "sells": 39991
+          },
+          "h24": {
+            "buys": 40778,
+            "sells": 39991
+          }
+        },
+        "volume": {
+          "h24": 13978268.39,
+          "h6": 13978268.39,
+          "h1": 2748621.55,
+          "m5": 134818.36
+        },
+        "priceChange": {
+          "m5": -3.82,
+          "h1": -18.28,
+          "h6": 1.23,
+          "h24": 1.23
+        },
+        "liquidity": {
+          "usd": 263334.86,
+          "base": 35521,
+          "quote": 220946
+        },
+        "fdv": 539159,
+        "marketCap": 539159,
+        "pairCreatedAt": 1789167041000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x0c548dfd6c49085c99eeeda90b7f3b0f37eae776c767c8ffbbe0e31b3bd83a21",
+        "pairAddress": "0x0c548dfd6c49085c99eeeda90b7f3b0f37eae776c767c8ffbbe0e31b3bd83a21",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1964",
+        "priceUsd": "1.19",
+        "txns": {
+          "m5": {
+            "buys": 154,
+            "sells": 192
+          },
+          "h1": {
+            "buys": 334,
+            "sells": 413
+          },
+          "h6": {
+            "buys": 6583,
+            "sells": 6132
+          },
+          "h24": {
+            "buys": 6583,
+            "sells": 6132
+          }
+        },
+        "volume": {
+          "h24": 1465655.51,
+          "h6": 1465655.51,
+          "h1": 62436.74,
+          "m5": 33671.59
+        },
+        "priceChange": {
+          "m5": -3.5,
+          "h1": -12.8,
+          "h6": 17.45,
+          "h24": 17.45
+        },
+        "liquidity": {
+          "usd": 52769.84,
+          "base": 5210.2526,
+          "quote": 46535
+        },
+        "fdv": 540589,
+        "marketCap": 540589,
+        "pairCreatedAt": 1789172350000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xba49ed3a286db95c3a39b81e5c6c8e85dbcfb9733b17304ddb83e686c55541d7",
+        "pairAddress": "0xba49ed3a286db95c3a39b81e5c6c8e85dbcfb9733b17304ddb83e686c55541d7",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0005888",
+        "priceUsd": "1.47",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 3
+          },
+          "h1": {
+            "buys": 9,
+            "sells": 4
+          },
+          "h6": {
+            "buys": 2772,
+            "sells": 2879
+          },
+          "h24": {
+            "buys": 2772,
+            "sells": 2879
+          }
+        },
+        "volume": {
+          "h24": 548070.21,
+          "h6": 548070.21,
+          "h1": 252.1,
+          "m5": 13.5
+        },
+        "priceChange": {
+          "m5": -1.49,
+          "h1": 15.67,
+          "h6": -40.22,
+          "h24": -40.22
+        },
+        "liquidity": {
+          "usd": 3875.46,
+          "base": 933.1815,
+          "quote": 0.9925
+        },
+        "fdv": 668632,
+        "marketCap": 668632,
+        "pairCreatedAt": 1789169383000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x389f9080c2b066535e73c5f2f5874ec30a3bd81465659383ba66ff865fa66969",
+        "pairAddress": "0x389f9080c2b066535e73c5f2f5874ec30a3bd81465659383ba66ff865fa66969",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.02061",
+        "priceUsd": "1.020",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 3,
+            "sells": 3
+          },
+          "h6": {
+            "buys": 530,
+            "sells": 568
+          },
+          "h24": {
+            "buys": 530,
+            "sells": 568
+          }
+        },
+        "volume": {
+          "h24": 155316.69,
+          "h6": 155316.69,
+          "h1": 265.29,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.07,
+          "h24": 0.07
+        },
+        "liquidity": {
+          "usd": 29999.99,
+          "base": 8.071E-07,
+          "quote": 29999
+        },
+        "fdv": 461132,
+        "marketCap": 461132,
+        "pairCreatedAt": 1789177196000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xc52aa6f16255ab55f2d7007326b0cf0de8f21f9850bab163f89923dddd6ce616",
+        "pairAddress": "0xc52aa6f16255ab55f2d7007326b0cf0de8f21f9850bab163f89923dddd6ce616",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.009345",
+        "priceUsd": "1.0093",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 82,
+            "sells": 52
+          },
+          "h24": {
+            "buys": 82,
+            "sells": 52
+          }
+        },
+        "volume": {
+          "h24": 27039.62,
+          "h6": 27039.62,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.06,
+          "h24": -0.06
+        },
+        "liquidity": {
+          "usd": 16917.31,
+          "base": 0.09808,
+          "quote": 16917
+        },
+        "fdv": 456042,
+        "marketCap": 456042,
+        "pairCreatedAt": 1789178824000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xff21e46b8942f43c082fa287bdd383ca4d7807934e13ae92e81ba197e8b7d033",
+        "pairAddress": "0xff21e46b8942f43c082fa287bdd383ca4d7807934e13ae92e81ba197e8b7d033",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0005087",
+        "priceUsd": "1.27",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 16,
+            "sells": 62
+          },
+          "h6": {
+            "buys": 285,
+            "sells": 274
+          },
+          "h24": {
+            "buys": 285,
+            "sells": 274
+          }
+        },
+        "volume": {
+          "h24": 34863.91,
+          "h6": 34863.91,
+          "h1": 4922.68,
+          "m5": 21.27
+        },
+        "priceChange": {
+          "m5": -0.78,
+          "h1": -13.22,
+          "h6": -1.11,
+          "h24": -1.11
+        },
+        "liquidity": {
+          "usd": 2782.84,
+          "base": 1128.87,
+          "quote": 0.5341
+        },
+        "fdv": 577097,
+        "marketCap": 577097,
+        "pairCreatedAt": 1789170257000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x460b64b190aa4b1daf52b43446267dc6dc9c348c19bc34b340c98b9a1444b148",
+        "pairAddress": "0x460b64b190aa4b1daf52b43446267dc6dc9c348c19bc34b340c98b9a1444b148",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.02061",
+        "priceUsd": "1.020",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 280,
+            "sells": 280
+          },
+          "h24": {
+            "buys": 280,
+            "sells": 280
+          }
+        },
+        "volume": {
+          "h24": 63413.41,
+          "h6": 63413.41,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.82,
+          "h24": 0.82
+        },
+        "liquidity": {
+          "usd": 3903.18,
+          "base": 1.166E-06,
+          "quote": 3903.1856
+        },
+        "fdv": 461132,
+        "marketCap": 461132,
+        "pairCreatedAt": 1789176001000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x7b8f0ad76fce1f29db9201c1ec9d3811ccb4e1c0179e1d7822e16f38adfcf25e",
+        "pairAddress": "0x7b8f0ad76fce1f29db9201c1ec9d3811ccb4e1c0179e1d7822e16f38adfcf25e",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.4195",
+        "priceUsd": "1.41",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 174,
+            "sells": 163
+          },
+          "h6": {
+            "buys": 174,
+            "sells": 163
+          },
+          "h24": {
+            "buys": 174,
+            "sells": 163
+          }
+        },
+        "volume": {
+          "h24": 18666.97,
+          "h6": 18666.97,
+          "h1": 18666.97,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -12.48,
+          "h6": -12.48,
+          "h24": -12.48
+        },
+        "liquidity": {
+          "usd": 3425.35,
+          "base": 0.3378,
+          "quote": 3424.8794
+        },
+        "fdv": 641392,
+        "marketCap": 641392,
+        "pairCreatedAt": 1789184450000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xa4b997c5766d7de8041e47af4f9effcd4f0016d97be783bd0338f44c562809b3",
+        "pairAddress": "0xa4b997c5766d7de8041e47af4f9effcd4f0016d97be783bd0338f44c562809b3",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.009312",
+        "priceUsd": "1.0093",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 7,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 7,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 236.16,
+          "h6": 236.16,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.38,
+          "h24": 0.38
+        },
+        "liquidity": {
+          "usd": 7178.07,
+          "base": 1845.2571,
+          "quote": 5315.6352
+        },
+        "fdv": 456027,
+        "marketCap": 456027,
+        "pairCreatedAt": 1789174632000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xd2192d9897afb0f91b16496558d3d2c54d1410d042975d1c97041a0d71407297",
+        "pairAddress": "0xd2192d9897afb0f91b16496558d3d2c54d1410d042975d1c97041a0d71407297",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.3817",
+        "priceUsd": "1.38",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 18,
+            "sells": 16
+          },
+          "h24": {
+            "buys": 18,
+            "sells": 16
+          }
+        },
+        "volume": {
+          "h24": 7405.58,
+          "h6": 7405.58,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 2.05,
+          "h24": 2.05
+        },
+        "liquidity": {
+          "usd": 4541.07,
+          "base": 1.033E-06,
+          "quote": 4541.07233
+        },
+        "fdv": 624324,
+        "marketCap": 624324,
+        "pairCreatedAt": 1789184058000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xfec02eb1a5c69880261a3a6e69e754d75bb774883ff637de5d3a4daa773ef6d1",
+        "pairAddress": "0xfec02eb1a5c69880261a3a6e69e754d75bb774883ff637de5d3a4daa773ef6d1",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1189",
+        "priceUsd": "1.11",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 14,
+            "sells": 8
+          },
+          "h24": {
+            "buys": 14,
+            "sells": 8
+          }
+        },
+        "volume": {
+          "h24": 1900.37,
+          "h6": 1900.37,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 2.06,
+          "h24": 2.06
+        },
+        "liquidity": {
+          "usd": 2999.99,
+          "base": 0.01949,
+          "quote": 2999.9781
+        },
+        "fdv": 505566,
+        "marketCap": 505566,
+        "pairCreatedAt": 1789171718000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x231b58c7aa426374b5fcb0079c9f61719cefa78dbf0011c992db39917cf4327c",
+        "pairAddress": "0x231b58c7aa426374b5fcb0079c9f61719cefa78dbf0011c992db39917cf4327c",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.005715",
+        "priceUsd": "1.0057",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 62,
+            "sells": 69
+          },
+          "h24": {
+            "buys": 62,
+            "sells": 69
+          }
+        },
+        "volume": {
+          "h24": 1247.14,
+          "h6": 1247.14,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -10.87,
+          "h24": -10.87
+        },
+        "liquidity": {
+          "usd": 1128.46,
+          "base": 623.1389,
+          "quote": 501.7632
+        },
+        "fdv": 454402,
+        "marketCap": 454402,
+        "pairCreatedAt": 1789173160000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x08834410c126a82f2f1a71073d998b19bb9a4e18ad029c700a0ab8e17aa9729b",
+        "pairAddress": "0x08834410c126a82f2f1a71073d998b19bb9a4e18ad029c700a0ab8e17aa9729b",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.006510",
+        "priceUsd": "1.0065",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 47.83,
+          "h6": 47.83,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -1.15,
+          "h24": -1.15
+        },
+        "liquidity": {
+          "usd": 3173.1,
+          "base": 942.295,
+          "quote": 2224.67
+        },
+        "fdv": 454761,
+        "marketCap": 454761,
+        "pairCreatedAt": 1789173677000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x2cc5a9db2bd4f04cf266ca8f54de5a251ed50b0912e6fd4d894d34dfc1941dfd",
+        "pairAddress": "0x2cc5a9db2bd4f04cf266ca8f54de5a251ed50b0912e6fd4d894d34dfc1941dfd",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.01816",
+        "priceUsd": "1.018",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 411.17,
+          "h6": 411.17,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.09,
+          "h24": 0.09
+        },
+        "liquidity": {
+          "usd": 2999.99,
+          "base": 0.001819,
+          "quote": 2999.9981
+        },
+        "fdv": 460027,
+        "marketCap": 460027,
+        "pairCreatedAt": 1789175452000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xcb571180604ce697e514114fd315baa788a0f1a6db298877fbd02522ded58e16",
+        "pairAddress": "0xcb571180604ce697e514114fd315baa788a0f1a6db298877fbd02522ded58e16",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.01511",
+        "priceUsd": "1.015",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 2,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 15.95,
+          "h6": 15.95,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 1.31,
+          "h24": 1.31
+        },
+        "liquidity": {
+          "usd": 2451.13,
+          "base": 1074.09824,
+          "quote": 1360.8083
+        },
+        "fdv": 458648,
+        "marketCap": 458648,
+        "pairCreatedAt": 1789173814000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x3ef9126af1167d7494af12e9163f01d66a8e62cbffc550781cf75ee8c6cc7bff",
+        "pairAddress": "0x3ef9126af1167d7494af12e9163f01d66a8e62cbffc550781cf75ee8c6cc7bff",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.02015",
+        "priceUsd": "1.020",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 24,
+            "sells": 25
+          },
+          "h24": {
+            "buys": 24,
+            "sells": 25
+          }
+        },
+        "volume": {
+          "h24": 1462.63,
+          "h6": 1462.63,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 1.34,
+          "h24": 1.34
+        },
+        "liquidity": {
+          "usd": 1364.37,
+          "base": 663.2103,
+          "quote": 687.8011
+        },
+        "fdv": 460925,
+        "marketCap": 460925,
+        "pairCreatedAt": 1789175882000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xfe4379ffc1cda33d29b63d9ce717557dfd35aa9fbf768c5971944c80f1d61fb8",
+        "pairAddress": "0xfe4379ffc1cda33d29b63d9ce717557dfd35aa9fbf768c5971944c80f1d61fb8",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "3.6275",
+        "priceUsd": "3.62",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 55,
+            "sells": 50
+          }
+        },
+        "volume": {
+          "h24": 4468.83,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 2.01
+        },
+        "liquidity": {
+          "usd": 1139.28,
+          "base": 157.03192,
+          "quote": 569.6427
+        },
+        "fdv": 1639003,
+        "marketCap": 1639003,
+        "pairCreatedAt": 1789065322000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb840395bfcb6075cec6d9bce215b5e6e6e21b209281c4e5105e6819102ae76cc",
+        "pairAddress": "0xb840395bfcb6075cec6d9bce215b5e6e6e21b209281c4e5105e6819102ae76cc",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.4702",
+        "priceUsd": "1.47",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 4,
+            "sells": 2
+          },
+          "h6": {
+            "buys": 213,
+            "sells": 221
+          },
+          "h24": {
+            "buys": 213,
+            "sells": 223
+          }
+        },
+        "volume": {
+          "h24": 15333.75,
+          "h6": 15311.12,
+          "h1": 51.32,
+          "m5": 3.64
+        },
+        "priceChange": {
+          "m5": -2.12,
+          "h1": 16.82,
+          "h6": -62.66,
+          "h24": -81.72
+        },
+        "liquidity": {
+          "usd": 406.36,
+          "base": 146.369,
+          "quote": 191.175
+        },
+        "fdv": 664274,
+        "marketCap": 664274,
+        "pairCreatedAt": 1789159591000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xc741fae0ec2856ffb469f5674c8e1bdf4500199361b9bef0173e18577ffdb832",
+        "pairAddress": "0xc741fae0ec2856ffb469f5674c8e1bdf4500199361b9bef0173e18577ffdb832",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.3066",
+        "priceUsd": "1.30",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 2,
+            "sells": 11
+          },
+          "h6": {
+            "buys": 155,
+            "sells": 84
+          },
+          "h24": {
+            "buys": 155,
+            "sells": 84
+          }
+        },
+        "volume": {
+          "h24": 29426.89,
+          "h6": 29426.89,
+          "h1": 133.27,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 16.89,
+          "h6": 23.54,
+          "h24": 23.54
+        },
+        "liquidity": {
+          "usd": 533.12,
+          "base": 167.8268,
+          "quote": 313.8351
+        },
+        "fdv": 590364,
+        "marketCap": 590364,
+        "pairCreatedAt": 1789171391000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xf2966d6e4daddd52cf52c773c8c4bd4fe96c1b0605b61f06b3da06de0db73b5b",
+        "pairAddress": "0xf2966d6e4daddd52cf52c773c8c4bd4fe96c1b0605b61f06b3da06de0db73b5b",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0004435",
+        "priceUsd": "1.11",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 112,
+            "sells": 116
+          },
+          "h24": {
+            "buys": 112,
+            "sells": 116
+          }
+        },
+        "volume": {
+          "h24": 4029.31,
+          "h6": 4029.31,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -55.21,
+          "h24": -55.21
+        },
+        "liquidity": {
+          "usd": 148.77,
+          "base": 78.2519,
+          "quote": 0.02442
+        },
+        "fdv": 504238,
+        "marketCap": 504238,
+        "pairCreatedAt": 1789169401000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x74767e1571d58847bc082edbd66fca06b2af879efd89b2cf18665fe2d35eb5d4",
+        "pairAddress": "0x74767e1571d58847bc082edbd66fca06b2af879efd89b2cf18665fe2d35eb5d4",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.5220",
+        "priceUsd": "1.52",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 3,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 82,
+            "sells": 92
+          },
+          "h24": {
+            "buys": 82,
+            "sells": 92
+          }
+        },
+        "volume": {
+          "h24": 1675.57,
+          "h6": 1675.57,
+          "h1": 14.94,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 25.25,
+          "h6": -35.95,
+          "h24": -35.95
+        },
+        "liquidity": {
+          "usd": 247.7,
+          "base": 81.3709,
+          "quote": 123.8544
+        },
+        "fdv": 687713,
+        "marketCap": 687713,
+        "pairCreatedAt": 1789169423000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x32712a45dc6e32d21b32ad0fd2e0626e1787864d7a81166ffb339554af95c6e4",
+        "pairAddress": "0x32712a45dc6e32d21b32ad0fd2e0626e1787864d7a81166ffb339554af95c6e4",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0007104",
+        "priceUsd": "1.78",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 25,
+            "sells": 36
+          },
+          "h24": {
+            "buys": 25,
+            "sells": 36
+          }
+        },
+        "volume": {
+          "h24": 2141.56,
+          "h6": 2141.56,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -44.53,
+          "h24": -44.53
+        },
+        "liquidity": {
+          "usd": 283.11,
+          "base": 158.5283,
+          "quote": 4.214E-11
+        },
+        "fdv": 806910,
+        "marketCap": 806910,
+        "pairCreatedAt": 1789170157000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x7aa485d2f2bd89816a28385ee44c8f3eb50be6e5c3bfb761845554dec6dc5f9c",
+        "pairAddress": "0x7aa485d2f2bd89816a28385ee44c8f3eb50be6e5c3bfb761845554dec6dc5f9c",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.4156",
+        "priceUsd": "1.41",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 4,
+            "sells": 3
+          },
+          "h6": {
+            "buys": 24,
+            "sells": 21
+          },
+          "h24": {
+            "buys": 24,
+            "sells": 21
+          }
+        },
+        "volume": {
+          "h24": 338.64,
+          "h6": 338.64,
+          "h1": 21.96,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 7.04,
+          "h6": -40.89,
+          "h24": -40.89
+        },
+        "liquidity": {
+          "usd": 178.14,
+          "base": 61.2956,
+          "quote": 91.3758
+        },
+        "fdv": 639598,
+        "marketCap": 639598,
+        "pairCreatedAt": 1789170215000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xe4911a6adb69e8a4f9594ef3182fca3a650e46ac782af5e44f99e31db2a1b158",
+        "pairAddress": "0xe4911a6adb69e8a4f9594ef3182fca3a650e46ac782af5e44f99e31db2a1b158",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "3.4810",
+        "priceUsd": "3.48",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 20,
+            "sells": 15
+          },
+          "h24": {
+            "buys": 20,
+            "sells": 15
+          }
+        },
+        "volume": {
+          "h24": 258.08,
+          "h6": 258.08,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -44.92,
+          "h24": -44.92
+        },
+        "liquidity": {
+          "usd": 107.94,
+          "base": 15.5041,
+          "quote": 53.9707
+        },
+        "fdv": 1572805,
+        "marketCap": 1572805,
+        "pairCreatedAt": 1789169615000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xd6610d84777d5ee5cf01ef4048f53a8c1071fb1cc4f07a667cdc61eb0f3eea67",
+        "pairAddress": "0xd6610d84777d5ee5cf01ef4048f53a8c1071fb1cc4f07a667cdc61eb0f3eea67",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1301",
+        "priceUsd": "1.13",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 18,
+            "sells": 4
+          },
+          "h24": {
+            "buys": 18,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 890.05,
+          "h6": 890.05,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 4.6,
+          "h24": 4.6
+        },
+        "liquidity": {
+          "usd": 374.28,
+          "base": 0.02502,
+          "quote": 374.254
+        },
+        "fdv": 510646,
+        "marketCap": 510646,
+        "pairCreatedAt": 1789181051000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x7ca768f7f46d86bc84b393d6586ae31e2201616600283ad0aebdd06f126c9915",
+        "pairAddress": "0x7ca768f7f46d86bc84b393d6586ae31e2201616600283ad0aebdd06f126c9915",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0004900",
+        "priceUsd": "1.23",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 3
+          },
+          "h6": {
+            "buys": 12,
+            "sells": 4
+          },
+          "h24": {
+            "buys": 12,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 144.5,
+          "h6": 144.5,
+          "h1": 20.68,
+          "m5": 12.51
+        },
+        "priceChange": {
+          "m5": -3.27,
+          "h1": -5.45,
+          "h6": 20.06,
+          "h24": 20.06
+        },
+        "liquidity": {
+          "usd": 149.93,
+          "base": 16.3347,
+          "quote": 0.05165
+        },
+        "fdv": 556463,
+        "marketCap": 556463,
+        "pairCreatedAt": 1789174923000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x022065d0bc3aec66e1cf6430cd6364a978e6bc2c01ec4d3d1f09aee1f6dcb3df",
+        "pairAddress": "0x022065d0bc3aec66e1cf6430cd6364a978e6bc2c01ec4d3d1f09aee1f6dcb3df",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0009422",
+        "priceUsd": "2.36",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 8,
+            "sells": 6
+          },
+          "h24": {
+            "buys": 8,
+            "sells": 6
+          }
+        },
+        "volume": {
+          "h24": 82.49,
+          "h6": 82.49,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -52.49,
+          "h24": -52.49
+        },
+        "liquidity": {
+          "usd": 55.95,
+          "base": 11.819,
+          "quote": 0.01113
+        },
+        "fdv": 1069537,
+        "marketCap": 1069537,
+        "pairCreatedAt": 1789169750000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xde5ceac73c6bdf53a53db75316d84dec58d088a6b9642bab8c97ea3741a33a70",
+        "pairAddress": "0xde5ceac73c6bdf53a53db75316d84dec58d088a6b9642bab8c97ea3741a33a70",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.3612",
+        "priceUsd": "1.36",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 3,
+            "sells": 2
+          },
+          "h6": {
+            "buys": 5,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 5,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 146.83,
+          "h6": 146.83,
+          "h1": 13.44,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.09,
+          "h24": 0.09
+        },
+        "liquidity": {
+          "usd": 984.36,
+          "base": 5.86E-07,
+          "quote": 984.368
+        },
+        "fdv": 615030,
+        "marketCap": 615030,
+        "pairCreatedAt": 1789184070000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xe8589cd9eba2baa4e48ba108bbc14fca6d491f47eb7bace16f8483ea0a2e9425",
+        "pairAddress": "0xe8589cd9eba2baa4e48ba108bbc14fca6d491f47eb7bace16f8483ea0a2e9425",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.5147",
+        "priceUsd": "1.51",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 6,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 6,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 225.29,
+          "h6": 225.29,
+          "h1": 225.29,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": 4.22,
+          "h6": 4.22,
+          "h24": 4.22
+        },
+        "liquidity": {
+          "usd": 373.04,
+          "base": 112.5474,
+          "quote": 202.5608
+        },
+        "fdv": 684393,
+        "marketCap": 684393,
+        "pairCreatedAt": 1789175295000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x7235f2cced79fccd3d98335efd288e434297e17cba18b78d9c16428aa500db62",
+        "pairAddress": "0x7235f2cced79fccd3d98335efd288e434297e17cba18b78d9c16428aa500db62",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "name": "ANTHROPIC 1x Long",
+          "symbol": "ANTHROPICx1L"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "1.1647",
+        "priceUsd": "1.16",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 2,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 150.2,
+          "h6": 150.2,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.01,
+          "h24": 0.01
+        },
+        "liquidity": {
+          "usd": 353.03,
+          "base": 303.02828,
+          "quote": 0.09053
+        },
+        "fdv": 526252,
+        "marketCap": 526252,
+        "pairCreatedAt": 1789171287000
+      }
+    ]
+  }
+]

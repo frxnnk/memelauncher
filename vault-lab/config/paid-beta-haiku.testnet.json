@@ -1,0 +1,26 @@
+{
+  "environment": "testnet",
+  "policy": "paid-beta",
+  "note": "NEW paid-beta Haiku ledger on Robinhood Chain Testnet (46630 AMZN). Proving Top up is 1 AMZN (1e18), step 1, cap 5. Published USD 5→25 in paid-beta-policy.mjs is unchanged. Do not attach this file to the existing rh-test-amzn rehearsal sqlite. Same disclosed testnet treasury receives the ERC-20; accounting is a separate data directory (web-funding-paid-beta). Not mainnet 4663 USDG.",
+  "asset": {
+    "chainId": "46630",
+    "tokenAddress": "0x5884ad2f920c162cfbbacc88c9c51aa75ec09e02",
+    "destination": "0xbec4fdb33ed39844956d9078fd232aca92d7396d",
+    "decimals": 18,
+    "minimumConfirmations": 3,
+    "standardTransferVerified": true
+  },
+  "maximumTopup": "5000000000000000000",
+  "terms": {
+    "price": "1000000000000000000",
+    "prizeBps": 7000,
+    "operationsBps": 3000,
+    "winRetainBps": 2500,
+    "priceStep": "1000000000000000000",
+    "maximumPrice": "5000000000000000000",
+    "durationMonths": 5
+  },
+  "rounds": [
+    { "id": "rh-paid-haiku-v1", "models": ["anthropic/claude-haiku-4.5"] }
+  ]
+}

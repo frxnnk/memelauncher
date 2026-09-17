@@ -1,0 +1,39 @@
+### Result
+{"passed":true,"pageErrors":[],"postRequests":0,"viewports":3,"states":["setup-required","reconciliation-required","storage-unavailable"],"realInferenceCalls":0,"realFunds":false}
+### Ran Playwright code
+```js
+await (async (page) => {
+  const context = await page.context().browser().newContext({ reducedMotion:'reduce', serviceWorkers:'block' });
+  const qa = await context.newPage(), errors = [], posts = [];
+  const assert = (value, message) => { if (!value) throw new Error(message); };
+  qa.on('pageerror', error => errors.push(error.message)); qa.on('request', request => { if (request.method() === 'POST') posts.push(request.url()); });
+  const close = () => qa.getByRole('button', { name:'Close details', exact:true }).click();
+  try {
+    await qa.goto('http://127.0.0.1:4319/'); await qa.locator('#model-button:not([disabled])').waitFor();
+    await qa.locator('#proof-button').click(); await qa.getByText('API setup required', { exact:true }).waitFor();
+    assert(await qa.locator('[data-operational-health]').isVisible(), 'Current status must be in Transparency');
+    await qa.screenshot({ path:'output/playwright/health-local-desktop.png', animations:'disabled' }); await close();
+    const health = { checkedAt:'2026-09-14T19:00:00.000Z', mode:'public-practice', state:'reconciliation-required', paymentsEnabled:false,
+      execution:{ since:'2026-09-14T18:00:00.000Z', persistedReceipts:31, validReplies:28, errors:3 },
+      usage:{ globalRequestsToday:33, totalPerDay:250, reportedCostUsd:2, budgetUsd:5, pending:1, unknown:2 } };
+    await qa.route('**/api/health', route => route.fulfill({ json:health }));
+    await qa.locator('#proof-button').click(); await qa.getByText('Paused for reconciliation', { exact:true }).waitFor();
+    assert((await qa.locator('[data-operational-health]').textContent()).includes('33 / 250'), 'Show actual counter and cap');
+    for (const [width, height] of [[1280,800],[390,844],[320,568]]) {
+      await qa.setViewportSize({ width,height });
+      assert(await qa.evaluate(() => document.documentElement.scrollHeight <= innerHeight + 1 && document.documentElement.scrollWidth <= innerWidth + 1), 'Page must remain within viewport');
+      assert(await qa.evaluate(() => document.querySelector('#info-dialog').scrollWidth <= document.querySelector('#info-dialog').clientWidth + 1), 'Dialog must not overflow horizontally');
+    }
+    await qa.setViewportSize({ width:390,height:844 });
+    await qa.screenshot({ path:'output/playwright/health-reconciliation-fixture-mobile.png', animations:'disabled' }); await close();
+    await qa.unroute('**/api/health');
+    await qa.route('**/api/health', route => route.fulfill({ status:503, json:{ ...health, state:'storage-unavailable', execution:null, usage:null } }));
+    await qa.locator('#proof-button').click(); await qa.getByText('Stored state unavailable', { exact:true }).waitFor();
+    assert(!(await qa.locator('[data-operational-health]').textContent()).includes('33 / 250'), 'Do not retain an earlier successful counter after a failure');
+    assert(errors.length === 0, errors.join('; ')); assert(posts.length === 0, 'Status must not call a model or wallet');
+    return { passed:true, pageErrors:errors, postRequests:0, viewports:3, states:['setup-required', 'reconciliation-required', 'storage-unavailable'],
+      realInferenceCalls:0, realFunds:false };
+  } finally { await context.close(); }
+}
+)(page);
+```

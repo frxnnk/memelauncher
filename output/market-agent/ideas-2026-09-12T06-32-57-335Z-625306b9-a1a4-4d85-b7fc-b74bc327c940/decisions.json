@@ -1,0 +1,282 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-12T06:21:15Z",
+  "executionAuthorized": false,
+  "stories": [
+    {
+      "id": "preipo-opens",
+      "title": "Se abre la puerta al pre-IPO de IA",
+      "mode": "snapshot",
+      "decisions": [
+        {
+          "ideaId": "preipo-waiting-room",
+          "title": "La sala de espera del IPO",
+          "status": "EXPLORE",
+          "reason": "Extrae una situacion nueva del catalizador sin depender de otro animal ni de que ya exista un token liquido. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T23:29:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": "2026-09-12T06:02:13.449Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "preipo-news-bell",
+          "title": "La campana de los dos laboratorios",
+          "status": "EXPLORE",
+          "reason": "Permite contrastar una interpretacion mecanica con una identidad puramente visual en la misma historia. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T23:29:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": "2026-09-12T06:02:13.449Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "preipo-imaginary-board-seat",
+          "title": "Accionista sin silla",
+          "status": "REWORK",
+          "reason": "Tiene una tension cultural precisa, pero necesita resolver su expresion visual antes de priorizarla. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T23:29:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": "2026-09-12T06:02:13.449Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        }
+      ]
+    },
+    {
+      "id": "draftkings-onchain",
+      "title": "DraftKings aparece como activo en Solana",
+      "mode": "snapshot",
+      "decisions": [
+        {
+          "ideaId": "dkng-wall-street-sportsbook",
+          "title": "La mesa de Wall Street se vuelve tribuna",
+          "status": "EXPLORE",
+          "reason": "Cruza dos comportamientos culturales ligados al hecho y permite evaluar un brief concreto enseguida. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T20:09:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": "2026-09-12T06:02:17.445Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "dkng-last-leg-analyst",
+          "title": "El analista de la ultima pata",
+          "status": "REWORK",
+          "reason": "El personaje da continuidad, pero debe diferenciarse de un formato deportivo ya conocido. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T20:09:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": "2026-09-12T06:02:17.445Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "dkng-headline-parlay",
+          "title": "Parlay de titulares",
+          "status": "EXPLORE",
+          "reason": "Ofrece una accion compartible distinta del personaje y puede compararse con un prototipo minimo. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-11T20:09:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": "2026-09-12T06:02:17.445Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        }
+      ]
+    },
+    {
+      "id": "steel-verdict",
+      "title": "Una absolucion convierte al abogado en personaje",
+      "mode": "snapshot",
+      "decisions": [
+        {
+          "ideaId": "steel-lawyer-mvp",
+          "title": "El abogado entra al vestuario",
+          "status": "EXPLORE",
+          "reason": "Una identidad ya representada aun permite comparar expresiones nuevas; el brief no espera a que otro token demuestre liquidez. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-12T00:16:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": "2026-09-12T06:02:18.723Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "steel-impossible-defense",
+          "title": "Defendeme esta",
+          "status": "EXPLORE",
+          "reason": "Convierte la interpretacion cultural en una accion concreta con un minimo construible en horas. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-12T00:16:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": "2026-09-12T06:02:18.723Z",
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        }
+      ]
+    },
+    {
+      "id": "acme-resignation",
+      "title": "La alarma de IA se transforma en renuncia a ACME",
+      "mode": "snapshot",
+      "decisions": [
+        {
+          "ideaId": "acme-resignation-template",
+          "title": "Renuncio a la fabrica de catastrofes",
+          "status": "PASS",
+          "reason": "La version propuesta repite el giro ya observado y llega tarde a esa expresion concreta. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-10T01:36:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": null,
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "acme-self-painting-tunnel",
+          "title": "El tunel se pinta solo",
+          "status": "EXPLORE",
+          "reason": "Una noticia vieja puede producir una interpretacion nueva; esta se compara por su demostracion y costo, sin exigir comunidad previa. Primera observacion desconocida; la fecha de publicacion no prueba cuando vimos la noticia ni prioridad de descubrimiento. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [],
+          "timing": {
+            "publishedAt": "2026-09-10T01:36:00Z",
+            "firstSeenAt": null,
+            "firstMarketObservedAt": null,
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "unknown"
+          },
+          "executionAuthorized": false
+        }
+      ]
+    },
+    {
+      "id": "fly-retrospective",
+      "title": "Una mosca simulada: origen, personaje o accion observable",
+      "mode": "retrospective",
+      "decisions": [
+        {
+          "ideaId": "fly-google-origin",
+          "title": "Mosca + Google: ejemplo del usuario, origen por verificar",
+          "status": "REWORK",
+          "reason": "Es una rama legitima para estudiar de inmediato, pero el ejemplo de origen aun no tiene evidencia suficiente para convertirse en afirmacion. Brief o cronologia por completar: basisEvidenceIds. Lectura retrospectiva: los intervalos describen hechos pasados, no una ventana disponible hoy. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [
+            "basisEvidenceIds"
+          ],
+          "timing": {
+            "publishedAt": null,
+            "firstSeenAt": null,
+            "firstMarketObservedAt": null,
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "retrospective"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "fly-button-character",
+          "title": "La mosca frente al boton",
+          "status": "REWORK",
+          "reason": "La mosca ya es un personaje disponible, pero otra mascota exige una diferencia concreta frente al antecedente. Brief o cronologia por completar: basisEvidenceIds. Lectura retrospectiva: los intervalos describen hechos pasados, no una ventana disponible hoy. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [
+            "basisEvidenceIds"
+          ],
+          "timing": {
+            "publishedAt": null,
+            "firstSeenAt": null,
+            "firstMarketObservedAt": null,
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "retrospective"
+          },
+          "executionAuthorized": false
+        },
+        {
+          "ideaId": "fly-observable-trigger",
+          "title": "La mosca puede decir que no",
+          "status": "REWORK",
+          "reason": "Permite evaluar ya una mecanica observable con base tecnica disponible; la comunidad seria amplificador posterior, no requisito para que aparezca la idea. Brief o cronologia por completar: basisEvidenceIds. Lectura retrospectiva: los intervalos describen hechos pasados, no una ventana disponible hoy. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+          "missing": [
+            "basisEvidenceIds"
+          ],
+          "timing": {
+            "publishedAt": null,
+            "firstSeenAt": null,
+            "firstMarketObservedAt": null,
+            "firstLaunchAt": null,
+            "generatedAt": "2026-09-12T06:21:15Z",
+            "observationDelayHours": null,
+            "leadToFirstLaunchHours": null,
+            "knowledge": "retrospective"
+          },
+          "executionAuthorized": false
+        }
+      ]
+    }
+  ]
+}

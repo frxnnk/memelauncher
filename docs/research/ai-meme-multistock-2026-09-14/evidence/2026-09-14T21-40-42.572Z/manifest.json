@@ -1,0 +1,106 @@
+{
+  "observedAt": "2026-09-14T21:40:42.573Z",
+  "mode": "PUBLIC_GET_ONLY",
+  "sources": [
+    {
+      "name": "long-factory-contract.json",
+      "url": "https://robinhoodchain.blockscout.com/api/v2/smart-contracts/0x22e99278308B393ea1260859B181AD7E78f5eeED",
+      "observedAt": "2026-09-14T21:40:42.617Z",
+      "status": 403,
+      "finalUrl": "https://robinhoodchain.blockscout.com/api/v2/smart-contracts/0x22e99278308B393ea1260859B181AD7E78f5eeED",
+      "bytes": 5807,
+      "sha256": "b84b18effd2973e92aa8cedecba78a59864731236ffbc3c968fcbc8ad58f0211"
+    },
+    {
+      "name": "rh-nvda-contract.json",
+      "url": "https://robinhoodchain.blockscout.com/api/v2/smart-contracts/0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "observedAt": "2026-09-14T21:40:42.616Z",
+      "status": 403,
+      "finalUrl": "https://robinhoodchain.blockscout.com/api/v2/smart-contracts/0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "bytes": 5807,
+      "sha256": "5f8e4dbe4059c5e3ec22f9243bc712cd67de3381d04311573111fd6362dab9f0"
+    },
+    {
+      "name": "reserve-main-commit.json",
+      "url": "https://api.github.com/repos/reserve-protocol/reserve-index-dtf/commits/main",
+      "observedAt": "2026-09-14T21:40:42.618Z",
+      "status": 200,
+      "finalUrl": "https://api.github.com/repos/reserve-protocol/reserve-index-dtf/commits/main",
+      "bytes": 62513,
+      "sha256": "9452b6140690ef1e40d9381ce9f1fda2eab31aa7693be2cf73efa170915e10eb"
+    },
+    {
+      "name": "bankr-deploy.md",
+      "url": "https://docs.bankr.bot/token-launching/api-reference/deploy-token-launch.md",
+      "observedAt": "2026-09-14T21:40:42.619Z",
+      "status": 404,
+      "finalUrl": "https://docs.bankr.bot/token-launching/api-reference/deploy-token-launch.md",
+      "bytes": 11975,
+      "sha256": "edfe43880398c8171c9d77a08fb4fba359688f0104c9968a1520a7d2d3cc74a1"
+    },
+    {
+      "name": "rh-stock-tokens.html",
+      "url": "https://docs.robinhood.com/chain/stock-tokens/",
+      "observedAt": "2026-09-14T21:40:42.619Z",
+      "status": 200,
+      "finalUrl": "https://docs.robinhood.com/chain/stock-tokens/",
+      "bytes": 42948,
+      "sha256": "2c8ca9a128479343d30389286bdbc4b3bfbaf304aaddd7a5bd6a1ccc3fa5601e"
+    },
+    {
+      "name": "rh-oracles.html",
+      "url": "https://docs.robinhood.com/chain/oracles-and-price-feeds/",
+      "observedAt": "2026-09-14T21:40:42.620Z",
+      "status": 200,
+      "finalUrl": "https://docs.robinhood.com/chain/oracles-and-price-feeds/",
+      "bytes": 48636,
+      "sha256": "95cae40acf8128ccb53266f2ac1bc2822cc8fb94ee904cbf621feae7017d0420"
+    },
+    {
+      "name": "rh-assets.json",
+      "url": "https://api.robinhood.com/rhj/assets",
+      "observedAt": "2026-09-14T21:40:42.574Z",
+      "status": 200,
+      "finalUrl": "https://api.robinhood.com/rhj/assets",
+      "bytes": 154149,
+      "sha256": "5c9ba3146e6ec59fb3a17f30142a9aebccd8ea74865ab6a1106ceed210f0025f"
+    },
+    {
+      "name": "reserve-README.md",
+      "url": "https://raw.githubusercontent.com/reserve-protocol/reserve-index-dtf/18706fb455b8e6b91250deba795eb791243f6827/README.md",
+      "observedAt": "2026-09-14T21:40:43.786Z",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/reserve-protocol/reserve-index-dtf/18706fb455b8e6b91250deba795eb791243f6827/README.md",
+      "bytes": 22835,
+      "sha256": "4d223a004d9bd6986381167946379aa9ac9a70d062e5b3fa7d2a07fa56939457"
+    },
+    {
+      "name": "reserve-Folio.sol",
+      "url": "https://raw.githubusercontent.com/reserve-protocol/reserve-index-dtf/18706fb455b8e6b91250deba795eb791243f6827/contracts/Folio.sol",
+      "observedAt": "2026-09-14T21:40:43.787Z",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/reserve-protocol/reserve-index-dtf/18706fb455b8e6b91250deba795eb791243f6827/contracts/Folio.sol",
+      "bytes": 55732,
+      "sha256": "19ab8f1b66a37b282a6a2f55b3670a81d2ca4c8336a364c08c7955cb3b8a0a6f"
+    },
+    {
+      "name": "reserve-tree.json",
+      "url": "https://api.github.com/repos/reserve-protocol/reserve-index-dtf/git/trees/18706fb455b8e6b91250deba795eb791243f6827?recursive=1",
+      "observedAt": "2026-09-14T21:40:43.790Z",
+      "status": 200,
+      "finalUrl": "https://api.github.com/repos/reserve-protocol/reserve-index-dtf/git/trees/18706fb455b8e6b91250deba795eb791243f6827?recursive=1",
+      "bytes": 25356,
+      "sha256": "0392643a6bee86001f27db7d621c802881fb70450b2c9b60ab5810e843d343d3"
+    },
+    {
+      "name": "reserve-IFolio.sol",
+      "url": "https://raw.githubusercontent.com/reserve-protocol/reserve-index-dtf/18706fb455b8e6b91250deba795eb791243f6827/contracts/interfaces/IFolio.sol",
+      "observedAt": "2026-09-14T21:40:43.789Z",
+      "status": 200,
+      "finalUrl": "https://raw.githubusercontent.com/reserve-protocol/reserve-index-dtf/18706fb455b8e6b91250deba795eb791243f6827/contracts/interfaces/IFolio.sol",
+      "bytes": 8140,
+      "sha256": "f34e57cb06546be99c94c8726fd40e0cf0de582d37b391a908f73bf2d51417e0"
+    }
+  ],
+  "reserveCommit": "18706fb455b8e6b91250deba795eb791243f6827"
+}

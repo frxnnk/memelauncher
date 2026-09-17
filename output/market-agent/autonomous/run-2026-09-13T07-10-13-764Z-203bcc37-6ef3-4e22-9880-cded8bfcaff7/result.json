@@ -1,0 +1,696 @@
+{
+  "catalog": {
+    "version": 1,
+    "generatedAt": "2026-09-13T07:12:52.523Z",
+    "stories": [
+      {
+        "id": "capitan",
+        "title": "El directorio cambia; el capitán vuelve",
+        "summary": "Automattic confirmó el regreso de Mullenweg como CEO. [TechCrunch](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/). El contexto cultural es su anuncio anterior de una oferta por una casa flotante y los comentarios náuticos de su blog.",
+        "meme": "observado en la fuente: el blog presenta una oferta por Mirene como gran anuncio personal; algunos comentaristas lo llaman capitán o aluden a piratas. interpretación propuesta por el agente: convertir el regreso corporativo en la comedia de un capitán que responde a cualquier crisis hablando de su barco.",
+        "gap": "La confirmación corporativa es reciente; el anuncio náutico es del 11 de septiembre. Las respuestas del blog muestran una asociación local, no adopción amplia ni remixes verificados en X. La oferta no equivale a una compra cerrada. La combinación podría resultar demasiado interna para entenderse sin contexto.",
+        "sourceIds": [
+          "tc",
+          "river",
+          "boat"
+        ],
+        "queries": [
+          "Captain Matt",
+          "Mirene"
+        ],
+        "visualEssential": false,
+        "interpretations": [
+          {
+            "id": "timon",
+            "title": "El capitán de la reunión",
+            "angle": "character",
+            "pitch": "Un capitán ficticio interpreta cada reunión de directorio como un problema de navegación y siempre termina retomando el timón.",
+            "whatItDoes": "Sostiene una serie de diálogos cortos: recursos humanos pide explicaciones y el capitán contesta con instrucciones para atracar.",
+            "whyNow": "El regreso confirmado reactiva la lectura náutica que ya aparece en el blog del protagonista.",
+            "distinctiveElement": "La personalidad depende de confundir el gobierno de una empresa con el mando de un barco; puede funcionar mediante texto.",
+            "minimumBuild": "Escribir tres diálogos y una ficha de personaje, identificados como ficción satírica.",
+            "buildEstimate": "hours",
+            "quickCheck": "Mostrar los diálogos sin nombres propios y comprobar si se entiende la confusión entre capitán y ejecutivo.",
+            "discardIf": "Solo funciona por reconocer a Mullenweg o requiere inventarle declaraciones para producir el remate.",
+            "basisEvidenceIds": [
+              "river",
+              "boat"
+            ],
+            "storyId": "capitan",
+            "ideaId": "timon",
+            "disposition": "EXPLORE",
+            "decisionReason": "Aporta un personaje con una regla cómica repetible: traducir conflictos de directorio a instrucciones de navegación. Frente a anuncio, tiene un gesto más específico y una asociación documentada en los comentarios náuticos del blog. Según TechCrunch, Automattic confirmó el regreso de Mullenweg; el anuncio de la oferta por Mirene es del 11 de septiembre, anterior a la ventana, y no acredita una compra cerrada. El capitán ejecutivo es una interpretación satírica, no una conducta ni declaraciones verificadas del protagonista. Merece probar los tres diálogos identificados como ficción y sin nombres propios. La incertidumbre principal es si la confusión resulta comprensible y graciosa fuera del contexto de Mullenweg. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente.",
+            "competitionStatus": "partial",
+            "competitionNote": "Captain Matt devolvió coincidencias nominales, pero los metadatos adjuntos no muestran el gesto de convertir reuniones corporativas en navegación. Mirene no devolvió pares. Los nombres con Captain o Matt no bastan para establecer competencia cultural; tampoco su irrelevancia demuestra que la propuesta sea la primera.",
+            "queryEvidence": [
+              "Captain Matt",
+              "Mirene"
+            ],
+            "relatedPairs": [],
+            "relatedMarketNodeIds": [],
+            "evidence": [
+              {
+                "label": "Techmeme · full_text",
+                "url": "https://www.techmeme.com/river"
+              },
+              {
+                "label": "Matt Mullenweg · full_text",
+                "url": "https://ma.tt/2026/09/mirene/"
+              }
+            ],
+            "marketEvidence": [
+              {
+                "label": "Consulta acotada: Captain Matt",
+                "url": "https://dexscreener.com/search?q=Captain%20Matt"
+              },
+              {
+                "label": "Consulta acotada: Mirene",
+                "url": "https://dexscreener.com/search?q=Mirene"
+              }
+            ],
+            "decision": {
+              "ideaId": "timon",
+              "title": "El capitán de la reunión",
+              "status": "EXPLORE",
+              "reason": "Aporta un personaje con una regla cómica repetible: traducir conflictos de directorio a instrucciones de navegación. Frente a anuncio, tiene un gesto más específico y una asociación documentada en los comentarios náuticos del blog. Según TechCrunch, Automattic confirmó el regreso de Mullenweg; el anuncio de la oferta por Mirene es del 11 de septiembre, anterior a la ventana, y no acredita una compra cerrada. El capitán ejecutivo es una interpretación satírica, no una conducta ni declaraciones verificadas del protagonista. Merece probar los tres diálogos identificados como ficción y sin nombres propios. La incertidumbre principal es si la confusión resulta comprensible y graciosa fuera del contexto de Mullenweg. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+              "missing": [],
+              "timing": {
+                "publishedAt": "2026-09-12T16:25:00-07:00",
+                "firstSeenAt": "2026-09-13T07:12:12.169Z",
+                "firstMarketObservedAt": "2026-09-13T07:12:12.171Z",
+                "firstLaunchAt": null,
+                "generatedAt": "2026-09-13T07:12:52.523Z",
+                "observationDelayHours": 7.786713611111111,
+                "leadToFirstLaunchHours": null,
+                "knowledge": "observed"
+              },
+              "executionAuthorized": false
+            },
+            "buildLabel": "Horas"
+          },
+          {
+            "id": "anuncio",
+            "title": "Tengo un anuncio importante",
+            "angle": "mechanic",
+            "pitch": "Un comunicado acumula expectativa sobre una crisis y revela, al abrirse, una novedad personal completamente lateral.",
+            "whatItDoes": "Propone una plantilla de dos pasos: pregunta urgente del público y revelación doméstica del emisor; el barco es el primer ejemplo.",
+            "whyNow": "La nueva confirmación corporativa permite releer el anuncio anterior como un desvío cómico de expectativas.",
+            "distinctiveElement": "El remate nace de la distancia entre lo que espera la audiencia y lo que el emisor considera importante.",
+            "minimumBuild": "Preparar tres tarjetas de texto con revelación, usando situaciones ficticias además del contexto documentado.",
+            "buildEstimate": "hours",
+            "quickCheck": "Comprobar si alguien puede crear otra variante reconocible conservando la estructura y cambiando ambos temas.",
+            "discardIf": "Se reduce a clickbait genérico o necesita presentar el anuncio del barco como publicado hoy.",
+            "basisEvidenceIds": [
+              "boat",
+              "river"
+            ],
+            "storyId": "capitan",
+            "ideaId": "anuncio",
+            "disposition": "REWORK",
+            "decisionReason": "Propone un gesto distinto de timon: sustituye el personaje recurrente por una revelación lateral que frustra expectativas. Sin embargo, la estructura congelada todavía depende de una sorpresa genérica y aporta menos identidad propia. El blog documenta el anuncio personal, pero no demuestra que la audiencia esperara una respuesta concreta a la crisis ni que el autor intentara desviarla. La noticia posterior permite una relectura satírica, no atribuir esa intención ni presentar el barco como anunciado dentro de la ventana. La incertidumbre principal es si las variantes ficticias conservan una mecánica reconocible más allá del clickbait; falta demostrarlo con las tarjetas propuestas. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente.",
+            "competitionStatus": "partial",
+            "competitionNote": "Las consultas de esta historia cubren nombres asociados al protagonista y al barco, con poco alcance para evaluar una mecánica de expectativa y revelación. Ningún resultado adjunto acredita un competidor con ese gesto. La respuesta vacía de Mirene no establece una brecha cultural ni exclusividad.",
+            "queryEvidence": [
+              "Captain Matt",
+              "Mirene"
+            ],
+            "relatedPairs": [],
+            "relatedMarketNodeIds": [],
+            "evidence": [
+              {
+                "label": "Matt Mullenweg · full_text",
+                "url": "https://ma.tt/2026/09/mirene/"
+              },
+              {
+                "label": "Techmeme · full_text",
+                "url": "https://www.techmeme.com/river"
+              }
+            ],
+            "marketEvidence": [
+              {
+                "label": "Consulta acotada: Captain Matt",
+                "url": "https://dexscreener.com/search?q=Captain%20Matt"
+              },
+              {
+                "label": "Consulta acotada: Mirene",
+                "url": "https://dexscreener.com/search?q=Mirene"
+              }
+            ],
+            "decision": {
+              "ideaId": "anuncio",
+              "title": "Tengo un anuncio importante",
+              "status": "REWORK",
+              "reason": "Propone un gesto distinto de timon: sustituye el personaje recurrente por una revelación lateral que frustra expectativas. Sin embargo, la estructura congelada todavía depende de una sorpresa genérica y aporta menos identidad propia. El blog documenta el anuncio personal, pero no demuestra que la audiencia esperara una respuesta concreta a la crisis ni que el autor intentara desviarla. La noticia posterior permite una relectura satírica, no atribuir esa intención ni presentar el barco como anunciado dentro de la ventana. La incertidumbre principal es si las variantes ficticias conservan una mecánica reconocible más allá del clickbait; falta demostrarlo con las tarjetas propuestas. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+              "missing": [],
+              "timing": {
+                "publishedAt": "2026-09-12T16:25:00-07:00",
+                "firstSeenAt": "2026-09-13T07:12:12.169Z",
+                "firstMarketObservedAt": "2026-09-13T07:12:12.171Z",
+                "firstLaunchAt": null,
+                "generatedAt": "2026-09-13T07:12:52.523Z",
+                "observationDelayHours": 7.786713611111111,
+                "leadToFirstLaunchHours": null,
+                "knowledge": "observed"
+              },
+              "executionAuthorized": false
+            },
+            "buildLabel": "Horas"
+          }
+        ],
+        "mode": "snapshot",
+        "shortTitle": "El directorio cambia; el capitán vuelve",
+        "publishedAt": "2026-09-12T16:25:00-07:00",
+        "publishedDate": null,
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "firstLaunchAt": null,
+        "firstMarketObservedAt": "2026-09-13T07:12:12.171Z",
+        "evidence": [
+          {
+            "label": "Sarah Perez · full_text",
+            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+          },
+          {
+            "label": "Techmeme · full_text",
+            "url": "https://www.techmeme.com/river"
+          },
+          {
+            "label": "Matt Mullenweg · full_text",
+            "url": "https://ma.tt/2026/09/mirene/"
+          }
+        ],
+        "rootNote": "Fuentes y lectura cultural · corrida autónoma",
+        "stageLabel": "Propuesta del modelo · evidencia acotada",
+        "timingNote": "Primera detección = primera lectura documentada por este radar, no primera aparición global. Publicación informada por el modelo desde la fuente. Se usaron 16 acciones de búsqueda/apertura. Ventana: 2026-09-12T07:10:13.764Z a 2026-09-13T07:10:13.764Z. Se contrastaron tecnología, expectativas bursátiles, cultura de memes y deportes. KYM presentó como reciente un resumen cuya página indica 4 de septiembre; no se seleccionó. Deportes quedó en extractos. Las búsquedas de X no aportaron publicaciones verificables y la apertura de un post concreto devolvió 403. No se inspeccionaron imágenes ni videos. Se retiene una hipótesis con noticia reciente y contexto anterior explícito; sin recepción social verificada en X. No se consultó DEX Screener."
+      }
+    ],
+    "evidence": [
+      {
+        "id": "tc",
+        "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+        "title": "Regreso a Automattic",
+        "author": "Sarah Perez",
+        "publishedAt": "2026-09-12T16:25:00-07:00",
+        "excerpt": "La empresa confirma la restitución de Mullenweg.",
+        "kind": "news",
+        "access": "full_text",
+        "media": "not_inspected",
+        "key": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "lastSeenAt": "2026-09-13T07:12:12.169Z",
+        "observedAt": "2026-09-13T07:12:12.169Z",
+        "provenance": "Model-reported web reading, not independent fact verification"
+      },
+      {
+        "id": "river",
+        "url": "https://www.techmeme.com/river",
+        "title": "Techmeme River",
+        "author": "Techmeme",
+        "publishedAt": null,
+        "excerpt": "El índice del 12 de septiembre recoge el regreso de Mullenweg con respaldo del directorio, después de un intento de apartarlo. También enlaza declaraciones sobre una eventual salida a bolsa de OpenAI. Los horarios del agregador no sustituyen las fechas originales.",
+        "kind": "news",
+        "access": "full_text",
+        "media": "not_applicable",
+        "key": "https://www.techmeme.com/river",
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "lastSeenAt": "2026-09-13T07:12:12.169Z",
+        "observedAt": "2026-09-13T07:12:12.169Z",
+        "provenance": "Model-reported web reading, not independent fact verification"
+      },
+      {
+        "id": "boat",
+        "url": "https://ma.tt/2026/09/mirene/",
+        "title": "Major Life Announcement",
+        "author": "Matt Mullenweg",
+        "publishedAt": null,
+        "excerpt": "Mullenweg abre anticipando novedades entre bastidores y anuncia una oferta por la casa flotante Mirene, pendiente de aceptación. Entre los comentarios hay saludos de capitán y alusiones piratas. Es contexto anterior a la ventana, publicado por el protagonista y acompañado de respuestas mayormente favorables.",
+        "kind": "commentary",
+        "access": "full_text",
+        "media": "not_inspected",
+        "publishedDate": "2026-09-11",
+        "key": "https://ma.tt/2026/09/mirene/",
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "lastSeenAt": "2026-09-13T07:12:12.169Z",
+        "observedAt": "2026-09-13T07:12:12.169Z",
+        "provenance": "Model-reported web reading, not independent fact verification"
+      },
+      {
+        "id": "kym",
+        "url": "https://knowyourmeme.com/",
+        "title": "Know Your Meme",
+        "author": "Know Your Meme",
+        "publishedAt": null,
+        "excerpt": "La portada mezcla entradas históricas, explicadores de varios días y colecciones recientes. El resumen semanal figura con una antigüedad relativa incompatible con la fecha que muestra el artículo abierto.",
+        "kind": "commentary",
+        "access": "full_text",
+        "media": "not_inspected",
+        "key": "https://knowyourmeme.com/",
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "lastSeenAt": "2026-09-13T07:12:12.169Z",
+        "observedAt": "2026-09-13T07:12:12.169Z",
+        "provenance": "Model-reported web reading, not independent fact verification"
+      },
+      {
+        "id": "round",
+        "url": "https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-doomsdale-squirrel-in-a-tornado-lets-groove-and-more",
+        "title": "The Weekly Meme Roundup: Doomsdale, Squirrel In A Tornado, Let's Groove And More",
+        "author": "Phillip Hamilton",
+        "publishedAt": null,
+        "excerpt": "El artículo fechado el 4 de septiembre describe formatos y remixes previos, incluidos ejemplos de X de julio y agosto. No acredita una expresión nacida durante las últimas 24 horas.",
+        "kind": "commentary",
+        "access": "full_text",
+        "media": "not_inspected",
+        "publishedDate": "2026-09-04",
+        "key": "https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-doomsdale-squirrel-in-a-tornado-lets-groove-and-more",
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "lastSeenAt": "2026-09-13T07:12:12.169Z",
+        "observedAt": "2026-09-13T07:12:12.169Z",
+        "provenance": "Model-reported web reading, not independent fact verification"
+      },
+      {
+        "id": "ipo",
+        "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+        "title": "OpenAI e IPO",
+        "author": "Jason Ma",
+        "publishedAt": "2026-09-12T14:04:00-04:00",
+        "excerpt": "Según Fortune, Altman descarta cotizar en 2026 y alude a seguridad. Es una declaración, no una garantía.",
+        "kind": "news",
+        "access": "full_text",
+        "media": "not_inspected",
+        "key": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "lastSeenAt": "2026-09-13T07:12:12.169Z",
+        "observedAt": "2026-09-13T07:12:12.169Z",
+        "provenance": "Model-reported web reading, not independent fact verification"
+      },
+      {
+        "id": "sport",
+        "url": "https://www.foxnews.com/outkick-sports/fans-nasty-brawl-49ers-rams-watch-party-nc-state-kid-problem-push-ups-ref-pulls-hammy.amp",
+        "title": "Pelea en una proyección deportiva",
+        "author": "Joe Kinsey",
+        "publishedAt": "2026-09-12T09:18:00-04:00",
+        "excerpt": "El extracto reporta una pelea entre aficionados en Cosm; no se verificó el video.",
+        "kind": "commentary",
+        "access": "search_excerpt",
+        "media": "not_inspected",
+        "key": "https://www.foxnews.com/outkick-sports/fans-nasty-brawl-49ers-rams-watch-party-nc-state-kid-problem-push-ups-ref-pulls-hammy.amp",
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "lastSeenAt": "2026-09-13T07:12:12.169Z",
+        "observedAt": "2026-09-13T07:12:12.169Z",
+        "provenance": "Model-reported web reading, not independent fact verification"
+      }
+    ]
+  },
+  "decisions": {
+    "version": 1,
+    "generatedAt": "2026-09-13T07:12:52.523Z",
+    "executionAuthorized": false,
+    "stories": [
+      {
+        "id": "capitan",
+        "title": "El directorio cambia; el capitán vuelve",
+        "mode": "snapshot",
+        "decisions": [
+          {
+            "ideaId": "timon",
+            "title": "El capitán de la reunión",
+            "status": "EXPLORE",
+            "reason": "Aporta un personaje con una regla cómica repetible: traducir conflictos de directorio a instrucciones de navegación. Frente a anuncio, tiene un gesto más específico y una asociación documentada en los comentarios náuticos del blog. Según TechCrunch, Automattic confirmó el regreso de Mullenweg; el anuncio de la oferta por Mirene es del 11 de septiembre, anterior a la ventana, y no acredita una compra cerrada. El capitán ejecutivo es una interpretación satírica, no una conducta ni declaraciones verificadas del protagonista. Merece probar los tres diálogos identificados como ficción y sin nombres propios. La incertidumbre principal es si la confusión resulta comprensible y graciosa fuera del contexto de Mullenweg. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+            "missing": [],
+            "timing": {
+              "publishedAt": "2026-09-12T16:25:00-07:00",
+              "firstSeenAt": "2026-09-13T07:12:12.169Z",
+              "firstMarketObservedAt": "2026-09-13T07:12:12.171Z",
+              "firstLaunchAt": null,
+              "generatedAt": "2026-09-13T07:12:52.523Z",
+              "observationDelayHours": 7.786713611111111,
+              "leadToFirstLaunchHours": null,
+              "knowledge": "observed"
+            },
+            "executionAuthorized": false
+          },
+          {
+            "ideaId": "anuncio",
+            "title": "Tengo un anuncio importante",
+            "status": "REWORK",
+            "reason": "Propone un gesto distinto de timon: sustituye el personaje recurrente por una revelación lateral que frustra expectativas. Sin embargo, la estructura congelada todavía depende de una sorpresa genérica y aporta menos identidad propia. El blog documenta el anuncio personal, pero no demuestra que la audiencia esperara una respuesta concreta a la crisis ni que el autor intentara desviarla. La noticia posterior permite una relectura satírica, no atribuir esa intención ni presentar el barco como anunciado dentro de la ventana. La incertidumbre principal es si las variantes ficticias conservan una mecánica reconocible más allá del clickbait; falta demostrarlo con las tarjetas propuestas. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+            "missing": [],
+            "timing": {
+              "publishedAt": "2026-09-12T16:25:00-07:00",
+              "firstSeenAt": "2026-09-13T07:12:12.169Z",
+              "firstMarketObservedAt": "2026-09-13T07:12:12.171Z",
+              "firstLaunchAt": null,
+              "generatedAt": "2026-09-13T07:12:52.523Z",
+              "observationDelayHours": 7.786713611111111,
+              "leadToFirstLaunchHours": null,
+              "knowledge": "observed"
+            },
+            "executionAuthorized": false
+          }
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "key": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "url": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "firstSeenAt": "2026-09-12T07:00:00.000Z",
+      "lastSeenAt": "2026-09-12T07:00:00.000Z"
+    },
+    {
+      "key": "https://x.com/Stellantis",
+      "url": "https://x.com/Stellantis",
+      "firstSeenAt": "2026-09-12T07:31:46.588Z",
+      "lastSeenAt": "2026-09-12T07:31:46.588Z"
+    },
+    {
+      "key": "x:2098515172973478187",
+      "url": "https://x.com/vigram_void/status/2098515172973478187",
+      "firstSeenAt": "2026-09-12T07:31:20.987Z",
+      "lastSeenAt": "2026-09-12T07:31:20.987Z"
+    },
+    {
+      "key": "x:2098581358469611549",
+      "url": "https://x.com/unusual_whales/status/2098581358469611549",
+      "firstSeenAt": "2026-09-12T06:58:39.069Z",
+      "lastSeenAt": "2026-09-12T07:30:57.777Z"
+    },
+    {
+      "key": "x:2098582496283648374",
+      "url": "https://x.com/twan618/status/2098582496283648374",
+      "firstSeenAt": "2026-09-12T06:58:39.069Z",
+      "lastSeenAt": "2026-09-12T06:58:39.069Z"
+    },
+    {
+      "key": "x:2098592593319805379",
+      "url": "https://x.com/ccccccmore/status/2098592593319805379",
+      "firstSeenAt": "2026-09-12T06:58:39.069Z",
+      "lastSeenAt": "2026-09-12T06:58:39.069Z"
+    },
+    {
+      "key": "x:2098599439346831859",
+      "url": "https://x.com/jatingargiitk/status/2098599439346831859",
+      "firstSeenAt": "2026-09-12T06:58:39.069Z",
+      "lastSeenAt": "2026-09-12T06:58:39.069Z"
+    },
+    {
+      "key": "x:2098649457219035385",
+      "url": "https://x.com/jaffersadiq4u/status/2098649457219035385",
+      "firstSeenAt": "2026-09-12T07:30:57.777Z",
+      "lastSeenAt": "2026-09-12T07:30:57.777Z"
+    },
+    {
+      "key": "x:2098673399656575144",
+      "url": "https://x.com/hesperian_view/status/2098673399656575144",
+      "firstSeenAt": "2026-09-12T07:32:46.812Z",
+      "lastSeenAt": "2026-09-12T07:32:46.812Z"
+    },
+    {
+      "key": "x:2098627160139325791",
+      "url": "https://x.com/PopBase/status/2098627160139325791",
+      "firstSeenAt": "2026-09-12T06:59:18.911Z",
+      "lastSeenAt": "2026-09-12T07:32:22.521Z"
+    },
+    {
+      "key": "x:2098627265189851341",
+      "url": "https://x.com/NTLTCGENESIS/status/2098627265189851341",
+      "firstSeenAt": "2026-09-12T07:30:49.831Z",
+      "lastSeenAt": "2026-09-12T07:30:49.831Z"
+    },
+    {
+      "key": "x:2098631494415565145",
+      "url": "https://x.com/Ariremako8181/status/2098631494415565145",
+      "firstSeenAt": "2026-09-12T06:59:18.911Z",
+      "lastSeenAt": "2026-09-12T06:59:18.911Z"
+    },
+    {
+      "key": "x:2098633583204180081",
+      "url": "https://x.com/pumpkwnpied/status/2098633583204180081",
+      "firstSeenAt": "2026-09-12T06:59:18.911Z",
+      "lastSeenAt": "2026-09-12T06:59:18.911Z"
+    },
+    {
+      "key": "x:2098669182858473780",
+      "url": "https://x.com/freckledlipsss/status/2098669182858473780",
+      "firstSeenAt": "2026-09-12T07:32:22.521Z",
+      "lastSeenAt": "2026-09-12T07:32:22.521Z"
+    },
+    {
+      "key": "x:2098669603442278851",
+      "url": "https://x.com/lilonostitches/status/2098669603442278851",
+      "firstSeenAt": "2026-09-12T07:32:41.075Z",
+      "lastSeenAt": "2026-09-12T07:32:41.075Z"
+    },
+    {
+      "key": "x:2098671588103369111",
+      "url": "https://x.com/GoyBeamTarget/status/2098671588103369111",
+      "firstSeenAt": "2026-09-12T07:32:22.521Z",
+      "lastSeenAt": "2026-09-12T07:32:22.521Z"
+    },
+    {
+      "key": "x:2098672663774593219",
+      "url": "https://x.com/monoesque/status/2098672663774593219",
+      "firstSeenAt": "2026-09-12T07:32:22.521Z",
+      "lastSeenAt": "2026-09-12T07:32:22.521Z"
+    },
+    {
+      "key": "x:2098673500567249326",
+      "url": "https://x.com/LElASSPACEBUNS/status/2098673500567249326",
+      "firstSeenAt": "2026-09-12T07:32:22.521Z",
+      "lastSeenAt": "2026-09-12T07:32:22.521Z"
+    },
+    {
+      "key": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "firstSeenAt": "2026-09-13T07:12:12.169Z",
+      "lastSeenAt": "2026-09-13T07:12:12.169Z"
+    },
+    {
+      "key": "https://www.techmeme.com/river",
+      "url": "https://www.techmeme.com/river",
+      "firstSeenAt": "2026-09-13T07:12:12.169Z",
+      "lastSeenAt": "2026-09-13T07:12:12.169Z"
+    },
+    {
+      "key": "https://ma.tt/2026/09/mirene/",
+      "url": "https://ma.tt/2026/09/mirene/",
+      "firstSeenAt": "2026-09-13T07:12:12.169Z",
+      "lastSeenAt": "2026-09-13T07:12:12.169Z"
+    },
+    {
+      "key": "https://knowyourmeme.com/",
+      "url": "https://knowyourmeme.com/",
+      "firstSeenAt": "2026-09-13T07:12:12.169Z",
+      "lastSeenAt": "2026-09-13T07:12:12.169Z"
+    },
+    {
+      "key": "https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-doomsdale-squirrel-in-a-tornado-lets-groove-and-more",
+      "url": "https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-doomsdale-squirrel-in-a-tornado-lets-groove-and-more",
+      "firstSeenAt": "2026-09-13T07:12:12.169Z",
+      "lastSeenAt": "2026-09-13T07:12:12.169Z"
+    },
+    {
+      "key": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+      "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/",
+      "firstSeenAt": "2026-09-13T07:12:12.169Z",
+      "lastSeenAt": "2026-09-13T07:12:12.169Z"
+    },
+    {
+      "key": "https://www.foxnews.com/outkick-sports/fans-nasty-brawl-49ers-rams-watch-party-nc-state-kid-problem-push-ups-ref-pulls-hammy.amp",
+      "url": "https://www.foxnews.com/outkick-sports/fans-nasty-brawl-49ers-rams-watch-party-nc-state-kid-problem-push-ups-ref-pulls-hammy.amp",
+      "firstSeenAt": "2026-09-13T07:12:12.169Z",
+      "lastSeenAt": "2026-09-13T07:12:12.169Z"
+    }
+  ],
+  "map": {
+    "version": 2,
+    "generatedAt": "2026-09-13T07:12:52.523Z",
+    "sourceObservedAt": "2026-09-13T07:12:12.169Z",
+    "selectedStoryId": "capitan",
+    "stories": [
+      {
+        "id": "capitan",
+        "title": "El directorio cambia; el capitán vuelve",
+        "summary": "Automattic confirmó el regreso de Mullenweg como CEO. [TechCrunch](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/). El contexto cultural es su anuncio anterior de una oferta por una casa flotante y los comentarios náuticos de su blog.",
+        "meme": "observado en la fuente: el blog presenta una oferta por Mirene como gran anuncio personal; algunos comentaristas lo llaman capitán o aluden a piratas. interpretación propuesta por el agente: convertir el regreso corporativo en la comedia de un capitán que responde a cualquier crisis hablando de su barco.",
+        "gap": "La confirmación corporativa es reciente; el anuncio náutico es del 11 de septiembre. Las respuestas del blog muestran una asociación local, no adopción amplia ni remixes verificados en X. La oferta no equivale a una compra cerrada. La combinación podría resultar demasiado interna para entenderse sin contexto.",
+        "sourceIds": [
+          "tc",
+          "river",
+          "boat"
+        ],
+        "queries": [
+          "Captain Matt",
+          "Mirene"
+        ],
+        "visualEssential": false,
+        "interpretations": [
+          {
+            "id": "timon",
+            "title": "El capitán de la reunión",
+            "angle": "character",
+            "pitch": "Un capitán ficticio interpreta cada reunión de directorio como un problema de navegación y siempre termina retomando el timón.",
+            "whatItDoes": "Sostiene una serie de diálogos cortos: recursos humanos pide explicaciones y el capitán contesta con instrucciones para atracar.",
+            "whyNow": "El regreso confirmado reactiva la lectura náutica que ya aparece en el blog del protagonista.",
+            "distinctiveElement": "La personalidad depende de confundir el gobierno de una empresa con el mando de un barco; puede funcionar mediante texto.",
+            "minimumBuild": "Escribir tres diálogos y una ficha de personaje, identificados como ficción satírica.",
+            "buildEstimate": "hours",
+            "quickCheck": "Mostrar los diálogos sin nombres propios y comprobar si se entiende la confusión entre capitán y ejecutivo.",
+            "discardIf": "Solo funciona por reconocer a Mullenweg o requiere inventarle declaraciones para producir el remate.",
+            "basisEvidenceIds": [
+              "river",
+              "boat"
+            ],
+            "storyId": "capitan",
+            "ideaId": "timon",
+            "disposition": "EXPLORE",
+            "decisionReason": "Aporta un personaje con una regla cómica repetible: traducir conflictos de directorio a instrucciones de navegación. Frente a anuncio, tiene un gesto más específico y una asociación documentada en los comentarios náuticos del blog. Según TechCrunch, Automattic confirmó el regreso de Mullenweg; el anuncio de la oferta por Mirene es del 11 de septiembre, anterior a la ventana, y no acredita una compra cerrada. El capitán ejecutivo es una interpretación satírica, no una conducta ni declaraciones verificadas del protagonista. Merece probar los tres diálogos identificados como ficción y sin nombres propios. La incertidumbre principal es si la confusión resulta comprensible y graciosa fuera del contexto de Mullenweg. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente.",
+            "competitionStatus": "partial",
+            "competitionNote": "Captain Matt devolvió coincidencias nominales, pero los metadatos adjuntos no muestran el gesto de convertir reuniones corporativas en navegación. Mirene no devolvió pares. Los nombres con Captain o Matt no bastan para establecer competencia cultural; tampoco su irrelevancia demuestra que la propuesta sea la primera.",
+            "queryEvidence": [
+              "Captain Matt",
+              "Mirene"
+            ],
+            "relatedPairs": [],
+            "relatedMarketNodeIds": [],
+            "evidence": [
+              {
+                "label": "Techmeme · full_text",
+                "url": "https://www.techmeme.com/river"
+              },
+              {
+                "label": "Matt Mullenweg · full_text",
+                "url": "https://ma.tt/2026/09/mirene/"
+              }
+            ],
+            "marketEvidence": [
+              {
+                "label": "Consulta acotada: Captain Matt",
+                "url": "https://dexscreener.com/search?q=Captain%20Matt"
+              },
+              {
+                "label": "Consulta acotada: Mirene",
+                "url": "https://dexscreener.com/search?q=Mirene"
+              }
+            ],
+            "decision": {
+              "ideaId": "timon",
+              "title": "El capitán de la reunión",
+              "status": "EXPLORE",
+              "reason": "Aporta un personaje con una regla cómica repetible: traducir conflictos de directorio a instrucciones de navegación. Frente a anuncio, tiene un gesto más específico y una asociación documentada en los comentarios náuticos del blog. Según TechCrunch, Automattic confirmó el regreso de Mullenweg; el anuncio de la oferta por Mirene es del 11 de septiembre, anterior a la ventana, y no acredita una compra cerrada. El capitán ejecutivo es una interpretación satírica, no una conducta ni declaraciones verificadas del protagonista. Merece probar los tres diálogos identificados como ficción y sin nombres propios. La incertidumbre principal es si la confusión resulta comprensible y graciosa fuera del contexto de Mullenweg. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+              "missing": [],
+              "timing": {
+                "publishedAt": "2026-09-12T16:25:00-07:00",
+                "firstSeenAt": "2026-09-13T07:12:12.169Z",
+                "firstMarketObservedAt": "2026-09-13T07:12:12.171Z",
+                "firstLaunchAt": null,
+                "generatedAt": "2026-09-13T07:12:52.523Z",
+                "observationDelayHours": 7.786713611111111,
+                "leadToFirstLaunchHours": null,
+                "knowledge": "observed"
+              },
+              "executionAuthorized": false
+            },
+            "buildLabel": "Horas"
+          },
+          {
+            "id": "anuncio",
+            "title": "Tengo un anuncio importante",
+            "angle": "mechanic",
+            "pitch": "Un comunicado acumula expectativa sobre una crisis y revela, al abrirse, una novedad personal completamente lateral.",
+            "whatItDoes": "Propone una plantilla de dos pasos: pregunta urgente del público y revelación doméstica del emisor; el barco es el primer ejemplo.",
+            "whyNow": "La nueva confirmación corporativa permite releer el anuncio anterior como un desvío cómico de expectativas.",
+            "distinctiveElement": "El remate nace de la distancia entre lo que espera la audiencia y lo que el emisor considera importante.",
+            "minimumBuild": "Preparar tres tarjetas de texto con revelación, usando situaciones ficticias además del contexto documentado.",
+            "buildEstimate": "hours",
+            "quickCheck": "Comprobar si alguien puede crear otra variante reconocible conservando la estructura y cambiando ambos temas.",
+            "discardIf": "Se reduce a clickbait genérico o necesita presentar el anuncio del barco como publicado hoy.",
+            "basisEvidenceIds": [
+              "boat",
+              "river"
+            ],
+            "storyId": "capitan",
+            "ideaId": "anuncio",
+            "disposition": "REWORK",
+            "decisionReason": "Propone un gesto distinto de timon: sustituye el personaje recurrente por una revelación lateral que frustra expectativas. Sin embargo, la estructura congelada todavía depende de una sorpresa genérica y aporta menos identidad propia. El blog documenta el anuncio personal, pero no demuestra que la audiencia esperara una respuesta concreta a la crisis ni que el autor intentara desviarla. La noticia posterior permite una relectura satírica, no atribuir esa intención ni presentar el barco como anunciado dentro de la ventana. La incertidumbre principal es si las variantes ficticias conservan una mecánica reconocible más allá del clickbait; falta demostrarlo con las tarjetas propuestas. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente.",
+            "competitionStatus": "partial",
+            "competitionNote": "Las consultas de esta historia cubren nombres asociados al protagonista y al barco, con poco alcance para evaluar una mecánica de expectativa y revelación. Ningún resultado adjunto acredita un competidor con ese gesto. La respuesta vacía de Mirene no establece una brecha cultural ni exclusividad.",
+            "queryEvidence": [
+              "Captain Matt",
+              "Mirene"
+            ],
+            "relatedPairs": [],
+            "relatedMarketNodeIds": [],
+            "evidence": [
+              {
+                "label": "Matt Mullenweg · full_text",
+                "url": "https://ma.tt/2026/09/mirene/"
+              },
+              {
+                "label": "Techmeme · full_text",
+                "url": "https://www.techmeme.com/river"
+              }
+            ],
+            "marketEvidence": [
+              {
+                "label": "Consulta acotada: Captain Matt",
+                "url": "https://dexscreener.com/search?q=Captain%20Matt"
+              },
+              {
+                "label": "Consulta acotada: Mirene",
+                "url": "https://dexscreener.com/search?q=Mirene"
+              }
+            ],
+            "decision": {
+              "ideaId": "anuncio",
+              "title": "Tengo un anuncio importante",
+              "status": "REWORK",
+              "reason": "Propone un gesto distinto de timon: sustituye el personaje recurrente por una revelación lateral que frustra expectativas. Sin embargo, la estructura congelada todavía depende de una sorpresa genérica y aporta menos identidad propia. El blog documenta el anuncio personal, pero no demuestra que la audiencia esperara una respuesta concreta a la crisis ni que el autor intentara desviarla. La noticia posterior permite una relectura satírica, no atribuir esa intención ni presentar el barco como anunciado dentro de la ventana. La incertidumbre principal es si las variantes ficticias conservan una mecánica reconocible más allá del clickbait; falta demostrarlo con las tarjetas propuestas. Sin publicación de X documentada: interpretación propuesta, recepción social pendiente. Primer lanzamiento desconocido; no se afirma que aun no exista un token.",
+              "missing": [],
+              "timing": {
+                "publishedAt": "2026-09-12T16:25:00-07:00",
+                "firstSeenAt": "2026-09-13T07:12:12.169Z",
+                "firstMarketObservedAt": "2026-09-13T07:12:12.171Z",
+                "firstLaunchAt": null,
+                "generatedAt": "2026-09-13T07:12:52.523Z",
+                "observationDelayHours": 7.786713611111111,
+                "leadToFirstLaunchHours": null,
+                "knowledge": "observed"
+              },
+              "executionAuthorized": false
+            },
+            "buildLabel": "Horas"
+          }
+        ],
+        "mode": "snapshot",
+        "shortTitle": "El directorio cambia; el capitán vuelve",
+        "publishedAt": "2026-09-12T16:25:00-07:00",
+        "publishedDate": null,
+        "firstSeenAt": "2026-09-13T07:12:12.169Z",
+        "firstLaunchAt": null,
+        "firstMarketObservedAt": "2026-09-13T07:12:12.171Z",
+        "evidence": [
+          {
+            "label": "Sarah Perez · full_text",
+            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+          },
+          {
+            "label": "Techmeme · full_text",
+            "url": "https://www.techmeme.com/river"
+          },
+          {
+            "label": "Matt Mullenweg · full_text",
+            "url": "https://ma.tt/2026/09/mirene/"
+          }
+        ],
+        "rootNote": "Fuentes y lectura cultural · corrida autónoma",
+        "stageLabel": "Propuesta del modelo · evidencia acotada",
+        "timingNote": "Primera detección = primera lectura documentada por este radar, no primera aparición global. Publicación informada por el modelo desde la fuente. Se usaron 16 acciones de búsqueda/apertura. Ventana: 2026-09-12T07:10:13.764Z a 2026-09-13T07:10:13.764Z. Se contrastaron tecnología, expectativas bursátiles, cultura de memes y deportes. KYM presentó como reciente un resumen cuya página indica 4 de septiembre; no se seleccionó. Deportes quedó en extractos. Las búsquedas de X no aportaron publicaciones verificables y la apertura de un post concreto devolvió 403. No se inspeccionaron imágenes ni videos. Se retiene una hipótesis con noticia reciente y contexto anterior explícito; sin recepción social verificada en X. No se consultó DEX Screener."
+      }
+    ],
+    "followup": null
+  },
+  "summary": "Una interpretación merece una prueba creativa y otra necesita diferenciación. EXPLORE no autoriza un lanzamiento. La evidencia social se limita a comentarios del blog: las búsquedas de X no aportaron publicaciones verificables y una apertura devolvió 403. No se inspeccionaron imágenes ni videos. Las consultas de mercado adjuntas son una muestra acotada; no acreditan exclusividad y sus volúmenes reportados no demuestran demanda orgánica.",
+  "coverageNote": "Se usaron 16 acciones de búsqueda/apertura. Ventana: 2026-09-12T07:10:13.764Z a 2026-09-13T07:10:13.764Z. Se contrastaron tecnología, expectativas bursátiles, cultura de memes y deportes. KYM presentó como reciente un resumen cuya página indica 4 de septiembre; no se seleccionó. Deportes quedó en extractos. Las búsquedas de X no aportaron publicaciones verificables y la apertura de un post concreto devolvió 403. No se inspeccionaron imágenes ni videos. Se retiene una hipótesis con noticia reciente y contexto anterior explícito; sin recepción social verificada en X. No se consultó DEX Screener.",
+  "abstentionReason": ""
+}

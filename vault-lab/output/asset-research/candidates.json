@@ -1,0 +1,68 @@
+{
+  "gameTokenConfigured": false,
+  "recordedAt": "2026-09-14T19:11:51.1128686Z",
+  "rawSha256": "5f78a09ba5ec3d2d2a4dc5222cd1d930fb99339854cc8902ba6ef0d3a9f34126",
+  "candidates": [
+    {
+      "deployments": [
+        {
+          "contractAddress": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
+          "chainId": 4663,
+          "networkName": "Robinhood Chain"
+        }
+      ],
+      "multiplier": "1.000412952576205964",
+      "symbol": "MSFT",
+      "longCompatibility": "unverified",
+      "status": "ASSET_STATUS_ACTIVE",
+      "name": "Microsoft • Robinhood Token",
+      "selected": false,
+      "pendingMultiplier": "",
+      "decimals": 18
+    },
+    {
+      "deployments": [
+        {
+          "contractAddress": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+          "chainId": 4663,
+          "networkName": "Robinhood Chain"
+        }
+      ],
+      "multiplier": "1.000000000000000000",
+      "symbol": "GOOGL",
+      "longCompatibility": "unverified",
+      "status": "ASSET_STATUS_ACTIVE",
+      "name": "Alphabet Class A • Robinhood Token",
+      "selected": false,
+      "pendingMultiplier": "",
+      "decimals": 18
+    },
+    {
+      "deployments": [
+        {
+          "contractAddress": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+          "chainId": 4663,
+          "networkName": "Robinhood Chain"
+        }
+      ],
+      "multiplier": "1.000775159164630595",
+      "symbol": "NVDA",
+      "longCompatibility": "unverified",
+      "status": "ASSET_STATUS_ACTIVE",
+      "name": "NVIDIA • Robinhood Token",
+      "selected": false,
+      "pendingMultiplier": "",
+      "decimals": 18
+    }
+  ],
+  "paidTransactions": 0,
+  "nvdaRpcEvidence": "nvda-rpc.json",
+  "source": "https://api.robinhood.com/rhj/assets",
+  "long": {
+    "directFetchStatus": 403,
+    "source": "https://app.long.xyz/",
+    "officialPage": "Stock-token launch announcement observed through web reader",
+    "currentLaunchCatalog": "not-verified"
+  },
+  "registryObservedAt": "2026-09-14T19:02:17.4365337Z"
+}

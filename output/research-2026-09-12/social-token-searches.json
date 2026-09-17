@@ -1,0 +1,5353 @@
+[
+  {
+    "query": "polar bear",
+    "capturedAt": "2026-09-12T04:12:09.9773949Z",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "robinhood",
+          "dexId": "flapsh",
+          "url": "https://dexscreener.com/robinhood/0x9db9dca7f81b57b33b8009155bb1d91198413231",
+          "pairAddress": "0x9dB9dCA7f81B57B33b8009155bB1d91198413231",
+          "baseToken": {
+            "address": "0x98B842b744057a619077F1Ce502630309d2b7777",
+            "name": "Polar Bear",
+            "symbol": "POLAR"
+          },
+          "quoteToken": {
+            "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+            "name": "WETH",
+            "symbol": "WETH"
+          },
+          "priceNative": "0.000000001733",
+          "priceUsd": "0.000004356",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 1,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 9645.87,
+            "base": 1107036295,
+            "quote": 1.9189
+          },
+          "fdv": 4357,
+          "marketCap": 4357,
+          "pairCreatedAt": 1789169147000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpswap",
+          "url": "https://dexscreener.com/solana/55m64wom97tbwcys9rkrbnrg1cw9tofgq4842wacjafc",
+          "pairAddress": "55M64Wom97tbWcys9RKRbNRG1cW9toFGQ4842wACjafC",
+          "baseToken": {
+            "address": "DNnJkBLRYB395FfkVapcuqFviV3ppAQHrrGSngNvpump",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000001975",
+          "priceUsd": "0.000002014",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 1969,
+              "sells": 1153
+            },
+            "h24": {
+              "buys": 1969,
+              "sells": 1153
+            }
+          },
+          "volume": {
+            "h24": 207313.43,
+            "h6": 207313.43,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -95.11,
+            "h24": -95.11
+          },
+          "liquidity": {
+            "usd": 2069.96,
+            "base": 952686673,
+            "quote": 1.4761
+          },
+          "fdv": 1974,
+          "marketCap": 1974,
+          "pairCreatedAt": 1789169146000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/jcsqxrbxcabqulxzlxemtyyruaern3hobjnswrbou5jy",
+          "pairAddress": "JCSQxrBxcAbquLxzLxEMTYYRUAErn3hoBjnswRboU5jy",
+          "baseToken": {
+            "address": "8N1fb4pB1MXj9brXdNSGeUyKASU2G3XZjZEVp78gpump",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002861",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 20,
+              "sells": 17
+            },
+            "h24": {
+              "buys": 20,
+              "sells": 17
+            }
+          },
+          "volume": {
+            "h24": 2593.67,
+            "h6": 2593.67,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -11.83,
+            "h24": -11.83
+          },
+          "fdv": 2861.32,
+          "marketCap": 2861.32,
+          "pairCreatedAt": 1789169038000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/3ulcfbzyks6cfrnfkh5dhjnxr2jznc7j8u9ihg3zssck",
+          "pairAddress": "3uLCfBzyKS6cFrnFKh5DhJnxR2jznC7j8U9iHG3zSscK",
+          "baseToken": {
+            "address": "4BSo5a1LKn4aTBQcdmPPa9YB4bysPRJxspH7ki47pump",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002857",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 26,
+              "sells": 26
+            },
+            "h24": {
+              "buys": 26,
+              "sells": 26
+            }
+          },
+          "volume": {
+            "h24": 2392.34,
+            "h6": 2392.34,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -11.99,
+            "h24": -11.99
+          },
+          "fdv": 2857.69,
+          "marketCap": 2857.69,
+          "pairCreatedAt": 1789168988000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/91vknji5dj1hf1x9j9mjhpabcvqmhapdvknvvozhsacy",
+          "pairAddress": "91VkNji5Dj1hf1x9j9mjhpABCVqMhaPDVKnVvoZhSAcy",
+          "baseToken": {
+            "address": "25utY9YHV8NzYwqNAbfxNbkVTF3F36cXV12L9kC4pump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000001065",
+          "priceUsd": "0.00001087",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 48,
+              "sells": 40
+            }
+          },
+          "volume": {
+            "h24": 2288.57,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 277
+          },
+          "fdv": 10876.64,
+          "marketCap": 10876.64,
+          "pairCreatedAt": 1789163556000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "flapsh",
+          "url": "https://dexscreener.com/bsc/0x44902facc3ce294f77b4b8f29986870b65e8745b",
+          "pairAddress": "0x44902FAcc3CE294F77B4b8F29986870b65e8745b",
+          "baseToken": {
+            "address": "0xAD209b17a6fCE659523d3cAC2897448EE32D7777",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "priceNative": "0.000003466",
+          "priceUsd": "0.000003466",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 1,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 1.42,
+            "h6": 1.42,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -0.04,
+            "h24": -0.04
+          },
+          "liquidity": {
+            "usd": 7673.99,
+            "base": 1107036752,
+            "quote": 3837
+          },
+          "fdv": 3466,
+          "marketCap": 3466,
+          "pairCreatedAt": 1789169220000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/fxfvsz3bhnizkwwiwajjciechpwnqpxaradzykqjkb5a",
+          "pairAddress": "FXFvSZ3BhNizKwwiWAjjCiEchpwnQpXarAdzyKQjKB5a",
+          "baseToken": {
+            "address": "25uoLLzrVqUJqni8uQE7snyVV6Zi8RZ3C8wbGPQJpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000000004891",
+          "priceUsd": "0.00000005023",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 78,
+              "sells": 84
+            }
+          },
+          "volume": {
+            "h24": 346.31,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -98.26
+          },
+          "fdv": 50.24,
+          "marketCap": 50.24,
+          "pairCreatedAt": 1789162997000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/2r7bv3oxr5cqkqckbd4avoydswkh12kqg7vpwvhzynej",
+          "pairAddress": "2R7bv3oXR5CQkQcKbd4avoYdSWkh12kQG7vpwvHzYnej",
+          "baseToken": {
+            "address": "zDE9rJetgZ9FezdndWcMAexBkHeARM3RodPWzTgpump",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002858",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 21,
+              "sells": 14
+            },
+            "h24": {
+              "buys": 21,
+              "sells": 14
+            }
+          },
+          "volume": {
+            "h24": 203.76,
+            "h6": 203.76,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -5.07,
+            "h24": -5.07
+          },
+          "fdv": 2858.53,
+          "marketCap": 2858.53,
+          "pairCreatedAt": 1789168967000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/eziq5cjpduoeolp4uxpxp25dhdxqrrz6twbfvt5h6rgg",
+          "pairAddress": "EZiq5cJpDuoeoLp4UXpxP25dHDxQRRz6TwBFvt5h6Rgg",
+          "baseToken": {
+            "address": "25upW55f5Brw1GbC87SXYH98kBAP4WYKuxny3U4Hpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000003039",
+          "priceUsd": "0.000003114",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 25,
+              "sells": 27
+            }
+          },
+          "volume": {
+            "h24": 133.54,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 7.86
+          },
+          "fdv": 3114.49,
+          "marketCap": 3114.49,
+          "pairCreatedAt": 1789163253000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/ccvcg3g8mbyxqygtnu2jnzwedc8xpknewejce9my3vma",
+          "pairAddress": "CCvCg3g8MbyxqYgtNU2JNzwedc8xpKNeweJCE9MY3Vma",
+          "baseToken": {
+            "address": "25unPuKmycvMUtf3AVCsNuEK4L2m3Qy4PsfypavSpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000004038",
+          "priceUsd": "0.000004127",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 14,
+              "sells": 15
+            }
+          },
+          "volume": {
+            "h24": 63.63,
+            "h6": 1.14,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -0.45,
+            "h24": 42.93
+          },
+          "fdv": 4127.61,
+          "marketCap": 4127.61,
+          "pairCreatedAt": 1789162941000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/bntifv5pcqy4tcypnshuouqnafbuxcpu5q9k3o3v61g",
+          "pairAddress": "BnTiFv5pCqy4tcyPNshUoUqnaFBUXCPU5q9K3o3v61G",
+          "baseToken": {
+            "address": "25upQcQeNX9CvUpV4SVFNSdorrThBTiyWhsfKRycpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000000006614",
+          "priceUsd": "0.00000006786",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 24,
+              "sells": 32
+            }
+          },
+          "volume": {
+            "h24": 97.85,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -97.65
+          },
+          "fdv": 67.86,
+          "marketCap": 67.86,
+          "pairCreatedAt": 1789163184000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/hbtz43jqj4myzx123bksveseac7ewkdsutct4szydrgi",
+          "pairAddress": "HBtZ43jQJ4MyZx123bksVESEac7EwKdSuTCt4sZydrGi",
+          "baseToken": {
+            "address": "25unzNwz1fXwDVCCqjMs1kBmjnA9d2jYfZ5iBcvzpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000006339",
+          "priceUsd": "0.000006507",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 17,
+              "sells": 17
+            }
+          },
+          "volume": {
+            "h24": 67.88,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 125
+          },
+          "fdv": 6507.4,
+          "marketCap": 6507.4,
+          "pairCreatedAt": 1789162963000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/ctdegjgozttj8aeyv9swswvscx1vjvjpznsnkk9jqnfh",
+          "pairAddress": "CTDegJgoZTtJ8aeYV9SwSWVScx1VjVJpZNsnkK9jqnfh",
+          "baseToken": {
+            "address": "25usy3Bom4AGUnUEY74TjShSqHnVEKXcJcfdBUpepump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.000000002514",
+          "priceUsd": "0.0000002574",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 18,
+              "sells": 20
+            }
+          },
+          "volume": {
+            "h24": 80.5,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -91.07
+          },
+          "fdv": 257.44,
+          "marketCap": 257.44,
+          "pairCreatedAt": 1789163462000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/9fnbhxpvbbp66d5lyuwv1jeoahenjmkb5zuxehf94nzz",
+          "pairAddress": "9FnbhXpvBbp66D5LyuWv1jEoAhEnJmKB5zUxEHF94nzZ",
+          "baseToken": {
+            "address": "25usoqHuESEYp3hGCYjuRMZbB9TDSNDb5f3t9Vkkpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000006725",
+          "priceUsd": "0.000006886",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 12,
+              "sells": 9
+            }
+          },
+          "volume": {
+            "h24": 59.3,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 139
+          },
+          "fdv": 6886.87,
+          "marketCap": 6886.87,
+          "pairCreatedAt": 1789163438000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/6zesuaxkdguhcz7vbjkxr9hdul4tkjblghvhqfng5igb",
+          "pairAddress": "6zeSuAXkdguHcZ7VbJKXR9HdUL4tkJBLGhvHqfng5iGb",
+          "baseToken": {
+            "address": "25uoRzjD4ejj3u4GDpzDDKgcdEBcie571XZSQ6gupump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000003754",
+          "priceUsd": "0.000003846",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 16,
+              "sells": 15
+            }
+          },
+          "volume": {
+            "h24": 61.48,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 33.12
+          },
+          "fdv": 3846.85,
+          "marketCap": 3846.85,
+          "pairCreatedAt": 1789163085000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/cetrduykk62kcnpj8wpcbnzvfxk3bro7ctlu5arxzh6e",
+          "pairAddress": "CETRduYKK62kcnpJ8wpCBNZVfXk3BRo7CtLu5aRXZH6e",
+          "baseToken": {
+            "address": "25ur64QdFKjRne7AnQ9xfvabejhtWuS3ebk96FdWpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000003777",
+          "priceUsd": "0.000003869",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 10,
+              "sells": 10
+            }
+          },
+          "volume": {
+            "h24": 37.36,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 34.2
+          },
+          "fdv": 3869.39,
+          "marketCap": 3869.39,
+          "pairCreatedAt": 1789163399000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/5qilfevuy8b6b6loc6vs6meatkhds99q6rsnty9e5mds",
+          "pairAddress": "5qiLFEvuY8b6B6Loc6VS6mEaTkHds99Q6rSntY9E5mds",
+          "baseToken": {
+            "address": "25ut7P89z7e8PJzdAYSDKAu9JhSyZv4tYHdWHS6Qpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000003691",
+          "priceUsd": "0.000003783",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 5,
+              "sells": 5
+            }
+          },
+          "volume": {
+            "h24": 26.86,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 31.12
+          },
+          "fdv": 3783.06,
+          "marketCap": 3783.06,
+          "pairCreatedAt": 1789163508000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/2uelxdmw6izedhrnknp6evy8hx1oxq3t9o4eazbx6cqq",
+          "pairAddress": "2UELxDmw6iZEDhRnknP6EVY8hX1oxQ3t9o4EAzBx6cQQ",
+          "baseToken": {
+            "address": "25up6MJRhjvWRpevBytkCpgDqt1F5tV6wYtBUgPEpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000004094",
+          "priceUsd": "0.000004196",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 3,
+              "sells": 5
+            }
+          },
+          "volume": {
+            "h24": 29.3,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 45.2
+          },
+          "fdv": 4196.85,
+          "marketCap": 4196.85,
+          "pairCreatedAt": 1789163146000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/egkbg9nmpbgjgpczfbgx71kvkab6mydkknhakl47p8km",
+          "pairAddress": "EGKBG9NmpbGjGPCzFBGX71kVKab6mydKKNhAkL47P8KM",
+          "baseToken": {
+            "address": "25uqDwh5FLdRKvn3eFhAkpkyx6uBn2x2a8iRW2dwpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000003826",
+          "priceUsd": "0.000003920",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 3,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 28.15,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 35.9
+          },
+          "fdv": 3920.56,
+          "marketCap": 3920.56,
+          "pairCreatedAt": 1789163355000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/arjjq8kmjcxwhkaexpkpjhz4s9qc8rfmfsvqlgv2sqvp",
+          "pairAddress": "ARJJQ8KmjcXwHKAexPKPJhz4S9qc8rfmFsvQLgV2sqvP",
+          "baseToken": {
+            "address": "25upft41bW9AZ1PmvSLRoiV8wZ5Ftj7677vgFPEopump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000004046",
+          "priceUsd": "0.000004147",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 29.29,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 43.78
+          },
+          "fdv": 4147.65,
+          "marketCap": 4147.65,
+          "pairCreatedAt": 1789163335000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/9urpgbfpz2i136hnlbxgutplqzywymwprsvcmwib9b8f",
+          "pairAddress": "9urPgBfpz2i136HNLbXguTPLqzywymWPrsvCmWiB9B8f",
+          "baseToken": {
+            "address": "25uuGvy84kLYMwpYW186VoamLtfnTRJ6fdUZzC1upump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002855",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 5
+            }
+          },
+          "volume": {
+            "h24": 23.99,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -0.85
+          },
+          "fdv": 2855.17,
+          "marketCap": 2855.17,
+          "pairCreatedAt": 1789163622000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/e7mrbjrhf1pgvb6rwvmdfpprq4e8ahjhplqkvhhzguub",
+          "pairAddress": "E7MRbjrHf1pGVb6rWVMdFPPRQ4E8AHJHPLQkVHhZGuUB",
+          "baseToken": {
+            "address": "25uqspNXAQ4PCKgYucwBNnghMPgLqB6Ykqzx3ehEpump",
+            "name": "POLAR BEAR",
+            "symbol": "COCA-COLA"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002053",
+          "priceUsd": "0.000002104",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 3
+            }
+          },
+          "volume": {
+            "h24": 20.34,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -27.02
+          },
+          "fdv": 2104.32,
+          "marketCap": 2104.32,
+          "pairCreatedAt": 1789163376000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/69kg8rakrvffo3x2gpzimgldnisggzhhpd9aongkkgrx",
+          "pairAddress": "69Kg8Rakrvffo3X2GPZiMGLdniSggZHhPd9aoNgkKgRX",
+          "baseToken": {
+            "address": "DNnJkBLRYB395FfkVapcuqFviV3ppAQHrrGSngNvpump",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000004108",
+          "priceUsd": "0.00004198",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 222,
+              "sells": 76
+            },
+            "h24": {
+              "buys": 222,
+              "sells": 76
+            }
+          },
+          "volume": {
+            "h24": 19838.86,
+            "h6": 19838.86,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": 1195,
+            "h24": 1195
+          },
+          "fdv": 41983.74,
+          "marketCap": 41983.74,
+          "pairCreatedAt": 1789169091000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/gvuvghux4ald4yrqtp7exrw6ud1chkrgcspu6h6rauy2",
+          "pairAddress": "GvuvGhUX4ALD4yRQTP7EXRw6uD1chKrgcspU6h6raUY2",
+          "baseToken": {
+            "address": "9nhvbHqbLDzkyeHHUSo4W8L5SYe4X3tft1XReJGnpump",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002861",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 2,
+              "sells": 2
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 2.04,
+            "h6": 2.04,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -0.07,
+            "h24": -0.07
+          },
+          "fdv": 2861.04,
+          "marketCap": 2861.04,
+          "pairCreatedAt": 1789169733000
+        },
+        {
+          "chainId": "ethereum",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/ethereum/0x3a6bc11d4ebe823486afe9574bd3c9beac5cd8e2",
+          "pairAddress": "0x3A6Bc11D4EBE823486Afe9574Bd3C9BEaC5CD8e2",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0xAa0A5083B6E17a255F308F70feE47Fd3913E4b9a",
+            "name": "Polar Bear",
+            "symbol": "ARTY"
+          },
+          "quoteToken": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "priceNative": "0.00000001160",
+          "priceUsd": "0.00002916",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 2
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 2.12,
+            "h6": 2.12,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -7.47,
+            "h24": -7.47
+          },
+          "liquidity": {
+            "usd": 19.08,
+            "base": 327214,
+            "quote": 0.003796
+          },
+          "fdv": 292,
+          "marketCap": 292,
+          "pairCreatedAt": 1679951483000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "fourmeme",
+          "url": "https://dexscreener.com/bsc/0x92320596d37d8e7f33693501eaf6fd391eb8ffff:4meme",
+          "pairAddress": "0x92320596d37D8E7f33693501EaF6fD391eb8FFfF:4meme",
+          "baseToken": {
+            "address": "0x92320596d37D8E7f33693501EaF6fD391eb8FFfF",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "name": "Wrapped BNB",
+            "symbol": "WBNB"
+          },
+          "priceNative": "0.000000005739",
+          "priceUsd": "0.000004158",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 1,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "fdv": 4158.89,
+          "marketCap": 4158.89,
+          "pairCreatedAt": 1789169153000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "fourmeme",
+          "url": "https://dexscreener.com/bsc/0x13f555b0887d0d5145b9be41f75d62b875ebffff:4meme",
+          "pairAddress": "0x13f555b0887D0d5145b9BE41F75d62b875EBFfff:4meme",
+          "baseToken": {
+            "address": "0x13f555b0887D0d5145b9BE41F75d62b875EBFfff",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "0x5fd86da9B05abE396fe9d02a4A213A7c00556503",
+            "name": "Moderna",
+            "symbol": "MRNAB"
+          },
+          "priceNative": "0.0000",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1789168993000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "fourmeme",
+          "url": "https://dexscreener.com/bsc/0x5c91e42c7e57b8a2725d6aee95e0c856f740ffff:4meme",
+          "pairAddress": "0x5c91E42C7e57B8A2725d6AEe95e0C856F740FfFf:4meme",
+          "baseToken": {
+            "address": "0x5c91E42C7e57B8A2725d6AEe95e0C856F740FfFf",
+            "name": "Polar Bear",
+            "symbol": "POLAR"
+          },
+          "quoteToken": {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "name": "Wrapped BNB",
+            "symbol": "WBNB"
+          },
+          "priceNative": "0.0000",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1789184068000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "fourmeme",
+          "url": "https://dexscreener.com/bsc/0x3c9c4973dac98cddcd181f1649d1ad8ac952ffff:4meme",
+          "pairAddress": "0x3c9C4973DAc98CdDCd181f1649D1ad8Ac952ffff:4meme",
+          "baseToken": {
+            "address": "0x3c9C4973DAc98CdDCd181f1649D1ad8Ac952ffff",
+            "name": "Polar Bear",
+            "symbol": "$POLAR"
+          },
+          "quoteToken": {
+            "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+            "name": "Invesqo QQQ",
+            "symbol": "QQQB"
+          },
+          "priceNative": "0.0000",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1789169045000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpswap",
+          "url": "https://dexscreener.com/solana/g1qdtyh5fmnvafsxsanebkhhdzgtq7vkfudt8warhyis",
+          "pairAddress": "G1qdtYH5FmNvaFSxsanEbKhHDzGTQ7vkFuDT8waRHYiS",
+          "baseToken": {
+            "address": "yf1xw3TZ8ZLbmdYHDW6QEg5bcbKRpP3QNNhqPv5pump",
+            "name": "Polar Bear 2026",
+            "symbol": "PolarBear"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000002708",
+          "priceUsd": "0.00002753",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h6": {
+              "buys": 8,
+              "sells": 4
+            },
+            "h24": {
+              "buys": 37,
+              "sells": 37
+            }
+          },
+          "volume": {
+            "h24": 6759.93,
+            "h6": 1650.22,
+            "h1": 172.02,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": -4.08,
+            "h6": 16.63,
+            "h24": 37.47
+          },
+          "liquidity": {
+            "usd": 15071.59,
+            "base": 275078435,
+            "quote": 73.7351
+          },
+          "fdv": 27533,
+          "marketCap": 27533,
+          "pairCreatedAt": 1767124967000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/32affd0837f15b3fa8169d4bad30a10cd6d2e5a07d5591b25ca633f513d7baaf?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/c44778bcad163a55edb95d0ce8c7fc6cbf0573a4e935a26f60c24fa6ce287557?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/yf1xw3TZ8ZLbmdYHDW6QEg5bcbKRpP3QNNhqPv5pump?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://knowyourmeme.com/memes/polar-bear-2026",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2015036726541242509",
+                "type": "twitter"
+              },
+              {
+                "url": "https://www.tiktok.com/search?q=2026%20polar%20bear&t=1767124780680",
+                "type": "tiktok"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": "november 2026",
+    "capturedAt": "2026-09-12T04:12:11.0571091Z",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "solana",
+          "dexId": "pumpswap",
+          "url": "https://dexscreener.com/solana/gboorg5rmzpitr4b9bauy7fp3hqn7v3izte77a2f9nqj",
+          "pairAddress": "Gboorg5RMZPiTR4B9BAUY7fP3hqN7V3iZTe77A2F9NqJ",
+          "baseToken": {
+            "address": "9LyCjVLp5tKyf4BsVvVKrwxm96iCjqAjg7enULvopump",
+            "name": "Remember November 2026 is coming",
+            "symbol": "NOV2026"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000001444",
+          "priceUsd": "0.00001467",
+          "txns": {
+            "m5": {
+              "buys": 4,
+              "sells": 4
+            },
+            "h1": {
+              "buys": 10,
+              "sells": 6
+            },
+            "h6": {
+              "buys": 124,
+              "sells": 97
+            },
+            "h24": {
+              "buys": 225,
+              "sells": 167
+            }
+          },
+          "volume": {
+            "h24": 19629.52,
+            "h6": 10830.65,
+            "h1": 509.87,
+            "m5": 280.93
+          },
+          "priceChange": {
+            "m5": 2.41,
+            "h1": 7.42,
+            "h6": -32.73,
+            "h24": -43.35
+          },
+          "liquidity": {
+            "usd": 8470.69,
+            "base": 347258933,
+            "quote": 33.1956
+          },
+          "fdv": 13889,
+          "marketCap": 13889,
+          "pairCreatedAt": 1789017430000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/FhAGNhzNKFTAbIGE?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/Zllkd-u-C84O185a?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9LyCjVLp5tKyf4BsVvVKrwxm96iCjqAjg7enULvopump?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/i/communities/2030750855390281859",
+                "type": "twitter"
+              },
+              {
+                "url": "https://www.tiktok.com/tag/remembernovember2026iscoming",
+                "type": "tiktok"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0xe0a5e4229bb839738db4ff271b228db590fd445e",
+          "pairAddress": "0xE0a5E4229BB839738Db4FF271B228db590fD445e",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x2401E09acE92C689570a802138D6213486407B24",
+            "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER",
+            "symbol": "🎭"
+          },
+          "quoteToken": {
+            "address": "0xbc35ce9A4c5c4ae566E9Db9720268a3101913Eb4",
+            "name": "𐤒𐤅𐤃𐤓𐤉𐤅𐤌",
+            "symbol": "◇♪♫✶☉"
+          },
+          "priceNative": "0.00000000000003668",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 3.72
+          },
+          "pairCreatedAt": 1752213935000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/a4af6a9eca846e0ebe754890b863ed45dde2ee802bbab3ecb1803212dfdba8c7?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/9db448c53ed1d5b36ffc61153f96364697579f25163437f22dd5b07b413ad185?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x2401e09ace92c689570a802138d6213486407b24?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://www.finvesta.io",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/remember_pulse",
+                "type": "twitter"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpswap",
+          "url": "https://dexscreener.com/solana/47xh8qjrag8dsr4pfperfhdqa8sf1qh2g9znvnzs6jtp",
+          "pairAddress": "47xH8qJRaG8DSr4PFpeRfHDQa8Sf1qH2g9ZnvNzS6jtp",
+          "baseToken": {
+            "address": "Bxt7RQ8JAPL82dDdVjrXgoiE5LBtZT1S4wW6Uqe8pump",
+            "name": "Remember November 2026 is coming",
+            "symbol": "NOV2026"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000003347",
+          "priceUsd": "0.000003408",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 2,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 4
+            }
+          },
+          "volume": {
+            "h24": 30.23,
+            "h6": 6.37,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -0.43,
+            "h24": 1.09
+          },
+          "liquidity": {
+            "usd": 3175.96,
+            "base": 724296662,
+            "quote": 6.9411
+          },
+          "fdv": 2501,
+          "marketCap": 2501,
+          "pairCreatedAt": 1789017846000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/egjf49v6zd4u9lmfwnlgfwpob4jd9opv76fbr13utab3",
+          "pairAddress": "EgJF49v6zD4U9LMFWnLGFWPoB4Jd9opv76FbR13Utab3",
+          "baseToken": {
+            "address": "ZDUFM8E8we3muKhXaWtrkTtushVv2iSQGc1jGQopump",
+            "name": "REMEMBER NOVEMBER 2026 IS COMING",
+            "symbol": "NOV2026"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002798",
+          "priceUsd": "0.000002797",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 3
+            }
+          },
+          "volume": {
+            "h24": 577.04,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -4.64
+          },
+          "fdv": 2797.01,
+          "marketCap": 2797.01,
+          "pairCreatedAt": 1788935948000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/cvhi5mctruniaowixg7ap4ipjtwgmgcu84mzjhexnbi2",
+          "pairAddress": "Cvhi5MctrUniAoWiXg7ap4ipjtwgmgCu84mzJheXNBi2",
+          "baseToken": {
+            "address": "8pziR1krtdCZTZgFAut7ZF53SpBzP1a75KNd72Hqpump",
+            "name": "Remember November 2026 is Coming",
+            "symbol": "NOVEMBER26"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002787",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 293.61,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "fdv": 2787.23,
+          "marketCap": 2787.23,
+          "pairCreatedAt": 1788939340000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/f8gan4kqwdvpsurd3vckghh7cdnbu8x2yqhmeu8vxglv",
+          "pairAddress": "F8gaN4KqWdvPSuRD3vCkGhH7CdNBu8X2YQHmEu8VxgLv",
+          "baseToken": {
+            "address": "F4Tgudda8ZiRbUAgrsUhHJY7cEbL5hd3upz9Nq16pump",
+            "name": "Remember November 2026 is coming",
+            "symbol": "NOV2026"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002796",
+          "priceUsd": "0.000002787",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0.15,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "fdv": 2787.28,
+          "marketCap": 2787.28,
+          "pairCreatedAt": 1789017641000
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0xe6effd1eb9249455d2fd1e307520ecbce78770dd",
+          "pairAddress": "0xE6effd1eb9249455D2fd1e307520ecBCe78770DD",
+          "labels": [
+            "v1"
+          ],
+          "baseToken": {
+            "address": "0xbc35ce9A4c5c4ae566E9Db9720268a3101913Eb4",
+            "name": "𐤒𐤅𐤃𐤓𐤉𐤅𐤌",
+            "symbol": "◇♪♫✶☉"
+          },
+          "quoteToken": {
+            "address": "0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12",
+            "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER",
+            "symbol": "🎭"
+          },
+          "priceNative": "10988942896417.6978",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 4
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -0.14
+          },
+          "pairCreatedAt": 1732334945000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/85yfscxhxp7p5z2jwarpsecebsagn7eln6j8bhyuadze",
+          "pairAddress": "85yfScXhXP7P5z2JWaRpSECebsaGN7ELn6J8bHYUaDZE",
+          "baseToken": {
+            "address": "H86ufom4FnKEUuUPdDm2DBH76qAN2Gn1pKHVttKspump",
+            "name": "PolarBear November 2026",
+            "symbol": "PolarBear"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002857",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 0.04,
+            "h6": 0.01,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -0.45,
+            "h24": -0.44
+          },
+          "fdv": 2857.41,
+          "marketCap": 2857.41,
+          "pairCreatedAt": 1789158077000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x2fe13112be502026671a6e76af45d14ec394022d",
+          "pairAddress": "0x2Fe13112be502026671A6E76aF45d14eC394022D",
+          "labels": [
+            "v3"
+          ],
+          "baseToken": {
+            "address": "0xd270D4e1EC6e6E0d28C0ecB8BE966EC75997FFfF",
+            "name": "4Stock",
+            "symbol": "4Stock"
+          },
+          "quoteToken": {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "priceNative": "0.02832",
+          "priceUsd": "0.02832",
+          "txns": {
+            "m5": {
+              "buys": 21,
+              "sells": 9
+            },
+            "h1": {
+              "buys": 448,
+              "sells": 315
+            },
+            "h6": {
+              "buys": 1922,
+              "sells": 1561
+            },
+            "h24": {
+              "buys": 14934,
+              "sells": 14253
+            }
+          },
+          "volume": {
+            "h24": 8495628.76,
+            "h6": 878670.93,
+            "h1": 218308.89,
+            "m5": 4129.02
+          },
+          "priceChange": {
+            "m5": 0.62,
+            "h1": -0.68,
+            "h6": -0.14,
+            "h24": 4.62
+          },
+          "liquidity": {
+            "usd": 357864.32,
+            "base": 6711368,
+            "quote": 167757
+          },
+          "fdv": 27990911,
+          "marketCap": 27990911,
+          "pairCreatedAt": 1788837277000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/4TfWLxtOfSnPQl-K?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/R83iN6jvYjbi5pwW?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xd270d4e1ec6e6e0d28c0ecb8be966ec75997ffff?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/search?q=0xd270D4e1EC6e6E0d28C0ecB8BE966EC75997FFfF",
+                "type": "twitter"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x16f06339447daa1b742934e7f44c2cc018f07513",
+          "pairAddress": "0x16f06339447daa1b742934E7F44C2cC018F07513",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x19F46FDDbaC1ab00D203Cc80515a44E320260419",
+            "name": "太初",
+            "symbol": "Chaos"
+          },
+          "quoteToken": {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "priceNative": "0.03141",
+          "priceUsd": "0.03141",
+          "txns": {
+            "m5": {
+              "buys": 1,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 11,
+              "sells": 10
+            },
+            "h6": {
+              "buys": 49,
+              "sells": 50
+            },
+            "h24": {
+              "buys": 197,
+              "sells": 119
+            }
+          },
+          "volume": {
+            "h24": 26377.5,
+            "h6": 7531.44,
+            "h1": 1667.49,
+            "m5": 0.79
+          },
+          "priceChange": {
+            "h1": -0.35,
+            "h6": -0.68,
+            "h24": 5.37
+          },
+          "liquidity": {
+            "usd": 582578.64,
+            "base": 9272792,
+            "quote": 291289
+          },
+          "fdv": 2962624,
+          "marketCap": 2680940,
+          "pairCreatedAt": 1776596773000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/Il3LW-8tzC9jx1it?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/AoJYHtKii0Z4yjBp?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x19f46fddbac1ab00d203cc80515a44e320260419?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://taichu.app/burn/",
+                "label": "Website"
+              },
+              {
+                "url": "https://m.debox.pro/group?id=ztuw7b8e&code=jzv6839r",
+                "label": "DEBOX"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/ChaosonBSC",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/Chaos_bsc",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x647b607b03abd4f3587cc0fb4704422f9a674a7f",
+          "pairAddress": "0x647b607b03aBd4F3587cC0fB4704422f9a674A7f",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0xF5Ed4e9fb91F19D2E7f9D485F8D812c679eedd50",
+            "name": "赤子",
+            "symbol": "CZ"
+          },
+          "quoteToken": {
+            "address": "0x19F46FDDbaC1ab00D203Cc80515a44E320260419",
+            "name": "太初",
+            "symbol": "Chaos"
+          },
+          "priceNative": "128.03765",
+          "priceUsd": "4.013",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 7
+            },
+            "h6": {
+              "buys": 1,
+              "sells": 25
+            },
+            "h24": {
+              "buys": 16,
+              "sells": 64
+            }
+          },
+          "volume": {
+            "h24": 20383.68,
+            "h6": 4973.73,
+            "h1": 1079.51,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": -2.17,
+            "h6": -1.94,
+            "h24": 5.19
+          },
+          "liquidity": {
+            "usd": 256424.48,
+            "base": 31946,
+            "quote": 4090292
+          },
+          "fdv": 4013403,
+          "marketCap": 4013403,
+          "pairCreatedAt": 1785506288000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/oB6Ff-tIOSFCFoEm?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/ultz18WlpJOADVZQ?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xf5ed4e9fb91f19d2e7f9d485f8d812c679eedd50?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://chizifi.app",
+                "label": "Website"
+              },
+              {
+                "url": "https://m.debox.pro/group?id=uqw5ek6c&code=rs8ek3zq",
+                "label": "DEBOX"
+              }
+            ],
+            "socials": []
+          }
+        },
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0xce317e6f45dbb5407ef40461b2728390a273fcce",
+          "pairAddress": "0xcE317e6F45dBB5407EF40461B2728390A273FCce",
+          "labels": [
+            "v3"
+          ],
+          "baseToken": {
+            "address": "0x58B8470EFFA580DdB99a1561a015bd202652A1A5",
+            "name": "Business Cat",
+            "symbol": "Emilio"
+          },
+          "quoteToken": {
+            "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+            "name": "WETH",
+            "symbol": "WETH"
+          },
+          "priceNative": "0.000000002704",
+          "priceUsd": "0.000006796",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 16,
+              "sells": 7
+            }
+          },
+          "volume": {
+            "h24": 2745.78,
+            "h6": 0.04,
+            "h1": 0.04,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": -1.16,
+            "h6": -1.16,
+            "h24": -4.36
+          },
+          "liquidity": {
+            "usd": 6248.63,
+            "base": 712438309,
+            "quote": 0.5596
+          },
+          "fdv": 6122,
+          "marketCap": 6122,
+          "pairCreatedAt": 1783573507000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/ST7EVSQNGmaoLg8M?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/lUWQH40D-iP8O0ZN?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x58b8470effa580ddb99a1561a015bd202652a1a5?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://theemilio.xyz/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/Emilio_onHood",
+                "type": "twitter"
+              },
+              {
+                "url": "https://www.reddit.com/r/pics/comments/ew823/business_cat/?solution=df772f98d804705adf772f98d804705a&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ec6b04119013abc48e18294d3b179a88e0&jsc_orig_r=",
+                "type": "reddit"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x306915b260907e35fb15fbe6865050202a7c330e1b20264ed2b56bdead7e92b6",
+          "pairAddress": "0x306915b260907e35fb15fbe6865050202a7c330e1b20264ed2b56bdead7e92b6",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xACB6dF7dcb78F986873f1a52f8B23733f237EeA5",
+            "name": "RESPONSIBLE",
+            "symbol": "RESPONSIBLE"
+          },
+          "quoteToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "name": "Ether",
+            "symbol": "ETH"
+          },
+          "priceNative": "0.000000001849",
+          "priceUsd": "0.000004648",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 5
+            }
+          },
+          "volume": {
+            "h24": 4.55,
+            "h6": 0.96,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": 0.2,
+            "h24": 1.26
+          },
+          "liquidity": {
+            "usd": 6748.3,
+            "base": 725846112,
+            "quote": 1.3427
+          },
+          "fdv": 4621,
+          "marketCap": 4621,
+          "pairCreatedAt": 1788693181000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/Veq93jGQ9wCHJ-0a?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/fx3dCfJJCxLtoXvg?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xacb6df7dcb78f986873f1a52f8b23733f237eea5?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://perpshood.fun/coin/0xACB6dF7dcb78F986873f1a52f8B23733f237EeA5",
+                "label": "Website"
+              }
+            ],
+            "socials": []
+          }
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x7875411f0445e29f1008bb85ad7ff9f0eb48210b",
+          "pairAddress": "0x7875411f0445E29F1008Bb85AD7Ff9F0eb48210b",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x94a9996C99D46ed97eFbb141Fe36C927870e3333",
+            "name": "2026财神到家",
+            "symbol": "财神到家"
+          },
+          "quoteToken": {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "name": "Wrapped BNB",
+            "symbol": "WBNB"
+          },
+          "priceNative": "0.000001184",
+          "priceUsd": "0.0008466",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 0.47,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 0.03
+          },
+          "liquidity": {
+            "usd": 77831.63,
+            "base": 45966500,
+            "quote": 54.4444
+          },
+          "fdv": 782395,
+          "marketCap": 782295,
+          "pairCreatedAt": 1769190235000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/b14af21b332872baf4f32fe50507cfc8cfcaea4a4bbe5d7cb6757c555be09651?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/edfce8a8d73be941174a2e3e3416bb51668cd6bd01f9d5f36ec879168e35b8f8?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x94a9996c99d46ed97efbb141fe36c927870e3333?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://caishen.homes/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/CaiShenHomes",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/caishenhomes",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x20266360bdf44f3bf757716a658d71b16c55468271c808f6f4ac95d4e7677e00",
+          "pairAddress": "0x20266360bdf44f3bf757716a658d71b16c55468271c808f6f4ac95d4e7677e00",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x8E266459c5D6cD5248841Cb360c91149830e2BAE",
+            "name": "Ponspad",
+            "symbol": "PONSPAD"
+          },
+          "quoteToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "name": "Ether",
+            "symbol": "ETH"
+          },
+          "priceNative": "0.000000001492",
+          "priceUsd": "0.000003790",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 18.07,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 0.04
+          },
+          "liquidity": {
+            "usd": 5745.95,
+            "base": 757857488,
+            "quote": 1.131
+          },
+          "fdv": 3432,
+          "marketCap": 3432,
+          "pairCreatedAt": 1788170538000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/jYxJKx1IlU6EQcNP?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/3vzQc8s_WaRl-F6F?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x8e266459c5d6cd5248841cb360c91149830e2bae?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://ponspad.family/",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/ponspadfamily",
+                "type": "twitter"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "robinhood",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/robinhood/0x42c6be192a32403202624c4ee09e26631a9e963e45b523616de6e5d5831ab8af",
+          "pairAddress": "0x42c6be192a32403202624c4ee09e26631a9e963e45b523616de6e5d5831ab8af",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x9897416b57cEAbdED1bB0A8Ba29ddB6d708f4e1C",
+            "name": "Cyberbeer",
+            "symbol": "CYBERBEER"
+          },
+          "quoteToken": {
+            "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+            "name": "NVIDIA • Robinhood Token",
+            "symbol": "NVDA"
+          },
+          "priceNative": "0.00000001271",
+          "priceUsd": "0.000002779",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 15
+            }
+          },
+          "volume": {
+            "h24": 188.55,
+            "h6": 1.06,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -0.53,
+            "h24": -14.77
+          },
+          "liquidity": {
+            "usd": 4542.33,
+            "base": 817117466,
+            "quote": 10.3899
+          },
+          "fdv": 2779,
+          "marketCap": 2779,
+          "pairCreatedAt": 1788760793000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/F5RVEZlfMWmmZ7By?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/HkRSyAWH7w2fZ9fR?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x9897416b57ceabded1bb0a8ba29ddb6d708f4e1c?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://technocore.chat/humans#r/tekno/1344",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/search?q=%24Cyberbeer&src=typed_query&f=top",
+                "type": "twitter"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x8b2c7d139362e4d113944251a03f4262856fefee",
+          "pairAddress": "0x8B2c7D139362E4D113944251a03F4262856fEFEe",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x74Dd303C830C4eCFFBe194414D0f6B1E6213FfFF",
+            "name": "Buttcoin2026",
+            "symbol": "Buttcoin2026"
+          },
+          "quoteToken": {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "priceNative": "0.00008996",
+          "priceUsd": "0.00008996",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 108.27,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -0.24
+          },
+          "liquidity": {
+            "usd": 30504.75,
+            "base": 169545370,
+            "quote": 15252
+          },
+          "fdv": 88322,
+          "marketCap": 88322,
+          "pairCreatedAt": 1772971390000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/e838D03XhGJcw2yh?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x74dd303c830c4ecffbe194414d0f6b1e6213ffff?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/buttcoin2026?s=21",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/Buttcoin2026a/",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x9cffdeff2a81351ad59027995ebee58c4089e500",
+          "pairAddress": "0x9cffDeFf2A81351aD59027995Ebee58C4089e500",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x2401E09acE92C689570a802138D6213486407B24",
+            "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER",
+            "symbol": "🎭"
+          },
+          "quoteToken": {
+            "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+            "name": "Wrapped Pulse",
+            "symbol": "WPLS"
+          },
+          "priceNative": "0.000001370",
+          "priceUsd": "0.00000000001738",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 6,
+              "sells": 42
+            }
+          },
+          "volume": {
+            "h24": 31.88,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 0.93
+          },
+          "liquidity": {
+            "usd": 180520.68,
+            "base": 5192296858534827,
+            "quote": 7117940378
+          },
+          "fdv": 11171250231,
+          "marketCap": 11171250231,
+          "pairCreatedAt": 1747030255000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/a4af6a9eca846e0ebe754890b863ed45dde2ee802bbab3ecb1803212dfdba8c7?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/9db448c53ed1d5b36ffc61153f96364697579f25163437f22dd5b07b413ad185?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x2401e09ace92c689570a802138d6213486407b24?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://www.finvesta.io",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/remember_pulse",
+                "type": "twitter"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "solana",
+          "dexId": "raydium",
+          "url": "https://dexscreener.com/solana/aiq7zefpqa6gpxaaphcpchvzzbe39y6cs6vvnundhy1n",
+          "pairAddress": "AiQ7zeFPqa6GPxaaphcPchVzZbE39Y6cS6VvNUnDhy1N",
+          "labels": [
+            "CLMM"
+          ],
+          "baseToken": {
+            "address": "DS8nzMM3Mf5j5gWbCUGw9Sx6Q52Aaaw2sbijxsZWc51X",
+            "name": "2026 MIDTERMS",
+            "symbol": "MIDTERM"
+          },
+          "quoteToken": {
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          "priceNative": "4.5223",
+          "priceUsd": "4.52",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 4,
+              "sells": 4
+            },
+            "h24": {
+              "buys": 14,
+              "sells": 14
+            }
+          },
+          "volume": {
+            "h24": 363238.89,
+            "h6": 121420.31,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -0.08
+          },
+          "liquidity": {
+            "usd": 9328558.9,
+            "base": 2062768,
+            "quote": 62.4178
+          },
+          "fdv": 9496867,
+          "marketCap": 9496867,
+          "pairCreatedAt": 1786916871000
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0xb97520268fc42466a11ef8ef52d4a16c633be822",
+          "pairAddress": "0xb97520268fC42466a11EF8eF52D4a16c633BE822",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x36d8C21602aDa33aB50070214C6e9E24bE0Ab97e",
+            "name": "PulseMaker",
+            "symbol": "PMKR"
+          },
+          "quoteToken": {
+            "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+            "name": "Wrapped Pulse",
+            "symbol": "WPLS"
+          },
+          "priceNative": "3892430.2783",
+          "priceUsd": "47.79",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 8,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 22,
+              "sells": 4
+            },
+            "h24": {
+              "buys": 27,
+              "sells": 14
+            }
+          },
+          "volume": {
+            "h24": 340.8,
+            "h6": 293.25,
+            "h1": 8.77,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": 0.25,
+            "h6": -7.64,
+            "h24": -1.68
+          },
+          "liquidity": {
+            "usd": 12067.35,
+            "base": 126.2526,
+            "quote": 491429592
+          },
+          "fdv": 61203,
+          "marketCap": 61205,
+          "pairCreatedAt": 1745044945000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/4xvKEsVTxFqgU7QZ?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/P6Pz4bEjXgVDYCjU?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x36d8c21602ada33ab50070214c6e9e24be0ab97e?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://pai-mkr.pages.dev/",
+                "label": "Website"
+              },
+              {
+                "url": "https://app.radicle.xyz/nodes/rosa.radicle.xyz/rad%3Az3omzBQzdH4mCiooDrUaZAyyPcsci",
+                "label": "Docs"
+              },
+              {
+                "url": "https://smp9.simplex.im/g#DQ5-g6p8dXfLb6MOlqPVaruel9XER9cR54NiQEwx-EM",
+                "label": "SimpleX Chat"
+              }
+            ],
+            "socials": []
+          }
+        },
+        {
+          "chainId": "base",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/base/0xd13bed08bbeef8aade97c69ffdd87b6db2026daf2c6a28f1d7bf1e0c75fd083e",
+          "pairAddress": "0xd13bed08bbeef8aade97c69ffdd87b6db2026daf2c6a28f1d7bf1e0c75fd083e",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x516fdE7E30Dd0188559f110Da5dE694AD6da4dA9",
+            "name": "Vanguard Digital Reserve",
+            "symbol": "VDR"
+          },
+          "quoteToken": {
+            "address": "0x0000000000000000000000000000000000000000",
+            "name": "Ether",
+            "symbol": "ETH"
+          },
+          "priceNative": "0.0000001999",
+          "priceUsd": "0.0005021",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 1,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 4,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 7,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0.07,
+            "h6": 0.03,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": -0.11,
+            "h6": -2.31,
+            "h24": 2.14
+          },
+          "liquidity": {
+            "usd": 401745.59,
+            "base": 799994608,
+            "quote": 0.001077
+          },
+          "fdv": 502182,
+          "marketCap": 502182,
+          "pairCreatedAt": 1773666291000
+        },
+        {
+          "chainId": "base",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/base/0x05dc3a9bb8f97285cc94982df71a63b586356721f301b5bf4cd4b20ed63c41b3",
+          "pairAddress": "0x05dc3a9bb8f97285cc94982df71a63b586356721f301b5bf4cd4b20ed63c41b3",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x75a7B05450302a1348dE37dc76B202679bD95c38",
+            "name": "DTCC Apple APPL",
+            "symbol": "DTCC APPLE APPL"
+          },
+          "quoteToken": {
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "priceNative": "0.00000008021",
+          "priceUsd": "0.0002047",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0.02,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 202719.67,
+            "base": 989997841,
+            "quote": 0.000351
+          },
+          "fdv": 204767,
+          "marketCap": 204767,
+          "pairCreatedAt": 1787941531000
+        },
+        {
+          "chainId": "base",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/base/0x6caabe5297025da6ef99ca29443bd43982026a758268141a753e1521aacc428a",
+          "pairAddress": "0x6caabe5297025da6ef99ca29443bd43982026a758268141a753e1521aacc428a",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xc677d2C0d98d74267f126AF07C32832fE1373400",
+            "name": "MultiversX (EGLD)",
+            "symbol": "EGLD"
+          },
+          "quoteToken": {
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          "priceNative": "0.00000009990",
+          "priceUsd": "0.0002562",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0.02,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 253658.8,
+            "base": 990000071,
+            "quote": 1.187E-05
+          },
+          "fdv": 256221,
+          "marketCap": 256221,
+          "pairCreatedAt": 1788362557000
+        },
+        {
+          "chainId": "base",
+          "dexId": "quickswap",
+          "url": "https://dexscreener.com/base/0x6387c5b29d9a4b320bb202611fc6628702d5106d",
+          "pairAddress": "0x6387c5b29D9a4B320bb202611Fc6628702D5106D",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
+            "name": "TOWER",
+            "symbol": "TOWER"
+          },
+          "quoteToken": {
+            "address": "0x7094c27f342DBAdfbbeD005b219431595E33b305",
+            "name": "QuickSwap",
+            "symbol": "QUICK"
+          },
+          "priceNative": "0.01662",
+          "priceUsd": "0.0001492",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 1,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 2,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 15,
+              "sells": 7
+            }
+          },
+          "volume": {
+            "h24": 256,
+            "h6": 30.77,
+            "h1": 17.09,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": -0.45,
+            "h6": -0.12,
+            "h24": 1.53
+          },
+          "liquidity": {
+            "usd": 13802.53,
+            "base": 46241051,
+            "quote": 768885
+          },
+          "fdv": 153246,
+          "marketCap": 907184,
+          "pairCreatedAt": 1760427271000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/248c730c032433d4e9d0c79285ed0760d23a0596e4c7ae6943fc5710d82547f7?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee?timestamp=1789186200000",
+            "websites": [],
+            "socials": []
+          }
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x2df4112ae096db33273ff8c4c58eb6c5e8461922",
+          "pairAddress": "0x2df4112ae096Db33273ff8c4c58EB6C5e8461922",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0xdb953299588b7A7C38044bcD004b4b1892026333",
+            "name": "Ai DeFi",
+            "symbol": "AiFi"
+          },
+          "quoteToken": {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "priceNative": "0.3161",
+          "priceUsd": "0.3161",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h1": {
+              "buys": 2,
+              "sells": 22
+            },
+            "h6": {
+              "buys": 12,
+              "sells": 78
+            },
+            "h24": {
+              "buys": 50,
+              "sells": 244
+            }
+          },
+          "volume": {
+            "h24": 81717.57,
+            "h6": 10037.75,
+            "h1": 2785.51,
+            "m5": 24.58
+          },
+          "priceChange": {
+            "h1": -0.05,
+            "h6": -0.3,
+            "h24": 0.6
+          },
+          "liquidity": {
+            "usd": 6001971.54,
+            "base": 9493406,
+            "quote": 3000985
+          },
+          "fdv": 6638362,
+          "marketCap": 6638362,
+          "pairCreatedAt": 1772460763000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x63f3c275b8d8a786f43ce64496decc5b3a1d6856",
+          "pairAddress": "0x63F3c275b8d8a786f43ce64496decc5B3a1d6856",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0xf1a05A63bc33269fc5dA861385B28ab6671a921b",
+            "name": "AiFu",
+            "symbol": "AFF"
+          },
+          "quoteToken": {
+            "address": "0xdb953299588b7A7C38044bcD004b4b1892026333",
+            "name": "Ai DeFi",
+            "symbol": "AiFi"
+          },
+          "priceNative": "0.02470",
+          "priceUsd": "0.007810",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 2,
+              "sells": 1
+            },
+            "h6": {
+              "buys": 6,
+              "sells": 11
+            },
+            "h24": {
+              "buys": 25,
+              "sells": 50
+            }
+          },
+          "volume": {
+            "h24": 10921.41,
+            "h6": 2026.62,
+            "h1": 427.83,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": 0.66,
+            "h6": 1.93,
+            "h24": -1.02
+          },
+          "liquidity": {
+            "usd": 224005.53,
+            "base": 14339909,
+            "quote": 354295
+          },
+          "fdv": 552153,
+          "marketCap": 552153,
+          "pairCreatedAt": 1782713145000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x07a5313c71c16bf4b32f0bdc82528eb214fd9bff",
+          "pairAddress": "0x07A5313c71C16bf4B32F0bdc82528eb214fD9BFF",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x5829F01c14655c5f891A3AA80Ea59bFf892AbCDe",
+            "name": "X2026",
+            "symbol": "X2026"
+          },
+          "quoteToken": {
+            "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+            "name": "Dai Token",
+            "symbol": "DAI"
+          },
+          "priceNative": "0.1449",
+          "priceUsd": "0.1449",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 7,
+              "sells": 8
+            },
+            "h24": {
+              "buys": 20,
+              "sells": 29
+            }
+          },
+          "volume": {
+            "h24": 7055.81,
+            "h6": 3512.29,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": 0.82,
+            "h24": 3.27
+          },
+          "liquidity": {
+            "usd": 959927.7,
+            "base": 3310248,
+            "quote": 479963
+          },
+          "fdv": 4594168,
+          "marketCap": 4594168,
+          "pairCreatedAt": 1774875507000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x4bae9cb33c90c4477776890782cb62568cbeb16a",
+          "pairAddress": "0x4Bae9cB33c90c4477776890782CB62568cBEb16a",
+          "labels": [
+            "v3"
+          ],
+          "baseToken": {
+            "address": "0x0bBeA6812fb3fcBcA126eDb558e551B3f1702026",
+            "name": "LITKEY",
+            "symbol": "LITKEY"
+          },
+          "quoteToken": {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "priceNative": "0.01121",
+          "priceUsd": "0.01121",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 18,
+              "sells": 14
+            }
+          },
+          "volume": {
+            "h24": 15398.71,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 2.65
+          },
+          "liquidity": {
+            "usd": 301884.8,
+            "base": 13410258,
+            "quote": 151465
+          },
+          "fdv": 444173,
+          "marketCap": 2467677,
+          "pairCreatedAt": 1761921981000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0xd919dc242bb1e8a823da9cdb9806e3d211265f47",
+          "pairAddress": "0xd919Dc242Bb1E8A823Da9cdb9806E3D211265f47",
+          "labels": [
+            "v3"
+          ],
+          "baseToken": {
+            "address": "0xCeF5B397051Fc92026249670e918C0aD7B8585E4",
+            "name": "Orbiter Token",
+            "symbol": "OBT"
+          },
+          "quoteToken": {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "name": "Wrapped BNB",
+            "symbol": "WBNB"
+          },
+          "priceNative": "0.000003159",
+          "priceUsd": "0.002298",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 1,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 9.87,
+            "h6": 9.87,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": 0.28,
+            "h24": 0.28
+          },
+          "liquidity": {
+            "usd": 437480.41,
+            "base": 95145570,
+            "quote": 300.5829
+          },
+          "fdv": 634517,
+          "marketCap": 7816510,
+          "pairCreatedAt": 1747318579000
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x370622fedf49aef25a273ef4b3ab75c647d24cb6",
+          "pairAddress": "0x370622feDf49AEf25A273eF4B3ab75C647D24cb6",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x5ed4c772026C80306f532eCb375D438CC831f030",
+            "name": "pDAI Besties",
+            "symbol": "💛"
+          },
+          "quoteToken": {
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI"
+          },
+          "priceNative": "7.9244",
+          "priceUsd": "0.01767",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 4,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 7,
+              "sells": 7
+            }
+          },
+          "volume": {
+            "h24": 15.01,
+            "h6": 3.49,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -1.1,
+            "h24": 5.76
+          },
+          "liquidity": {
+            "usd": 14400.93,
+            "base": 407314,
+            "quote": 3227742
+          },
+          "fdv": 17832,
+          "marketCap": 17832,
+          "pairCreatedAt": 1751130085000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/31cf630bd7f4a76d19b2269c58522127b130e4f4f324c2496f6ca28571753cb9?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/dbc60bc731acd9cd949caa1ccf27d924f8155811a11e2276625e92dfcf809df4?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x5ed4c772026c80306f532ecb375d438cc831f030?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://t.me/pDAIRiders",
+                "type": "telegram"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "query": "wolverine",
+    "capturedAt": "2026-09-12T04:12:11.6976636Z",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x662d09baefcb543516b0c8958fcad0b2ac9e93e6",
+          "pairAddress": "0x662D09bAEFCB543516B0C8958fCad0B2aC9E93E6",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x336EADd192e84522221A2319Fd0Eed1aFe8BF1Bf",
+            "name": "Wolverine",
+            "symbol": "XMEN "
+          },
+          "quoteToken": {
+            "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+            "name": "USD Coin from Ethereum",
+            "symbol": "USDC"
+          },
+          "priceNative": "0.0000000009294",
+          "priceUsd": "0.0000000009294",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 4,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0.4,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 0.01
+          },
+          "liquidity": {
+            "usd": 10143.33,
+            "base": 5456826618947,
+            "quote": 5071.6657
+          },
+          "fdv": 9197,
+          "marketCap": 9197,
+          "pairCreatedAt": 1688401005000
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0xed740d36f5e0c7a3a5ba53ff5b757a37e6d7f8f5",
+          "pairAddress": "0xeD740D36F5e0C7a3a5BA53Ff5b757a37E6d7f8f5",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x1a1b13fFccB91594F2BcD75F5E3bEbd54D73784c",
+            "name": "WOLVERINE",
+            "symbol": "LOGAN"
+          },
+          "quoteToken": {
+            "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+            "name": "Wrapped Pulse",
+            "symbol": "WPLS"
+          },
+          "priceNative": "0.1346",
+          "priceUsd": "0.000001662",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 3
+            }
+          },
+          "volume": {
+            "h24": 8.01,
+            "h6": 1.49,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -3.45,
+            "h24": 6.2
+          },
+          "liquidity": {
+            "usd": 610.81,
+            "base": 183697732,
+            "quote": 24738092
+          },
+          "fdv": 1125,
+          "marketCap": 1125,
+          "pairCreatedAt": 1735765495000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/d57f5408fea8926b040301eaaff945eab59300cfca34fe50ad14f8cc885ed681?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/b96de373c3ca9c101f8b1b16850d740ef161a61d840c9a007824d493f3786f3d?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x1a1b13ffccb91594f2bcd75f5e3bebd54d73784c?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/plswolverine",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/plswolverine",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x8fa331d2c2db3c2c5a567ad5cf8c64d74bb51bfd",
+          "pairAddress": "0x8fA331D2C2dB3c2c5A567aD5Cf8c64d74BB51BfD",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x1a1b13fFccB91594F2BcD75F5E3bEbd54D73784c",
+            "name": "WOLVERINE",
+            "symbol": "LOGAN"
+          },
+          "quoteToken": {
+            "address": "0xA6C4790cc7Aa22CA27327Cb83276F2aBD687B55b",
+            "name": "X",
+            "symbol": "X"
+          },
+          "priceNative": "0.00009267",
+          "priceUsd": "0.000001601",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 1,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 1.8,
+            "h6": 0.05,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": 7.31,
+            "h24": 7.31
+          },
+          "liquidity": {
+            "usd": 498.08,
+            "base": 155545069,
+            "quote": 14414
+          },
+          "fdv": 1084,
+          "marketCap": 1084,
+          "pairCreatedAt": 1735765725000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/d57f5408fea8926b040301eaaff945eab59300cfca34fe50ad14f8cc885ed681?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/b96de373c3ca9c101f8b1b16850d740ef161a61d840c9a007824d493f3786f3d?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x1a1b13ffccb91594f2bcd75f5e3bebd54d73784c?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/plswolverine",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/plswolverine",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x2a2063c0180f19a085d5a115a9bee54b41648e5e",
+          "pairAddress": "0x2A2063C0180f19a085D5A115a9BEe54b41648E5e",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x1a1b13fFccB91594F2BcD75F5E3bEbd54D73784c",
+            "name": "WOLVERINE",
+            "symbol": "LOGAN"
+          },
+          "quoteToken": {
+            "address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+            "name": "Incentive",
+            "symbol": "INC"
+          },
+          "priceNative": "0.000002947",
+          "priceUsd": "0.000001700",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0.05,
+            "h6": 0.05,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 7.36,
+            "base": 2163806,
+            "quote": 6.3768
+          },
+          "fdv": 1151,
+          "marketCap": 1151,
+          "pairCreatedAt": 1735766715000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/d57f5408fea8926b040301eaaff945eab59300cfca34fe50ad14f8cc885ed681?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/b96de373c3ca9c101f8b1b16850d740ef161a61d840c9a007824d493f3786f3d?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x1a1b13ffccb91594f2bcd75f5e3bebd54d73784c?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/plswolverine",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/plswolverine",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x02079d676151cd97187f840fbec3ad0583ef232d",
+          "pairAddress": "0x02079d676151cD97187F840fBEC3AD0583Ef232D",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x1a1b13fFccB91594F2BcD75F5E3bEbd54D73784c",
+            "name": "WOLVERINE",
+            "symbol": "LOGAN"
+          },
+          "quoteToken": {
+            "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+            "name": "PulseX",
+            "symbol": "PLSX"
+          },
+          "priceNative": "0.1500",
+          "priceUsd": "0.000001618",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0.39,
+            "h6": 0.39,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 12.75,
+            "base": 3939856,
+            "quote": 591117
+          },
+          "fdv": 1096,
+          "marketCap": 1096,
+          "pairCreatedAt": 1735766155000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/d57f5408fea8926b040301eaaff945eab59300cfca34fe50ad14f8cc885ed681?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/b96de373c3ca9c101f8b1b16850d740ef161a61d840c9a007824d493f3786f3d?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x1a1b13ffccb91594f2bcd75f5e3bebd54d73784c?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/plswolverine",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/plswolverine",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0xdf1a662399dc9e3f71b2ad65cb9fce57063163e1",
+          "pairAddress": "0xdF1a662399dc9E3F71B2Ad65Cb9fcE57063163E1",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x1a1b13fFccB91594F2BcD75F5E3bEbd54D73784c",
+            "name": "WOLVERINE",
+            "symbol": "LOGAN"
+          },
+          "quoteToken": {
+            "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+            "name": "HEX",
+            "symbol": "HEX"
+          },
+          "priceNative": "0.0004339",
+          "priceUsd": "0.000001579",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0.32,
+            "h6": 0.32,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 6.4,
+            "base": 2025800,
+            "quote": 879.07915
+          },
+          "fdv": 1069,
+          "marketCap": 1069,
+          "pairCreatedAt": 1735767835000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/d57f5408fea8926b040301eaaff945eab59300cfca34fe50ad14f8cc885ed681?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/b96de373c3ca9c101f8b1b16850d740ef161a61d840c9a007824d493f3786f3d?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x1a1b13ffccb91594f2bcd75f5e3bebd54d73784c?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/plswolverine",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/plswolverine",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x574e819e85a4408f304d03e1a9bfb83bf0c34aa3",
+          "pairAddress": "0x574e819E85A4408f304D03E1a9BfB83Bf0c34Aa3",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x1a1b13fFccB91594F2BcD75F5E3bEbd54D73784c",
+            "name": "WOLVERINE",
+            "symbol": "LOGAN"
+          },
+          "quoteToken": {
+            "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+            "name": "Compound Dai",
+            "symbol": "cDAI"
+          },
+          "priceNative": "2050.5163",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 2,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 3,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": 5.52,
+            "h24": 14.12
+          },
+          "pairCreatedAt": 1766872715000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/d57f5408fea8926b040301eaaff945eab59300cfca34fe50ad14f8cc885ed681?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/b96de373c3ca9c101f8b1b16850d740ef161a61d840c9a007824d493f3786f3d?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x1a1b13ffccb91594f2bcd75f5e3bebd54d73784c?timestamp=1789186200000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/plswolverine",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/plswolverine",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpswap",
+          "url": "https://dexscreener.com/solana/equ38bmqzfxqlpk3tf62xvkrsyd2qsksgh8vplkqbclh",
+          "pairAddress": "EQU38BMqzFXQLpK3Tf62XVkRsYD2QsKSgh8VPLKqbCLh",
+          "baseToken": {
+            "address": "AvFkJYKPMwYQhNFEMFCvEXs9YZV2auPWfQW4gVeGpump",
+            "name": "THE WOLVERINE",
+            "symbol": "WOLVERINE"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002305",
+          "priceUsd": "0.000002344",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 1
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 2
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 9
+            }
+          },
+          "volume": {
+            "h24": 1.51,
+            "h6": 0.91,
+            "h1": 0.91,
+            "m5": 0
+          },
+          "priceChange": {
+            "h1": 0.37,
+            "h6": 1.76,
+            "h24": 3.2
+          },
+          "liquidity": {
+            "usd": 2412.29,
+            "base": 890372684,
+            "quote": 3.1894
+          },
+          "fdv": 2236,
+          "marketCap": 2236,
+          "pairCreatedAt": 1789068913000
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x834a71521d3e91cebe4572e6877e20e51d8d5937",
+          "pairAddress": "0x834A71521D3E91cebE4572E6877e20e51D8D5937",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x336EADd192e84522221A2319Fd0Eed1aFe8BF1Bf",
+            "name": "Wolverine",
+            "symbol": "XMEN "
+          },
+          "quoteToken": {
+            "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+            "name": "Wrapped Pulse",
+            "symbol": "WPLS"
+          },
+          "priceNative": "0.00007478",
+          "priceUsd": "0.0000000009326",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 0.22,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -0.37
+          },
+          "liquidity": {
+            "usd": 5.36,
+            "base": 2878319688,
+            "quote": 215255
+          },
+          "fdv": 9229,
+          "marketCap": 9229,
+          "pairCreatedAt": 1688407875000
+        },
+        {
+          "chainId": "base",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/base/0xe7b687c9d93fa789a3ffa9e0c7d3bb4cba16eaa448eda8918e88a401ecb60f73",
+          "pairAddress": "0xe7b687c9d93fa789a3ffa9e0c7d3bb4cba16eaa448eda8918e88a401ecb60f73",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x28F314ca652fDCDaa3bE495ef542082709dDFFB6",
+            "name": "Wolverine luxury ",
+            "symbol": "Wolverine "
+          },
+          "quoteToken": {
+            "address": "0x4F2959D8C59e0a4C3b3774d5Ab1cD47a444D4A25",
+            "name": "godbaseeth",
+            "symbol": "godbaseeth"
+          },
+          "priceNative": "0.01070",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -1.54
+          },
+          "pairCreatedAt": 1753187487000
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x5b1fad04b2d3d62b74baf08db372d36c92dee6af",
+          "pairAddress": "0x5B1fad04B2D3D62b74bAf08Db372D36c92deE6Af",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x5a24D7129B6f3FcAd2220296df28911880AD22B0",
+            "name": "PLSZEN",
+            "symbol": "PZEN"
+          },
+          "quoteToken": {
+            "address": "0x336EADd192e84522221A2319Fd0Eed1aFe8BF1Bf",
+            "name": "Wolverine",
+            "symbol": "XMEN "
+          },
+          "priceNative": "433853.6046",
+          "priceUsd": "0.0004032",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0.17,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 10.41,
+            "base": 12910,
+            "quote": 5601063449
+          },
+          "fdv": 354824,
+          "marketCap": 350520,
+          "pairCreatedAt": 1688578735000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/c900f2a7c7096e7eeb4917cf0ba9c27c59681ce83936429c85337a61585e2046?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/pulsechain/0x5a24d7129b6f3fcad2220296df28911880ad22b0?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "https://pulsezen.app/",
+                "label": "Website"
+              },
+              {
+                "url": "https://pulsezen.app/wp-content/uploads/2022/08/PulseZenWhitepaper.pdf",
+                "label": "Docs"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/askconradzen",
+                "type": "twitter"
+              },
+              {
+                "url": "https://t.me/pzenofficial",
+                "type": "telegram"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0x8dd88d63e6881f044ded5959e26285ab90b4d372",
+          "pairAddress": "0x8DD88D63E6881f044DED5959E26285ab90B4d372",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0xC9eD19a34A9961990C47Ff791aA2Ccf7a5DB96e8",
+            "name": "Gyre",
+            "symbol": "GYRE"
+          },
+          "quoteToken": {
+            "address": "0x336EADd192e84522221A2319Fd0Eed1aFe8BF1Bf",
+            "name": "Wolverine",
+            "symbol": "XMEN "
+          },
+          "priceNative": "3251117.4449",
+          "priceUsd": "0.003021",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0.05,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 4.01,
+            "base": 665.08234,
+            "quote": 2162260805
+          },
+          "fdv": 30216,
+          "marketCap": 30216,
+          "pairCreatedAt": 1704822025000
+        },
+        {
+          "chainId": "pulsechain",
+          "dexId": "pulsex",
+          "url": "https://dexscreener.com/pulsechain/0xb920f02449ee4618ee4a7050814f52add6000ad6",
+          "pairAddress": "0xB920f02449EE4618eE4a7050814f52Add6000aD6",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x374a86BE010DF4Ff892C9789975022CAeCa36d08",
+            "name": "BOLT",
+            "symbol": "$BOLT"
+          },
+          "quoteToken": {
+            "address": "0x336EADd192e84522221A2319Fd0Eed1aFe8BF1Bf",
+            "name": "Wolverine",
+            "symbol": "XMEN "
+          },
+          "priceNative": "313766.8534",
+          "priceUsd": "0.0002916",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0.04,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 5.25,
+            "base": 9002.9383,
+            "quote": 2824823632
+          },
+          "fdv": 281,
+          "marketCap": 281,
+          "pairCreatedAt": 1703806675000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpswap",
+          "url": "https://dexscreener.com/solana/gms2eb7vakxdobh5osfjfqnl7shq5umkkumggzz8nhn6",
+          "pairAddress": "GMs2eB7VakXDobH5osfjFQnL7SHq5umKkuMGGZz8nHn6",
+          "baseToken": {
+            "address": "2sVSksDYtDVRLfbdRJy3X7Fgi6ZH3KeeX5gmds4mWJyh",
+            "name": "Wolverine’s Fart Gas",
+            "symbol": "FARTGAS"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000003235",
+          "priceUsd": "0.00003224",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1016,
+              "sells": 40
+            }
+          },
+          "volume": {
+            "h24": 2651.6,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -59.2
+          },
+          "liquidity": {
+            "usd": 0,
+            "base": 0.01235,
+            "quote": 1E-09
+          },
+          "fdv": 32245,
+          "marketCap": 32245,
+          "pairCreatedAt": 1789118391000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "meteora",
+          "url": "https://dexscreener.com/solana/8av1jb5jimfnar5a9ffnwbym6nmfcdtc54kq4r67wkd4",
+          "pairAddress": "8aV1Jb5JiMFnaR5a9ffNWBym6nmFCDtc54Kq4r67WkD4",
+          "labels": [
+            "DYN2"
+          ],
+          "baseToken": {
+            "address": "2sVSksDYtDVRLfbdRJy3X7Fgi6ZH3KeeX5gmds4mWJyh",
+            "name": "Wolverine’s Fart Gas",
+            "symbol": "FARTGAS"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000009401",
+          "priceUsd": "0.00009344",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 9,
+              "sells": 3
+            }
+          },
+          "volume": {
+            "h24": 0.49,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 3529
+          },
+          "liquidity": {
+            "usd": 0.4,
+            "base": 2299.7864,
+            "quote": 0.001948
+          },
+          "fdv": 93446,
+          "marketCap": 93446,
+          "pairCreatedAt": 1789118386000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpswap",
+          "url": "https://dexscreener.com/solana/4ggqbnce7enezyhlszp6ozbggtgjpkao2wvqj3z8ev8y",
+          "pairAddress": "4GGQbNCE7eNeZyHLszp6oZBgGtGJPKao2wVqJ3Z8eV8Y",
+          "baseToken": {
+            "address": "6ZN7wDJd3wpxGM4afJ53MRo5mcPNQR3ECPNfYHnVmoon",
+            "name": "Wolverine Arcade",
+            "symbol": "Wolarc"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0005935",
+          "priceUsd": "0.06069",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 83,
+              "sells": 18
+            },
+            "h24": {
+              "buys": 83,
+              "sells": 18
+            }
+          },
+          "volume": {
+            "h24": 16147.38,
+            "h6": 16147.38,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": 49.63,
+            "h24": 49.63
+          },
+          "liquidity": {
+            "usd": 0.02,
+            "base": 0.1767,
+            "quote": 0.0001051
+          },
+          "fdv": 60692434,
+          "marketCap": 60692434,
+          "pairCreatedAt": 1789165495000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/8t94njimzmnvpypkh97xlonuc6wixaxv7dzovuz3g9u7",
+          "pairAddress": "8T94njiMZmnVPYpKh97xLoNUc6WiXAxV7dzovUZ3G9U7",
+          "baseToken": {
+            "address": "8DHSTwbAUy6Z7jTFwuMcKXGWirmVVzBFSFD4prP6pump",
+            "name": "Wolverine’s Fart Gas",
+            "symbol": "FARTGAS"
+          },
+          "quoteToken": {
+            "address": "MRVLSjkR2ceUBukujaD3xCyHP1H3B2SzpsNTZF546jo",
+            "name": "Marvell Technology - Backpack Securities",
+            "symbol": "MRVL"
+          },
+          "priceNative": "0.00000001775",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 314,
+              "sells": 240
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1789118322000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpswap",
+          "url": "https://dexscreener.com/solana/htokpz5ekyycfzmpergcbohrasegh6jeetakfvknn3ws",
+          "pairAddress": "HtokPz5ekyycFZMpErGcBoHrasEGH6jEETAKFvkNN3ws",
+          "baseToken": {
+            "address": "BuQjzS3eYtXfyMsGGA6nk17a2cU2uym7Hg5RKwRopump",
+            "name": "APPLE WOLVERINE ROBOT",
+            "symbol": "Wolrobo"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00002152",
+          "priceUsd": "0.002198",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 24,
+              "sells": 4
+            },
+            "h24": {
+              "buys": 24,
+              "sells": 4
+            }
+          },
+          "volume": {
+            "h24": 12369.88,
+            "h6": 12369.88,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -95.4,
+            "h24": -95.4
+          },
+          "liquidity": {
+            "usd": 0,
+            "base": 1.4211,
+            "quote": 3.365E-05
+          },
+          "fdv": 2199,
+          "marketCap": 2199,
+          "pairCreatedAt": 1789177852000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "meteoradbc",
+          "url": "https://dexscreener.com/solana/gphcydemrwfghgfxhkqnpvc8bhvl8gwznsmtzmdisddb",
+          "pairAddress": "GpHCyDEmrwfGHgfxHKqnPVC8BHVL8GWznsmtzMdisddB",
+          "baseToken": {
+            "address": "2sVSksDYtDVRLfbdRJy3X7Fgi6ZH3KeeX5gmds4mWJyh",
+            "name": "Wolverine’s Fart Gas",
+            "symbol": "FARTGAS"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.0000000000004501",
+          "priceUsd": "0.00000000004488",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "fdv": 0.04,
+          "marketCap": 0.04,
+          "pairCreatedAt": 1789118386000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "fourmeme",
+          "url": "https://dexscreener.com/bsc/0xf719a504a5f08cb33b883cc3e1434aaee9e3ffff:4meme",
+          "pairAddress": "0xf719a504a5F08Cb33b883cC3e1434aaEE9E3FFFF:4meme",
+          "baseToken": {
+            "address": "0xf719a504a5F08Cb33b883cC3e1434aaEE9E3FFFF",
+            "name": "Wolverine’s Fart Gas",
+            "symbol": "FARTGAS"
+          },
+          "quoteToken": {
+            "address": "0xF2ec508422174Ee564de98187db9359D318AFB6b",
+            "name": "Trump Media & Technology Group Corp",
+            "symbol": "DJTB"
+          },
+          "priceNative": "0.0000",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1789118341000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/asikltquteap6xzdrwoywe1qs3zqmdadux4c79v3yyxb",
+          "pairAddress": "ASiKLtQUteap6xZDrWoyWE1qS3zQMDaDUx4c79V3yYXB",
+          "baseToken": {
+            "address": "589DPtBBvF9PjkKE7AxEf8Y2T1VsuYWmv6A2hm2mpump",
+            "name": "Wolverine's Fart Gas",
+            "symbol": "FARTGAS"
+          },
+          "quoteToken": {
+            "address": "MRVLSjkR2ceUBukujaD3xCyHP1H3B2SzpsNTZF546jo",
+            "name": "Marvell Technology - Backpack Securities",
+            "symbol": "MRVL"
+          },
+          "priceNative": "0.0000",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1789118358000
+        },
+        {
+          "chainId": "bsc",
+          "dexId": "fourmeme",
+          "url": "https://dexscreener.com/bsc/0x9f931a4ac091cdd8dfcc1de1be1156b0b09affff:4meme",
+          "pairAddress": "0x9F931a4ac091CDd8DfCc1De1Be1156B0B09affFF:4meme",
+          "baseToken": {
+            "address": "0x9F931a4ac091CDd8DfCc1De1Be1156B0B09affFF",
+            "name": "Wolverine’s Fart Gas",
+            "symbol": "FARTGAS"
+          },
+          "quoteToken": {
+            "address": "0xF2ec508422174Ee564de98187db9359D318AFB6b",
+            "name": "Trump Media & Technology Group Corp",
+            "symbol": "DJTB"
+          },
+          "priceNative": "0.0000",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1789118331000
+        }
+      ]
+    }
+  },
+  {
+    "query": "lanterns",
+    "capturedAt": "2026-09-12T04:12:12.2865496Z",
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/26k6txyjvqwzskdlc27hyw4pwj6xoguuqhihqmedwelu",
+          "pairAddress": "26k6TXYJvqWzskDLc27Hyw4Pwj6XoGuUQhiHQmEDweLU",
+          "baseToken": {
+            "address": "EUWUyKdQRSVVxPHLAjX2tGXzxibHG8Jea8Tsr82Zpump",
+            "name": "Lantern Fly Opps",
+            "symbol": "Lanterns"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002857",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 130.73,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": -3.47
+          },
+          "fdv": 2857.13,
+          "marketCap": 2857.13,
+          "pairCreatedAt": 1789147803000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/6pjyq8ffctwerghmmcclqrn9xnu7ihshbxbvjwcgqfsw",
+          "pairAddress": "6pjyq8ffctWergHMMcCLqRN9Xnu7iHsHBXbVjwCGQfSw",
+          "baseToken": {
+            "address": "6L6TBUCbePVer6dYHiGH16Ym1ut44CbvhFKgsvYSpump",
+            "name": "Lanterns",
+            "symbol": "Lanterns"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002862",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 1,
+              "sells": 1
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 30.33,
+            "h6": 30.33,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -1,
+            "h24": -1
+          },
+          "fdv": 2862.16,
+          "marketCap": 2862.16,
+          "pairCreatedAt": 1789170270000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/cxcrgfuspvjwgdnnz2herttqsipsynocbxferqqdho9j",
+          "pairAddress": "CxCrGfUSpvJwgdNNZ2hERttQsipsYnocBxFErQQdHo9J",
+          "baseToken": {
+            "address": "5qmJQUgSBJeykZ4z4FasQ7p9Ka5en3JubFEXzRXppump",
+            "name": "Lanterns meme",
+            "symbol": "Lanterns"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002795",
+          "priceUsd": "0.000002857",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 2
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 30.27,
+            "h6": 15.14,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -0.85,
+            "h24": -0.85
+          },
+          "fdv": 2857.13,
+          "marketCap": 2857.13,
+          "pairCreatedAt": 1789164650000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "meteora",
+          "url": "https://dexscreener.com/solana/bvv48cepaxzypgtxpfvhl326qqkc27bpgymbjqjqukal",
+          "pairAddress": "Bvv48cePaXzypgtxPfvHL326qqKC27bpgYmbjQJquKAL",
+          "labels": [
+            "DYN"
+          ],
+          "baseToken": {
+            "address": "yZPZT8HknuNeqtj1y3z77cGEpizyg1sGQ1M3FngcSN4",
+            "name": "THENTI",
+            "symbol": "TNT"
+          },
+          "quoteToken": {
+            "address": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+            "name": "Lantern Staked SOL",
+            "symbol": "lanternSOL"
+          },
+          "priceNative": "0.0000003777",
+          "priceUsd": "0.00004884",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 2,
+              "sells": 3
+            }
+          },
+          "volume": {
+            "h24": 0.43,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 4.88
+          },
+          "liquidity": {
+            "usd": 20649.13,
+            "base": 211599490,
+            "quote": 79.7708
+          },
+          "fdv": 48775,
+          "marketCap": 48775,
+          "pairCreatedAt": 1738607437000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "meteora",
+          "url": "https://dexscreener.com/solana/7diwg5paizdibfwkwgpymdsxr58lxskecqfhuxvbvcx3",
+          "pairAddress": "7DiwG5paiZDiBfWkWGpymDSxR58LxsKECQFHuxVbvCX3",
+          "labels": [
+            "DYN"
+          ],
+          "baseToken": {
+            "address": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+            "name": "Lantern Staked SOL",
+            "symbol": "lanternSOL"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "1.2375",
+          "priceUsd": "126.10",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 1,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 1.02,
+            "h6": 0.77,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h6": -2.47,
+            "h24": -2.47
+          },
+          "liquidity": {
+            "usd": 8835.55,
+            "base": 35.06344,
+            "quote": 43.3144
+          },
+          "fdv": 2956213,
+          "marketCap": 2956213,
+          "pairCreatedAt": 1740135367000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "orca",
+          "url": "https://dexscreener.com/solana/5pvsa5zb36apxa2o3efrv6mzugthsf82aumrgx13fsr2",
+          "pairAddress": "5pvSa5Zb36apXA2o3EFrV6mzUgTHSf82AuMRGX13Fsr2",
+          "labels": [
+            "wp"
+          ],
+          "baseToken": {
+            "address": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+            "name": "Lantern Staked SOL",
+            "symbol": "lanternSOL"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "1.2140",
+          "priceUsd": "123.77",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0.1,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "liquidity": {
+            "usd": 3811.7,
+            "base": 4.1143,
+            "quote": 32.3928
+          },
+          "fdv": 4934930,
+          "marketCap": 4934930,
+          "pairCreatedAt": 1713698162000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "meteora",
+          "url": "https://dexscreener.com/solana/hzcegd7ytigv37ekkc67upbvhvadk7pvndcxkkoexyvy",
+          "pairAddress": "HZCEGD7YTiGv37EKkc67UPbVhVADK7pvndcxKkoexyVy",
+          "labels": [
+            "DYN"
+          ],
+          "baseToken": {
+            "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+            "name": "Cloud",
+            "symbol": "CLOUD"
+          },
+          "quoteToken": {
+            "address": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+            "name": "Lantern Staked SOL",
+            "symbol": "lanternSOL"
+          },
+          "priceNative": "0.0003101",
+          "priceUsd": "0.04009",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 2
+            }
+          },
+          "volume": {
+            "h24": 0.33,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 3.56
+          },
+          "liquidity": {
+            "usd": 13.93,
+            "base": 171.9926,
+            "quote": 0.05446
+          },
+          "fdv": 40098291,
+          "marketCap": 19821487,
+          "pairCreatedAt": 1724851447000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/9061ac79a133ce4fd2a79c836e91b0ac09a0af5f0685bbde342bae54366b6f95?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/f9eb259a02391bf52c16be5d5ecd648e07c2e3a0f4406764193dea7c055caee8?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu?timestamp=1789186200000",
+            "websites": [
+              {
+                "url": "http://sanctum.so/",
+                "label": "Website"
+              },
+              {
+                "url": "https://www.twitch.tv/sanctumso",
+                "label": "Twitch"
+              },
+              {
+                "url": "https://www.youtube.com/channel/UCC4QjY-BKOMPS8s6tJYrUtQ",
+                "label": "YouTube"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/sanctumso",
+                "type": "twitter"
+              },
+              {
+                "url": "https://discord.gg/sanctumso",
+                "type": "discord"
+              }
+            ]
+          }
+        },
+        {
+          "chainId": "solana",
+          "dexId": "meteora",
+          "url": "https://dexscreener.com/solana/hv4yqqrrhyrfio32perwmcuwvfqhibfm3mumxxuv8ztw",
+          "pairAddress": "HV4YqQRrHYrfio32PErwmcuWvFQhiBfm3MuMXXUv8zTw",
+          "labels": [
+            "DYN"
+          ],
+          "baseToken": {
+            "address": "A9oFyGZqDBpVGpBzXsGh8fK9Lck9Ui9TgdBoZg7sfDEd",
+            "name": "FIRST MEMECOIN ON LANTERN",
+            "symbol": "MEMECOIN"
+          },
+          "quoteToken": {
+            "address": "LnTRntk2kTfWEY6cVB8K9649pgJbt6dJLS1Ns1GZCWg",
+            "name": "Lantern Staked SOL",
+            "symbol": "lanternSOL"
+          },
+          "priceNative": "0.00000001596",
+          "priceUsd": "0.000002064",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 3,
+              "sells": 5
+            }
+          },
+          "volume": {
+            "h24": 1.63,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 5.24
+          },
+          "liquidity": {
+            "usd": 3056.59,
+            "base": 740834447,
+            "quote": 11.8086
+          },
+          "fdv": 2058,
+          "marketCap": 2058,
+          "pairCreatedAt": 1743085595000
+        },
+        {
+          "chainId": "solana",
+          "dexId": "pumpfun",
+          "url": "https://dexscreener.com/solana/huv3fs2qkyafgcvtxcugcyhhfmnheb2erbcs4meejqkt",
+          "pairAddress": "HUV3fs2qKYafgCvTXCUgCyhHFmNhEb2ErBcs4meEjQkT",
+          "baseToken": {
+            "address": "9FZJyhFJdjTLPvHBYudiTDcKhY1HUpqMYdqE3rr3pump",
+            "name": "Thoughts on Lanterns?",
+            "symbol": "$THOUGHTS"
+          },
+          "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+          },
+          "priceNative": "0.00000002802",
+          "priceUsd": "0.000002841",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 3,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 3.5,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {
+            "h24": 0.31
+          },
+          "fdv": 2841.3,
+          "marketCap": 2841.3,
+          "pairCreatedAt": 1789151319000
+        },
+        {
+          "chainId": "polygon",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/polygon/0xd8706679391cb892878518198f3092dcaeed51b2",
+          "pairAddress": "0xD8706679391cB892878518198f3092Dcaeed51B2",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x75C0A194cD8B4F01D5eD58be5B7C5b61A9C69D0a",
+            "name": "Dragon Hoard Gold",
+            "symbol": "DHG"
+          },
+          "quoteToken": {
+            "address": "0x8e87497EC9FD80fc102b33837035F76cf17c3020",
+            "name": "Solar Lanterns",
+            "symbol": "LANTERN"
+          },
+          "priceNative": "0.000002469",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1737745003000
+        },
+        {
+          "chainId": "polygon",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/polygon/0x4d75b8b5b42f9f3a220334fbc6cebd6fadde880b",
+          "pairAddress": "0x4D75B8B5b42F9F3a220334fbC6cEbD6fADdE880B",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x4BF82cF0d6b2afC87367052B793097153C859D38",
+            "name": "Durgan Dynasty Doubloon",
+            "symbol": "DDD"
+          },
+          "quoteToken": {
+            "address": "0x8e87497EC9FD80fc102b33837035F76cf17c3020",
+            "name": "Solar Lanterns",
+            "symbol": "LANTERN"
+          },
+          "priceNative": "0.00001092",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1739124468000
+        },
+        {
+          "chainId": "polygon",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/polygon/0x6cab75d1a63628d1bb04ac49230afafb24ef419c",
+          "pairAddress": "0x6CAB75d1A63628D1BB04aC49230afAfB24EF419c",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x8e87497EC9FD80fc102b33837035F76cf17c3020",
+            "name": "Solar Lanterns",
+            "symbol": "LANTERN"
+          },
+          "quoteToken": {
+            "address": "0xdFFfe0C33b4011C4218acD61E68a62a32eaf9a8B",
+            "name": "Axelar Wrapped REGEN",
+            "symbol": "axlREGEN"
+          },
+          "priceNative": "6741.7322",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 0,
+              "sells": 1
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1761234973000
+        },
+        {
+          "chainId": "polygon",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/polygon/0x6611c3a16e4fd98ab8011ddeb1a28d10a3937b5c",
+          "pairAddress": "0x6611C3a16E4FD98aB8011DdEb1A28D10A3937B5c",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x8e87497EC9FD80fc102b33837035F76cf17c3020",
+            "name": "Solar Lanterns",
+            "symbol": "LANTERN"
+          },
+          "quoteToken": {
+            "address": "0xD7C584D40216576f1d8651Eab8bEF9DE69497666",
+            "name": "Button ",
+            "symbol": "BTN"
+          },
+          "priceNative": "246317.1917",
+          "txns": {
+            "m5": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h1": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h6": {
+              "buys": 0,
+              "sells": 0
+            },
+            "h24": {
+              "buys": 1,
+              "sells": 0
+            }
+          },
+          "volume": {
+            "h24": 0,
+            "h6": 0,
+            "h1": 0,
+            "m5": 0
+          },
+          "priceChange": {},
+          "pairCreatedAt": 1737698073000
+        }
+      ]
+    }
+  }
+]

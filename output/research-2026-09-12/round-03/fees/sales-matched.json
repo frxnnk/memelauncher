@@ -1,0 +1,427 @@
+[
+  {
+    "claim": "0x7b0711ada533e1d2b6b8da8f1fcf897fce8ec25f78ede4ed86e6ad5409df72cd",
+    "tx": "0x9927db322d74057523d041c93df8448057615d762650f733c98b644e8275fc8c",
+    "token": "CATGPT",
+    "amount": 318322.385935657605904162,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.000059378586084,
+    "outgoing": [
+      {
+        "amount": 318322.385935657605904162,
+        "symbol": "CATGPT"
+      }
+    ],
+    "timestamp": "2026-09-11T23:45:52Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x7b0711ada533e1d2b6b8da8f1fcf897fce8ec25f78ede4ed86e6ad5409df72cd",
+    "tx": "0x97ad4c576c854d0043c2727ecca94498fc192a7867d7d507cc721780c7908f24",
+    "token": null,
+    "amount": null,
+    "wethBurn": 0.093442251526400631,
+    "overflow": false,
+    "gasEth": 0.0000348250678,
+    "outgoing": [
+      {
+        "amount": 116.054262997589715998,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-11T23:45:51Z",
+    "feeMatch": false
+  },
+  {
+    "claim": "0x7b0711ada533e1d2b6b8da8f1fcf897fce8ec25f78ede4ed86e6ad5409df72cd",
+    "tx": "0xcc6168bd849c1fb59631cb93caffb368d3dff0dad18f400273d13783ba25fbf6",
+    "token": null,
+    "amount": null,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.00005833265565,
+    "outgoing": [
+      {
+        "amount": 364711.68828408724944709,
+        "symbol": "GPT"
+      }
+    ],
+    "timestamp": "2026-09-11T23:45:50Z",
+    "feeMatch": false
+  },
+  {
+    "claim": "0x04aa96b318fabe4ff1b9c16e02f03db50673aa712bc665695b028a074cfc6280",
+    "tx": "0xb12729cf133100a5dec5912244d08c1fda08f6905e3945e790bef0093b37696f",
+    "token": "OPENAIx1L",
+    "amount": 192.154331283884001661,
+    "wethBurn": 0.158777868679007945,
+    "overflow": false,
+    "gasEth": 0.000050907532572,
+    "outgoing": [
+      {
+        "amount": 192.154331283884001661,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-11T23:51:30Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x04aa96b318fabe4ff1b9c16e02f03db50673aa712bc665695b028a074cfc6280",
+    "tx": "0xdf70c14e3dc62bda394301a41827bd25552048a5ea1ecf2d3ecbca4c3e7c7a66",
+    "token": "CATGPT",
+    "amount": 323530.101751107586800923,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.00008079208429,
+    "outgoing": [
+      {
+        "amount": 323530.101751107586800923,
+        "symbol": "CATGPT"
+      }
+    ],
+    "timestamp": "2026-09-11T23:51:29Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0xfe35da1eea64f8537aa1a11764bc5e386ea5ca58b02fa4a49fc3b5aeb8f2a744",
+    "tx": "0x08b7681df58f12434c4d386a538a5c0f80f1be7e9643128b5e4d0c9c1cc582b6",
+    "token": null,
+    "amount": null,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.000060166443292,
+    "outgoing": [
+      {
+        "amount": 305479.737576292078275878,
+        "symbol": "GPT"
+      }
+    ],
+    "timestamp": "2026-09-11T23:55:59Z",
+    "feeMatch": false
+  },
+  {
+    "claim": "0xfe35da1eea64f8537aa1a11764bc5e386ea5ca58b02fa4a49fc3b5aeb8f2a744",
+    "tx": "0x0f0a04869b890a6cadff794153abd478a78c4c4a21450ff399322b12430b658c",
+    "token": "CATGPT",
+    "amount": 160485.42657160211131786,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.00006153981762,
+    "outgoing": [
+      {
+        "amount": 160485.42657160211131786,
+        "symbol": "CATGPT"
+      }
+    ],
+    "timestamp": "2026-09-11T23:55:57Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0xfe35da1eea64f8537aa1a11764bc5e386ea5ca58b02fa4a49fc3b5aeb8f2a744",
+    "tx": "0x4df8a6ba4c9cf4c65144133c9a9487308eb533b11b15273fc0a7f3956b89126b",
+    "token": null,
+    "amount": null,
+    "wethBurn": 0.077171862352392044,
+    "overflow": false,
+    "gasEth": 0.00003168269,
+    "outgoing": [
+      {
+        "amount": 158.642089725828655635,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-11T23:55:56Z",
+    "feeMatch": false
+  },
+  {
+    "claim": "0x1d9b44df0fc9aeebe6285017b9b3e30aff9635ca98c814748239e21b5fd7e164",
+    "tx": "0x6f61f9c178a0188236d4870bed688552c6305187d9aa35851b37429ffe939a63",
+    "token": "OPENAIx1L",
+    "amount": 299.703319560045637068,
+    "wethBurn": 0.137720348111373149,
+    "overflow": false,
+    "gasEth": 0.000032943117966,
+    "outgoing": [
+      {
+        "amount": 299.703319560045637068,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T00:03:22Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x1d9b44df0fc9aeebe6285017b9b3e30aff9635ca98c814748239e21b5fd7e164",
+    "tx": "0x77c185020d1a5281f333c6a9bc265efe2aa03fbc47858d567a1c40a38d91b1c8",
+    "token": "CATGPT",
+    "amount": 174324.921794070072638724,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.00005906342574,
+    "outgoing": [
+      {
+        "amount": 174324.921794070072638724,
+        "symbol": "CATGPT"
+      }
+    ],
+    "timestamp": "2026-09-12T00:03:21Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x7af2a9bece5312a2244801b581c1e781a5e24b45b4bda8e333b0669e15cf6da1",
+    "tx": "0x27f98d5c0207eb4f2106f0522486af7320d0ea701ac98f07ac951ca2b8299f14",
+    "token": "OPENAIx1L",
+    "amount": 393.447917094069255168,
+    "wethBurn": 0.204750967207440872,
+    "overflow": false,
+    "gasEth": 0.00003277390233,
+    "outgoing": [
+      {
+        "amount": 393.447917094069255168,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T00:20:57Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x7af2a9bece5312a2244801b581c1e781a5e24b45b4bda8e333b0669e15cf6da1",
+    "tx": "0x0a7b1afe05bebb4d601a72147c1ac9a5c6623f8e8e62ddf8f34232e905a80513",
+    "token": "CATGPT",
+    "amount": 204905.668945657249761853,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.0000593936031,
+    "outgoing": [
+      {
+        "amount": 204905.668945657249761853,
+        "symbol": "CATGPT"
+      }
+    ],
+    "timestamp": "2026-09-12T00:20:55Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x559f5d547dfbd67063c6ef42e38a42ca32ace3d31df5b94d4ed12ac2127d413f",
+    "tx": "0x7c9d26dd4f7f358018795fa4299a6a8baec77b999a9b41476094bb1e276c32da",
+    "token": "OPENAIx1L",
+    "amount": 286.177914726109625927,
+    "wethBurn": 0.142545547243673034,
+    "overflow": false,
+    "gasEth": 0.000032460369114,
+    "outgoing": [
+      {
+        "amount": 286.177914726109625927,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T00:36:39Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x559f5d547dfbd67063c6ef42e38a42ca32ace3d31df5b94d4ed12ac2127d413f",
+    "tx": "0x6c03af531fd2281031fd2694d844d4ff3cc353f4fea4498fa9c25fd12b56042b",
+    "token": "CATGPT",
+    "amount": 90129.459785830513739776,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.0000581354532,
+    "outgoing": [
+      {
+        "amount": 90129.459785830513739776,
+        "symbol": "CATGPT"
+      }
+    ],
+    "timestamp": "2026-09-12T00:36:38Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x619a720299267c0ec516c079e5a378137c7e50bed8d946500971ef0e0b7725c1",
+    "tx": "0x43152cb859d770d80d05cad26554d1206f0c47c53c7a6dabf53e149f32834c3f",
+    "token": null,
+    "amount": null,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.00007581773696,
+    "outgoing": [
+      {
+        "amount": 103993.160470031749049805,
+        "symbol": "CATGPT"
+      }
+    ],
+    "timestamp": "2026-09-12T01:16:44Z",
+    "feeMatch": false
+  },
+  {
+    "claim": "0x619a720299267c0ec516c079e5a378137c7e50bed8d946500971ef0e0b7725c1",
+    "tx": "0x7f684517b36533820fbb0db2c181c58393d61da77fc1673fd852120b44da32d8",
+    "token": "OPENAIx1L",
+    "amount": 768.596674435276239296,
+    "wethBurn": 0.437986246528300816,
+    "overflow": false,
+    "gasEth": 0.00003255443478,
+    "outgoing": [
+      {
+        "amount": 768.596674435276239296,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T01:16:37Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x3959db36aa7479a8c13ea721b1cbe0f29c2bb71b568f53ba5d0fcc7785bcdf3f",
+    "tx": "0x9fc392e523db19243ce44bfecb94e739cee5300b9836f0a0e30271c9aa8e5864",
+    "token": "OPENAIx1L",
+    "amount": 502.271224807138406277,
+    "wethBurn": 0.214004088858311627,
+    "overflow": false,
+    "gasEth": 0.00003231141063,
+    "outgoing": [
+      {
+        "amount": 502.271224807138406277,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T02:04:25Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x290b35e087b487f4269d4b88b8e16209ee127b25477118a4ead8e8344221914c",
+    "tx": "0x90c9b9ed4dd501b76087d6b913a66881383788911f2934440413e159eb49d770",
+    "token": "OPENAIx1L",
+    "amount": 318.712706971106499605,
+    "wethBurn": 0.134515420140887083,
+    "overflow": false,
+    "gasEth": 0.000032432176234,
+    "outgoing": [
+      {
+        "amount": 318.712706971106499605,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T02:29:35Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x49bb8504d3e614c8aee0724769516d8e70126cb2a43c3c319dfe4e7f89e97aa3",
+    "tx": "0x249b535f2d02d26b8bc781a569b59f693d481f2d5f0307cb174af9d93779d05f",
+    "token": "OPENAIx1L",
+    "amount": 504.501536126437147517,
+    "wethBurn": 0.216773137865316759,
+    "overflow": false,
+    "gasEth": 0.00003208224761,
+    "outgoing": [
+      {
+        "amount": 504.501536126437147517,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T02:42:31Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0xbd27425422d2694aad950d962e28e2cea69bc64703645a639c0f17dbba2ad193",
+    "tx": "0xb45c39c4a97e22043b0ec9f148383b4006821ad64cc9046f931f3ba0b28f72e6",
+    "token": "OPENAIx1L",
+    "amount": 552.986198272012786727,
+    "wethBurn": 0.242437790311233466,
+    "overflow": false,
+    "gasEth": 0.000035828916984,
+    "outgoing": [
+      {
+        "amount": 552.986198272012786727,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T02:54:34Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0xcd8b68187a3d774bc6cfede26b7c6f01454c2de7005a118a97f632b3d57786b0",
+    "tx": "0xba1d22d0d9c680187504e9a174021ca920fc3775b2ac1f9cae68b6b2fa853350",
+    "token": "OPENAIx1L",
+    "amount": 249.798164218931210913,
+    "wethBurn": null,
+    "overflow": true,
+    "gasEth": 0.000065399091992,
+    "outgoing": [
+      {
+        "amount": 249.798164218931210913,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T03:07:13Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0xe0505a7f9704155b9c597ee1858ffc017157a81c4f558c2cbe24517858936acd",
+    "tx": "0x5fc8ca498c73250cd00d45919db0d7ba9d5b9ad49d9efa248ead8ddb5d0f66f5",
+    "token": "OPENAIx1L",
+    "amount": 479.668406675587586229,
+    "wethBurn": 0.224808554433894055,
+    "overflow": false,
+    "gasEth": 0.00003247158586,
+    "outgoing": [
+      {
+        "amount": 479.668406675587586229,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T03:32:37Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0xc90bc8e56eb9171ce8be55a56fe058c8354c4ab1ec4942dcecfa98686eff2154",
+    "tx": "0x01820b2e56eb648e110429d308d81cdce38a80d5d2375fe0556a8efad68f0cbf",
+    "token": "OPENAIx1L",
+    "amount": 199.928064239624919716,
+    "wethBurn": 0.093420396692376672,
+    "overflow": false,
+    "gasEth": 0.000032388613642,
+    "outgoing": [
+      {
+        "amount": 199.928064239624919716,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T04:08:05Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x20926bd69c982d2c0ae71ba761b09b98121c280aa81bf9706ce2fd518c892ae0",
+    "tx": "0x1ac3ebba1b720d2587657e740d8f566c785a1064223427d67531458b4ab31f72",
+    "token": "OPENAIx1L",
+    "amount": 286.781428965212428205,
+    "wethBurn": 0.133868171359370448,
+    "overflow": false,
+    "gasEth": 0.000032203402214,
+    "outgoing": [
+      {
+        "amount": 286.781428965212428205,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T04:29:44Z",
+    "feeMatch": true
+  },
+  {
+    "claim": "0x7035ec3cbff282a0315b923bb624b322bda693f3458e65f38cea1e04d8b65bcf",
+    "tx": "0xc0a31ee4405f5b183ef5e84647bf4f5ca10084245496738303beca2ca8bbe291",
+    "token": null,
+    "amount": null,
+    "wethBurn": 0.148622072755253068,
+    "overflow": false,
+    "gasEth": 0.0000316253406,
+    "outgoing": [
+      {
+        "amount": 347.250383214042490545,
+        "symbol": "OPENAIx1L"
+      }
+    ],
+    "timestamp": "2026-09-12T04:58:45Z",
+    "feeMatch": false
+  }
+]

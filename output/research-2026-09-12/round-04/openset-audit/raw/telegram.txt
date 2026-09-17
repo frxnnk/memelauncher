@@ -1,0 +1,1747 @@
+
+
+
+  
+
+    
+
+    
+OPEN SET | LIVE – Telegram
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+TBaseUrl='/';
+
+    
+        .user-color-12 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #3391d4 0px, #3391d4 5px, #7dd3f0 5px, #7dd3f0 10px);
+          --user-accent-color: #3391d4;
+          --user-background: #3391d41f;
+        }        .user-color-10 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #27a910 0px, #27a910 5px, #a7dc57 5px, #a7dc57 10px);
+          --user-accent-color: #27a910;
+          --user-background: #27a9101f;
+        }        .user-color-8 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #e0802b 0px, #e0802b 5px, #fac534 5px, #fac534 10px);
+          --user-accent-color: #e0802b;
+          --user-background: #e0802b1f;
+        }        .user-color-7 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #e15052 0px, #e15052 5px, #f9ae63 5px, #f9ae63 10px);
+          --user-accent-color: #e15052;
+          --user-background: #e150521f;
+        }        .user-color-9 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #a05ff3 0px, #a05ff3 5px, #f48fff 5px, #f48fff 10px);
+          --user-accent-color: #a05ff3;
+          --user-background: #a05ff31f;
+        }        .user-color-11 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #27acce 0px, #27acce 5px, #82e8d6 5px, #82e8d6 10px);
+          --user-accent-color: #27acce;
+          --user-background: #27acce1f;
+        }        .user-color-13 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #dd4371 0px, #dd4371 5px, #ffbe9f 5px, #ffbe9f 10px);
+          --user-accent-color: #dd4371;
+          --user-background: #dd43711f;
+        }        .user-color-14 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #247bed 0px, #247bed 5px, #f04856 5px, #f04856 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #247bed;
+          --user-background: #247bed1f;
+        }        .user-color-15 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #d67722 0px, #d67722 5px, #1ea011 5px, #1ea011 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #d67722;
+          --user-background: #d677221f;
+        }        .user-color-16 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #179e42 0px, #179e42 5px, #e84a3f 5px, #e84a3f 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #179e42;
+          --user-background: #179e421f;
+        }        .user-color-17 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #2894af 0px, #2894af 5px, #6fc456 5px, #6fc456 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #2894af;
+          --user-background: #2894af1f;
+        }        .user-color-18 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #0c9ab3 0px, #0c9ab3 5px, #ffad95 5px, #ffad95 10px, #ffe6b5 10px, #ffe6b5 15px);
+          --user-accent-color: #0c9ab3;
+          --user-background: #0c9ab31f;
+        }        .user-color-19 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #7757d6 0px, #7757d6 5px, #f79610 5px, #f79610 10px, #ffde8e 10px, #ffde8e 15px);
+          --user-accent-color: #7757d6;
+          --user-background: #7757d61f;
+        }        .user-color-20 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #1585cf 0px, #1585cf 5px, #f2ab1d 5px, #f2ab1d 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #1585cf;
+          --user-background: #1585cf1f;
+        }        body.dark .user-color-12, html.theme_dark .user-color-12 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #52bfff 0px, #52bfff 5px, #0b5494 5px, #0b5494 10px);
+          --user-accent-color: #52bfff;
+          --user-background: #52bfff1f;
+        }        body.dark .user-color-10, html.theme_dark .user-color-10 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #a7eb6e 0px, #a7eb6e 5px, #167e2d 5px, #167e2d 10px);
+          --user-accent-color: #a7eb6e;
+          --user-background: #a7eb6e1f;
+        }        body.dark .user-color-8, html.theme_dark .user-color-8 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #ecb04e 0px, #ecb04e 5px, #c35714 5px, #c35714 10px);
+          --user-accent-color: #ecb04e;
+          --user-background: #ecb04e1f;
+        }        body.dark .user-color-7, html.theme_dark .user-color-7 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #ff9380 0px, #ff9380 5px, #992f37 5px, #992f37 10px);
+          --user-accent-color: #ff9380;
+          --user-background: #ff93801f;
+        }        body.dark .user-color-9, html.theme_dark .user-color-9 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #c697ff 0px, #c697ff 5px, #5e31c8 5px, #5e31c8 10px);
+          --user-accent-color: #c697ff;
+          --user-background: #c697ff1f;
+        }        body.dark .user-color-11, html.theme_dark .user-color-11 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #40d8d0 0px, #40d8d0 5px, #045c7f 5px, #045c7f 10px);
+          --user-accent-color: #40d8d0;
+          --user-background: #40d8d01f;
+        }        body.dark .user-color-13, html.theme_dark .user-color-13 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #ff86a6 0px, #ff86a6 5px, #8e366e 5px, #8e366e 10px);
+          --user-accent-color: #ff86a6;
+          --user-background: #ff86a61f;
+        }        body.dark .user-color-14, html.theme_dark .user-color-14 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #3fa2fe 0px, #3fa2fe 5px, #e5424f 5px, #e5424f 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #3fa2fe;
+          --user-background: #3fa2fe1f;
+        }        body.dark .user-color-15, html.theme_dark .user-color-15 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #ff905e 0px, #ff905e 5px, #32a527 5px, #32a527 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #ff905e;
+          --user-background: #ff905e1f;
+        }        body.dark .user-color-16, html.theme_dark .user-color-16 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #66d364 0px, #66d364 5px, #d5444f 5px, #d5444f 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #66d364;
+          --user-background: #66d3641f;
+        }        body.dark .user-color-17, html.theme_dark .user-color-17 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #22bce2 0px, #22bce2 5px, #3da240 5px, #3da240 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #22bce2;
+          --user-background: #22bce21f;
+        }        body.dark .user-color-18, html.theme_dark .user-color-18 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #22bce2 0px, #22bce2 5px, #ff9778 5px, #ff9778 10px, #ffda6b 10px, #ffda6b 15px);
+          --user-accent-color: #22bce2;
+          --user-background: #22bce21f;
+        }        body.dark .user-color-19, html.theme_dark .user-color-19 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #9791ff 0px, #9791ff 5px, #f2731d 5px, #f2731d 10px, #ffdb59 10px, #ffdb59 15px);
+          --user-accent-color: #9791ff;
+          --user-background: #9791ff1f;
+        }        body.dark .user-color-20, html.theme_dark .user-color-20 {
+          --user-line-gradient: repeating-linear-gradient(-45deg, #3da6eb 0px, #3da6eb 5px, #eea51d 5px, #eea51d 10px, #ffffff 10px, #ffffff 15px);
+          --user-accent-color: #3da6eb;
+          --user-background: #3da6eb1f;
+        }.user-color-6, .user-color-4, .user-color-2, .user-color-0, .user-color-1, .user-color-3, .user-color-5,   .user-color-default {
+    --user-accent-color: var(--accent-color);
+    --user-accent-background: var(--accent-background);
+    --user-line-gradient: linear-gradient(45deg, var(--accent-color), var(--accent-color));
+  }
+
+  
+
+  
+
+    
+
+      
+
+      
+
+    
+
+    
+
+  
+
+    
+
+      
+
+        
+
+        
+
+        
+
+      
+
+    
+
+    
+
+      
+
+        
+
+          
+
+            
+
+            
+
+              
+OPEN SET | LIVE
+
+              
+
+            
+
+            
+@opensetlive
+
+          
+
+          
+112
+ 
+subscribers
+199
+ 
+photos
+
+          
+Open Set live packs updates. 
+https://x.com/opensetfun
+www.open-set.xyz
+
+          
+
+            
+Download Telegram
+          
+
+          
+
+            
+
+              
+About
+
+            
+
+            
+
+              
+Blog
+
+            
+
+            
+
+              
+Apps
+
+            
+
+            
+
+              
+Platform
+
+            
+
+          
+
+        
+
+      
+
+    
+
+    
+
+      
+
+        
+Join
+      
+
+      
+
+        
+
+        
+
+          
+OPEN SET | LIVE
+
+          
+
+        
+
+        
+112 subscribers
+
+      
+
+    
+
+  
+
+
+
+
+
+  
+
+    
+
+      
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 180
+ delivered
+2024 Pokemon Japanese SV Terastal Fest Ex Poke Ball Holo Gabite #82 CGC 10 GEM MINT
+Common pull, insured 
+$22
+Pack pokemon_25, $25
+Winner 
+CCm1nf…3GqM
+
+
+
+  
+  
+
+    
+19
+ views
+06:05
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 181
+ delivered
+2026 Pokemon Mega Evolution Perfect Order Snorlax #063 CGC 10 GEM MINT
+Common pull, insured 
+$21
+Pack pokemon_25, $25
+Winner 
+HXLJuQ…oKKN
+
+
+
+  
+  
+
+    
+17
+ views
+06:08
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 182
+ delivered
+2023 #081 Maushold PSA 10 Japanese Sv2d-Clay Burst Pokemon
+Common pull, insured 
+$92
+Pack pokemon_100, $100
+Winner 
+FqJXo1…Lgc6
+
+
+
+  
+  
+
+    
+17
+ views
+06:10
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 183
+ delivered
+2022 #166 Full Art/Arceus V PSA 9 Sword & Shield Brilliant Stars Pokemon
+Common pull, insured 
+$65
+Pack pokemon_100, $100
+Winner 
+7WUrVg…eVNB
+
+
+
+  
+  
+
+    
+17
+ views
+06:11
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 184
+ delivered
+1997 #88 Grimer PSA 8 Japanese Rocket Pokemon
+Uncommon pull, insured 
+$105
+Pack pokemon_100, $100
+Winner 
+F213zP…1VyB
+
+
+
+  
+  
+
+    
+16
+ views
+06:13
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 185
+ delivered
+2021 Pokemon Japanese SWSH 25th Anniversary Holo Flying Pikachu V #23 CGC 10 PRISTINE
+Common pull, insured 
+$60
+Pack pokemon_100, $100
+Winner 
+Au7xQL…eE32
+
+
+
+  
+  
+
+    
+18
+ views
+06:15
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 186
+ delivered
+2007 #64 Ditto [Squirtle] PSA 7 Promo Pokemon
+Rare pull, insured 
+$420
+Pack pokemon_100, $100
+Winner 
+BJVdVG…2ZvG
+
+
+
+  
+  
+
+    
+18
+ views
+06:17
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 187
+ delivered
+2025 #250 Mega Dragonite EX PSA 9 Japanese M2a-Mega Dream EX
+Common pull, insured 
+$165
+Pack pokemon_250, $250
+Winner 
+6nXJzs…Dxqw
+
+
+
+  
+  
+
+    
+20
+ views
+06:19
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 188
+ delivered
+2005 #8 Gyarados-Reverse Foil CGC 8.5 EX Deoxys Pokemon
+Common pull, insured 
+$465
+Pack pokemon_500, $500
+Winner 
+62FqYS…o88a
+
+
+
+  
+  
+
+    
+21
+ views
+06:21
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 189
+ delivered
+2023 #201 Toedscool PSA 9 Svi EN-Scarlet & Violet
+Common pull, insured 
+$15
+Pack pokemon_25, $25
+Winner 
+BKGKNr…T4Ua
+
+
+
+  
+  
+
+    
+22
+ views
+06:23
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 190
+ delivered
+2026 #29 Mega Charizard X Ex CGC 10 Pokemon Mega Evolution Promo Tin
+Uncommon pull, insured 
+$50
+Pack pokemon_25, $25
+Winner 
+4JBMKN…yNSq
+
+
+
+  
+  
+
+    
+21
+ views
+06:25
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 191
+ delivered
+2024 Pokemon Scarlet & Violet Paldean Fates Trick Or Trade Holo Gengar #57 CGC 9.5 MINT+
+Common pull, insured 
+$19
+Pack pokemon_25, $25
+Winner 
+H5y3GA…BR5q
+
+
+
+  
+  
+
+    
+19
+ views
+06:27
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 192
+ delivered
+2024 Pokemon Scarlet & Violet Shrouded Fable Holo Revavroom EX #15 CGC 9.5 MINT+
+Common pull, insured 
+$13
+Pack pokemon_25, $25
+Winner 
+BXpD2j…Vk1k
+
+
+
+  
+  
+
+    
+18
+ views
+06:28
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 193
+ delivered
+2026 Pokemon Mega Evolution Ascended Heroes Pikachu #55 CGC 10 GEM MINT
+Common pull, insured 
+$27
+Pack pokemon_25, $25
+Winner 
+9Dxbzr…jpy1
+
+
+
+  
+  
+
+    
+12
+ views
+06:30
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 194
+ delivered
+2004 #70 Team Magma Schemer CGC 10 Pokemon EX Team Magma VS Aqua
+Common pull, insured 
+$26
+Pack pokemon_25, $25
+Winner 
+7EtSur…PtZU
+
+
+
+  
+  
+
+    
+10
+ views
+06:32
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 195
+ delivered
+2025 Pokemon Japanese Scarlet & Violet White Flare Full Art Whimsicott ex #159 CGC 10 GEM MINT
+Common pull, insured 
+$14
+Pack pokemon_25, $25
+Winner 
+GhMiJT…QA5e
+
+
+
+  
+  
+
+    
+8
+ views
+06:34
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 196
+ delivered
+2021 Pokemon Japanese Sword & Shield Eevee Heroes Rainbow Rare Glaceon VMAX #90 CGC 10 PRISTINE
+Common pull, insured 
+$63
+Pack pokemon_100, $100
+Winner 
+CEsc51…CBhB
+
+
+
+  
+  
+
+    
+7
+ views
+06:36
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 197
+ delivered
+2021 #144 Greninja-Gold Star PSA 9 Swsh Black Star Promo Pokemon
+Common pull, insured 
+$75
+Pack pokemon_100, $100
+Winner 
+63h8md…8fCi
+
+
+
+  
+  
+
+    
+6
+ views
+06:38
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 198
+ delivered
+2023 
+#GG50
+ Full Art/Darkrai Vstar PSA 8 Sword and Shield Crown Zenith Pokemon
+Common pull, insured 
+$82
+Pack pokemon_100, $100
+Winner 
+7fTREY…e514
+
+
+
+  
+  
+
+    
+4
+ views
+06:40
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+  
+
+  
+
+    
+        
+
+      
+
+        
+
+          
+
+          
+
+          
+
+          
+
+        
+
+      
+
+    
+
+    
+OPEN SET | LIVE
+
+
+
+
+
+  
+
+
+Drop 199
+ delivered
+2003 #002 Groudon ex CGC 8.5 Black Star Promos - Nintendo - English Pokemon
+Rare pull, insured 
+$335
+Pack pokemon_100, $100
+Winner 
+BKGKNr…T4Ua
+
+
+
+  
+  
+
+    
+1
+ view
+06:42
+
+  
+
+
+
+  
+
+  
+Receipt
+Card on chain
+Website
+X
+
+
+
+    
+
+  
+
+
+
+    
+
+    
+
+    
+
+
+
+
+    
+
+    
+
+    
+TWeb.init();
+
+
+    
+  
+
+
+
+
+

@@ -1,0 +1,14 @@
+{
+  "source": "Live read-only browser DOM",
+  "vaultsObservedUtc": "2026-09-12 04:39–04:40",
+  "vaults": [
+    {"url":"https://app.long.xyz/longx/0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5","symbol":"OPENAIx1L","nav":1.0392,"poolPrice":1.1167,"premiumPct":7.45,"proofAgeUi":"3h","supplyUi":577383.60,"tvlUi":600033.78,"depositCap":600000,"capUsedPct":100},
+    {"url":"https://app.long.xyz/longx/0x1937caD42b17D43bB2b347ce16d5288887C46c33","symbol":"ANTHROPICx1L","nav":0.9963,"poolPrice":1.1934,"premiumPct":19.78,"proofAgeUi":"2h","supplyUi":451819.69,"tvlUi":450180.03,"depositCap":450000,"capUsedPct":100}
+  ],
+  "proxyReadsObservedUtc": "2026-09-12 04:44–04:48:46",
+  "proxyReads": [
+    {"url":"https://robinhoodchain.blockscout.com/address/0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18?tab=read_write_proxy","owner":"0xeb7C034704eF8Dcd2D32324c1545f62fB4aD0862","isPoolLocked":true,"isBalanceLimitActive":false,"pool":"0xdeaDDeADDEaDdeaDdEAddEADDEAdDeadDEADDEaD"},
+    {"url":"https://robinhoodchain.blockscout.com/address/0x351Ab2C51e223B28D219fE28cc3956410CC11e18?tab=read_write_proxy","owner":"0xeb7C034704eF8Dcd2D32324c1545f62fB4aD0862","isPoolLocked":true,"isBalanceLimitActive":false,"pool":"0xdeaDDeADDEaDdeaDdEAddEADDEAdDeadDEADDEaD"}
+  ],
+  "limits": "UI fields only; NAV backing, redemptions, complete Airlock privileges and V4 position ownership were not audited. Explorer read calls did not connect a wallet or submit a transaction."
+}

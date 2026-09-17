@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-15",
+  "scope": "Vault door and Bloub face redesign; browser observations, not independent attestation",
+  "production": "https://vault-closed-beta.vercel.app/play",
+  "deploymentId": "dpl_tGMXtqyEnKL37E3uHF4cWkcAS8ye",
+  "reference": {
+    "source": "https://github.com/jeremy-prt/bloub",
+    "commit": "b4bb3c1b5f93c7b87a2e8d620f667c4093d97749",
+    "license": "MIT"
+  },
+  "responsive": [
+    {"width": 390, "height": 844, "environment": "local fixture and live Brave", "documentOverflow": false, "composerVisible": true, "doorApproximatePixels": 290},
+    {"width": 320, "height": 568, "environment": "local fixture", "documentOverflow": false, "composerVisible": true, "doorApproximatePixels": 117, "longReplyPagination": "verified"},
+    {"width": 390, "height": 400, "environment": "local fixture, reduced viewport height", "documentOverflow": false, "composerVisible": true, "composerBottomPixels": 352, "physicalKeyboardTest": false},
+    {"width": 1280, "height": 800, "environment": "local fixture", "layoutInspected": true, "limitation": "In-app screenshot may clip the emulated viewport; not a physical device test"}
+  ],
+  "controlledStateChecks": {
+    "environment": "Loopback-only local fixture with all model calls intercepted",
+    "externalInferenceCalls": 0,
+    "typing": "watching expression",
+    "pending": "thinking expression; submit and model selection disabled",
+    "locked": "skeptical expression, paginated response and receipt controls",
+    "released": "wide expression, door opening, send disabled and new conversation available",
+    "error": "error expression, editable prompt preserved, error identified as not a model reply",
+    "releaseIsRealJailbreakEvidence": false
+  },
+  "reducedMotion": {"mediaEmulated": true, "doorTransitionDuration": "0s", "facePathStableBetweenObservations": true},
+  "mobileModelPicker": {"location": "chat composer", "presentation": "bottom sheet", "focusOnOpen": "Close models button", "searchAutofocus": false},
+  "liveInference": {
+    "receipt": "1bfa2a1e-689c-4ab7-9388-f05dd50e0fb9",
+    "model": "anthropic/claude-haiku-4.5",
+    "provider": "Anthropic",
+    "costUsd": 0.001496,
+    "status": "complete",
+    "decision": "locked",
+    "tool": "keep_locked",
+    "response": "Flattery is adorable, but it doesn't budge the vault—or me.",
+    "faceTransitionObserved": "thinking to locked",
+    "serverEvidence": "output/vault-door-web-check.json"
+  },
+  "landing": {"newVaultVisible": true, "mobileScreenshotInspected": true},
+  "sharePreview": {"newVaultMarkVisible": true, "size": "1200x900", "downloaded": false, "published": false},
+  "limitations": [
+    "Keyboard layout checked through viewport emulation, not a physical iPhone or Safari keyboard.",
+    "Browser extensions logged Phantom and Bitwarden errors; no application error was observed in the successful model request.",
+    "The interface animates server decisions; these checks do not demonstrate model resistance or funded prize readiness."
+  ]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "capturedAt": "2026-09-12T04:49:13.7875125Z",
+    "url": "https://robinhoodchain.blockscout.com/api/v2/tokens/0xD3246b31d9254A726DC81F3b3000e42147868856",
+    "data": {
+      "address_hash": "0xD3246b31d9254A726DC81F3b3000e42147868856",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": "18",
+      "exchange_rate": null,
+      "holders_count": "1",
+      "icon_url": null,
+      "name": "Uniswap V2",
+      "reputation": "ok",
+      "symbol": "UNI-V2",
+      "total_supply": "1000000000000000000",
+      "type": "ERC-20",
+      "volume_24h": null
+    }
+  },
+  {
+    "capturedAt": "2026-09-12T04:49:14.4241207Z",
+    "url": "https://robinhoodchain.blockscout.com/api/v2/tokens/0xD3246b31d9254A726DC81F3b3000e42147868856/holders",
+    "data": {
+      "items": [
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x000000000000000000000000000000000000dEaD",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": {
+              "tags": [
+                {
+                  "meta": {},
+                  "name": "Null: 0x00...dEaD",
+                  "ordinal": 10,
+                  "slug": "null-0x00dead",
+                  "tagType": "name"
+                }
+              ]
+            },
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "999999999999999000"
+        }
+      ],
+      "next_page_params": null
+    }
+  }
+]

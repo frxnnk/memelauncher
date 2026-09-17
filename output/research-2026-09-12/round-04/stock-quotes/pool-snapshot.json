@@ -1,0 +1,4318 @@
+[
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "aerodrome",
+    "pairAddress": "0xA3b1E3f9747065e2073722Ff4c9027d3eA4994F0",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "332.97",
+    "liquidity": {
+      "usd": 1748183.27,
+      "base": 1461.9114,
+      "quote": 1261409
+    },
+    "volume": {
+      "h24": 7125854.73,
+      "h6": 658317.31,
+      "h1": 37053.09,
+      "m5": 789.88
+    },
+    "txns": {
+      "m5": {
+        "buys": 3,
+        "sells": 7
+      },
+      "h1": {
+        "buys": 117,
+        "sells": 142
+      },
+      "h6": {
+        "buys": 899,
+        "sells": 758
+      },
+      "h24": {
+        "buys": 6269,
+        "sells": 5633
+      }
+    },
+    "pairCreatedAt": null,
+    "url": "https://dexscreener.com/base/0xa3b1e3f9747065e2073722ff4c9027d3ea4994f0"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x383e9df6cba05083605374e9cb414e49af22b6da5344c2ee3b0553621c27bb3f",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "332.42",
+    "liquidity": {
+      "usd": 38326.38,
+      "base": 58.1829,
+      "quote": 18985
+    },
+    "volume": {
+      "h24": 29392.53,
+      "h6": 272.63,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 6,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 139,
+        "sells": 20
+      }
+    },
+    "pairCreatedAt": 1788618859000,
+    "url": "https://dexscreener.com/base/0x383e9df6cba05083605374e9cb414e49af22b6da5344c2ee3b0553621c27bb3f"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x97F35d1E92795327614BE000cd18cba1Be2c1931",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "332.14",
+    "liquidity": {
+      "usd": 16343.07,
+      "base": 13.8815,
+      "quote": 11732
+    },
+    "volume": {
+      "h24": 27475.71,
+      "h6": 9246.56,
+      "h1": 2131.18,
+      "m5": 11.3
+    },
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 20,
+        "sells": 29
+      },
+      "h6": {
+        "buys": 99,
+        "sells": 105
+      },
+      "h24": {
+        "buys": 339,
+        "sells": 422
+      }
+    },
+    "pairCreatedAt": 1787066251000,
+    "url": "https://dexscreener.com/base/0x97f35d1e92795327614be000cd18cba1be2c1931"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "hydrex",
+    "pairAddress": "0x5D8a9bf50e2270C0C051Ef4A79a6Aa376A611E72",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceUsd": "333.13",
+    "liquidity": {
+      "usd": 728.59,
+      "base": 0.1832,
+      "quote": 0.2656
+    },
+    "volume": {
+      "h24": 19048.54,
+      "h6": 2967.1,
+      "h1": 831.62,
+      "m5": 5.01
+    },
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 42,
+        "sells": 35
+      },
+      "h6": {
+        "buys": 162,
+        "sells": 147
+      },
+      "h24": {
+        "buys": 1048,
+        "sells": 937
+      }
+    },
+    "pairCreatedAt": 1787234893000,
+    "url": "https://dexscreener.com/base/0x5d8a9bf50e2270c0c051ef4a79a6aa376a611e72"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x4af3b7a1bf6a288aa903b8d294bdd4e649093e5ecac94a95cd7f1865ae4a53da",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "322.77",
+    "liquidity": {
+      "usd": 2770.25,
+      "base": 6.0009369,
+      "quote": 833.3323
+    },
+    "volume": {
+      "h24": 17.45,
+      "h6": 17.45,
+      "h1": 0.25,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 4,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 4,
+        "sells": 0
+      }
+    },
+    "pairCreatedAt": 1787062069000,
+    "url": "https://dexscreener.com/base/0x4af3b7a1bf6a288aa903b8d294bdd4e649093e5ecac94a95cd7f1865ae4a53da"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x4abcb7b1f1b15a9f2928cad98bd6cf6e62f86657fa9a18cd33f53cb657f26e21",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "318.36",
+    "liquidity": {
+      "usd": 1125.83,
+      "base": 2.5566,
+      "quote": 0.1225
+    },
+    "volume": {
+      "h24": 930.82,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 9,
+        "sells": 2
+      }
+    },
+    "pairCreatedAt": 1788890133000,
+    "url": "https://dexscreener.com/base/0x4abcb7b1f1b15a9f2928cad98bd6cf6e62f86657fa9a18cd33f53cb657f26e21"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xc6f2cc6c3d21f9497291b5c6b8a04ab4558958dcbce13da21e11e80e55e261f9",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "330.088",
+    "liquidity": {
+      "usd": 1049.12,
+      "base": 0.635,
+      "quote": 0.33
+    },
+    "volume": {
+      "h24": 5.88,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 6
+      }
+    },
+    "pairCreatedAt": 1788073169000,
+    "url": "https://dexscreener.com/base/0xc6f2cc6c3d21f9497291b5c6b8a04ab4558958dcbce13da21e11e80e55e261f9"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x6d74617640a468d7094582450f092c05e7afd6b986f4b2af1eb2826d8ed29c30",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "336.57",
+    "liquidity": {
+      "usd": 239.64,
+      "base": 0.3545,
+      "quote": 0.04779
+    },
+    "volume": {
+      "h24": 351.85,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 21
+      }
+    },
+    "pairCreatedAt": 1787897971000,
+    "url": "https://dexscreener.com/base/0x6d74617640a468d7094582450f092c05e7afd6b986f4b2af1eb2826d8ed29c30"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xd493799a680bb3b7e0414b60b8a8e118eab6e75f80048198cc5f6a894ef641c0",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "319.55",
+    "liquidity": {
+      "usd": 574.49,
+      "base": 0.3541,
+      "quote": 0.183
+    },
+    "volume": {
+      "h24": 227.83,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 4,
+        "sells": 0
+      }
+    },
+    "pairCreatedAt": 1788073597000,
+    "url": "https://dexscreener.com/base/0xd493799a680bb3b7e0414b60b8a8e118eab6e75f80048198cc5f6a894ef641c0"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xdcaa5f801d5827042aa786546c3f982e2ef1d025352f5b48d00acdd3b5c831df",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "320.72",
+    "liquidity": {
+      "usd": 99.99,
+      "base": 1.112e-05,
+      "quote": 99.9964
+    },
+    "volume": {
+      "h24": 0.06,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 0
+      }
+    },
+    "pairCreatedAt": 1788819809000,
+    "url": "https://dexscreener.com/base/0xdcaa5f801d5827042aa786546c3f982e2ef1d025352f5b48d00acdd3b5c831df"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "equalizer",
+    "pairAddress": "0xb75C6AEa6560eb5A649284eEa5CfF67F12639bB5",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceUsd": "333.075",
+    "liquidity": {
+      "usd": 47.55,
+      "base": 0.07138,
+      "quote": 0.009434
+    },
+    "volume": {
+      "h24": 2.33,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 9,
+        "sells": 3
+      }
+    },
+    "pairCreatedAt": 1788506305000,
+    "url": "https://dexscreener.com/base/0xb75c6aea6560eb5a649284eea5cff67f12639bb5"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "aerodrome",
+    "pairAddress": "0x8FeaCB3AAC9499bA4F53aa16e9CD38c36C57765E",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "325.41",
+    "liquidity": {
+      "usd": 6.59,
+      "base": 0.0001501,
+      "quote": 6.5458
+    },
+    "volume": {
+      "h24": 0.03,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 0
+      }
+    },
+    "pairCreatedAt": null,
+    "url": "https://dexscreener.com/base/0x8feacb3aac9499ba4f53aa16e9cd38c36c57765e"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "equalizer",
+    "pairAddress": "0x7a5fA5eaDB83aEDa923B60F308BDD435781Dad25",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "331.094",
+    "liquidity": {
+      "usd": 20.04,
+      "base": 0.03027,
+      "quote": 10.02351
+    },
+    "volume": {
+      "h24": 0.14,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 0
+      }
+    },
+    "pairCreatedAt": 1788445501000,
+    "url": "https://dexscreener.com/base/0x7a5fa5eadb83aeda923b60f308bdd435781dad25"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x7cB5eB63cef446168EB29f892e5759789B29bFD4",
+    "baseToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "34025678655685994922803918305965170001936.84",
+    "liquidity": null,
+    "volume": {
+      "h24": 66.76,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 5,
+        "sells": 0
+      }
+    },
+    "pairCreatedAt": 1788517643000,
+    "url": "https://dexscreener.com/base/0x7cb5eb63cef446168eb29f892e5759789b29bfd4"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x9f8353f61574DA73218206Ad3f70d9455bfed9c4",
+    "baseToken": {
+      "address": "0xCB2BAff7177C8966A8b059b3Df3e9323dc2Ee267",
+      "name": "iStonks",
+      "symbol": "ISTONKS"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.0001708",
+    "liquidity": {
+      "usd": 48714.87,
+      "base": 154243633,
+      "quote": 67.165
+    },
+    "volume": {
+      "h24": 585778.91,
+      "h6": 62602.7,
+      "h1": 5552.28,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 23,
+        "sells": 16
+      },
+      "h6": {
+        "buys": 271,
+        "sells": 158
+      },
+      "h24": {
+        "buys": 1963,
+        "sells": 1272
+      }
+    },
+    "pairCreatedAt": 1789147985000,
+    "url": "https://dexscreener.com/base/0x9f8353f61574da73218206ad3f70d9455bfed9c4"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x851f65bcdf6485f15047d4dea1cf8cb60ad1a815bbed7d2e8373a32b954045e4",
+    "baseToken": {
+      "address": "0xA6af0cEa8FBC93E1eCcC00f1FdD9a0BBa251FeE1",
+      "name": "iPod",
+      "symbol": "IPOD"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.001429",
+    "liquidity": {
+      "usd": 418460.91,
+      "base": 198948884,
+      "quote": 403.4366
+    },
+    "volume": {
+      "h24": 358223.14,
+      "h6": 40968.63,
+      "h1": 8505.18,
+      "m5": 47.15
+    },
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 13,
+        "sells": 30
+      },
+      "h6": {
+        "buys": 103,
+        "sells": 156
+      },
+      "h24": {
+        "buys": 743,
+        "sells": 1277
+      }
+    },
+    "pairCreatedAt": 1787838429000,
+    "url": "https://dexscreener.com/base/0x851f65bcdf6485f15047d4dea1cf8cb60ad1a815bbed7d2e8373a32b954045e4"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "aerodrome",
+    "pairAddress": "0xCb4bC943314405c01907Ae910E57AFC2D0549706",
+    "baseToken": {
+      "address": "0xB095274743941e953c746F9C228DA9c18Bb6ec29",
+      "name": "LAPTOP",
+      "symbol": "LAPTOP"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.3805",
+    "liquidity": {
+      "usd": 34866.83,
+      "base": 53844,
+      "quote": 43.1715
+    },
+    "volume": {
+      "h24": 696924.58,
+      "h6": 141978.17,
+      "h1": 29367.84,
+      "m5": 1080.5
+    },
+    "txns": {
+      "m5": {
+        "buys": 7,
+        "sells": 6
+      },
+      "h1": {
+        "buys": 116,
+        "sells": 154
+      },
+      "h6": {
+        "buys": 653,
+        "sells": 639
+      },
+      "h24": {
+        "buys": 4264,
+        "sells": 3949
+      }
+    },
+    "pairCreatedAt": null,
+    "url": "https://dexscreener.com/base/0xcb4bc943314405c01907ae910e57afc2d0549706"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x57Cbf36BecB9ABbAA50Cc355A74fF666fA8f805d",
+    "baseToken": {
+      "address": "0x038Ad1734258cFa2799208D8b6cc7E55704D2B0c",
+      "name": "Doctor",
+      "symbol": "DOC"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00008690",
+    "liquidity": {
+      "usd": 36628.69,
+      "base": 247137548,
+      "quote": 45.5003
+    },
+    "volume": {
+      "h24": 23257.01,
+      "h6": 87.43,
+      "h1": 25.53,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 5
+      },
+      "h24": {
+        "buys": 88,
+        "sells": 57
+      }
+    },
+    "pairCreatedAt": 1788876389000,
+    "url": "https://dexscreener.com/base/0x57cbf36becb9abbaa50cc355a74ff666fa8f805d"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xc8216601184677e109a989569d6df0b899542e581a98cc7a6245efd45a1d1462",
+    "baseToken": {
+      "address": "0x4645535Ba6046F7e32090B4787062B548cD9FEE1",
+      "name": "A20 Chip",
+      "symbol": "A20"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00003601",
+    "liquidity": {
+      "usd": 31675.79,
+      "base": 723444025,
+      "quote": 16.9086
+    },
+    "volume": {
+      "h24": 9263.55,
+      "h6": 1014.27,
+      "h1": 296.11,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 9
+      },
+      "h24": {
+        "buys": 58,
+        "sells": 94
+      }
+    },
+    "pairCreatedAt": 1788355881000,
+    "url": "https://dexscreener.com/base/0xc8216601184677e109a989569d6df0b899542e581a98cc7a6245efd45a1d1462"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x85919091d8aeef02a3085ca6d71625d583ca30e8f89304cbb8268f8af80b7e95",
+    "baseToken": {
+      "address": "0xB2000000000000000000008b79A7BE3f03091001",
+      "name": "Apple Juice",
+      "symbol": "Apple Juice"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00003317",
+    "liquidity": {
+      "usd": 19367.75,
+      "base": 354883009,
+      "quote": 22.847
+    },
+    "volume": {
+      "h24": 3080.19,
+      "h6": 151.22,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 16,
+        "sells": 15
+      }
+    },
+    "pairCreatedAt": 1787243091000,
+    "url": "https://dexscreener.com/base/0x85919091d8aeef02a3085ca6d71625d583ca30e8f89304cbb8268f8af80b7e95"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xcc505bbc3b7ebf2634a816638a3709cd5be504ea9dc27ce9763f203fc90ae97c",
+    "baseToken": {
+      "address": "0xB200000000000000000000680D78AE1182A7BD01",
+      "name": "Lil Finder Guy",
+      "symbol": "LFG"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00002185",
+    "liquidity": {
+      "usd": 14934.77,
+      "base": 439357853,
+      "quote": 16.03776
+    },
+    "volume": {
+      "h24": 22327.5,
+      "h6": 816.37,
+      "h1": 61.07,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 2,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 12,
+        "sells": 5
+      },
+      "h24": {
+        "buys": 108,
+        "sells": 65
+      }
+    },
+    "pairCreatedAt": 1788123169000,
+    "url": "https://dexscreener.com/base/0xcc505bbc3b7ebf2634a816638a3709cd5be504ea9dc27ce9763f203fc90ae97c"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x77e8db8f0b5e36f7f61cecdb862012e14dcd32b8cefa9387b24f90ea33725516",
+    "baseToken": {
+      "address": "0xb2000000000000000000008b8586bf079f9E3D01",
+      "name": "The Mac Shop",
+      "symbol": "MAC"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00002271",
+    "liquidity": {
+      "usd": 15417.92,
+      "base": 433162446,
+      "quote": 16.7791
+    },
+    "volume": {
+      "h24": 6381.12,
+      "h6": 19.52,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 12
+      }
+    },
+    "pairCreatedAt": 1788876629000,
+    "url": "https://dexscreener.com/base/0x77e8db8f0b5e36f7f61cecdb862012e14dcd32b8cefa9387b24f90ea33725516"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xd53b44c2005319df49d43418154ad22100fac49fa13e66b84ca4e91174401646",
+    "baseToken": {
+      "address": "0xB200000000000000000000d6aF5c3D433de36601",
+      "name": "🍎",
+      "symbol": "🍎"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00002982",
+    "liquidity": {
+      "usd": 18287.25,
+      "base": 377034867,
+      "quote": 21.1857
+    },
+    "volume": {
+      "h24": 19588.18,
+      "h6": 1474.49,
+      "h1": 2.98,
+      "m5": 2.98
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 4,
+        "sells": 9
+      },
+      "h24": {
+        "buys": 73,
+        "sells": 85
+      }
+    },
+    "pairCreatedAt": 1788886521000,
+    "url": "https://dexscreener.com/base/0xd53b44c2005319df49d43418154ad22100fac49fa13e66b84ca4e91174401646"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x529ecd2ea776e995ebdd22bf7dd0bfdf6307001ee3e32a0716e6646f75135812",
+    "baseToken": {
+      "address": "0xb20000000000000000000080a1D3934e3A989a01",
+      "name": "NEWTON",
+      "symbol": "NEWTON"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00001580",
+    "liquidity": {
+      "usd": 12074.65,
+      "base": 514193131,
+      "quote": 11.8744
+    },
+    "volume": {
+      "h24": 582.4,
+      "h6": 2.56,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 5
+      }
+    },
+    "pairCreatedAt": 1787603173000,
+    "url": "https://dexscreener.com/base/0x529ecd2ea776e995ebdd22bf7dd0bfdf6307001ee3e32a0716e6646f75135812"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "0xB0C2D8A877A5B48607d9C89B6Ad761F36Bc79C88",
+    "pairAddress": "0x13C66ABc8473AE5726dD6B3B592526b4f0913858",
+    "baseToken": {
+      "address": "0x36b712A629095234F2196BbB000D1b96C12Ce78e",
+      "name": "BaseGold",
+      "symbol": "BG"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "9.95",
+    "liquidity": {
+      "usd": 165.27,
+      "base": 8.3028,
+      "quote": 0.2481
+    },
+    "volume": {
+      "h24": 6.59,
+      "h6": 1.2,
+      "h1": 1.2,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 4,
+        "sells": 4
+      }
+    },
+    "pairCreatedAt": 1787761309000,
+    "url": "https://dexscreener.com/base/0x13c66abc8473ae5726dd6b3b592526b4f0913858"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x4a5fc0d81ade0fcc8d04ae2154d492a86b70bb2dddb0bf27131621fcf1034e4e",
+    "baseToken": {
+      "address": "0xa79fF60Ace2792de9a0782b2D8AE9874905e7ca1",
+      "name": "WORM",
+      "symbol": "WORM"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00003012",
+    "liquidity": {
+      "usd": 7259.69,
+      "base": 206020278,
+      "quote": 3.1655
+    },
+    "volume": {
+      "h24": 218.85,
+      "h6": 35.06,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 3,
+        "sells": 4
+      }
+    },
+    "pairCreatedAt": 1788141167000,
+    "url": "https://dexscreener.com/base/0x4a5fc0d81ade0fcc8d04ae2154d492a86b70bb2dddb0bf27131621fcf1034e4e"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x5af616ec943127d3802d9482b1bb42fcdf3a6c54a53f87da8de0de8596d4fb77",
+    "baseToken": {
+      "address": "0x9f39A7BA46ab1446951B32020a925C68BD687ca1",
+      "name": "BITE",
+      "symbol": "BITE"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.00002118",
+    "liquidity": {
+      "usd": 5295.08,
+      "base": 247255075,
+      "quote": 0.1727
+    },
+    "volume": {
+      "h24": 33.49,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 10
+      }
+    },
+    "pairCreatedAt": 1788144427000,
+    "url": "https://dexscreener.com/base/0x5af616ec943127d3802d9482b1bb42fcdf3a6c54a53f87da8de0de8596d4fb77"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x86071a51586744f7d984c12094246adfb81e7e5b57038eeecda83f8bea512f30",
+    "baseToken": {
+      "address": "0xb200000000000000000000Bf0548AB2ebD00bA5e",
+      "name": "RWAGMI",
+      "symbol": "RWAGMI"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.0001328",
+    "liquidity": {
+      "usd": 1224.07,
+      "base": 7418313,
+      "quote": 0.7171
+    },
+    "volume": {
+      "h24": 271.37,
+      "h6": 53.05,
+      "h1": 50.04,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 3
+      }
+    },
+    "pairCreatedAt": 1788234267000,
+    "url": "https://dexscreener.com/base/0x86071a51586744f7d984c12094246adfb81e7e5b57038eeecda83f8bea512f30"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xa6a84f983d4c44f6a122d2639013984e2f9b66801f3da69cf46203d2439e0177",
+    "baseToken": {
+      "address": "0xb20000000000000000000049E6FcdD20cb1A0f01",
+      "name": "APPLEBUX",
+      "symbol": "ABUX"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.000007704",
+    "liquidity": {
+      "usd": 7161.46,
+      "base": 734533758,
+      "quote": 4.5422
+    },
+    "volume": {
+      "h24": 15.45,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "pairCreatedAt": 1787398487000,
+    "url": "https://dexscreener.com/base/0xa6a84f983d4c44f6a122d2639013984e2f9b66801f3da69cf46203d2439e0177"
+  },
+  {
+    "queried_quote": "AAPLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x6683ba95105f6868f82e20050473547861909ab2118039849fa6f3e049aa4a1f",
+    "baseToken": {
+      "address": "0xb200000000000000000000449250006462512E01",
+      "name": "Pen Pineapple Apple Pen",
+      "symbol": "PPAP"
+    },
+    "quoteToken": {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "name": "Apple Inc.",
+      "symbol": "AAPLc"
+    },
+    "priceUsd": "0.000007103",
+    "liquidity": {
+      "usd": 6717.95,
+      "base": 766888959,
+      "quote": 3.8203
+    },
+    "volume": {
+      "h24": 141.23,
+      "h6": 3.56,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 3,
+        "sells": 2
+      }
+    },
+    "pairCreatedAt": 1787236129000,
+    "url": "https://dexscreener.com/base/0x6683ba95105f6868f82e20050473547861909ab2118039849fa6f3e049aa4a1f"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "aerodrome",
+    "pairAddress": "0xB1987CAD1682841b4b641d50E520777eC5Ab5542",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "339.0012",
+    "liquidity": {
+      "usd": 1992161.79,
+      "base": 2030.3487,
+      "quote": 1303870
+    },
+    "volume": {
+      "h24": 7308853.32,
+      "h6": 1128620.42,
+      "h1": 37893.35,
+      "m5": 671.83
+    },
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 3
+      },
+      "h1": {
+        "buys": 62,
+        "sells": 41
+      },
+      "h6": {
+        "buys": 435,
+        "sells": 311
+      },
+      "h24": {
+        "buys": 4585,
+        "sells": 3455
+      }
+    },
+    "pairCreatedAt": null,
+    "url": "https://dexscreener.com/base/0xb1987cad1682841b4b641d50e520777ec5ab5542"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xb8d915726cbfac627d236fe58e0af8d2d128c02afee278d54644a61cb13e6f2e",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "339.74",
+    "liquidity": {
+      "usd": 79230.9,
+      "base": 174.9637,
+      "quote": 19788
+    },
+    "volume": {
+      "h24": 11882.71,
+      "h6": 486.32,
+      "h1": 170.24,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 3
+      },
+      "h6": {
+        "buys": 12,
+        "sells": 10
+      },
+      "h24": {
+        "buys": 114,
+        "sells": 17
+      }
+    },
+    "pairCreatedAt": 1786962455000,
+    "url": "https://dexscreener.com/base/0xb8d915726cbfac627d236fe58e0af8d2d128c02afee278d54644a61cb13e6f2e"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x69dec50977fC57eCEcA472105c26F188FF2012ec",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "338.99",
+    "liquidity": {
+      "usd": 47173.81,
+      "base": 58.1639,
+      "quote": 27456
+    },
+    "volume": {
+      "h24": 223806.56,
+      "h6": 27389.86,
+      "h1": 843.25,
+      "m5": 5.38
+    },
+    "txns": {
+      "m5": {
+        "buys": 2,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 17,
+        "sells": 14
+      },
+      "h6": {
+        "buys": 105,
+        "sells": 116
+      },
+      "h24": {
+        "buys": 1268,
+        "sells": 1114
+      }
+    },
+    "pairCreatedAt": 1787058873000,
+    "url": "https://dexscreener.com/base/0x69dec50977fc57ececa472105c26f188ff2012ec"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x1f52F46BaC657564c31122b12b43A459E09273C8",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "339.79",
+    "liquidity": {
+      "usd": 51264.41,
+      "base": 87.3322,
+      "quote": 21589
+    },
+    "volume": {
+      "h24": 31986.03,
+      "h6": 1366.9,
+      "h1": 150,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 7,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 131,
+        "sells": 33
+      }
+    },
+    "pairCreatedAt": 1787005169000,
+    "url": "https://dexscreener.com/base/0x1f52f46bac657564c31122b12b43a459e09273c8"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "aerodrome",
+    "pairAddress": "0x25F63549b2Bb9ffF114cDc39e8cfb16B450E2f9b",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceUsd": "338.88",
+    "liquidity": {
+      "usd": 23745.27,
+      "base": 33.06974,
+      "quote": 4.9946
+    },
+    "volume": {
+      "h24": 294715.22,
+      "h6": 16912.16,
+      "h1": 4434.72,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 19,
+        "sells": 24
+      },
+      "h6": {
+        "buys": 138,
+        "sells": 103
+      },
+      "h24": {
+        "buys": 1628,
+        "sells": 1414
+      }
+    },
+    "pairCreatedAt": null,
+    "url": "https://dexscreener.com/base/0x25f63549b2bb9fff114cdc39e8cfb16b450e2f9b"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xe87a417958bf5a93d523470981eb10e610998dbac113792088680afc54473f91",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "351.11",
+    "liquidity": {
+      "usd": 8170.37,
+      "base": 17.2247,
+      "quote": 0.8115
+    },
+    "volume": {
+      "h24": 1894.72,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 28
+      }
+    },
+    "pairCreatedAt": 1786984753000,
+    "url": "https://dexscreener.com/base/0xe87a417958bf5a93d523470981eb10e610998dbac113792088680afc54473f91"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x8634EE4145A63E40E44e12A6Bb1B905Fcb8856a6",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "338.24",
+    "liquidity": {
+      "usd": 1730.27,
+      "base": 2.8586,
+      "quote": 763.3507
+    },
+    "volume": {
+      "h24": 5481.11,
+      "h6": 299.81,
+      "h1": 1.7,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 14,
+        "sells": 3
+      },
+      "h24": {
+        "buys": 115,
+        "sells": 54
+      }
+    },
+    "pairCreatedAt": 1787671569000,
+    "url": "https://dexscreener.com/base/0x8634ee4145a63e40e44e12a6bb1b905fcb8856a6"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x8f286a627292a3fed76de75ef3f0b2f6a2f896fc245f1cd4709c5a0b78a828c2",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "350.93",
+    "liquidity": {
+      "usd": 845.38,
+      "base": 1.5467,
+      "quote": 0.12
+    },
+    "volume": {
+      "h24": 353.9,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 11
+      }
+    },
+    "pairCreatedAt": 1789064589000,
+    "url": "https://dexscreener.com/base/0x8f286a627292a3fed76de75ef3f0b2f6a2f896fc245f1cd4709c5a0b78a828c2"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xc5df261b7887ba5c100be9271200438f74e0c38c1bbc1fb920f2bc35d88bd5f8",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "329.87",
+    "liquidity": {
+      "usd": 812.84,
+      "base": 1.01911,
+      "quote": 0.1898
+    },
+    "volume": {
+      "h24": 519.19,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 17,
+        "sells": 1
+      }
+    },
+    "pairCreatedAt": 1789060677000,
+    "url": "https://dexscreener.com/base/0xc5df261b7887ba5c100be9271200438f74e0c38c1bbc1fb920f2bc35d88bd5f8"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x13e63ef9ac4cc4d98978422c1049b1a0d85b7e8ffacd5a46e02bca9301b45a2d",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "347.87",
+    "liquidity": {
+      "usd": 875.58,
+      "base": 0.3037,
+      "quote": 0.3063
+    },
+    "volume": {
+      "h24": 106.02,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 7
+      }
+    },
+    "pairCreatedAt": 1788928817000,
+    "url": "https://dexscreener.com/base/0x13e63ef9ac4cc4d98978422c1049b1a0d85b7e8ffacd5a46e02bca9301b45a2d"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "hydrex",
+    "pairAddress": "0x0d1518a9b2243F034a119A629B8F5170D59965b3",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    "priceUsd": "338.43",
+    "liquidity": {
+      "usd": 84.3,
+      "base": 0.1361,
+      "quote": 0.01521
+    },
+    "volume": {
+      "h24": 20.24,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 16,
+        "sells": 10
+      }
+    },
+    "pairCreatedAt": 1787234781000,
+    "url": "https://dexscreener.com/base/0x0d1518a9b2243f034a119a629b8f5170d59965b3"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x1c5a8b57000ff00e943728501f43a3679bb0e55369dbb49965117ba3bb76a49d",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "374.13",
+    "liquidity": {
+      "usd": 233.18,
+      "base": 0.3454,
+      "quote": 103.9599
+    },
+    "volume": {
+      "h24": 124.6,
+      "h6": 0.01,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 4,
+        "sells": 4
+      }
+    },
+    "pairCreatedAt": 1786908353000,
+    "url": "https://dexscreener.com/base/0x1c5a8b57000ff00e943728501f43a3679bb0e55369dbb49965117ba3bb76a49d"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x5bd1b7f8ebeb4cea434d7b111fa3d2666fb4adb537e9a9a6b751bd8f6eb6bc88",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "338.11",
+    "liquidity": {
+      "usd": 99.89,
+      "base": 0.01756,
+      "quote": 93.9546
+    },
+    "volume": {
+      "h24": 3.91,
+      "h6": 0.47,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 4,
+        "sells": 1
+      }
+    },
+    "pairCreatedAt": 1787592691000,
+    "url": "https://dexscreener.com/base/0x5bd1b7f8ebeb4cea434d7b111fa3d2666fb4adb537e9a9a6b751bd8f6eb6bc88"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "equalizer",
+    "pairAddress": "0xc585a6532274170910cE97BAf2EaE9bfB8Daec48",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "344.48",
+    "liquidity": {
+      "usd": 20.05,
+      "base": 0.0291,
+      "quote": 10.02756
+    },
+    "volume": {
+      "h24": 7.19,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 6,
+        "sells": 4
+      }
+    },
+    "pairCreatedAt": 1788445433000,
+    "url": "https://dexscreener.com/base/0xc585a6532274170910ce97baf2eae9bfb8daec48"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xf43a2c3e9faf619388733b9e0aea9aa356eecd6cba67bee2215439f9a50c77e7",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0xb20000000000000000000078ee7ce2fE4908108C",
+      "name": "NVIDIA Corporation",
+      "symbol": "NVDAc"
+    },
+    "priceUsd": "339.59",
+    "liquidity": {
+      "usd": 0.54,
+      "base": 3e-08,
+      "quote": 0.002511
+    },
+    "volume": {
+      "h24": 0.34,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 8,
+        "sells": 0
+      }
+    },
+    "pairCreatedAt": 1789105141000,
+    "url": "https://dexscreener.com/base/0xf43a2c3e9faf619388733b9e0aea9aa356eecd6cba67bee2215439f9a50c77e7"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x5ce5144ffc2ec65661450d7bd9c3fba61dccb59ffd97343d09e932da3a9e40d9",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "priceUsd": "389.65",
+    "liquidity": {
+      "usd": 20.67,
+      "base": 0.02652,
+      "quote": 0.003948
+    },
+    "volume": {
+      "h24": 0.03,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "pairCreatedAt": 1786920045000,
+    "url": "https://dexscreener.com/base/0x5ce5144ffc2ec65661450d7bd9c3fba61dccb59ffd97343d09e932da3a9e40d9"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x46eefd4135ff381410fbab8c75ea735609f86478021f88c39e6b4fcedcc37d2e",
+    "baseToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "quoteToken": {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "338.29",
+    "liquidity": {
+      "usd": 0.01,
+      "base": 2.817e-05,
+      "quote": 0.003615
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 0
+      }
+    },
+    "pairCreatedAt": 1787482141000,
+    "url": "https://dexscreener.com/base/0x46eefd4135ff381410fbab8c75ea735609f86478021f88c39e6b4fcedcc37d2e"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c",
+    "baseToken": {
+      "address": "0x39988BF0638Edb8c65cE0fB9e1e457C575157BA3",
+      "name": "Fly Language Model",
+      "symbol": "FLM"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.000001133",
+    "liquidity": {
+      "usd": 76219.77,
+      "base": 42817243674,
+      "quote": 81.442
+    },
+    "volume": {
+      "h24": 1027359.38,
+      "h6": 75068.25,
+      "h1": 34330.82,
+      "m5": 415.35
+    },
+    "txns": {
+      "m5": {
+        "buys": 2,
+        "sells": 5
+      },
+      "h1": {
+        "buys": 94,
+        "sells": 236
+      },
+      "h6": {
+        "buys": 312,
+        "sells": 778
+      },
+      "h24": {
+        "buys": 2986,
+        "sells": 7405
+      }
+    },
+    "pairCreatedAt": 1789164195000,
+    "url": "https://dexscreener.com/base/0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x44acda02fdfc8ecaace6fefd1c77b1c0b981ab92f10c00619b0ec5fdb74ccd3b",
+    "baseToken": {
+      "address": "0x9b83C2f3c1975bF4b6cc04F8d3F6Bc1E98e38ba3",
+      "name": "STONKFLY",
+      "symbol": "STONKFLY"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.0000007647",
+    "liquidity": {
+      "usd": 59920.54,
+      "base": 53031901865,
+      "quote": 57.0002612
+    },
+    "volume": {
+      "h24": 421505.91,
+      "h6": 12806.11,
+      "h1": 4150.19,
+      "m5": 8.03
+    },
+    "txns": {
+      "m5": {
+        "buys": 2,
+        "sells": 4
+      },
+      "h1": {
+        "buys": 13,
+        "sells": 27
+      },
+      "h6": {
+        "buys": 116,
+        "sells": 192
+      },
+      "h24": {
+        "buys": 1077,
+        "sells": 2484
+      }
+    },
+    "pairCreatedAt": 1789046145000,
+    "url": "https://dexscreener.com/base/0x44acda02fdfc8ecaace6fefd1c77b1c0b981ab92f10c00619b0ec5fdb74ccd3b"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x69bbadafdb28b6952c2910bed1d49fb1b11a222cbf36143fc1aca3c26b35c28e",
+    "baseToken": {
+      "address": "0xB200000000000000000000503d889fDcbE48B801",
+      "name": "RAWR",
+      "symbol": "RAWR"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.0003673",
+    "liquidity": {
+      "usd": 72173.21,
+      "base": 103594245,
+      "quote": 100.393
+    },
+    "volume": {
+      "h24": 69398.98,
+      "h6": 24344.97,
+      "h1": 501.93,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 3,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 88,
+        "sells": 47
+      },
+      "h24": {
+        "buys": 220,
+        "sells": 164
+      }
+    },
+    "pairCreatedAt": 1787235097000,
+    "url": "https://dexscreener.com/base/0x69bbadafdb28b6952c2910bed1d49fb1b11a222cbf36143fc1aca3c26b35c28e"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xf2869ce8b0a5e9531e31797fc836425707c2fd1aec0ee03e3048f18b40621376",
+    "baseToken": {
+      "address": "0x6d2Ed89D2C656597544080456a1D002fAE2AFeE1",
+      "name": "Yoshka",
+      "symbol": "YOSHKA"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.00001564",
+    "liquidity": {
+      "usd": 15293.63,
+      "base": 903325553,
+      "quote": 3.4124
+    },
+    "volume": {
+      "h24": 249.72,
+      "h6": 5.07,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 2
+      }
+    },
+    "pairCreatedAt": 1787681267000,
+    "url": "https://dexscreener.com/base/0xf2869ce8b0a5e9531e31797fc836425707c2fd1aec0ee03e3048f18b40621376"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0xdef4ee81924e318ca8914e73cf5f9e69686c9c2cdb8b6eaba2e30a1c5c5c9baa",
+    "baseToken": {
+      "address": "0x14f4276dBe195b7f15Fed3BF90B35874D9914ba3",
+      "name": "TREX",
+      "symbol": "TREX"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.0000002675",
+    "liquidity": {
+      "usd": 26298.11,
+      "base": 84124649079,
+      "quote": 11.1733
+    },
+    "volume": {
+      "h24": 2.43,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 2
+      }
+    },
+    "pairCreatedAt": 1786892971000,
+    "url": "https://dexscreener.com/base/0xdef4ee81924e318ca8914e73cf5f9e69686c9c2cdb8b6eaba2e30a1c5c5c9baa"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x7628788ec0E1bEFB150a8C4e20dF959d305Fc562",
+    "baseToken": {
+      "address": "0xF83F2488376B072d4095852fC27C1d7788615D49",
+      "name": "Google Wizard Cat",
+      "symbol": "MOMO"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.00001452",
+    "liquidity": {
+      "usd": 11207.67,
+      "base": 522013939,
+      "quote": 10.7013
+    },
+    "volume": {
+      "h24": 3389.81,
+      "h6": 175.13,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 27,
+        "sells": 13
+      }
+    },
+    "pairCreatedAt": 1787595735000,
+    "url": "https://dexscreener.com/base/0x7628788ec0e1befb150a8c4e20df959d305fc562"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x4da1C1426B4EFa76343A08DC44e3596270340913",
+    "baseToken": {
+      "address": "0xB12456b5cA0993Be1bE6B2F76504d38B1dC91111",
+      "name": "Google T-REX",
+      "symbol": "TREX"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.0001301",
+    "liquidity": {
+      "usd": 12376.99,
+      "base": 76151612,
+      "quote": 7.2843
+    },
+    "volume": {
+      "h24": 2.38,
+      "h6": 1.95,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 2,
+        "sells": 1
+      }
+    },
+    "pairCreatedAt": 1786825485000,
+    "url": "https://dexscreener.com/base/0x4da1c1426b4efa76343a08dc44e3596270340913"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x7A99473b07D8641e94f3761862f0280E7BA1A0FF",
+    "baseToken": {
+      "address": "0x9A5DD39A302F8DA435E1AD3D9F61ee55381f7777",
+      "name": "GOOGLE TREX",
+      "symbol": "TREX"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.00001771",
+    "liquidity": {
+      "usd": 13324.94,
+      "base": 376063627,
+      "quote": 19.6544
+    },
+    "volume": {
+      "h24": 1036.85,
+      "h6": 156.79,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 2,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 12,
+        "sells": 13
+      }
+    },
+    "pairCreatedAt": 1787283669000,
+    "url": "https://dexscreener.com/base/0x7a99473b07d8641e94f3761862f0280e7ba1a0ff"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "0xB0C2D8A877A5B48607d9C89B6Ad761F36Bc79C88",
+    "pairAddress": "0xE013E75E97F64f95f021DfeB8141a3D93fe5E9Ed",
+    "baseToken": {
+      "address": "0x36b712A629095234F2196BbB000D1b96C12Ce78e",
+      "name": "BaseGold",
+      "symbol": "BG"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "9.81",
+    "liquidity": {
+      "usd": 158.23,
+      "base": 8.06016,
+      "quote": 0.234
+    },
+    "volume": {
+      "h24": 8.73,
+      "h6": 0.78,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 5,
+        "sells": 11
+      }
+    },
+    "pairCreatedAt": 1787761445000,
+    "url": "https://dexscreener.com/base/0xe013e75e97f64f95f021dfeb8141a3d93fe5e9ed"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x0Ca04A350F2dEf22eC2c98Ce6dA810c044282689",
+    "baseToken": {
+      "address": "0x48B3E8510d6C43B109960Cc56d2c27A72e19FDB4",
+      "name": "Uranus Moon 8",
+      "symbol": "🌙8"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.08821",
+    "liquidity": {
+      "usd": 92.33,
+      "base": 523.5012,
+      "quote": 0.1361
+    },
+    "volume": {
+      "h24": 3.52,
+      "h6": 1.2,
+      "h1": 1.2,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 1,
+        "sells": 5
+      }
+    },
+    "pairCreatedAt": 1788700923000,
+    "url": "https://dexscreener.com/base/0x0ca04a350f2def22ec2c98ce6da810c044282689"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x76f67310e5d6227702fed15d09afb86235bebc706db077a89cdaea4afa8d64b1",
+    "baseToken": {
+      "address": "0x9E53e88dCff56d3062510A745952DEC4cEFDff9E",
+      "name": "Basic Dog Meme",
+      "symbol": "DOG"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.00002393",
+    "liquidity": {
+      "usd": 837.93,
+      "base": 17503531,
+      "quote": 1.2329
+    },
+    "volume": {
+      "h24": 85.67,
+      "h6": 2.69,
+      "h1": 1.63,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 4
+      },
+      "h24": {
+        "buys": 5,
+        "sells": 14
+      }
+    },
+    "pairCreatedAt": 1788440615000,
+    "url": "https://dexscreener.com/base/0x76f67310e5d6227702fed15d09afb86235bebc706db077a89cdaea4afa8d64b1"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x695fd3c3785a0428b7027d9e8312af46283c1b6e5a00dd6b30e760929f1ccd69",
+    "baseToken": {
+      "address": "0xb200000000000000000000Bf0548AB2ebD00bA5e",
+      "name": "RWAGMI",
+      "symbol": "RWAGMI"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.0001350",
+    "liquidity": {
+      "usd": 2610.98,
+      "base": 14146943,
+      "quote": 2.06362
+    },
+    "volume": {
+      "h24": 670.53,
+      "h6": 85.01,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h24": {
+        "buys": 3,
+        "sells": 3
+      }
+    },
+    "pairCreatedAt": 1788234267000,
+    "url": "https://dexscreener.com/base/0x695fd3c3785a0428b7027d9e8312af46283c1b6e5a00dd6b30e760929f1ccd69"
+  },
+  {
+    "queried_quote": "GOOGLc",
+    "chainId": "base",
+    "dexId": "uniswap",
+    "pairAddress": "0x579279cb2ce1fdea038f986a135ff40463c5b7012ad52dfbf2237d34f97ee038",
+    "baseToken": {
+      "address": "0xeC4e0A07e72B7C8a09F786Add8d42D34053F9ba3",
+      "name": "CHROME",
+      "symbol": "CHROME"
+    },
+    "quoteToken": {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGLc"
+    },
+    "priceUsd": "0.00000009746",
+    "liquidity": {
+      "usd": 8287.25,
+      "base": 84986572803,
+      "quote": 0.01175
+    },
+    "volume": {
+      "h24": 2.1,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 1
+      }
+    },
+    "pairCreatedAt": 1787010275000,
+    "url": "https://dexscreener.com/base/0x579279cb2ce1fdea038f986a135ff40463c5b7012ad52dfbf2237d34f97ee038"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xe531fcb1F5a195de7608B9F4f9518544C2cdB693",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceUsd": "715.66",
+    "liquidity": {
+      "usd": 2120015.96,
+      "base": 1512.7957,
+      "quote": 1037358
+    },
+    "volume": {
+      "h24": 17713429.16,
+      "h6": 1711318.09,
+      "h1": 207889.49,
+      "m5": 16040.01
+    },
+    "txns": {
+      "m5": {
+        "buys": 80,
+        "sells": 132
+      },
+      "h1": {
+        "buys": 704,
+        "sells": 795
+      },
+      "h6": {
+        "buys": 7963,
+        "sells": 8814
+      },
+      "h24": {
+        "buys": 35186,
+        "sells": 38953
+      }
+    },
+    "pairCreatedAt": 1783667279000,
+    "url": "https://dexscreener.com/bsc/0xe531fcb1f5a195de7608b9f4f9518544c2cdb693"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x47BC06722295AC316A569EEF87aC32FAA455F441",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceUsd": "715.29",
+    "liquidity": {
+      "usd": 751766.29,
+      "base": 612.9756,
+      "quote": 428.01544
+    },
+    "volume": {
+      "h24": 11882946.05,
+      "h6": 2736505.39,
+      "h1": 281161.26,
+      "m5": 43837.51
+    },
+    "txns": {
+      "m5": {
+        "buys": 234,
+        "sells": 238
+      },
+      "h1": {
+        "buys": 1193,
+        "sells": 1060
+      },
+      "h6": {
+        "buys": 12846,
+        "sells": 13393
+      },
+      "h24": {
+        "buys": 40075,
+        "sells": 42031
+      }
+    },
+    "pairCreatedAt": 1784039861000,
+    "url": "https://dexscreener.com/bsc/0x47bc06722295ac316a569eef87ac32faa455f441"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "pairAddress": "0xfC4E77248b76feFc27c4CAc7151A2EE5B5cC590e",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "714.91",
+    "liquidity": {
+      "usd": 3050407.24,
+      "base": 2323.1338,
+      "quote": 1389573
+    },
+    "volume": {
+      "h24": 2177145.09,
+      "h6": 176637.96,
+      "h1": 28996.08,
+      "m5": 882.97
+    },
+    "txns": {
+      "m5": {
+        "buys": 15,
+        "sells": 4
+      },
+      "h1": {
+        "buys": 33,
+        "sells": 20
+      },
+      "h6": {
+        "buys": 1188,
+        "sells": 378
+      },
+      "h24": {
+        "buys": 6023,
+        "sells": 2373
+      }
+    },
+    "pairCreatedAt": 1786095270000,
+    "url": "https://dexscreener.com/bsc/0xfc4e77248b76fefc27c4cac7151a2ee5b5cc590e"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x0F494581240974B082075aF27E087e92612F90DD",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceUsd": "714.64",
+    "liquidity": {
+      "usd": 88515.57,
+      "base": 61.9298,
+      "quote": 60.4614
+    },
+    "volume": {
+      "h24": 86918.97,
+      "h6": 14280.75,
+      "h1": 1338.58,
+      "m5": 275.34
+    },
+    "txns": {
+      "m5": {
+        "buys": 10,
+        "sells": 7
+      },
+      "h1": {
+        "buys": 51,
+        "sells": 44
+      },
+      "h6": {
+        "buys": 279,
+        "sells": 477
+      },
+      "h24": {
+        "buys": 1641,
+        "sells": 1983
+      }
+    },
+    "pairCreatedAt": 1786721184000,
+    "url": "https://dexscreener.com/bsc/0x0f494581240974b082075af27e087e92612f90dd"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x7C84F9943Ec82cf2233c97A7Ee417f18bD2eC295",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceUsd": "715.81",
+    "liquidity": {
+      "usd": 41952.13,
+      "base": 31.169,
+      "quote": 19640
+    },
+    "volume": {
+      "h24": 25113.47,
+      "h6": 544.73,
+      "h1": 28.6,
+      "m5": 28.52
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 3
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 4
+      },
+      "h6": {
+        "buys": 23,
+        "sells": 19
+      },
+      "h24": {
+        "buys": 497,
+        "sells": 338
+      }
+    },
+    "pairCreatedAt": 1782806753000,
+    "url": "https://dexscreener.com/bsc/0x7c84f9943ec82cf2233c97a7ee417f18bd2ec295"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x702C833A01844FDb14fFA6744C6E2DCf58f42b8D",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceUsd": "714.18",
+    "liquidity": {
+      "usd": 25061.27,
+      "base": 17.5193,
+      "quote": 12549
+    },
+    "volume": {
+      "h24": 17962.29,
+      "h6": 2332.52,
+      "h1": 361.75,
+      "m5": 115.85
+    },
+    "txns": {
+      "m5": {
+        "buys": 5,
+        "sells": 2
+      },
+      "h1": {
+        "buys": 11,
+        "sells": 6
+      },
+      "h6": {
+        "buys": 91,
+        "sells": 57
+      },
+      "h24": {
+        "buys": 1152,
+        "sells": 1042
+      }
+    },
+    "pairCreatedAt": 1787619219000,
+    "url": "https://dexscreener.com/bsc/0x702c833a01844fdb14ffa6744c6e2dcf58f42b8d"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "pairAddress": "0x5ceBDb47BaCB5bb7360AEBB3791148AbB3D947f4",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceUsd": "715.61",
+    "liquidity": {
+      "usd": 490.44,
+      "base": 0.3538,
+      "quote": 237.2593
+    },
+    "volume": {
+      "h24": 996.52,
+      "h6": 89.79,
+      "h1": 1.71,
+      "m5": 0.75
+    },
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 3
+      },
+      "h1": {
+        "buys": 5,
+        "sells": 8
+      },
+      "h6": {
+        "buys": 72,
+        "sells": 65
+      },
+      "h24": {
+        "buys": 481,
+        "sells": 428
+      }
+    },
+    "pairCreatedAt": 1783788182000,
+    "url": "https://dexscreener.com/bsc/0x5cebdb47bacb5bb7360aebb3791148abb3d947f4"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "topaz",
+    "pairAddress": "0x661673D0dd963Af9146dd71092357f6c285D74c8",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    "priceUsd": "715.92",
+    "liquidity": {
+      "usd": 977.61,
+      "base": 0.7113,
+      "quote": 468.3279
+    },
+    "volume": {
+      "h24": 3375.39,
+      "h6": 93.33,
+      "h1": 12.57,
+      "m5": 1.47
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 2,
+        "sells": 4
+      },
+      "h6": {
+        "buys": 8,
+        "sells": 5
+      },
+      "h24": {
+        "buys": 230,
+        "sells": 148
+      }
+    },
+    "pairCreatedAt": null,
+    "url": "https://dexscreener.com/bsc/0x661673d0dd963af9146dd71092357f6c285d74c8"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3AE5C7F50c1A6bf1871bc40Fa8d8403584d70770",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "priceUsd": "715.74",
+    "liquidity": {
+      "usd": 0.61,
+      "base": 0.0008048,
+      "quote": 0.04366
+    },
+    "volume": {
+      "h24": 1.39,
+      "h6": 0.02,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 4,
+        "sells": 0
+      },
+      "h24": {
+        "buys": 20,
+        "sells": 27
+      }
+    },
+    "pairCreatedAt": 1783938454000,
+    "url": "https://dexscreener.com/bsc/0x3ae5c7f50c1a6bf1871bc40fa8d8403584d70770"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "uniswap",
+    "pairAddress": "0xF4f6781DEec5AD26a382B74E73dcA286c7C690B5",
+    "baseToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "quoteToken": {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "priceUsd": "725.61",
+    "liquidity": {
+      "usd": 0,
+      "base": 3.068e-08,
+      "quote": 3.037e-08
+    },
+    "volume": {
+      "h24": 0,
+      "h6": 0,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h24": {
+        "buys": 0,
+        "sells": 2
+      }
+    },
+    "pairCreatedAt": 1787317155000,
+    "url": "https://dexscreener.com/bsc/0xf4f6781deec5ad26a382b74e73dca286c7c690b5"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x1a1DeF8c55238986C7067A57726a058d3497B608",
+    "baseToken": {
+      "address": "0x3c1127070996a55D838A1E2743249DC28Cec7777",
+      "name": "BinanceTown",
+      "symbol": "BinanceTown"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.0003182",
+    "liquidity": {
+      "usd": 61943.76,
+      "base": 97286245,
+      "quote": 43.2903
+    },
+    "volume": {
+      "h24": 5338462.47,
+      "h6": 94274.59,
+      "h1": 43442.7,
+      "m5": 1186.93
+    },
+    "txns": {
+      "m5": {
+        "buys": 9,
+        "sells": 11
+      },
+      "h1": {
+        "buys": 251,
+        "sells": 169
+      },
+      "h6": {
+        "buys": 654,
+        "sells": 547
+      },
+      "h24": {
+        "buys": 22954,
+        "sells": 20526
+      }
+    },
+    "pairCreatedAt": 1789118645000,
+    "url": "https://dexscreener.com/bsc/0x1a1def8c55238986c7067a57726a058d3497b608"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x33d2E1eeB4D399591C11ac9AD64863fa11678304",
+    "baseToken": {
+      "address": "0xEe22fCE582Dc4120f07e13e42B55Ee75246e7777",
+      "name": "牛梦",
+      "symbol": "牛梦"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.0007967",
+    "liquidity": {
+      "usd": 89873.45,
+      "base": 56402589,
+      "quote": 62.7862
+    },
+    "volume": {
+      "h24": 1309374.08,
+      "h6": 180916.26,
+      "h1": 14281.42,
+      "m5": 679.73
+    },
+    "txns": {
+      "m5": {
+        "buys": 8,
+        "sells": 9
+      },
+      "h1": {
+        "buys": 125,
+        "sells": 151
+      },
+      "h6": {
+        "buys": 1095,
+        "sells": 1232
+      },
+      "h24": {
+        "buys": 6394,
+        "sells": 6436
+      }
+    },
+    "pairCreatedAt": 1789048920000,
+    "url": "https://dexscreener.com/bsc/0x33d2e1eeb4d399591c11ac9ad64863fa11678304"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x8f6814Bd5db791FC8b64EEA6bbaD8BBeb508D6C6",
+    "baseToken": {
+      "address": "0x7BC70aE0f2A67d2fDc0180a697a611F21c857777",
+      "name": "BEN",
+      "symbol": "BEN"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.002421",
+    "liquidity": {
+      "usd": 208113.53,
+      "base": 42968844,
+      "quote": 145.3895
+    },
+    "volume": {
+      "h24": 1202712.32,
+      "h6": 280467.89,
+      "h1": 16731.18,
+      "m5": 945.2
+    },
+    "txns": {
+      "m5": {
+        "buys": 3,
+        "sells": 3
+      },
+      "h1": {
+        "buys": 52,
+        "sells": 44
+      },
+      "h6": {
+        "buys": 801,
+        "sells": 640
+      },
+      "h24": {
+        "buys": 3786,
+        "sells": 2971
+      }
+    },
+    "pairCreatedAt": 1788692825000,
+    "url": "https://dexscreener.com/bsc/0x8f6814bd5db791fc8b64eea6bbad8bbeb508d6c6"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x595d70977Dff3C841DF0bc0138Ce89f80C7C9423",
+    "baseToken": {
+      "address": "0xBEEA1D618e533a387D941F58a7d4c9b7bD377777",
+      "name": "牛来",
+      "symbol": "牛来"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.1377",
+    "liquidity": {
+      "usd": 1742954.16,
+      "base": 6328169,
+      "quote": 1217.6399
+    },
+    "volume": {
+      "h24": 2948489.29,
+      "h6": 394976.2,
+      "h1": 116066.3,
+      "m5": 5219.16
+    },
+    "txns": {
+      "m5": {
+        "buys": 21,
+        "sells": 9
+      },
+      "h1": {
+        "buys": 208,
+        "sells": 82
+      },
+      "h6": {
+        "buys": 693,
+        "sells": 756
+      },
+      "h24": {
+        "buys": 4432,
+        "sells": 3819
+      }
+    },
+    "pairCreatedAt": 1786694831000,
+    "url": "https://dexscreener.com/bsc/0x595d70977dff3c841df0bc0138ce89f80c7c9423"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xDb6f1D044b8b2887a6C450D0D13176C81E3F936d",
+    "baseToken": {
+      "address": "0xc9d825E83AadA475bD4d38C8ca984eD746277777",
+      "name": "Stonks",
+      "symbol": "Stonks"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.002320",
+    "liquidity": {
+      "usd": 224088.36,
+      "base": 48284028,
+      "quote": 156.5518
+    },
+    "volume": {
+      "h24": 782940.91,
+      "h6": 91611.56,
+      "h1": 14726.45,
+      "m5": 321.01
+    },
+    "txns": {
+      "m5": {
+        "buys": 5,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 54,
+        "sells": 30
+      },
+      "h6": {
+        "buys": 386,
+        "sells": 309
+      },
+      "h24": {
+        "buys": 2594,
+        "sells": 1776
+      }
+    },
+    "pairCreatedAt": 1788523808000,
+    "url": "https://dexscreener.com/bsc/0xdb6f1d044b8b2887a6c450d0d13176c81e3f936d"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xB366D9e23AcC1F71C421E04d3FCE92C417ce63cE",
+    "baseToken": {
+      "address": "0xDBc6333a7D8bCd95f96641EDA4D095E69F207777",
+      "name": "Bicat",
+      "symbol": "Bicat"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.0002500",
+    "liquidity": {
+      "usd": 63631.09,
+      "base": 127224413,
+      "quote": 44.4481
+    },
+    "volume": {
+      "h24": 78355.95,
+      "h6": 7593.42,
+      "h1": 1414.04,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 7,
+        "sells": 7
+      },
+      "h6": {
+        "buys": 59,
+        "sells": 44
+      },
+      "h24": {
+        "buys": 481,
+        "sells": 345
+      }
+    },
+    "pairCreatedAt": 1786170211000,
+    "url": "https://dexscreener.com/bsc/0xb366d9e23acc1f71c421e04d3fce92c417ce63ce"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x621cD874d7e74a103bCF235dbaeA3E993628A726",
+    "baseToken": {
+      "address": "0x6Fb1f17bE7baA565723C94D4665Dc917d9157777",
+      "name": "ちいかわ",
+      "symbol": "Chiikawa"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.0001404",
+    "liquidity": {
+      "usd": 37693.14,
+      "base": 134199629,
+      "quote": 26.3308
+    },
+    "volume": {
+      "h24": 186964.74,
+      "h6": 22414.47,
+      "h1": 10484.54,
+      "m5": 935.66
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 1
+      },
+      "h1": {
+        "buys": 15,
+        "sells": 21
+      },
+      "h6": {
+        "buys": 63,
+        "sells": 70
+      },
+      "h24": {
+        "buys": 579,
+        "sells": 515
+      }
+    },
+    "pairCreatedAt": 1786090473000,
+    "url": "https://dexscreener.com/bsc/0x621cd874d7e74a103bcf235dbaea3e993628a726"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x50222207d93c167325c562914deaA25A5a4EC946",
+    "baseToken": {
+      "address": "0xF7F2Fb6178290EB812e9bD280920f3dC63437777",
+      "name": "豹拉",
+      "symbol": "豹拉"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.0002268",
+    "liquidity": {
+      "usd": 56741.61,
+      "base": 125057553,
+      "quote": 39.6406
+    },
+    "volume": {
+      "h24": 116793.58,
+      "h6": 16920.39,
+      "h1": 3194.93,
+      "m5": 298.48
+    },
+    "txns": {
+      "m5": {
+        "buys": 1,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 19,
+        "sells": 10
+      },
+      "h6": {
+        "buys": 100,
+        "sells": 96
+      },
+      "h24": {
+        "buys": 724,
+        "sells": 562
+      }
+    },
+    "pairCreatedAt": 1788080770000,
+    "url": "https://dexscreener.com/bsc/0x50222207d93c167325c562914deaa25a5a4ec946"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xD389b1e12786DB2024979d3214EE9f75e50E6120",
+    "baseToken": {
+      "address": "0x5b1910eAaD6450E50f816082Aa078C41F10C292f",
+      "name": "Tesla, Inc. ",
+      "symbol": "TSLAB"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "365.21",
+    "liquidity": {
+      "usd": 93015.66,
+      "base": 118.599,
+      "quote": 69.4415
+    },
+    "volume": {
+      "h24": 79002.99,
+      "h6": 7161.46,
+      "h1": 161.76,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 11
+      },
+      "h6": {
+        "buys": 47,
+        "sells": 34
+      },
+      "h24": {
+        "buys": 438,
+        "sells": 474
+      }
+    },
+    "pairCreatedAt": 1788774227000,
+    "url": "https://dexscreener.com/bsc/0xd389b1e12786db2024979d3214ee9f75e50e6120"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x7a1b5F9e71E497f6265c63108D0f314d23c6deb4",
+    "baseToken": {
+      "address": "0xCCfBcd3bF85D8657a6Bbd10B8c81c99F13207777",
+      "name": "18bro the blackcat",
+      "symbol": "十八bro"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.00009866",
+    "liquidity": {
+      "usd": 43878.71,
+      "base": 222354601,
+      "quote": 30.6514
+    },
+    "volume": {
+      "h24": 25593.28,
+      "h6": 3841.84,
+      "h1": 233.83,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 4,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 18,
+        "sells": 37
+      },
+      "h24": {
+        "buys": 197,
+        "sells": 167
+      }
+    },
+    "pairCreatedAt": 1787642182000,
+    "url": "https://dexscreener.com/bsc/0x7a1b5f9e71e497f6265c63108d0f314d23c6deb4"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xe5cb9E520BFf26185c6488A0cE3b242e70dBa4BE",
+    "baseToken": {
+      "address": "0xfA46fA75a3F3D08CA33FE8B4B5194046b7217777",
+      "name": "Tuzki",
+      "symbol": "TUZKI"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.00009124",
+    "liquidity": {
+      "usd": 36462.9,
+      "base": 199816546,
+      "quote": 25.4732
+    },
+    "volume": {
+      "h24": 43397.32,
+      "h6": 3162.25,
+      "h1": 242.42,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 3,
+        "sells": 4
+      },
+      "h6": {
+        "buys": 21,
+        "sells": 26
+      },
+      "h24": {
+        "buys": 226,
+        "sells": 180
+      }
+    },
+    "pairCreatedAt": 1788423775000,
+    "url": "https://dexscreener.com/bsc/0xe5cb9e520bff26185c6488a0ce3b242e70dba4be"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3ec0F7952bb41d5fB2e8C9cBd3c30BF07750DF46",
+    "baseToken": {
+      "address": "0x69bC25bD72fB028bc277B13E2C1fAB67d3bE7777",
+      "name": "hongchenfei",
+      "symbol": "红尘飞"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.0001378",
+    "liquidity": {
+      "usd": 44534.36,
+      "base": 161547862,
+      "quote": 31.1154
+    },
+    "volume": {
+      "h24": 14987.47,
+      "h6": 330.19,
+      "h1": 6.38,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 4,
+        "sells": 6
+      },
+      "h24": {
+        "buys": 86,
+        "sells": 79
+      }
+    },
+    "pairCreatedAt": 1786871720000,
+    "url": "https://dexscreener.com/bsc/0x3ec0f7952bb41d5fb2e8c9cbd3c30bf07750df46"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xd9cA33d1Da25D950d702EB94cF1e7c48ad14a2A2",
+    "baseToken": {
+      "address": "0xa184D5AD47c9e756117c6590371beE0d0D477777",
+      "name": "奶蛙",
+      "symbol": "奶蛙"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.0002100",
+    "liquidity": {
+      "usd": 49950.99,
+      "base": 118929131,
+      "quote": 34.8961
+    },
+    "volume": {
+      "h24": 69153.63,
+      "h6": 9564.96,
+      "h1": 669.14,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 6,
+        "sells": 2
+      },
+      "h6": {
+        "buys": 54,
+        "sells": 30
+      },
+      "h24": {
+        "buys": 209,
+        "sells": 194
+      }
+    },
+    "pairCreatedAt": 1786978627000,
+    "url": "https://dexscreener.com/bsc/0xd9ca33d1da25d950d702eb94cf1e7c48ad14a2a2"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xcD53bB493Ed0dDe04CB54E0F1106Ec835c07bC47",
+    "baseToken": {
+      "address": "0x8b7abC1C0F2e6C0b76BC4FD0F7190f67d72E7777",
+      "name": "老吴",
+      "symbol": "老吴"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.0001093",
+    "liquidity": {
+      "usd": 42754.44,
+      "base": 195544197,
+      "quote": 29.8685
+    },
+    "volume": {
+      "h24": 19863.28,
+      "h6": 6378.58,
+      "h1": 1.19,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 2,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 46,
+        "sells": 17
+      },
+      "h24": {
+        "buys": 145,
+        "sells": 77
+      }
+    },
+    "pairCreatedAt": 1787023221000,
+    "url": "https://dexscreener.com/bsc/0xcd53bb493ed0dde04cb54e0f1106ec835c07bc47"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xAEd3E24803653297F17E0AAe4aef3Fc2A30F976d",
+    "baseToken": {
+      "address": "0x1aB89C265a1EA8f0aC9Dff6A88E6B1c9f86F7777",
+      "name": "bStocks",
+      "symbol": "bStocks"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.00003345",
+    "liquidity": {
+      "usd": 20387.68,
+      "base": 304715723,
+      "quote": 14.2429
+    },
+    "volume": {
+      "h24": 231892.62,
+      "h6": 2676.61,
+      "h1": 686.09,
+      "m5": 323.98
+    },
+    "txns": {
+      "m5": {
+        "buys": 5,
+        "sells": 28
+      },
+      "h1": {
+        "buys": 13,
+        "sells": 51
+      },
+      "h6": {
+        "buys": 63,
+        "sells": 150
+      },
+      "h24": {
+        "buys": 4355,
+        "sells": 3807
+      }
+    },
+    "pairCreatedAt": 1788805676000,
+    "url": "https://dexscreener.com/bsc/0xaed3e24803653297f17e0aae4aef3fc2a30f976d"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x74201D06b2a98f5D2ed87756fcaA7adae30848de",
+    "baseToken": {
+      "address": "0x65F54065F917057413D2FcBaBC03DFAD61977777",
+      "name": "马到",
+      "symbol": "马到"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.00002948",
+    "liquidity": {
+      "usd": 19176.26,
+      "base": 325183651,
+      "quote": 13.3931
+    },
+    "volume": {
+      "h24": 77925.63,
+      "h6": 7171.88,
+      "h1": 2182.96,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 6
+      },
+      "h6": {
+        "buys": 53,
+        "sells": 43
+      },
+      "h24": {
+        "buys": 474,
+        "sells": 414
+      }
+    },
+    "pairCreatedAt": 1788731750000,
+    "url": "https://dexscreener.com/bsc/0x74201d06b2a98f5d2ed87756fcaa7adae30848de"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x3f0205c4D46D153E2EF71322701090f267d29eEf",
+    "baseToken": {
+      "address": "0x135b978dDbDCb41AfCe5DcC1A88640568D677777",
+      "name": "Q币",
+      "symbol": "Q币"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.00006510",
+    "liquidity": {
+      "usd": 30354.22,
+      "base": 233108344,
+      "quote": 21.2038
+    },
+    "volume": {
+      "h24": 18094.94,
+      "h6": 2089.28,
+      "h1": 23.24,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 3
+      },
+      "h6": {
+        "buys": 28,
+        "sells": 24
+      },
+      "h24": {
+        "buys": 165,
+        "sells": 144
+      }
+    },
+    "pairCreatedAt": 1788549252000,
+    "url": "https://dexscreener.com/bsc/0x3f0205c4d46d153e2ef71322701090f267d29eef"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xFDC1f773380f75E26d44948ee38Ef109120d8dF5",
+    "baseToken": {
+      "address": "0x7cf0B6dBc50612c63FfFEbB4Aa43A84B731E7777",
+      "name": "美团老鼠",
+      "symbol": "美团老鼠"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.00006048",
+    "liquidity": {
+      "usd": 26572.93,
+      "base": 219675173,
+      "quote": 18.5661
+    },
+    "volume": {
+      "h24": 39682.12,
+      "h6": 1405.34,
+      "h1": 0,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h6": {
+        "buys": 11,
+        "sells": 12
+      },
+      "h24": {
+        "buys": 197,
+        "sells": 142
+      }
+    },
+    "pairCreatedAt": 1786851345000,
+    "url": "https://dexscreener.com/bsc/0xfdc1f773380f75e26d44948ee38ef109120d8df5"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0xE4a0049828b013d1E8dFC3c2613eC8ca0F17ea7a",
+    "baseToken": {
+      "address": "0x86Df20937C45D2AACAc6F6eED5d0A891b3887777",
+      "name": "wechat doge",
+      "symbol": "旺柴"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.00003560",
+    "liquidity": {
+      "usd": 22631.67,
+      "base": 317844356,
+      "quote": 15.8086
+    },
+    "volume": {
+      "h24": 9675.74,
+      "h6": 5192.18,
+      "h1": 124.01,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 9,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 92,
+        "sells": 49
+      },
+      "h24": {
+        "buys": 208,
+        "sells": 103
+      }
+    },
+    "pairCreatedAt": 1788584186000,
+    "url": "https://dexscreener.com/bsc/0xe4a0049828b013d1e8dfc3c2613ec8ca0f17ea7a"
+  },
+  {
+    "queried_quote": "QQQB",
+    "chainId": "bsc",
+    "dexId": "pancakeswap",
+    "pairAddress": "0x73C323F86C2685Dc8Bc48887763d3c8f405980e0",
+    "baseToken": {
+      "address": "0xC73E1b136C576D1429cB84522A8C35c81d9d7777",
+      "name": "抖音爆火小猫表情包",
+      "symbol": "月薪喵"
+    },
+    "quoteToken": {
+      "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "name": "Invesqo QQQ",
+      "symbol": "QQQB"
+    },
+    "priceUsd": "0.00006935",
+    "liquidity": {
+      "usd": 37343.13,
+      "base": 269219001,
+      "quote": 26.08817
+    },
+    "volume": {
+      "h24": 9543.68,
+      "h6": 3375.76,
+      "h1": 517.05,
+      "m5": 0
+    },
+    "txns": {
+      "m5": {
+        "buys": 0,
+        "sells": 0
+      },
+      "h1": {
+        "buys": 1,
+        "sells": 1
+      },
+      "h6": {
+        "buys": 19,
+        "sells": 14
+      },
+      "h24": {
+        "buys": 70,
+        "sells": 59
+      }
+    },
+    "pairCreatedAt": 1786007983000,
+    "url": "https://dexscreener.com/bsc/0x73c323f86c2685dc8bc48887763d3c8f405980e0"
+  }
+]

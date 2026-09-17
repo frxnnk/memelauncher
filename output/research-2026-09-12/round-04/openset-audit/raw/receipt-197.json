@@ -1,0 +1,80 @@
+{
+  "id": "drop-197",
+  "cycleId": 197,
+  "version": 3,
+  "target": {
+    "machine": "pokemon_100",
+    "priceUsd": "100",
+    "rungUsd": "50",
+    "chain": "solana-mainnet",
+    "reason": "fixed ladder; no $50 pack in stock, bought the cheapest in stock ($100)"
+  },
+  "venue": {
+    "name": "stonk.fun",
+    "program": "cpmm",
+    "mint": "8LstZpZuR9Dy7JCZC3YwPEWtbYhuDVFAYV37r6ZAcuHz",
+    "quoteMint": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp",
+    "pool": "5dYsxy1hJ8DxejsfHJR9wyRsuLHw6wCLKk7idc1kszUn"
+  },
+  "fees": {
+    "amount": "100000000",
+    "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "assetSymbol": "USDC",
+    "decimals": 6
+  },
+  "snapshot": {
+    "slot": 446362953,
+    "requestedSlot": 446362951,
+    "blockhash": "B8Bbmba1qBriUuNtNyJEXGXV1mVfd71npp5EZdRWev6q",
+    "slotSpread": 0,
+    "indexSlot": 446362952
+  },
+  "candidates": {
+    "count": 291,
+    "hash": "0x03d4a580af170635e0168012c290f7139cafaa5661ef489410a9f25619e64937",
+    "totalWeight": 28310
+  },
+  "winner": {
+    "address": "63h8mddhgPGcRsQqwbCsazVVhxhbgjK4er6ZudXZ8fCi",
+    "weight": 80,
+    "index": 70
+  },
+  "randomness": {
+    "entropySlot": 446363103,
+    "entropySlotRequested": 446363103,
+    "entropyBlockhash": "4qQa9KGbe8wi6o9uYNgtDEbkEqe22xwGomgurdykRVty",
+    "seedFormula": "seed = keccak256(base58decode(entropyBlockhash) || uint256(cycleId) || candidatesHash); roll = seed mod totalWeight; winner = first candidate whose cumulative weight exceeds roll; candidates sorted bytewise by base58 address",
+    "seed": "0x67fe28d5fcdd29f1409b689c117efd1a2064dff24311fcac31fb71952e2d9b2d"
+  },
+  "collector": {
+    "memo": "cc-257beb2a-f869-49d4-aa1f-4aca6d522e6d",
+    "machine": "pokemon_100",
+    "chain": "solana-mainnet",
+    "paymentMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "amountBaseUnits": "100000000"
+  },
+  "transactions": {
+    "pay": "31qEXXRweXGMuhTLTncpzFPr8SARqbiDqLD4ppnVtrM4aA9PKH8QRP4URJfrWSS7a866qBRbnGK4oowjFAiBGV6a",
+    "mint": "3YohrMA6yHx3Zne2umMN2MMWK9ZM99wzXrUZtJV7YkA1YXoCv6f4ZL154PReEBv9K1CUMsby1BwyPKhKNNKC5vYx"
+  },
+  "card": {
+    "mint": "5hPFCSUdLMjQQyjFSk2zupk4HzsKe5wAWomJM8s6VH4v",
+    "name": "2021 #144 Greninja-Gold Star PSA 9 Swsh Black Star Promo Pokemon",
+    "rarity": "common",
+    "insuredValueUsd": 75,
+    "imageUrls": [
+      "https://arweave.net/ho8LLc_riKcXrZpawoBiQTh7C_sXegetTjr4gQ7Xfkg",
+      "https://d1xpxki1g4htqu.cloudfront.net/XR6qPAe9v7D5eeGzEO1pEUOF5DWUkqgEFeGydAPS6Uk",
+      "https://cdn.helius-rpc.com/cdn-cgi/image//https://arweave.net/ho8LLc_riKcXrZpawoBiQTh7C_sXegetTjr4gQ7Xfkg",
+      "https://arweave.net/5muTZv77Y72o6Hx8dYLipAhYgTtd3o4Z2qXEVLzoQWQ",
+      "https://d1xpxki1g4htqu.cloudfront.net/6m284OlFo3of2mFqg1XPJedugP4DZVeozRHBylhX89k",
+      "https://cdn.helius-rpc.com/cdn-cgi/image//https://arweave.net/5muTZv77Y72o6Hx8dYLipAhYgTtd3o4Z2qXEVLzoQWQ"
+    ]
+  },
+  "timestamps": {
+    "snapshotAt": 1789195028508,
+    "awardedAt": 1789195118237
+  },
+  "finalStatus": "AWARDED",
+  "executionMode": "live"
+}

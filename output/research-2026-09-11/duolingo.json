@@ -1,0 +1,1518 @@
+{
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x999e0dea69c7cbd2dd153e028bdb5e0ed4364f39",
+        "pairAddress": "0x999e0DEa69c7CbD2dD153E028BDB5e0ED4364f39",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0x076EE11E716da51077C14A3f9678d394B52E0c6B",
+          "name": "duolingo",
+          "symbol": "DUOLINGO"
+        },
+        "quoteToken": {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "name": "WETH",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.000000001375",
+        "priceUsd": "0.000003390",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 9.36,
+          "h6": 6.1,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 1.29,
+          "h24": 1.07
+        },
+        "liquidity": {
+          "usd": 3389.98,
+          "base": 992942728,
+          "quote": 0.009681
+        },
+        "fdv": 3390,
+        "marketCap": 3390,
+        "pairCreatedAt": 1785986845000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb6d91a9d9cdc14f065ade848afc828ed4a55f13f",
+        "pairAddress": "0xb6D91A9d9cDc14f065aDE848AFC828Ed4a55F13f",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0x12c085809AF8F7AaB87b09fD63F74E93A4D3a10C",
+          "name": "duolingo",
+          "symbol": "DUOLINGO"
+        },
+        "quoteToken": {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "name": "WETH",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.000000001368",
+        "priceUsd": "0.000003343",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 3.26,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.17
+        },
+        "liquidity": {
+          "usd": 3343.89,
+          "base": 995154261,
+          "quote": 0.006617
+        },
+        "fdv": 3344,
+        "marketCap": 3344,
+        "pairCreatedAt": 1785987098000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/2jhyhayuww1f2mk3dhmcyrjjn9hzbvnkneufgmafcokx",
+        "pairAddress": "2jHyhAYUwW1f2mk3DHMcyRjjN9hzbVNKnEUFGMAfCoKX",
+        "baseToken": {
+          "address": "3gRV5y6Pw5sxrnoijAPjVqrGESyZzLswG5NbMcN8pump",
+          "name": "RIP DUOLINGO",
+          "symbol": "DUOLINGO"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002413",
+        "priceUsd": "0.000002396",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.37,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 4434.76,
+          "base": 924369505,
+          "quote": 22.3607
+        },
+        "fdv": 2393,
+        "marketCap": 2393,
+        "pairCreatedAt": 1739289306000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/3ed095cb9a5c29b19b9a44f2900320e1106a09f893ae3568e999c2e70a46c85c?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/2a5be83f95f6adecf8aef3b2b1b0d10d326b933f116e6d9ee90f8012cd37e300?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3gRV5y6Pw5sxrnoijAPjVqrGESyZzLswG5NbMcN8pump?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/duolingo/status/1889328809054224698",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "pancakeswap",
+        "url": "https://dexscreener.com/bsc/0xb05030a7880d585e3f6beed853e63cbb82251e1c",
+        "pairAddress": "0xB05030a7880D585e3f6bEeD853e63Cbb82251e1C",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0x402790F28A41dA7C5Da784AE6889E6B52f814444",
+          "name": "Duolingo",
+          "symbol": "多邻国"
+        },
+        "quoteToken": {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB"
+        },
+        "priceNative": "0.000000003834",
+        "priceUsd": "0.000002714",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 6.07,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 5275.26,
+          "base": 971604875,
+          "quote": 3.7253
+        },
+        "fdv": 2715,
+        "marketCap": 2715,
+        "pairCreatedAt": 1759939504000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/gvsafjrdqa9eyfjpwbobnmy2bckpkphhurfmtkoskirx",
+        "pairAddress": "GVSaFjRdqA9eYfjPWBobNmY2BCKpkphHUrFmTkoskirX",
+        "baseToken": {
+          "address": "7Gf7Mh2wrQCtaCHhfyAKxjKE7Y2heDuRj6uE4e8bpump",
+          "name": "Duolingo",
+          "symbol": "Duolingo "
+        },
+        "quoteToken": {
+          "address": "Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ",
+          "name": "Nasdaq xStock",
+          "symbol": "QQQx"
+        },
+        "priceNative": "0.000000005673",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 13
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1788998475000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/pKnrFt1Jm6h3UsVo?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/_EzW-H3CB_fF-OjN?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7Gf7Mh2wrQCtaCHhfyAKxjKE7Y2heDuRj6uE4e8bpump?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/imblankface/status/2097837715706318948?s=46",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/aghhjvab9dehbo6cgka7tstvj9covkxxhabexgqgytak",
+        "pairAddress": "AGHHJvaB9DEhbo6cgKa7TstVJ9CovkxXhabeXGQgytak",
+        "baseToken": {
+          "address": "EXfQFgjHqSNFN6KRYf3sPW9fnf1nGd8fDXENT7tr7PT",
+          "name": "Duolingo ",
+          "symbol": "Duolingo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002947",
+        "priceUsd": "0.000002926",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 14
+          }
+        },
+        "volume": {
+          "h24": 49.67,
+          "h6": 0.25,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.42,
+          "h24": -4.75
+        },
+        "fdv": 2926.38,
+        "marketCap": 2926.38
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "flapsh",
+        "url": "https://dexscreener.com/bsc/0x7ac5b2713a60a984fbf0bfa024d7b3e6170d28b7",
+        "pairAddress": "0x7aC5B2713a60a984FbF0BFa024d7B3e6170D28b7",
+        "baseToken": {
+          "address": "0x57946a861d096dbd00289b233312F79811437777",
+          "name": "苹果发布的meme图",
+          "symbol": "Duolingo"
+        },
+        "quoteToken": {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB"
+        },
+        "priceNative": "0.000000005546",
+        "priceUsd": "0.000003956",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 589.58,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -6
+        },
+        "liquidity": {
+          "usd": 8759.07,
+          "base": 1107036752,
+          "quote": 6.14
+        },
+        "fdv": 3956,
+        "marketCap": 3956,
+        "pairCreatedAt": 1789092620000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "flapsh",
+        "url": "https://dexscreener.com/bsc/0x1cbc18fb8e4fecc4edd916709983b05c968af7a3",
+        "pairAddress": "0x1cBc18FB8e4FeCc4edD916709983B05C968aF7A3",
+        "baseToken": {
+          "address": "0xc5DB67305bCbB534b9931e66eec2d203Da627777",
+          "name": "Duolingo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "0x46cEeFDa28Dd7207059ed19B0acdc026955bb15C",
+          "name": "GameStop",
+          "symbol": "GMEB"
+        },
+        "priceNative": "0.0000001605",
+        "priceUsd": "0.000003394",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 17,
+            "sells": 16
+          }
+        },
+        "volume": {
+          "h24": 1692.58,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -1.87
+        },
+        "liquidity": {
+          "usd": 7516.27,
+          "base": 1107036751,
+          "quote": 177.6833
+        },
+        "fdv": 3395,
+        "marketCap": 3395,
+        "pairCreatedAt": 1789088820000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/24ypr4gbhaebkfuwhq5n8w7rrdxqsby47ndwc7ncs6dz",
+        "pairAddress": "24yPR4GBhAEbkfuwhQ5N8W7RRDxQSby47NDWC7ncS6DZ",
+        "baseToken": {
+          "address": "7gMYjxeF6wxWpZRBxZEExcSxFHfsVVoxY8oTSBALpump",
+          "name": "DUOLINGO",
+          "symbol": "DUOLINGO"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002790",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 11,
+            "sells": 12
+          }
+        },
+        "volume": {
+          "h24": 261.81,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -1.34
+        },
+        "fdv": 2790.03,
+        "marketCap": 2790.03,
+        "pairCreatedAt": 1789046889000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/3w7tb97bvajz6rg4s1ced65xldkezqzkjlcsuaxqspv5",
+        "pairAddress": "3W7tb97bVajz6rg4S1CED65xLdKEZqzKjLcsuaXqspv5",
+        "baseToken": {
+          "address": "4FDv3WkpBBdUMDnToBrC5HF52NwjVtbLvpa4CxPapump",
+          "name": "duolingo",
+          "symbol": "duolingo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002810",
+        "priceUsd": "0.000002806",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.69,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "fdv": 2806.02,
+        "marketCap": 2806.02,
+        "pairCreatedAt": 1788347307000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/eugabxwde9yw7vhccxnz1dyuaay52rv8smmrez7h67pl",
+        "pairAddress": "EugaBXWde9Yw7VHCcXNZ1DyuAAY52rV8smmrEz7H67pL",
+        "baseToken": {
+          "address": "HwSqg5XmAFe3swBJM9YwmNeV399AVB8cGFAbtLjSpump",
+          "name": "DUO",
+          "symbol": "Duolingo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002768",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 22.97,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.61
+        },
+        "fdv": 2768.5,
+        "marketCap": 2768.5,
+        "pairCreatedAt": 1789088886000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/7zwdd1a2hjnntmgzrd831ieqkw1akqlyzgtuenmkcxs1",
+        "pairAddress": "7zWDd1a2hjNNTmgZRd831iEQKw1AkQLyzgtuENMKCxS1",
+        "baseToken": {
+          "address": "Cwcr8XU5Yu1a5RhT1CwWoDtvSvrhAXLchfjYsTAxpump",
+          "name": "Duolingo",
+          "symbol": "DUOL"
+        },
+        "quoteToken": {
+          "address": "Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ",
+          "name": "Nasdaq xStock",
+          "symbol": "QQQx"
+        },
+        "priceNative": "0.000000005553",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1788998849000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x515ac47940b015b8c7816349d817b6018cefffff:4meme",
+        "pairAddress": "0x515ac47940B015b8C7816349d817b6018CeFfFff:4meme",
+        "baseToken": {
+          "address": "0x515ac47940B015b8C7816349d817b6018CeFfFff",
+          "name": "Duolingo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.000000005102",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789090102000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x7425e0b2ecf2deca9ae25592e9e052b1c5a6ffff:4meme",
+        "pairAddress": "0x7425E0B2ECf2DECA9ae25592E9E052B1c5a6FffF:4meme",
+        "baseToken": {
+          "address": "0x7425E0B2ECf2DECA9ae25592E9E052B1c5a6FffF",
+          "name": "苹果发布的meme图",
+          "symbol": "Duolingo"
+        },
+        "quoteToken": {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789094291000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x79c471a42904d7802547f25cdc87284c9785ffff:4meme",
+        "pairAddress": "0x79c471A42904D7802547f25CdC87284c9785fffF:4meme",
+        "baseToken": {
+          "address": "0x79c471A42904D7802547f25CdC87284c9785fffF",
+          "name": "Duolingo",
+          "symbol": "多儿"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789090115000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x955a9ee050837db1ef003a078b2929cb781affff:4meme",
+        "pairAddress": "0x955a9Ee050837Db1eF003a078B2929cB781afFFf:4meme",
+        "baseToken": {
+          "address": "0x955a9Ee050837Db1eF003a078B2929cB781afFFf",
+          "name": "Duolingo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "0x46cEeFDa28Dd7207059ed19B0acdc026955bb15C",
+          "name": "GameStop",
+          "symbol": "GMEB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789090760000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/f3zfygwauczrfwds9ijkkqo4t83waxqc4cz9musjpnwr",
+        "pairAddress": "F3ZfYgWauCZRfwDs9ijKkqo4t83Waxqc4cz9mUsJpNWr",
+        "baseToken": {
+          "address": "KFTSxPQxDV1wGjEvzKHWD7mG6e9TsMVq4eF4mQppump",
+          "name": "Duolingo Owl",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000003392",
+        "priceUsd": "0.00003348",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 3,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 10,
+            "sells": 5
+          }
+        },
+        "volume": {
+          "h24": 1231.85,
+          "h6": 257.42,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.53,
+          "h24": -1.56
+        },
+        "liquidity": {
+          "usd": 48790.62,
+          "base": 728737386,
+          "quote": 247.05653
+        },
+        "fdv": 33484,
+        "marketCap": 33484,
+        "pairCreatedAt": 1739290130000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/008a10bf430898c1f91b7fa16012c147c206747e02d63c58382fdc3b34740a90?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/bd032435cbc80adb46021c7ef0431b1c708f57f810afc2680f6e994f09e621ba?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/KFTSxPQxDV1wGjEvzKHWD7mG6e9TsMVq4eF4mQppump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.duolingo.com/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/DUOcommunity",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/DUO_on_Solana",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "hyperevm",
+        "dexId": "hyperswap",
+        "url": "https://dexscreener.com/hyperevm/0x060b7aa5187e16d01071c370e911e3a4da23f3f3",
+        "pairAddress": "0x060B7aA5187e16D01071c370e911e3a4Da23f3f3",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0x972463F1646d8e57ae70a8CAb46945DA62852A79",
+          "name": "Duolingo Chicken",
+          "symbol": "DUOBUTT"
+        },
+        "quoteToken": {
+          "address": "0x5555555555555555555555555555555555555555",
+          "name": "Wrapped HYPE",
+          "symbol": "WHYPE"
+        },
+        "priceNative": "0.00000004120",
+        "priceUsd": "0.000003290",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.1,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 4079.16,
+          "base": 621789555,
+          "quote": 25.4672
+        },
+        "fdv": 3290,
+        "marketCap": 3290,
+        "pairCreatedAt": 1788265920000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/l5iAMPFhXnlnX20c?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/J9QaSnIWCXEYfTUO?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/hyperevm/0x972463f1646d8e57ae70a8cab46945da62852a79?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://duobut.fun",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/duobutt",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0x7cc76368b84315b785ec8127fdf0f1fa7f89f61d",
+        "pairAddress": "0x7Cc76368b84315B785EC8127FdF0F1Fa7F89F61D",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0x8B880BD18245e4DfAc96Ef805C52eE7EB4b5b005",
+          "name": "Duolingo Owl",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.000000000000004292",
+        "priceUsd": "0.00000000001046",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 191.99,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 6804.15,
+          "base": 325125318820086,
+          "quote": 1.3957
+        },
+        "fdv": 4402,
+        "marketCap": 4402,
+        "pairCreatedAt": 1739313887000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/4aa91f38d3d7ac541cd63223713385e51b535d4e367f5b53e4bbf39eede0e052?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/1e74aed227552fe9c259270db13650b7728285bf5d96d946b4aec194d98cc226?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0x8b880bd18245e4dfac96ef805c52ee7eb4b5b005?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://duolingoeth.com",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/duolingoeth",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/duolingoeth",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x284001fbca7d7cbfd8671a88e6a029dcf1e12e7e88a0c753061b53c23ca0b179",
+        "pairAddress": "0x284001fbca7d7cbfd8671a88e6a029dcf1e12e7e88a0c753061b53c23ca0b179",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xB66Ab6b5e2E6C6d5934a761C5484EE0198D9Ce5a",
+          "name": "DUO",
+          "symbol": "DUOLINGOAI"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000001056",
+        "priceUsd": "0.000002602",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 2.17,
+          "h6": 2.17,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 4688.31,
+          "base": 900667167,
+          "quote": 0.9516
+        },
+        "fdv": 2603,
+        "marketCap": 2603,
+        "pairCreatedAt": 1788987571000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/8bpzkaekmfkml8knbumncwkfp97wsj7bzkjwa6mgfnto",
+        "pairAddress": "8BpzkaekmfkML8KNbuMnCWKFP97WSj7BZkJWa6MGFnto",
+        "baseToken": {
+          "address": "XZ6J3kNY8MgMFfSe9fmfLoXkXr3Kggt7VBzskgDpump",
+          "name": "Duolingo Owl's Girlfriend",
+          "symbol": "Dualipa"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000003632",
+        "priceUsd": "0.000003627",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.61,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 6249.84,
+          "base": 862468978,
+          "quote": 31.2538
+        },
+        "fdv": 3622,
+        "marketCap": 3622,
+        "pairCreatedAt": 1739358445000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/2e560a6346ee3d7f12a9671af43d55214bf7459a261ab32c19365639eb87110b?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/d4a3644aaf3c6498d31cf89016aa40c256ad4dc7ceb2d38e8969e6b78c8b5212?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/XZ6J3kNY8MgMFfSe9fmfLoXkXr3Kggt7VBzskgDpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://blog.duolingo.com/english-lessons-from-dua-lipa/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/duolingo/status/1889328809054224698",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/DuaLipaSOL",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/4gdxwmfscy9ucavebk4aj15kc97d1q5xiyhkmkpxdtrw",
+        "pairAddress": "4GDxWMfsCy9UcavEBk4aJ15KC97D1Q5xiyhKMKPXDTrW",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "4285iXWnuznkP6YrVwdyXXcLDs2aLeaWTU77QQiPP56i",
+          "name": "IPhone Duolingo",
+          "symbol": "IPhoneLing"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000005418",
+        "priceUsd": "0.00005392",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.03,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -12.92
+        },
+        "liquidity": {
+          "usd": 0.31,
+          "base": 2830.3091,
+          "quote": 0.001583
+        },
+        "fdv": 53920,
+        "marketCap": 53920,
+        "pairCreatedAt": 1788993872000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/b7hwozxpancubrjsxk2vef4ra5l8e7zgw7kepd6c6s6y",
+        "pairAddress": "B7HwoZXpaNCubrjsXK2VeF4Ra5L8e7ZGW7kepD6c6s6Y",
+        "baseToken": {
+          "address": "3Q87A692iks25oxsEHwusWDfpGkwmQC5HUnauJekpump",
+          "name": "Duolingocoin",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002783",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 5,
+            "sells": 5
+          }
+        },
+        "volume": {
+          "h24": 527.63,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -12.06
+        },
+        "fdv": 2783.88,
+        "marketCap": 2783.88,
+        "pairCreatedAt": 1789059266000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/er9ezw5xbjp4mnv4mgzttjnzxjausyyythczovsbhvge",
+        "pairAddress": "ER9ezw5XbjP4MNv4MgzTTjNzxJAUsYyYthCzovsBhVge",
+        "baseToken": {
+          "address": "Be8az26EPKVT9J6KZbfwkJhVCWRZuZMaiXtjTYE2pump",
+          "name": "Samsung Vs Duolingo",
+          "symbol": "Efight"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002775",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 5
+          }
+        },
+        "volume": {
+          "h24": 272.24,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.07
+        },
+        "fdv": 2775.77,
+        "marketCap": 2775.77,
+        "pairCreatedAt": 1789090666000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/s4jefunspdth8yxsfgsbj6rdwqqznvuow9sulyfvdzy",
+        "pairAddress": "s4jEfUnSpDTH8YXsFgsBj6RDwQqZnVuoW9SuLYfvdzy",
+        "baseToken": {
+          "address": "3xpVUWs86wBeLBdsQCogZpaFoZdVhZAbc1sDjuLspump",
+          "name": "Hot Owl Summer - DUOLINGO",
+          "symbol": "HOS"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002813",
+        "priceUsd": "0.000002815",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 12.47,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.22
+        },
+        "fdv": 2815.65,
+        "marketCap": 2815.65,
+        "pairCreatedAt": 1788998991000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/4eb1qzbh1zpawxbcvjgsvw7vh3zywktyybtygy9467ae",
+        "pairAddress": "4Eb1QzBh1zPawxbcvjGSVW7vh3ZywKtYYbTyGy9467Ae",
+        "baseToken": {
+          "address": "4uiN4B8xTUdECWfyZ8ycyvgoYGj2rBUjqLm36pg3pump",
+          "name": "Duolingocoin",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002133",
+        "priceUsd": "0.000002123",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 580.56,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -1.38
+        },
+        "liquidity": {
+          "usd": 2280.43,
+          "base": 965120624,
+          "quote": 2.3231
+        },
+        "fdv": 2055,
+        "marketCap": 2055,
+        "pairCreatedAt": 1786009787000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/ikvXGiiQDSvqQWIb?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/j-u2N5cpG_ANFrPR?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/4uiN4B8xTUdECWfyZ8ycyvgoYGj2rBUjqLm36pg3pump?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://t.me/Duolingocoin",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/axi83zhl1mnqjtbqf5m1bu8tdm8qzirv7eyuwfbupcaz",
+        "pairAddress": "AXi83ZHL1mnqJtbQF5m1BU8TDM8QzirV7EYuwfBupcaZ",
+        "baseToken": {
+          "address": "CkjXyiypSSe9pbCH1wX1cetzyuAsg8Nr13MRPx8N7dQY",
+          "name": "Duolingo Owl",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000000003941",
+        "priceUsd": "0.00000003935",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 0.03,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.49
+        },
+        "liquidity": {
+          "usd": 32.34,
+          "base": 410707692,
+          "quote": 0.162
+        },
+        "fdv": 39,
+        "marketCap": 39,
+        "pairCreatedAt": 1741197955000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "orca",
+        "url": "https://dexscreener.com/solana/4rdjvvxzjrljvhj2qy6qhb1dcxgcvqkjjdpqdlxvmlob",
+        "pairAddress": "4RDJvVxzJrLJvHj2Qy6QHb1DcXgCVqkjJdpQdLxVMLob",
+        "labels": [
+          "wp"
+        ],
+        "baseToken": {
+          "address": "57651PAVutNCTppbhuS35BQJzBBM4LqG1PxB9XDDNzS7",
+          "name": "57651",
+          "symbol": "57651"
+        },
+        "quoteToken": {
+          "address": "CkjXyiypSSe9pbCH1wX1cetzyuAsg8Nr13MRPx8N7dQY",
+          "name": "Duolingo Owl",
+          "symbol": "Duo"
+        },
+        "priceNative": "17324730462.5626",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -3.57
+        },
+        "pairCreatedAt": 1775722645000
+      }
+    ]
+  },
+  "capturedAt": "2026-09-11T12:14:50.4560899Z",
+  "query": "duolingo"
+}

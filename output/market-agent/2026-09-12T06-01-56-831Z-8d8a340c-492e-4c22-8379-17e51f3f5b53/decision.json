@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "observedAt": "2026-09-12T06:01:50.369Z",
+  "previousObservedAt": null,
+  "objective": "sustained_demand_provisional",
+  "policy": {
+    "minLiquidityUsd": 25000,
+    "minHourlyVolumeUsd": 1000,
+    "minPoolAgeHours": 1,
+    "minFollowupHours": 24,
+    "maxBaseValueShare": 0.9
+  },
+  "launchDecision": "NO_LAUNCH",
+  "reason": "Market observations alone do not establish demand for a proposed token.",
+  "coverage": [
+    "Provider-selected trending metas: first 3; collected 0. This is a bounded sample, not a market census.",
+    "Explicit search queries: 6; search ranking and matching are provider-controlled.",
+    "Pair chain filter: none.",
+    "Public GET only; no social reach, independent demand, wallet ownership, contract safety or executable liquidity verification.",
+    "Reported volume is not net inflow; trending placement and descriptive metadata are not evidence of organic demand."
+  ],
+  "errors": [
+    {
+      "endpoint": "https://api.dexscreener.com/metas/trending/v1",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=CATGPT",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=ANTHROPIG",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=STONK",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=ALLINU",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=Brian%20Steel",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=Polar%20Bear",
+      "message": "REQUEST_FAILED"
+    }
+  ],
+  "narratives": [
+    {
+      "name": "CATGPT",
+      "source": "CATGPT",
+      "type": "query_sample",
+      "pairs": [],
+      "status": "NO_DATA",
+      "observedTokens": 0,
+      "activeTokens": 0,
+      "interpretation": "No sufficient market evidence in this bounded sample; absence is not an opportunity."
+    },
+    {
+      "name": "ANTHROPIG",
+      "source": "ANTHROPIG",
+      "type": "query_sample",
+      "pairs": [],
+      "status": "NO_DATA",
+      "observedTokens": 0,
+      "activeTokens": 0,
+      "interpretation": "No sufficient market evidence in this bounded sample; absence is not an opportunity."
+    },
+    {
+      "name": "STONK",
+      "source": "STONK",
+      "type": "query_sample",
+      "pairs": [],
+      "status": "NO_DATA",
+      "observedTokens": 0,
+      "activeTokens": 0,
+      "interpretation": "No sufficient market evidence in this bounded sample; absence is not an opportunity."
+    },
+    {
+      "name": "ALLINU",
+      "source": "ALLINU",
+      "type": "query_sample",
+      "pairs": [],
+      "status": "NO_DATA",
+      "observedTokens": 0,
+      "activeTokens": 0,
+      "interpretation": "No sufficient market evidence in this bounded sample; absence is not an opportunity."
+    },
+    {
+      "name": "Brian Steel",
+      "source": "Brian Steel",
+      "type": "query_sample",
+      "pairs": [],
+      "status": "NO_DATA",
+      "observedTokens": 0,
+      "activeTokens": 0,
+      "interpretation": "No sufficient market evidence in this bounded sample; absence is not an opportunity."
+    },
+    {
+      "name": "Polar Bear",
+      "source": "Polar Bear",
+      "type": "query_sample",
+      "pairs": [],
+      "status": "NO_DATA",
+      "observedTokens": 0,
+      "activeTokens": 0,
+      "interpretation": "No sufficient market evidence in this bounded sample; absence is not an opportunity."
+    }
+  ],
+  "followup": [],
+  "requiredEvidence": [
+    "Fresh independent social adoption of the exact concept",
+    "Distribution and creator activity plan",
+    "Exact competitor contracts and all relevant pools",
+    "Holder funding links, bundles, permissions and executable depth",
+    "Prospective outcomes including failures and missing observations",
+    "Platform, budget, fees and approved transaction"
+  ]
+}

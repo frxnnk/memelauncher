@@ -1,0 +1,12 @@
+import { mkdirSync } from 'node:fs';
+import { resolve } from 'node:path';
+import { ROOT } from './manifest';
+import { Store } from './store';
+import { createApp } from './http';
+if(process.env.LIVE_EXECUTION_ENABLED && process.env.LIVE_EXECUTION_ENABLED!=='false') throw new Error('Live execution is unavailable');
+mkdirSync(resolve(ROOT,'.local'),{recursive:true});
+const store=new Store(resolve(ROOT,'.local/bellfly.sqlite'));
+store.recover();
+const server=createApp(store,process.env.BELLFLY_CONTROL_TOKEN);
+server.listen(Number(process.env.BELLFLY_PORT||8787),'127.0.0.1',()=>console.log('BELLFLY local lab: http://127.0.0.1:8787 • live execution disabled'));
+for(const signal of ['SIGINT','SIGTERM'] as const)process.on(signal,()=>server.close(()=>{store.close();process.exit(0);}));

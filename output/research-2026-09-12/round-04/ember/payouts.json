@@ -1,0 +1,9 @@
+{
+  "url": "https://embercurve.fun/api/solana/payouts?limit=20",
+  "capturedAt": "2026-09-12T06:45:42.8686107+00:00",
+  "status": 400,
+  "body": {
+    "error": "wallet is not defined"
+  },
+  "note": "Replaces an invalid local capture from the preceding PowerShell loop, which reused the prior raw variable after an HTTP error. No payout data was obtained in that attempt."
+}

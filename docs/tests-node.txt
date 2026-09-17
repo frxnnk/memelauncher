@@ -1,0 +1,106 @@
+
+> bellfly-local-lab@0.1.0 test
+> tsx --test tests/*.test.ts
+
+TAP version 13
+# (node:39276) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: canonical hash ignores object key order and rejects non-finite/undefined
+ok 1 - canonical hash ignores object key order and rejects non-finite/undefined
+  ---
+  duration_ms: 0.9294
+  type: 'test'
+  ...
+# Subtest: manifest rejects corrupt data, changed code/configuration and enabled live mode
+ok 2 - manifest rejects corrupt data, changed code/configuration and enabled live mode
+  ---
+  duration_ms: 75.3616
+  type: 'test'
+  ...
+# Subtest: MOCK end-to-end with actual Python subprocess and replay; tampering is detected
+ok 3 - MOCK end-to-end with actual Python subprocess and replay; tampering is detected
+  ---
+  duration_ms: 255.1202
+  type: 'test'
+  ...
+# Subtest: negative result and timeout never reserve an emission attempt
+ok 4 - negative result and timeout never reserve an emission attempt
+  ---
+  duration_ms: 225.8262
+  type: 'test'
+  ...
+# Subtest: missing/corrupt/mismatched final data and duplicate/fake events fail closed
+ok 5 - missing/corrupt/mismatched final data and duplicate/fake events fail closed
+  ---
+  duration_ms: 146.9994
+  type: 'test'
+  ...
+# Subtest: durable atomic reservation, concurrent duplicate calls and restart do not resubmit
+ok 6 - durable atomic reservation, concurrent duplicate calls and restart do not resubmit
+  ---
+  duration_ms: 280.7795
+  type: 'test'
+  ...
+# Subtest: ambiguous timeout is reconciled without another request, even after restart
+ok 7 - ambiguous timeout is reconciled without another request, even after restart
+  ---
+  duration_ms: 148.0317
+  type: 'test'
+  ...
+# Subtest: interrupted active run becomes INVALID and cannot restart its state machine
+ok 8 - interrupted active run becomes INVALID and cannot restart its state machine
+  ---
+  duration_ms: 65.1203
+  type: 'test'
+  ...
+# Subtest: unexpected chain, issuer, quote, beneficiary, fee and budget are blocked
+ok 9 - unexpected chain, issuer, quote, beneficiary, fee and budget are blocked
+  ---
+  duration_ms: 64.913
+  type: 'test'
+  ...
+# Subtest: live execution impossible even with credentials present; runner receives no credentials
+ok 10 - live execution impossible even with credentials present; runner receives no credentials
+  ---
+  duration_ms: 62.2704
+  type: 'test'
+  ...
+# Subtest: HTTP denies unauthenticated control, injected events and foreign origins; backend errors are not success
+ok 11 - HTTP denies unauthenticated control, injected events and foreign origins; backend errors are not success
+  ---
+  duration_ms: 30.1464
+  type: 'test'
+  ...
+# Subtest: explicit reference control commands preserve zero stimulus and ablation; typos are rejected
+ok 12 - explicit reference control commands preserve zero stimulus and ablation; typos are rejected
+  ---
+  duration_ms: 0.532
+  type: 'test'
+  ...
+# Subtest: fresh concurrent reservations across connections create one offline result
+ok 13 - fresh concurrent reservations across connections create one offline result
+  ---
+  duration_ms: 326.5673
+  type: 'test'
+  ...
+# Subtest: forged LAUNCH state without verified runner evidence cannot request even offline
+ok 14 - forged LAUNCH state without verified runner evidence cannot request even offline
+  ---
+  duration_ms: 65.7048
+  type: 'test'
+  ...
+# Subtest: credentials never appear in generated evidence and unknown secret fields are not persisted
+ok 15 - credentials never appear in generated evidence and unknown secret fields are not persisted
+  ---
+  duration_ms: 150.1588
+  type: 'test'
+  ...
+1..15
+# tests 15
+# suites 0
+# pass 15
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 2096.6734

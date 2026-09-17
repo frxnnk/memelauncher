@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-09-17T16:58:14.731Z",
+  "drill": "1-USDG-fixture-claim",
+  "realFundsEnabled": false,
+  "broadcast": false,
+  "chainId": "4663",
+  "tokenAddress": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+  "decimals": 6,
+  "seedAmount": "1000000",
+  "payable": "750000",
+  "continuity": "250000",
+  "recipient": "0x2222222222222222222222222222222222222222",
+  "transactionHash": "0x1111111111111111111111111111111111111111111111111111111111111111",
+  "unsignedTransfer": {
+    "chainId": "0x1237",
+    "from": "0xbec4fdb33ed39844956d9078fd232aca92d7396d",
+    "to": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+    "value": "0x0",
+    "data": "0xa9059cbb000000000000000000000000222222222222222222222222222222222222222200000000000000000000000000000000000000000000000000000000000b71b0"
+  },
+  "mainnetBroadcastRefused": "Mainnet USDG broadcast is disabled until an approved 1-unit drill wallet is provided.",
+  "note": "Fixture only. Encodes an unsigned 0.75 USDG transfer. Does not send 1 USDG on Robinhood mainnet 4663 and does not seed $500."
+}

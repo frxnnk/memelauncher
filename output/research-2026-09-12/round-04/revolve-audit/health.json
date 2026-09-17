@@ -1,0 +1,53 @@
+{
+  "url": "https://revolvepad.com/healthz",
+  "capturedAt": "2026-09-12T06:40:32.3586829Z",
+  "data": {
+    "service": "launch-service",
+    "revision": "audit-remediation-20260912",
+    "archiveVerified": true,
+    "mainWatch": {
+      "state": "attached",
+      "error": null
+    },
+    "running": true,
+    "executionEnabled": true,
+    "coins": 19,
+    "alarms": 0,
+    "quarantined": 0,
+    "draining": false,
+    "watchers": 11,
+    "watcherLimit": 900,
+    "overloaded": false,
+    "scheduler": {
+      "coins": 19,
+      "active": 1,
+      "waiting": 0,
+      "oldestDueMs": 0,
+      "maxActive": 8,
+      "completed": 704
+    },
+    "rpc": {
+      "rps": 8,
+      "active": 1,
+      "queued": 1,
+      "oldestQueuedMs": 183,
+      "started": 3812,
+      "rateLimited": 0,
+      "errors": 0,
+      "maxQueued": 7,
+      "maxActive": 4
+    },
+    "ammSnapshots": {
+      "active": 1,
+      "queued": 0,
+      "oldestQueuedMs": 0
+    },
+    "ammSockets": [
+      {
+        "subscriptions": 7,
+        "accountSubscriptions": 6,
+        "lastSlotAt": 1789195231671
+      }
+    ]
+  }
+}

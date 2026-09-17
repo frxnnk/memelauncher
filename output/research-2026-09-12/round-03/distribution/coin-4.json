@@ -1,0 +1,90 @@
+[
+  {
+    "mint": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+    "at": 1789192272619,
+    "coin": {
+      "mint": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+      "name": "allcat",
+      "symbol": "ALLCAT",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreifedm5apl527ljn75buzwgd7bxxw7jnzkdgdzynfdsfbcpc5writu",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreifedm5apl527ljn75buzwgd7bxxw7jnzkdgdzynfdsfbcpc5writu",
+      "createdAt": 1789156465000,
+      "marketCapUsd": 119120.24068570595,
+      "source": "etc",
+      "quote": null
+    },
+    "pair": {
+      "mint": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+      "stock": null,
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0
+    },
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "1031721812214",
+      "usd": 2968.601439460997,
+      "payouts": 505,
+      "lastAt": 1789165763271,
+      "wallets": 2802
+    },
+    "dropped": {
+      "symbol": "ALLCAT",
+      "decimals": 6,
+      "units": "7245979967602",
+      "usd": 1173.905128475672,
+      "wallets": 1423,
+      "lastAt": 1789170711981
+    },
+    "history": null,
+    "split": {
+      "config": "CDkieGSsi27Qo3tmwCS4Lzq4wrpbsZobQRVYmDAcWzzE",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders",
+          "label": "your holders",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys this coin and drops it into $all wallets",
+          "bps": 3000,
+          "role": "etc"
+        },
+        {
+          "key": "897GsVaFTWsSqHsT8Uiwsfc7XXqDBCEGcofmq7nRmEPA",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "2uVA1RLYdnjn3xZnEFnqFdzSeZpmMcSnvThS4rPRBgvz",
+      "waiting": "45420502788",
+      "claimable": "45419852548",
+      "earned": null
+    },
+    "claims": {
+      "lamports": "605281381",
+      "claims": 1,
+      "lastAt": 1789168561140,
+      "lastSignature": "5hEjNTdyeXYPKy4HadyNRWvGquzaQ3jU51VMXjDBYWPfhj5WJXA56LBmWYW57hiE6NWfaG7ZjxMWMnaNkX86WjT1",
+      "complete": false
+    },
+    "next": {
+      "at": 1789191894066,
+      "state": "running",
+      "held": "fetch failed"
+    },
+    "feeRead": {
+      "at": 1789192261936,
+      "distributions": [],
+      "complete": false
+    }
+  }
+]

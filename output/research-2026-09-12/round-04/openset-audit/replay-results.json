@@ -1,0 +1,70 @@
+[
+  {
+    "cycleId": 197,
+    "candidateCount": 291,
+    "uniqueCandidateAddresses": 291,
+    "candidateHash": "0x03d4a580af170635e0168012c290f7139cafaa5661ef489410a9f25619e64937",
+    "hashMatches": true,
+    "seed": "0x67fe28d5fcdd29f1409b689c117efd1a2064dff24311fcac31fb71952e2d9b2d",
+    "seedMatches": true,
+    "totalWeight": 28310,
+    "weightMatches": true,
+    "roll": 6859,
+    "winnerIndex": 70,
+    "winner": {
+      "address": "63h8mddhgPGcRsQqwbCsazVVhxhbgjK4er6ZudXZ8fCi",
+      "balance": "984650805577761",
+      "weight": 80
+    },
+    "winnerMatches": true,
+    "weightDistribution": {
+      "115": 40,
+      "80": 109,
+      "160": 5,
+      "100": 123,
+      "135": 14
+    },
+    "winnerProbabilityGivenPublishedList": 0.00282585658777817,
+    "minProbabilityGivenPublishedList": 0.00282585658777817,
+    "maxProbabilityGivenPublishedList": 0.00565171317555634,
+    "minimumRawBalance": 500000000000000,
+    "sameOrderAsPublished": true,
+    "independentHistoricalBalancesVerified": false,
+    "preEntropyCommitmentVerified": false,
+    "entropyBlockhashIndependentlyVerified": true
+  },
+  {
+    "cycleId": 198,
+    "candidateCount": 289,
+    "uniqueCandidateAddresses": 289,
+    "candidateHash": "0x4f4732ebf0dd115448ad3a8baf01db93db9486e92882d2cd8e8e477bd63eca88",
+    "hashMatches": true,
+    "seed": "0xc559668af1f4866880fbf9f7d06a76e6920c5c1cba667337847aa94c0048ae4a",
+    "seedMatches": true,
+    "totalWeight": 28110,
+    "weightMatches": true,
+    "roll": 9426,
+    "winnerIndex": 97,
+    "winner": {
+      "address": "7fTREYp5bxYYemWMvdnSrdG2FeqppNUi8QUpSZsNe514",
+      "balance": "12860679464518963",
+      "weight": 135
+    },
+    "winnerMatches": true,
+    "weightDistribution": {
+      "115": 40,
+      "80": 109,
+      "160": 5,
+      "100": 121,
+      "135": 14
+    },
+    "winnerProbabilityGivenPublishedList": 0.0048025613660619,
+    "minProbabilityGivenPublishedList": 0.002845962290999644,
+    "maxProbabilityGivenPublishedList": 0.005691924581999288,
+    "minimumRawBalance": 500000000000000,
+    "sameOrderAsPublished": true,
+    "independentHistoricalBalancesVerified": false,
+    "preEntropyCommitmentVerified": false,
+    "entropyBlockhashIndependentlyVerified": true
+  }
+]

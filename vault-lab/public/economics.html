@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Vault · Economy lab</title><link rel="stylesheet" href="/economics.css"></head>
+<body><main>
+  <header><a href="/">vault.</a><span>PLANNING TOOL / NO REAL FUNDS</span></header>
+  <div class="intro"><p class="eyebrow">Make the numbers earn their confidence.</p><h1>Can the vault<br>fund its next round?</h1><p>Explore one round ending in a win. Every number starts as an illustration. This tool does not read a wallet, market price, model bill or sponsor payment.</p></div>
+  <div class="lab-grid">
+    <form id="economics-inputs" autocomplete="off">
+      <fieldset><legend>01 / The round</legend>
+        <label>Tokens per valid attempt<input name="attemptTokens" type="number" min="1" max="100000000" step="1" value="100" required></label>
+        <label>Valid attempts, including the winner<input name="validAttempts" type="number" min="1" max="1000000" step="1" value="100" required></label>
+        <label>Hypothetical token value · USD<input name="tokenUsd" type="number" min="0" max="1000000" step="any" value="0.01" required></label>
+        <label>Prize allocation · %<input name="prizePercent" type="number" min="0" max="100" step="1" value="70" required></label>
+        <label>Operations allocation · %<input name="operationsPercent" type="number" min="0" max="100" step="1" value="20" required></label>
+        <p>The remainder seeds future rounds. Whole units are rounded per attempt, matching the accounting sandbox.</p>
+      </fieldset>
+      <fieldset><legend>02 / Operating assumptions</legend>
+        <label>Technical errors among API calls · %<input name="errorPercent" type="number" min="0" max="99" step="any" value="10" required></label>
+        <label>Assumed cost per API call · USD<input name="apiUsd" type="number" min="0" max="10000" step="any" value="0.01" required></label>
+        <label>Infrastructure, gas and other costs · USD<input name="fixedUsd" type="number" min="0" max="1000000000" step="any" value="1.5" required></label>
+        <label>Loss converting operating tokens to cash · %<input name="conversionLossPercent" type="number" min="0" max="100" step="any" value="30" required></label>
+        <p>Errors return player credits, but may still cost the operator. Conversion is assumed possible; no route or liquidity is verified.</p>
+      </fieldset>
+      <fieldset><legend>03 / Separate prize contributions</legend>
+        <label>Initial seed · tokens<input name="seedTokens" type="number" min="0" max="1000000000000" step="1" value="1000" required></label>
+        <label>Sponsor contribution in this scenario · tokens<input name="sponsorTokens" type="number" min="0" max="1000000000000" step="1" value="0" required></label>
+        <label>Creator fees received in this scenario · tokens<input name="creatorTokens" type="number" min="0" max="1000000000000" step="1" value="0" required></label>
+        <p>These amounts go entirely to the prize. Zero is the default: promised fees, future volume and advertising sales are not cash in custody.</p>
+      </fieldset>
+    </form>
+    <section class="results" aria-label="Economic projection">
+      <p id="input-error" role="alert" hidden></p>
+      <div id="projection" aria-live="polite">
+        <p class="eyebrow">Each valid attempt</p>
+        <div class="split" role="img" id="split-bar" aria-label="Illustrative token allocation"><span id="split-prize"></span><span id="split-operations"></span><span id="split-next"></span></div>
+        <div class="split-labels" id="split-labels"></div>
+        <dl class="headline-results"><div><dt>Winning prize · tokens</dt><dd id="prize-result"></dd></div><div><dt>Next round reserve · tokens</dt><dd id="next-result"></dd></div></dl>
+        <div class="operating-result"><p>Operating result after assumed conversion and costs</p><strong id="operations-result"></strong><small id="coverage-result"></small></div>
+        <dl id="cost-breakdown" class="breakdown"></dl>
+        <p class="result-note">A positive scenario is not a promise of profit or an infinite bounty. Round length, demand, token value, error rate, actual API costs and liquidity are still unmeasured.</p>
+        <button id="export-economics" type="button">Export assumptions and calculation ↓</button>
+      </div>
+    </section>
+  </div>
+  <footer>Unused player credits and reserved prizes cannot cover operating losses. This projection uses approximate planning arithmetic; settlement uses the separate integer ledger.</footer>
+</main><script type="module" src="/economics.js"></script></body></html>

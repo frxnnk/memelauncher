@@ -1,0 +1,106 @@
+<div id="meme-opportunity-map" aria-label="Mapa de noticias, memes y oportunidades">
+  <style>
+    #meme-opportunity-map { --map-bg:light-dark(#f8faf8,#0c1514);--map-panel:light-dark(#ffffff,#12211e);--map-ink:light-dark(#172b25,#e3eee8);--map-muted:light-dark(#52675e,#9aafa4);--map-line:light-dark(#d2ded7,#2c4138);--map-news:light-dark(#2451b8,#84aafd);--map-meme:light-dark(#873f9f,#d1a0ec);--map-market:light-dark(#18774b,#7ddfaa);--map-gap:light-dark(#956315,#e6bd75); background:var(--map-bg);color:var(--map-ink);font-family:Inter,ui-sans-serif,system-ui,sans-serif;border:1px solid var(--map-line);border-radius:16px;overflow:hidden; }
+    #meme-opportunity-map * { box-sizing:border-box; }
+    #meme-opportunity-map .map-header {display:flex;justify-content:space-between;align-items:center;gap:16px;padding:22px 24px;border-bottom:1px solid var(--map-line);flex-wrap:wrap;}
+    #meme-opportunity-map h2,#meme-opportunity-map h3,#meme-opportunity-map p {margin:0;}
+    #meme-opportunity-map h2 {font-size:21px;font-weight:500;letter-spacing:-.6px;}
+    #meme-opportunity-map .map-overline {font-size:11px;letter-spacing:1.5px;color:var(--map-muted);margin-bottom:6px;text-transform:uppercase;}
+    #meme-opportunity-map .map-time {font-size:12px;color:var(--map-muted);line-height:1.6;}
+    #meme-opportunity-map .map-body {display:grid;grid-template-columns:minmax(0,1fr) 288px;}
+    #meme-opportunity-map .map-space {padding:22px 20px 12px;min-width:0;position:relative;}
+    #meme-opportunity-map .map-columns {display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;font-size:11px;letter-spacing:.3px;color:var(--map-muted);margin-bottom:4px;}
+    #meme-opportunity-map .map-cluster {position:relative;padding:18px 0 22px;}
+    #meme-opportunity-map .cluster-title {display:flex;gap:10px;align-items:center;margin-bottom:13px;font-size:12px;color:var(--map-muted);font-weight:400;}
+    #meme-opportunity-map .cluster-title:after {content:'';height:1px;background:var(--map-line);flex:1;}
+    #meme-opportunity-map .node-grid {display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;position:relative;}
+    #meme-opportunity-map .connections {position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:visible;}
+    #meme-opportunity-map .connections path {fill:none;stroke:var(--map-line);stroke-width:1.5;}
+    #meme-opportunity-map .connections path[data-hypothesis="true"] {stroke:var(--map-gap);stroke-dasharray:4 5;opacity:.75;}
+    #meme-opportunity-map .map-node {border:1px solid var(--map-line);border-radius:10px;background:var(--map-panel);color:var(--map-ink);text-align:left;padding:12px 10px;cursor:pointer;min-height:93px;position:relative;min-width:0;transition:border-color .15s,background .15s;font:inherit;}
+    #meme-opportunity-map .map-node[data-type="news"] {--node-color:var(--map-news);}
+    #meme-opportunity-map .map-node[data-type="meme"] {--node-color:var(--map-meme);}
+    #meme-opportunity-map .map-node[data-type="market"] {--node-color:var(--map-market);}
+    #meme-opportunity-map .map-node[data-type="gap"] {--node-color:var(--map-gap);border-style:dashed;}
+    #meme-opportunity-map .map-node[aria-pressed="true"] {border-color:var(--node-color);box-shadow:0 0 0 1px var(--node-color);}
+    #meme-opportunity-map .node-type {display:flex;gap:6px;align-items:center;color:var(--node-color);font-size:11px;margin-bottom:8px;}
+    #meme-opportunity-map .node-type:before {content:'';width:5px;height:5px;border-radius:50%;background:currentColor;flex-shrink:0;}
+    #meme-opportunity-map .node-label {font-size:13px;font-weight:500;display:block;overflow-wrap:anywhere;line-height:1.35;}
+    #meme-opportunity-map .node-subtitle {font-size:11px;color:var(--map-muted);display:block;margin-top:5px;line-height:1.4;overflow-wrap:anywhere;}
+    #meme-opportunity-map .map-detail {border-left:1px solid var(--map-line);padding:24px 22px;background:var(--map-panel);min-width:0;}
+    #meme-opportunity-map .detail-kind {font-size:11px;text-transform:uppercase;letter-spacing:1px;color:var(--map-muted);margin-bottom:12px;}
+    #meme-opportunity-map .map-detail h3 {font-size:21px;line-height:1.25;font-weight:500;margin-bottom:12px;overflow-wrap:anywhere;}
+    #meme-opportunity-map .detail-status {font-size:12px;color:var(--map-gap);margin-bottom:16px;}
+    #meme-opportunity-map .detail-body {font-size:13px;line-height:1.7;color:var(--map-ink);white-space:pre-line;}
+    #meme-opportunity-map .detail-section {margin-top:22px;padding-top:17px;border-top:1px solid var(--map-line);}
+    #meme-opportunity-map .detail-section h4 {font-size:11px;color:var(--map-muted);text-transform:uppercase;letter-spacing:1px;font-weight:400;margin:0 0 10px;}
+    #meme-opportunity-map .detail-section p {font-size:12px;line-height:1.65;overflow-wrap:anywhere;}
+    #meme-opportunity-map .source-link {display:block;color:var(--map-news);font-size:12px;margin:10px 0;text-decoration:none;overflow-wrap:anywhere;line-height:1.5;}
+    #meme-opportunity-map .source-link:hover {text-decoration:underline;}
+    #meme-opportunity-map .metric-row {display:flex;justify-content:space-between;gap:12px;font-size:12px;line-height:1.6;margin:9px 0;}
+    #meme-opportunity-map .metric-row span:first-child {color:var(--map-muted);}
+    #meme-opportunity-map .metric-row span:last-child {font-variant-numeric:tabular-nums;overflow-wrap:anywhere;}
+    #meme-opportunity-map .investigate {border:1px solid var(--map-line);background:var(--map-bg);color:var(--map-ink);font-size:12px;width:100%;padding:11px;margin-top:22px;cursor:pointer;border-radius:7px;}
+    #meme-opportunity-map .map-footer {display:flex;gap:18px;flex-wrap:wrap;border-top:1px solid var(--map-line);padding:14px 24px;font-size:11px;color:var(--map-muted);line-height:1.6;}
+    #meme-opportunity-map .map-footer .dashed {border-top:1px dashed var(--map-gap);width:24px;display:inline-block;vertical-align:middle;margin-right:7px;}
+    #meme-opportunity-map .map-footer .solid {border-top:1px solid var(--map-line);width:24px;display:inline-block;vertical-align:middle;margin-right:7px;}
+    @media(max-width:820px) {#meme-opportunity-map .map-body {grid-template-columns:minmax(0,1fr);}#meme-opportunity-map .map-detail {border-left:0;border-top:1px solid var(--map-line);}#meme-opportunity-map .node-grid,#meme-opportunity-map .map-columns {gap:12px;}}
+    @media(max-width:510px) {#meme-opportunity-map .node-grid {grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;}#meme-opportunity-map .map-columns {display:none;}#meme-opportunity-map .map-node {min-height:96px;}#meme-opportunity-map .map-header {padding:18px;}#meme-opportunity-map .map-space {padding:14px 18px;}#meme-opportunity-map .map-cluster {padding-bottom:15px;}#meme-opportunity-map .map-detail {padding:22px 18px;}}
+    @media(prefers-reduced-motion:reduce) {#meme-opportunity-map .map-node {transition:none;}}
+  </style>
+  <header class="map-header">
+    <div><div class="map-overline">Radar de gemas / mapa de narrativas</div><h2>De la noticia a la brecha</h2></div>
+    <div class="map-time" id="map-cut">Evidencia con fecha · sin actualización continua</div>
+  </header>
+  <div class="map-body">
+    <section class="map-space" aria-label="Relaciones entre noticias, memes y mercado">
+      <div class="map-columns"><span>01 / Noticia</span><span>02 / Meme · origen</span><span>03 / Mercado</span><span>04 / Brecha</span></div>
+      <div id="map-clusters"></div>
+    </section>
+    <aside class="map-detail" aria-label="Evidencia de la selección" aria-live="polite"></aside>
+  </div>
+  <footer class="map-footer"><span><i class="solid"></i>Relación descrita; abrir evidencia</span><span><i class="dashed"></i>Hipótesis por validar</span><span>Brecha ≠ demanda demostrada</span></footer>
+  <script type="application/json" id="map-evidence-data">__MAP_DATA__</script>
+  <script>
+    (() => {
+      const root=document.getElementById('meme-opportunity-map');
+      const data=JSON.parse(root.querySelector('#map-evidence-data').textContent);
+      const host=root.querySelector('#map-clusters'), detail=root.querySelector('.map-detail');
+      const types={news:'Noticia',meme:'Meme',market:'Token / activo',gap:'Brecha posible'};
+      let selected=data.selectedId;
+      const add=(tag,cls,text,parent)=>{const el=document.createElement(tag);if(cls)el.className=cls;if(text!==undefined)el.textContent=text;if(parent)parent.append(el);return el;};
+      root.querySelector('#map-cut').textContent=data.cutLabel;
+      function drawConnections(){
+        for(const section of host.querySelectorAll('.node-grid')){
+          const box=section.getBoundingClientRect(),svg=section.querySelector('svg'),buttons=[...section.querySelectorAll('button')];
+          svg.replaceChildren();svg.setAttribute('viewBox',`0 0 ${box.width} ${box.height}`);
+          for(let i=0;i<buttons.length-1;i++){
+            const a=buttons[i].getBoundingClientRect(),b=buttons[i+1].getBoundingClientRect();
+            let d;if(Math.abs(a.top-b.top)<5){const x=a.right-box.left,y=a.top-box.top+a.height/2,x2=b.left-box.left;d=`M${x},${y} L${x2},${y}`;}
+            else{const x=a.left-box.left+a.width/2,y=a.bottom-box.top,x2=b.left-box.left+b.width/2,y2=b.top-box.top;d=`M${x},${y} C${x},${(y+y2)/2} ${x2},${(y+y2)/2} ${x2},${y2}`;}
+            const p=document.createElementNS('http://www.w3.org/2000/svg','path');p.setAttribute('d',d);p.dataset.hypothesis=buttons[i+1].dataset.incoming==='hypothesis'?'true':'false';svg.append(p);
+          }
+        }
+      }
+      function select(id){
+        selected=id;let node,cluster;
+        for(const c of data.clusters){const found=c.nodes.find(n=>n.id===id);if(found){node=found;cluster=c;break;}}
+        if(!node)return;
+        for(const b of host.querySelectorAll('button'))b.setAttribute('aria-pressed',String(b.dataset.id===id));
+        detail.replaceChildren();
+        add('div','detail-kind',`${cluster.title} / ${node.channelLabel??types[node.type]}`,detail);
+        add('h3','',node.label,detail);add('div','detail-status',node.status,detail);add('p','detail-body',node.body,detail);
+        if(node.metrics?.length){const s=add('div','detail-section',undefined,detail);add('h4','',node.observedAt?'Captura · '+node.observedAt:'Datos observados',s);for(const m of node.metrics){const row=add('div','metric-row',undefined,s);add('span','',m.label,row);add('span','',m.value,row);}}
+        if(node.test){const s=add('div','detail-section',undefined,detail);add('h4','','Prueba que falta',s);add('p','',node.test,s);}
+        if(node.evidence?.length){const s=add('div','detail-section',undefined,detail);add('h4','','Fuentes',s);for(const e of node.evidence){const a=add('a','source-link',e.label+' ↗',s);a.href=e.url;a.target='_blank';a.rel='noopener noreferrer';}}
+        if(node.note){const s=add('div','detail-section',undefined,detail);add('p','',node.note,s);}
+        if(window.openai?.sendFollowUpMessage){const b=add('button','investigate','Investigar esta conexión',detail);b.type='button';b.addEventListener('click',async()=>{b.disabled=true;try{await window.openai.sendFollowUpMessage({title:'Investigar conexión',prompt:`Investigá la conexión ${cluster.title}: ${node.label}. Actualizá evidencia pública en X, noticia original, identidad de contratos/pools, competencia y la brecha propuesta. Contrastá al menos una explicación alternativa y devolvé qué confirma o invalida la hipótesis. No publiques ni operes. Fuentes iniciales: ${(node.evidence??[]).map(e=>e.url).join(' ')}`});}finally{b.disabled=false;}});}
+      }
+      for(const cluster of data.clusters){const section=add('section','map-cluster',undefined,host);add('h3','cluster-title',cluster.title,section);const grid=add('div','node-grid',undefined,section);const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.classList.add('connections');svg.setAttribute('aria-hidden','true');grid.append(svg);
+        for(const node of cluster.nodes){const b=add('button','map-node',undefined,grid);b.type='button';b.dataset.id=node.id;b.dataset.type=node.type;b.dataset.incoming=node.incomingRelation??'documented';b.setAttribute('aria-pressed','false');b.setAttribute('aria-label',`${node.channelLabel??types[node.type]}: ${node.label}`);add('span','node-type',node.channelLabel??types[node.type],b);add('span','node-label',node.label,b);add('span','node-subtitle',node.subtitle,b);b.addEventListener('click',()=>select(node.id));}
+      }
+      select(selected??data.clusters[0].nodes[0].id);new ResizeObserver(drawConnections).observe(host);requestAnimationFrame(drawConnections);
+      if(globalThis.Tweak){const state={corners:10};const tweak=new Tweak({container:root,onChange:()=>root.querySelectorAll('.map-node').forEach(n=>n.style.borderRadius=state.corners+'px')});tweak.addSlider(state,'corners',{label:'Forma de los nodos',min:0,max:24,unit:'px'});}
+    })();
+  </script>
+</div>

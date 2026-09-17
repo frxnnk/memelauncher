@@ -1,0 +1,80 @@
+{
+  "id": "drop-198",
+  "cycleId": 198,
+  "version": 3,
+  "target": {
+    "machine": "pokemon_100",
+    "priceUsd": "100",
+    "rungUsd": "100",
+    "chain": "solana-mainnet",
+    "reason": "fixed ladder"
+  },
+  "venue": {
+    "name": "stonk.fun",
+    "program": "cpmm",
+    "mint": "8LstZpZuR9Dy7JCZC3YwPEWtbYhuDVFAYV37r6ZAcuHz",
+    "quoteMint": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp",
+    "pool": "5dYsxy1hJ8DxejsfHJR9wyRsuLHw6wCLKk7idc1kszUn"
+  },
+  "fees": {
+    "amount": "100000000",
+    "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "assetSymbol": "USDC",
+    "decimals": 6
+  },
+  "snapshot": {
+    "slot": 446363311,
+    "requestedSlot": 446363308,
+    "blockhash": "Gn9pvizR8cyESxxVjPUCCCGbduTTg5n7k7zGi4Bzbz7y",
+    "slotSpread": 1,
+    "indexSlot": 446363309
+  },
+  "candidates": {
+    "count": 289,
+    "hash": "0x4f4732ebf0dd115448ad3a8baf01db93db9486e92882d2cd8e8e477bd63eca88",
+    "totalWeight": 28110
+  },
+  "winner": {
+    "address": "7fTREYp5bxYYemWMvdnSrdG2FeqppNUi8QUpSZsNe514",
+    "weight": 135,
+    "index": 97
+  },
+  "randomness": {
+    "entropySlot": 446363461,
+    "entropySlotRequested": 446363461,
+    "entropyBlockhash": "E9acqhg55NSZLa9HhMFGDwsZALNhvKicZmnyBfwQjYc3",
+    "seedFormula": "seed = keccak256(base58decode(entropyBlockhash) || uint256(cycleId) || candidatesHash); roll = seed mod totalWeight; winner = first candidate whose cumulative weight exceeds roll; candidates sorted bytewise by base58 address",
+    "seed": "0xc559668af1f4866880fbf9f7d06a76e6920c5c1cba667337847aa94c0048ae4a"
+  },
+  "collector": {
+    "memo": "cc-2b8d72fa-f58c-4124-9eff-db91e3bf0dc4",
+    "machine": "pokemon_100",
+    "chain": "solana-mainnet",
+    "paymentMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "amountBaseUnits": "100000000"
+  },
+  "transactions": {
+    "pay": "4czGcqddgCdeV5VouwmF4E54w7wyuzfW5Qpx5QFVRPu7y42qgNvEc3a5HU2pUNWErbmotiF7X9TeyY2N5mKxBZQP",
+    "mint": "4JSvHWbbFgGeZ9YAnxsKMw2szWkSyN2ifcbt5cvKZgwnk6aR9qfBDMibDndrmnMYk4nPTxFsvSA8hUPunQ1wPTQM"
+  },
+  "card": {
+    "mint": "CjLusFnVvFWS7Ct1zoWu9ZifzxnEc8jM4C2z41EzgRek",
+    "name": "2023 #GG50 Full Art/Darkrai Vstar PSA 8 Sword and Shield Crown Zenith Pokemon",
+    "rarity": "common",
+    "insuredValueUsd": 82,
+    "imageUrls": [
+      "https://arweave.net/nyuDuRREwezQ058Cnf42QjPhzluIt-e8-qfUjpnYv9Y",
+      "https://d1xpxki1g4htqu.cloudfront.net/xNTnYWZgHY4WUi5sI80KplR9gK9HTJ-rx-_5VjUJX6s",
+      "https://cdn.helius-rpc.com/cdn-cgi/image//https://arweave.net/nyuDuRREwezQ058Cnf42QjPhzluIt-e8-qfUjpnYv9Y",
+      "https://arweave.net/sKH8zPyKaRDeuhFUYi4kYk3IpFOnfwQ7gFXS-jSm7r0",
+      "https://d1xpxki1g4htqu.cloudfront.net/c28V7QK5kVZBFSRYgZy7WYgFlqdF-c2Q-tFTfvp1DHo",
+      "https://cdn.helius-rpc.com/cdn-cgi/image//https://arweave.net/sKH8zPyKaRDeuhFUYi4kYk3IpFOnfwQ7gFXS-jSm7r0"
+    ]
+  },
+  "timestamps": {
+    "snapshotAt": 1789195141183,
+    "awardedAt": 1789195230413
+  },
+  "finalStatus": "AWARDED",
+  "executionMode": "live"
+}

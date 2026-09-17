@@ -1,0 +1,1192 @@
+[
+  {
+    "capturedAt": "2026-09-12T06:35:30.9335472+00:00",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/base/0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c",
+    "old": {
+      "chain": "base",
+      "rank": 5,
+      "pair": "0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c",
+      "token": "0x39988BF0638Edb8c65cE0fB9e1e457C575157BA3",
+      "name": "Fly Language Model",
+      "symbol": "FLM",
+      "quote": "GOOGLc",
+      "quoteAddress": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "uiAge": "8h",
+      "createdAt": "2026-09-11T22:03:15Z",
+      "ageHours": 8.184,
+      "priceUsd": "0.000001206",
+      "marketCap": 120610,
+      "liquidityUsd": 79265.07,
+      "volumeH1": 33929.39,
+      "volumeH6": 74301.43,
+      "volumeH24": 1025892.18,
+      "buysH1": 103,
+      "sellsH1": 252,
+      "changeH1": 25.9,
+      "changeH6": 110,
+      "boosts": null,
+      "websites": [
+        {
+          "url": "https://btxfox.com",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/nftechie_/status/2098532090874560815",
+          "type": "twitter"
+        }
+      ],
+      "capturedAt": "2026-09-12T06:14:17.9852075Z",
+      "error": null
+    },
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "base",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/base/0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c",
+          "pairAddress": "0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c",
+          "labels": [
+            "v4"
+          ],
+          "baseToken": {
+            "address": "0x39988BF0638Edb8c65cE0fB9e1e457C575157BA3",
+            "name": "Fly Language Model",
+            "symbol": "FLM"
+          },
+          "quoteToken": {
+            "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+            "name": "Alphabet Inc.",
+            "symbol": "GOOGLc"
+          },
+          "priceNative": "0.000000003302",
+          "priceUsd": "0.000001122",
+          "txns": {
+            "m5": {
+              "buys": 3,
+              "sells": 7
+            },
+            "h1": {
+              "buys": 55,
+              "sells": 139
+            },
+            "h6": {
+              "buys": 308,
+              "sells": 767
+            },
+            "h24": {
+              "buys": 2990,
+              "sells": 7414
+            }
+          },
+          "volume": {
+            "h24": 1027677.98,
+            "h6": 73644.8,
+            "h1": 22173.87,
+            "m5": 18.6
+          },
+          "priceChange": {
+            "m5": 0.05,
+            "h1": -11.29,
+            "h6": 83.16,
+            "h24": 533
+          },
+          "liquidity": {
+            "usd": 75716.09,
+            "base": 43036144092,
+            "quote": 80.7153
+          },
+          "fdv": 112217,
+          "marketCap": 112217,
+          "pairCreatedAt": 1789164195000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/iEGO1fM2CePUqqrG?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x39988bf0638edb8c65ce0fb9e1e457c575157ba3?timestamp=1789194900000",
+            "websites": [
+              {
+                "url": "https://btxfox.com",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/nftechie_/status/2098532090874560815",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c",
+        "pairAddress": "0xb49ce96e99b5eb8fe3c7a03687d9c6d83302172dd2737fb88f9ac133baf3c24c",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x39988BF0638Edb8c65cE0fB9e1e457C575157BA3",
+          "name": "Fly Language Model",
+          "symbol": "FLM"
+        },
+        "quoteToken": {
+          "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+          "name": "Alphabet Inc.",
+          "symbol": "GOOGLc"
+        },
+        "priceNative": "0.000000003302",
+        "priceUsd": "0.000001122",
+        "txns": {
+          "m5": {
+            "buys": 3,
+            "sells": 7
+          },
+          "h1": {
+            "buys": 55,
+            "sells": 139
+          },
+          "h6": {
+            "buys": 308,
+            "sells": 767
+          },
+          "h24": {
+            "buys": 2990,
+            "sells": 7414
+          }
+        },
+        "volume": {
+          "h24": 1027677.98,
+          "h6": 73644.8,
+          "h1": 22173.87,
+          "m5": 18.6
+        },
+        "priceChange": {
+          "m5": 0.05,
+          "h1": -11.29,
+          "h6": 83.16,
+          "h24": 533
+        },
+        "liquidity": {
+          "usd": 75716.09,
+          "base": 43036144092,
+          "quote": 80.7153
+        },
+        "fdv": 112217,
+        "marketCap": 112217,
+        "pairCreatedAt": 1789164195000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/iEGO1fM2CePUqqrG?width=800&height=800&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x39988bf0638edb8c65ce0fb9e1e457c575157ba3?timestamp=1789194900000",
+          "websites": [
+            {
+              "url": "https://btxfox.com",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/nftechie_/status/2098532090874560815",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    },
+    "deltaUsdPct": -6.965174129353235
+  },
+  {
+    "capturedAt": "2026-09-12T06:35:31.1133760+00:00",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/base/0x9f8353f61574da73218206ad3f70d9455bfed9c4",
+    "old": {
+      "chain": "base",
+      "rank": 8,
+      "pair": "0x9f8353f61574da73218206ad3f70d9455bfed9c4",
+      "token": "0xCB2BAff7177C8966A8b059b3Df3e9323dc2Ee267",
+      "name": "iStonks",
+      "symbol": "ISTONKS",
+      "quote": "AAPLc",
+      "quoteAddress": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "uiAge": "12h",
+      "createdAt": "2026-09-11T17:33:05Z",
+      "ageHours": 12.687,
+      "priceUsd": "0.0001710",
+      "marketCap": 171024,
+      "liquidityUsd": 48743.25,
+      "volumeH1": 7494.44,
+      "volumeH6": 70843.86,
+      "volumeH24": 585764.73,
+      "buysH1": 28,
+      "sellsH1": 20,
+      "changeH1": -26.94,
+      "changeH6": -43.86,
+      "boosts": null,
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/istonksbase",
+          "type": "twitter"
+        }
+      ],
+      "capturedAt": "2026-09-12T06:14:17.9852075Z",
+      "error": null
+    },
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "base",
+          "dexId": "uniswap",
+          "url": "https://dexscreener.com/base/0x9f8353f61574da73218206ad3f70d9455bfed9c4",
+          "pairAddress": "0x9f8353f61574DA73218206Ad3f70d9455bfed9c4",
+          "labels": [
+            "v3"
+          ],
+          "baseToken": {
+            "address": "0xCB2BAff7177C8966A8b059b3Df3e9323dc2Ee267",
+            "name": "iStonks",
+            "symbol": "ISTONKS"
+          },
+          "quoteToken": {
+            "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+            "name": "Apple Inc.",
+            "symbol": "AAPLc"
+          },
+          "priceNative": "0.0000005105",
+          "priceUsd": "0.0001699",
+          "txns": {
+            "m5": {
+              "buys": 3,
+              "sells": 3
+            },
+            "h1": {
+              "buys": 24,
+              "sells": 16
+            },
+            "h6": {
+              "buys": 232,
+              "sells": 141
+            },
+            "h24": {
+              "buys": 1966,
+              "sells": 1275
+            }
+          },
+          "volume": {
+            "h24": 585909.81,
+            "h6": 54595.59,
+            "h1": 5497.66,
+            "m5": 130.89
+          },
+          "priceChange": {
+            "m5": -0.49,
+            "h1": -23.8,
+            "h6": -35.65,
+            "h24": 3821
+          },
+          "liquidity": {
+            "usd": 48586.43,
+            "base": 154627895,
+            "quote": 66.9723
+          },
+          "fdv": 169999,
+          "marketCap": 169999,
+          "pairCreatedAt": 1789147985000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/rfrkOP99ME5lzXmv?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/k9wAkRqFl1JvYKJO?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xcb2baff7177c8966a8b059b3df3e9323dc2ee267?timestamp=1789194900000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/istonksbase",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x9f8353f61574da73218206ad3f70d9455bfed9c4",
+        "pairAddress": "0x9f8353f61574DA73218206Ad3f70d9455bfed9c4",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0xCB2BAff7177C8966A8b059b3Df3e9323dc2Ee267",
+          "name": "iStonks",
+          "symbol": "ISTONKS"
+        },
+        "quoteToken": {
+          "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+          "name": "Apple Inc.",
+          "symbol": "AAPLc"
+        },
+        "priceNative": "0.0000005105",
+        "priceUsd": "0.0001699",
+        "txns": {
+          "m5": {
+            "buys": 3,
+            "sells": 3
+          },
+          "h1": {
+            "buys": 24,
+            "sells": 16
+          },
+          "h6": {
+            "buys": 232,
+            "sells": 141
+          },
+          "h24": {
+            "buys": 1966,
+            "sells": 1275
+          }
+        },
+        "volume": {
+          "h24": 585909.81,
+          "h6": 54595.59,
+          "h1": 5497.66,
+          "m5": 130.89
+        },
+        "priceChange": {
+          "m5": -0.49,
+          "h1": -23.8,
+          "h6": -35.65,
+          "h24": 3821
+        },
+        "liquidity": {
+          "usd": 48586.43,
+          "base": 154627895,
+          "quote": 66.9723
+        },
+        "fdv": 169999,
+        "marketCap": 169999,
+        "pairCreatedAt": 1789147985000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/rfrkOP99ME5lzXmv?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/k9wAkRqFl1JvYKJO?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xcb2baff7177c8966a8b059b3df3e9323dc2ee267?timestamp=1789194900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/istonksbase",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    },
+    "deltaUsdPct": -0.6432748538011679
+  },
+  {
+    "capturedAt": "2026-09-12T06:35:31.4324881+00:00",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xcec13213c390d51121f82ba2ecafb8e11e0af7a3",
+    "old": {
+      "chain": "bsc",
+      "rank": 2,
+      "pair": "0xcec13213c390d51121f82ba2ecafb8e11e0af7a3",
+      "token": "0xe210C0583C1071714EDed2d8bEEab05Ab5bB7777",
+      "name": "BinanceTown",
+      "symbol": "BinanceTown",
+      "quote": "USDT",
+      "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+      "uiAge": "17h",
+      "createdAt": "2026-09-11T12:52:10Z",
+      "ageHours": 17.369,
+      "priceUsd": "0.0006243",
+      "marketCap": 624308,
+      "liquidityUsd": 222646.39,
+      "volumeH1": 950557.33,
+      "volumeH6": 5719685.81,
+      "volumeH24": 16681729.15,
+      "buysH1": 288,
+      "sellsH1": 239,
+      "changeH1": 5.89,
+      "changeH6": 120,
+      "boosts": null,
+      "websites": [],
+      "socials": [
+        {
+          "url": "https://x.com/binance/status/2097959283681845587",
+          "type": "twitter"
+        }
+      ],
+      "capturedAt": "2026-09-12T06:14:18.3406144Z",
+      "error": null
+    },
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0xcec13213c390d51121f82ba2ecafb8e11e0af7a3",
+          "pairAddress": "0xcEC13213c390d51121F82bA2ECafb8E11e0AF7a3",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0xe210C0583C1071714EDed2d8bEEab05Ab5bB7777",
+            "name": "BinanceTown",
+            "symbol": "BinanceTown"
+          },
+          "quoteToken": {
+            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          "priceNative": "0.0006614",
+          "priceUsd": "0.0006614",
+          "txns": {
+            "m5": {
+              "buys": 19,
+              "sells": 16
+            },
+            "h1": {
+              "buys": 275,
+              "sells": 228
+            },
+            "h6": {
+              "buys": 1685,
+              "sells": 1404
+            },
+            "h24": {
+              "buys": 5629,
+              "sells": 4361
+            }
+          },
+          "volume": {
+            "h24": 16976080.82,
+            "h6": 5680257.56,
+            "h1": 874600.14,
+            "m5": 57173.42
+          },
+          "priceChange": {
+            "m5": 7.45,
+            "h1": -4.05,
+            "h6": 134,
+            "h24": 6503
+          },
+          "liquidity": {
+            "usd": 229914.04,
+            "base": 173804612,
+            "quote": 114957
+          },
+          "fdv": 661415,
+          "marketCap": 661415,
+          "pairCreatedAt": 1789131130000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/sXCKj0mf_sY_1uRB?width=800&height=800&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xe210c0583c1071714eded2d8beeab05ab5bb7777?timestamp=1789194900000",
+            "websites": [],
+            "socials": [
+              {
+                "url": "https://x.com/binance/status/2097959283681845587",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "bsc",
+        "dexId": "pancakeswap",
+        "url": "https://dexscreener.com/bsc/0xcec13213c390d51121f82ba2ecafb8e11e0af7a3",
+        "pairAddress": "0xcEC13213c390d51121F82bA2ECafb8E11e0AF7a3",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0xe210C0583C1071714EDed2d8bEEab05Ab5bB7777",
+          "name": "BinanceTown",
+          "symbol": "BinanceTown"
+        },
+        "quoteToken": {
+          "address": "0x55d398326f99059fF775485246999027B3197955",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "priceNative": "0.0006614",
+        "priceUsd": "0.0006614",
+        "txns": {
+          "m5": {
+            "buys": 19,
+            "sells": 16
+          },
+          "h1": {
+            "buys": 275,
+            "sells": 228
+          },
+          "h6": {
+            "buys": 1685,
+            "sells": 1404
+          },
+          "h24": {
+            "buys": 5629,
+            "sells": 4361
+          }
+        },
+        "volume": {
+          "h24": 16976080.82,
+          "h6": 5680257.56,
+          "h1": 874600.14,
+          "m5": 57173.42
+        },
+        "priceChange": {
+          "m5": 7.45,
+          "h1": -4.05,
+          "h6": 134,
+          "h24": 6503
+        },
+        "liquidity": {
+          "usd": 229914.04,
+          "base": 173804612,
+          "quote": 114957
+        },
+        "fdv": 661415,
+        "marketCap": 661415,
+        "pairCreatedAt": 1789131130000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/sXCKj0mf_sY_1uRB?width=800&height=800&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0xe210c0583c1071714eded2d8beeab05ab5bb7777?timestamp=1789194900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/binance/status/2097959283681845587",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    },
+    "deltaUsdPct": 5.942655774467398
+  },
+  {
+    "capturedAt": "2026-09-12T06:35:31.7334881+00:00",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xf0ca0a1dcd9fc30ad5570e1882a483f8e4cafbb6",
+    "old": {
+      "chain": "bsc",
+      "rank": 6,
+      "pair": "0xf0ca0a1dcd9fc30ad5570e1882a483f8e4cafbb6",
+      "token": "0x4E0026B2A27F60CD7eD8BB71F9489501B1F87777",
+      "name": "BUDDY - First Crypto Dog",
+      "symbol": "BUDDY",
+      "quote": "BTCB",
+      "quoteAddress": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "uiAge": "6h",
+      "createdAt": "2026-09-11T23:47:47Z",
+      "ageHours": 6.442,
+      "priceUsd": "0.0001790",
+      "marketCap": 179080,
+      "liquidityUsd": 43168.67,
+      "volumeH1": 28122.99,
+      "volumeH6": 322391.32,
+      "volumeH24": 322391.32,
+      "buysH1": 152,
+      "sellsH1": 157,
+      "changeH1": -34.18,
+      "changeH6": 325,
+      "boosts": null,
+      "websites": [
+        {
+          "url": "https://buddyonbnb.com/",
+          "label": "Website"
+        },
+        {
+          "url": "https://x.com/i/communities/2017842188869063084",
+          "label": "X Community"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/BuddyonBNB",
+          "type": "twitter"
+        }
+      ],
+      "capturedAt": "2026-09-12T06:14:18.3406144Z",
+      "error": null
+    },
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0xf0ca0a1dcd9fc30ad5570e1882a483f8e4cafbb6",
+          "pairAddress": "0xF0cA0A1dcd9fC30Ad5570E1882a483F8E4cAfBB6",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x4E0026B2A27F60CD7eD8BB71F9489501B1F87777",
+            "name": "BUDDY - First Crypto Dog",
+            "symbol": "BUDDY"
+          },
+          "quoteToken": {
+            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+            "name": "BTCB Token",
+            "symbol": "BTCB"
+          },
+          "priceNative": "0.000000002358",
+          "priceUsd": "0.0001822",
+          "txns": {
+            "m5": {
+              "buys": 1,
+              "sells": 6
+            },
+            "h1": {
+              "buys": 129,
+              "sells": 88
+            },
+            "h6": {
+              "buys": 1273,
+              "sells": 1252
+            },
+            "h24": {
+              "buys": 2709,
+              "sells": 2313
+            }
+          },
+          "volume": {
+            "h24": 328848.37,
+            "h6": 171851.12,
+            "h1": 22509.52,
+            "m5": 187.71
+          },
+          "priceChange": {
+            "m5": -1.62,
+            "h1": -22.1,
+            "h6": 211,
+            "h24": 332
+          },
+          "liquidity": {
+            "usd": 43605.91,
+            "base": 119605100,
+            "quote": 0.282
+          },
+          "fdv": 182291,
+          "marketCap": 182291,
+          "pairCreatedAt": 1789170467000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/7iheQtvoRSCkFcV3?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/qdZ5VxpqdkjBX1gU?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x4e0026b2a27f60cd7ed8bb71f9489501b1f87777?timestamp=1789194900000",
+            "websites": [
+              {
+                "url": "https://buddyonbnb.com/",
+                "label": "Website"
+              },
+              {
+                "url": "https://x.com/i/communities/2017842188869063084",
+                "label": "X Community"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/BuddyonBNB",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "bsc",
+        "dexId": "pancakeswap",
+        "url": "https://dexscreener.com/bsc/0xf0ca0a1dcd9fc30ad5570e1882a483f8e4cafbb6",
+        "pairAddress": "0xF0cA0A1dcd9fC30Ad5570E1882a483F8E4cAfBB6",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0x4E0026B2A27F60CD7eD8BB71F9489501B1F87777",
+          "name": "BUDDY - First Crypto Dog",
+          "symbol": "BUDDY"
+        },
+        "quoteToken": {
+          "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+          "name": "BTCB Token",
+          "symbol": "BTCB"
+        },
+        "priceNative": "0.000000002358",
+        "priceUsd": "0.0001822",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 6
+          },
+          "h1": {
+            "buys": 129,
+            "sells": 88
+          },
+          "h6": {
+            "buys": 1273,
+            "sells": 1252
+          },
+          "h24": {
+            "buys": 2709,
+            "sells": 2313
+          }
+        },
+        "volume": {
+          "h24": 328848.37,
+          "h6": 171851.12,
+          "h1": 22509.52,
+          "m5": 187.71
+        },
+        "priceChange": {
+          "m5": -1.62,
+          "h1": -22.1,
+          "h6": 211,
+          "h24": 332
+        },
+        "liquidity": {
+          "usd": 43605.91,
+          "base": 119605100,
+          "quote": 0.282
+        },
+        "fdv": 182291,
+        "marketCap": 182291,
+        "pairCreatedAt": 1789170467000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/7iheQtvoRSCkFcV3?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/qdZ5VxpqdkjBX1gU?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x4e0026b2a27f60cd7ed8bb71f9489501b1f87777?timestamp=1789194900000",
+          "websites": [
+            {
+              "url": "https://buddyonbnb.com/",
+              "label": "Website"
+            },
+            {
+              "url": "https://x.com/i/communities/2017842188869063084",
+              "label": "X Community"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/BuddyonBNB",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    },
+    "deltaUsdPct": 1.7877094972067242
+  },
+  {
+    "capturedAt": "2026-09-12T06:35:32.0483802+00:00",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/bsc/0x1a1def8c55238986c7067a57726a058d3497b608",
+    "old": {
+      "chain": "bsc",
+      "rank": 11,
+      "pair": "0x1a1def8c55238986c7067a57726a058d3497b608",
+      "token": "0x3c1127070996a55D838A1E2743249DC28Cec7777",
+      "name": "BinanceTown",
+      "symbol": "BinanceTown",
+      "quote": "QQQB",
+      "quoteAddress": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+      "uiAge": "20h",
+      "createdAt": "2026-09-11T09:24:05Z",
+      "ageHours": 20.837,
+      "priceUsd": "0.0003312",
+      "marketCap": 285543,
+      "liquidityUsd": 63192.22,
+      "volumeH1": 42033.7,
+      "volumeH6": 93438.31,
+      "volumeH24": 5336017.65,
+      "buysH1": 240,
+      "sellsH1": 154,
+      "changeH1": 30.6,
+      "changeH6": 40.82,
+      "boosts": null,
+      "websites": [
+        {
+          "url": "https://flap.sh/bnb/0x3c1127070996a55d838a1e2743249dc28cec7777/taxinfo?lang=zh",
+          "label": "Website"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/BinanceTown__",
+          "type": "twitter"
+        }
+      ],
+      "capturedAt": "2026-09-12T06:14:18.3406144Z",
+      "error": null
+    },
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0x1a1def8c55238986c7067a57726a058d3497b608",
+          "pairAddress": "0x1a1DeF8c55238986C7067A57726a058d3497B608",
+          "labels": [
+            "v2"
+          ],
+          "baseToken": {
+            "address": "0x3c1127070996a55D838A1E2743249DC28Cec7777",
+            "name": "BinanceTown",
+            "symbol": "BinanceTown"
+          },
+          "quoteToken": {
+            "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+            "name": "Invesqo QQQ",
+            "symbol": "QQQB"
+          },
+          "priceNative": "0.0000004455",
+          "priceUsd": "0.0003188",
+          "txns": {
+            "m5": {
+              "buys": 7,
+              "sells": 1
+            },
+            "h1": {
+              "buys": 259,
+              "sells": 168
+            },
+            "h6": {
+              "buys": 654,
+              "sells": 548
+            },
+            "h24": {
+              "buys": 22972,
+              "sells": 20534
+            }
+          },
+          "volume": {
+            "h24": 5339855.47,
+            "h6": 94281.65,
+            "h1": 43644.37,
+            "m5": 529.04
+          },
+          "priceChange": {
+            "m5": 2.05,
+            "h1": 15.28,
+            "h6": 29.73,
+            "h24": 730
+          },
+          "liquidity": {
+            "usd": 62002.78,
+            "base": 97231196,
+            "quote": 43.3198
+          },
+          "fdv": 274865,
+          "marketCap": 274865,
+          "pairCreatedAt": 1789118645000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/5PPsF0TmmbVfn8Cr?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/TH6W_C_5upTkwfkC?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x3c1127070996a55d838a1e2743249dc28cec7777?timestamp=1789194900000",
+            "websites": [
+              {
+                "url": "https://flap.sh/bnb/0x3c1127070996a55d838a1e2743249dc28cec7777/taxinfo?lang=zh",
+                "label": "Website"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/BinanceTown__",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "bsc",
+        "dexId": "pancakeswap",
+        "url": "https://dexscreener.com/bsc/0x1a1def8c55238986c7067a57726a058d3497b608",
+        "pairAddress": "0x1a1DeF8c55238986C7067A57726a058d3497B608",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0x3c1127070996a55D838A1E2743249DC28Cec7777",
+          "name": "BinanceTown",
+          "symbol": "BinanceTown"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.0000004455",
+        "priceUsd": "0.0003188",
+        "txns": {
+          "m5": {
+            "buys": 7,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 259,
+            "sells": 168
+          },
+          "h6": {
+            "buys": 654,
+            "sells": 548
+          },
+          "h24": {
+            "buys": 22972,
+            "sells": 20534
+          }
+        },
+        "volume": {
+          "h24": 5339855.47,
+          "h6": 94281.65,
+          "h1": 43644.37,
+          "m5": 529.04
+        },
+        "priceChange": {
+          "m5": 2.05,
+          "h1": 15.28,
+          "h6": 29.73,
+          "h24": 730
+        },
+        "liquidity": {
+          "usd": 62002.78,
+          "base": 97231196,
+          "quote": 43.3198
+        },
+        "fdv": 274865,
+        "marketCap": 274865,
+        "pairCreatedAt": 1789118645000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/5PPsF0TmmbVfn8Cr?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/TH6W_C_5upTkwfkC?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x3c1127070996a55d838a1e2743249dc28cec7777?timestamp=1789194900000",
+          "websites": [
+            {
+              "url": "https://flap.sh/bnb/0x3c1127070996a55d838a1e2743249dc28cec7777/taxinfo?lang=zh",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/BinanceTown__",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    },
+    "deltaUsdPct": -3.7439613526569993
+  },
+  {
+    "capturedAt": "2026-09-12T06:35:32.3564097+00:00",
+    "url": "https://api.dexscreener.com/latest/dex/pairs/bsc/0xf4a627351fc6bcef0e7c2a02b7b8524fbe265e26",
+    "old": {
+      "chain": "bsc",
+      "rank": 12,
+      "pair": "0xf4a627351fc6bcef0e7c2a02b7b8524fbe265e26",
+      "token": "0x795a3a4e90F837ae137ed2C92509f5F59c474547",
+      "name": "Knot",
+      "symbol": "KNOT",
+      "quote": "WBNB",
+      "quoteAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "uiAge": "6h",
+      "createdAt": "2026-09-12T00:08:54Z",
+      "ageHours": 6.09,
+      "priceUsd": "0.001690",
+      "marketCap": 1690610,
+      "liquidityUsd": 177437.71,
+      "volumeH1": 3988.15,
+      "volumeH6": 557414.2,
+      "volumeH24": 1102959.02,
+      "buysH1": 3,
+      "sellsH1": 19,
+      "changeH1": -2.08,
+      "changeH6": 104,
+      "boosts": null,
+      "websites": [
+        {
+          "url": "https://knot.fun",
+          "label": "Website"
+        },
+        {
+          "url": "https://knot.fun/docs",
+          "label": "Docs"
+        }
+      ],
+      "socials": [
+        {
+          "url": "https://x.com/knotdotfun",
+          "type": "twitter"
+        }
+      ],
+      "capturedAt": "2026-09-12T06:14:18.3406144Z",
+      "error": null
+    },
+    "data": {
+      "schemaVersion": "1.0.0",
+      "pairs": [
+        {
+          "chainId": "bsc",
+          "dexId": "pancakeswap",
+          "url": "https://dexscreener.com/bsc/0xf4a627351fc6bcef0e7c2a02b7b8524fbe265e26",
+          "pairAddress": "0xf4A627351fC6bCef0E7c2a02B7B8524FBE265E26",
+          "labels": [
+            "v3"
+          ],
+          "baseToken": {
+            "address": "0x795a3a4e90F837ae137ed2C92509f5F59c474547",
+            "name": "Knot",
+            "symbol": "KNOT"
+          },
+          "quoteToken": {
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "name": "Wrapped BNB",
+            "symbol": "WBNB"
+          },
+          "priceNative": "0.000002299",
+          "priceUsd": "0.001683",
+          "txns": {
+            "m5": {
+              "buys": 1,
+              "sells": 2
+            },
+            "h1": {
+              "buys": 3,
+              "sells": 20
+            },
+            "h6": {
+              "buys": 96,
+              "sells": 137
+            },
+            "h24": {
+              "buys": 407,
+              "sells": 289
+            }
+          },
+          "volume": {
+            "h24": 1105064.11,
+            "h6": 75128.88,
+            "h1": 4283.53,
+            "m5": 1864.31
+          },
+          "priceChange": {
+            "m5": 0.31,
+            "h1": 1.21,
+            "h6": 65.26,
+            "h24": 32248
+          },
+          "liquidity": {
+            "usd": 176973.82,
+            "base": 54548874,
+            "quote": 116.2662
+          },
+          "fdv": 1683545,
+          "marketCap": 1683545,
+          "pairCreatedAt": 1789171734000,
+          "info": {
+            "imageUrl": "https://cdn.dexscreener.com/cms/images/G242B23-0ulZE5kn?width=800&height=800&quality=95&format=auto",
+            "header": "https://cdn.dexscreener.com/cms/images/FycRWNm3chWde0dj?width=1500&height=500&quality=95&format=auto",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x795a3a4e90f837ae137ed2c92509f5f59c474547?timestamp=1789194900000",
+            "websites": [
+              {
+                "url": "https://knot.fun",
+                "label": "Website"
+              },
+              {
+                "url": "https://knot.fun/docs",
+                "label": "Docs"
+              }
+            ],
+            "socials": [
+              {
+                "url": "https://x.com/knotdotfun",
+                "type": "twitter"
+              }
+            ]
+          }
+        }
+      ],
+      "pair": {
+        "chainId": "bsc",
+        "dexId": "pancakeswap",
+        "url": "https://dexscreener.com/bsc/0xf4a627351fc6bcef0e7c2a02b7b8524fbe265e26",
+        "pairAddress": "0xf4A627351fC6bCef0E7c2a02B7B8524FBE265E26",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0x795a3a4e90F837ae137ed2C92509f5F59c474547",
+          "name": "Knot",
+          "symbol": "KNOT"
+        },
+        "quoteToken": {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB"
+        },
+        "priceNative": "0.000002299",
+        "priceUsd": "0.001683",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 2
+          },
+          "h1": {
+            "buys": 3,
+            "sells": 20
+          },
+          "h6": {
+            "buys": 96,
+            "sells": 137
+          },
+          "h24": {
+            "buys": 407,
+            "sells": 289
+          }
+        },
+        "volume": {
+          "h24": 1105064.11,
+          "h6": 75128.88,
+          "h1": 4283.53,
+          "m5": 1864.31
+        },
+        "priceChange": {
+          "m5": 0.31,
+          "h1": 1.21,
+          "h6": 65.26,
+          "h24": 32248
+        },
+        "liquidity": {
+          "usd": 176973.82,
+          "base": 54548874,
+          "quote": 116.2662
+        },
+        "fdv": 1683545,
+        "marketCap": 1683545,
+        "pairCreatedAt": 1789171734000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/G242B23-0ulZE5kn?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/FycRWNm3chWde0dj?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x795a3a4e90f837ae137ed2c92509f5f59c474547?timestamp=1789194900000",
+          "websites": [
+            {
+              "url": "https://knot.fun",
+              "label": "Website"
+            },
+            {
+              "url": "https://knot.fun/docs",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/knotdotfun",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    },
+    "deltaUsdPct": -0.41420118343196144
+  }
+]

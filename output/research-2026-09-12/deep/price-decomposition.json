@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "CATGPT",
+    "ca": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "oldAt": "2026-09-12T04:12:33.3028049Z",
+    "newAt": "2026-09-12T04:39:08.9126287Z",
+    "oldUsd": 0.01412,
+    "newUsd": 0.01007,
+    "oldNative": 0.01175,
+    "newNative": 0.009026,
+    "impliedOldQuoteUsd": 1.2017021276595745,
+    "impliedNewQuoteUsd": 1.115665854198981,
+    "deltaUsdPct": -28.68271954674221,
+    "deltaNativePct": -23.182978723404258,
+    "deltaQuotePct": -7.159534087549391
+  },
+  {
+    "symbol": "ANTHROPIG",
+    "ca": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+    "oldAt": "2026-09-12T04:12:33.8817646Z",
+    "newAt": "2026-09-12T04:39:09.2092793Z",
+    "oldUsd": 0.006026,
+    "newUsd": 0.002985,
+    "oldNative": 0.003665,
+    "newNative": 0.002513,
+    "impliedOldQuoteUsd": 1.6442019099590723,
+    "impliedNewQuoteUsd": 1.1878233187425387,
+    "deltaUsdPct": -50.46465316959841,
+    "deltaNativePct": -31.432469304229194,
+    "deltaQuotePct": -27.756845947703212
+  }
+]

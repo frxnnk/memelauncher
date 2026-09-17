@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "recordedAt": "2026-09-12T07:20:23.678Z",
+  "scope": "curated sources observed by this radar",
+  "observations": [
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "title": "El album que nadie pidio vuelve a la conversacion",
+      "context": "new_to_radar",
+      "sourceUrl": "https://x.com/PopBase/status/2098627160139325791",
+      "publishedAt": "2026-09-12T04:18:00Z",
+      "observedAt": "2026-09-12T06:57:06.419Z"
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "title": "Nvidia y Anthropic: el proveedor podria entrar al IPO del cliente",
+      "context": "new_to_radar",
+      "sourceUrl": "https://x.com/unusual_whales/status/2098581358469611549",
+      "publishedAt": "2026-09-12T01:16:00Z",
+      "observedAt": "2026-09-12T06:58:15.852Z"
+    },
+    {
+      "storyKey": "ellison-oracle-sale-plan",
+      "title": "Ellison: titular gigante de venta frente a un posible plan previo",
+      "context": "new_to_radar",
+      "sourceUrl": "https://x.com/unusual_whales/status/2098557246150168679",
+      "publishedAt": "2026-09-11T23:40:00Z",
+      "observedAt": "2026-09-12T06:58:15.852Z"
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "title": "La caja que hace su propia entrega",
+      "context": "new_to_radar",
+      "sourceUrl": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:00:00Z"
+    }
+  ],
+  "states": [
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "title": "El album que nadie pidio vuelve a la conversacion",
+      "firstSeenAt": "2026-09-12T06:57:06.419Z",
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:57:06.419Z",
+      "knownBeforeTracking": false,
+      "sourceKeys": [
+        "x:2098627160139325791"
+      ],
+      "note": "First sighting recorded by this radar, not global discovery or the first token launch."
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "title": "Nvidia y Anthropic: el proveedor podria entrar al IPO del cliente",
+      "firstSeenAt": "2026-09-12T06:58:15.852Z",
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:58:15.852Z",
+      "knownBeforeTracking": false,
+      "sourceKeys": [
+        "x:2098581358469611549"
+      ],
+      "note": "First sighting recorded by this radar, not global discovery or the first token launch."
+    },
+    {
+      "storyKey": "ellison-oracle-sale-plan",
+      "title": "Ellison: titular gigante de venta frente a un posible plan previo",
+      "firstSeenAt": "2026-09-12T06:58:15.852Z",
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T06:58:15.852Z",
+      "knownBeforeTracking": false,
+      "sourceKeys": [
+        "x:2098557246150168679"
+      ],
+      "note": "First sighting recorded by this radar, not global discovery or the first token launch."
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "title": "La caja que hace su propia entrega",
+      "firstSeenAt": "2026-09-12T07:00:00Z",
+      "firstRecordedAt": "2026-09-12T07:17:45.804Z",
+      "lastObservedAt": "2026-09-12T07:00:00Z",
+      "knownBeforeTracking": false,
+      "sourceKeys": [
+        "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery"
+      ],
+      "note": "First sighting recorded by this radar, not global discovery or the first token launch."
+    }
+  ],
+  "supersedesFile": "output/market-agent/sightings/2026-09-12T07-17-45-804Z-3f2dd205-f2f3-420e-890c-15fe980ec8e7.json",
+  "corrections": [
+    {
+      "kind": "remove_nonobserved_catalog_imports",
+      "storyKeys": [
+        "preipo-opens",
+        "draftkings-onchain",
+        "steel-verdict",
+        "acme-resignation",
+        "fly-retrospective"
+      ],
+      "reason": "The prior integration incorrectly used catalog generation time as an observation time for old context. These are not source sightings. The earlier record remains preserved; old ideas remain in their archived catalogs with unknown firstSeenAt. New actual observations are unchanged."
+    }
+  ]
+}

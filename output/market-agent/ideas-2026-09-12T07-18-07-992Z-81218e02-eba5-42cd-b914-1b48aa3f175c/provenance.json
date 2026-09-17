@@ -1,0 +1,46 @@
+{
+  "recordedAt": "2026-09-12T07:18:07.992Z",
+  "generatedAt": "2026-09-12T07:16:03Z",
+  "executionAuthorized": false,
+  "inputs": [
+    {
+      "file": "concepts.json",
+      "sha256": "0b2b545ab8d6fe971feeb462f5888e927e3aa8074823c2e51e8782ca9e2d4dcc"
+    },
+    {
+      "file": "map-social.json",
+      "sha256": "22210665dd1c284c42b244990f321f09b4ed04416137c08d4d2744fab45850b3"
+    },
+    {
+      "file": "map-market.json",
+      "sha256": "c71067bb9f071dc06445a01f4890f22174d7b406adacd53311e455d81452e9cf"
+    },
+    {
+      "file": "idea-map-template.html",
+      "sha256": "5830953077779b747b5862f6f36999b55d8fc144f11550adb7281b58110288ef"
+    },
+    {
+      "file": "ideas.mjs",
+      "sha256": "065ba87b9a1ff3fdba4e172d09ef8918f0f3aa91ea6f0e0f6522f46ce4e74fb4"
+    }
+  ],
+  "localEvidence": [
+    {
+      "file": "output\\market-agent\\sightings\\2026-09-12T07-17-45-804Z-3f2dd205-f2f3-420e-890c-15fe980ec8e7.json",
+      "sha256": "1d67a4613c06d2be29cc6916bf1f1107d502c8411e648fa3b16b19a64ebfed0c"
+    },
+    {
+      "file": "output\\market-agent\\research-2026-09-12-0655\\x-discovery.json",
+      "sha256": "a3adfe68db2bb3e5ac4ad753f48270c43537a748b6fc5d6d9b0937cc0c7a4ba2"
+    },
+    {
+      "file": "output\\market-agent\\research-2026-09-12-0655\\news-discovery.json",
+      "sha256": "039640e9bcbf92f834c37256bc0d471e165dffc0682656f3e235a3bb0bc5561c"
+    },
+    {
+      "file": "output\\market-agent\\research-2026-09-12-0655\\market-check.json",
+      "sha256": "cee546d61d8ebe61a81ca6bdad808e35eef909af50b078ce665bbaaa088a88e1"
+    }
+  ],
+  "note": "Hashes detect changes against this record; this is a local timestamp, not independently notarized priority."
+}

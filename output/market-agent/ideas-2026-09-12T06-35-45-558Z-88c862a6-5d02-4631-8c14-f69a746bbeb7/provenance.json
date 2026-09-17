@@ -1,0 +1,38 @@
+{
+  "recordedAt": "2026-09-12T06:35:45.558Z",
+  "generatedAt": "2026-09-12T06:21:15Z",
+  "executionAuthorized": false,
+  "inputs": [
+    {
+      "file": "concepts.json",
+      "sha256": "99437efd322ed1e64466a8eee43550bc93b4a1132fbcb2b3904dbc402141b6a3"
+    },
+    {
+      "file": "map-social.json",
+      "sha256": "c0d37f0f4825aad7609e316a8ca4c4fe0d8fd9c6a9f22338cbea096ae9aa64c5"
+    },
+    {
+      "file": "map-market.json",
+      "sha256": "0fd4e203014fb049048af93f4d147cbc2e819832dcab8de2ad4fd928996cd7f3"
+    },
+    {
+      "file": "idea-map-template.html",
+      "sha256": "b4febad647d78d9d9cc64ade8f5a2fb39fd64ff5a6e6579488b859fbaae4fb1b"
+    },
+    {
+      "file": "ideas.mjs",
+      "sha256": "065ba87b9a1ff3fdba4e172d09ef8918f0f3aa91ea6f0e0f6522f46ce4e74fb4"
+    }
+  ],
+  "localEvidence": [
+    {
+      "file": "docs\\competitor-flybrain\\REVIEW.md",
+      "sha256": "fa3492d3af88d2ecfba8dd77b47f93b7fcf6ae320ec6e168b6e3e0132ac1a384"
+    },
+    {
+      "file": "README.md",
+      "sha256": "26e524469dfc15bc31b653ddc71f97b343b1ebf0b9a3f3c765f96963d9b83aff"
+    }
+  ],
+  "note": "Hashes detect changes against this record; this is a local timestamp, not independently notarized priority."
+}

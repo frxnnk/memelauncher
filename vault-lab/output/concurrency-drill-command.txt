@@ -1,0 +1,86 @@
+
+> dear-vault-local-lab@0.1.0 drill:concurrency
+> node audit/concurrency-drill.mjs
+
+{
+  "generatedAt": "2026-09-14T19:42:53.231Z",
+  "result": "passed",
+  "scope": "Isolated loopback HTTP burst with synthetic authentication and intercepted provider transport; not a production load benchmark.",
+  "realInferenceCalls": 0,
+  "externalNetworkCalls": 0,
+  "walletActions": 0,
+  "realFunds": false,
+  "httpRequests": 86,
+  "responseSamples": 85,
+  "disconnectedRequests": 1,
+  "syntheticInferenceCalls": 2,
+  "peakSyntheticInferenceConcurrency": 1,
+  "syntheticMetadataCalls": 1,
+  "durationMs": 377,
+  "loopbackResponseMs": {
+    "p50": 15,
+    "p95": 31
+  },
+  "checks": [
+    {
+      "name": "AUTH_REQUIRED",
+      "requests": 12,
+      "expectedHttpStatus": 401,
+      "passed": true
+    },
+    {
+      "name": "ORIGIN_REJECTED",
+      "requests": 8,
+      "expectedHttpStatus": 403,
+      "passed": true
+    },
+    {
+      "name": "INVALID_JSON",
+      "requests": 8,
+      "expectedHttpStatus": 400,
+      "passed": true
+    },
+    {
+      "name": "BODY_TOO_LARGE",
+      "requests": 4,
+      "expectedHttpStatus": 413,
+      "passed": true
+    },
+    {
+      "name": "ATTEMPT_BUSY",
+      "requests": 32,
+      "expectedHttpStatus": 409,
+      "passed": true
+    },
+    {
+      "name": "status-and-static-readable-during-inference",
+      "passed": true
+    },
+    {
+      "name": "disconnect-settles-once-with-persisted-receipt",
+      "passed": true
+    },
+    {
+      "name": "foreign-session-rejected-before-provider",
+      "passed": true
+    },
+    {
+      "name": "APP_BUDGET_REACHED",
+      "requests": 16,
+      "expectedHttpStatus": 429,
+      "passed": true
+    }
+  ],
+  "finalUsage": {
+    "requests": 3,
+    "known": 2,
+    "notSent": 1,
+    "pending": 0,
+    "unknown": 0,
+    "syntheticReportedCostUsd": 0.002
+  },
+  "limitations": [
+    "One admitted inference at a time; excess concurrent requests are rejected, not queued.",
+    "No real Privy, TLS proxy, provider latency, distributed replicas, host saturation or funded settlement tested."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "url": "https://api.mainnet-beta.solana.com",
+  "capturedAt": "2026-09-12T06:45:00.5793020Z",
+  "request": {
+    "jsonrpc": "2.0",
+    "id": 2,
+    "method": "getTransaction",
+    "params": [
+      "3SCdnBRgYjwU39HUg5sa5qLVpPBm5hfaucQLcWTNeGKnryu5u8hC4MpRYKx1QkvhELTk3GKdoXetVGCpMe9PMAJf",
+      {
+        "maxSupportedTransactionVersion": 0,
+        "commitment": "finalized",
+        "encoding": "jsonParsed"
+      }
+    ]
+  },
+  "response": {
+    "jsonrpc": "2.0",
+    "result": {
+      "blockTime": 1789195426,
+      "meta": {
+        "computeUnitsConsumed": 300,
+        "costUnits": 1632,
+        "err": null,
+        "fee": 5000,
+        "innerInstructions": [],
+        "logMessages": [
+          "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+          "Program ComputeBudget111111111111111111111111111111 success",
+          "Program 11111111111111111111111111111111 invoke [1]",
+          "Program 11111111111111111111111111111111 success"
+        ],
+        "postBalances": [
+          11490432234,
+          64170264951,
+          1,
+          1
+        ],
+        "postTokenBalances": [],
+        "preBalances": [
+          11540525789,
+          64120176396,
+          1,
+          1
+        ],
+        "preTokenBalances": [],
+        "rewards": [],
+        "status": {
+          "Ok": null
+        }
+      },
+      "slot": 446364225,
+      "transaction": {
+        "message": {
+          "accountKeys": [
+            {
+              "pubkey": "HEjnRRCNEqcEom6rSRj518GJBMyFEwv9ixpCdM8CxfSV",
+              "signer": true,
+              "source": "transaction",
+              "writable": true
+            },
+            {
+              "pubkey": "EoppPB2YkVWnMHP3VoMi6CpqeRdoZYtSjfRK6ne9BYZg",
+              "signer": false,
+              "source": "transaction",
+              "writable": true
+            },
+            {
+              "pubkey": "11111111111111111111111111111111",
+              "signer": false,
+              "source": "transaction",
+              "writable": false
+            },
+            {
+              "pubkey": "ComputeBudget111111111111111111111111111111",
+              "signer": false,
+              "source": "transaction",
+              "writable": false
+            }
+          ],
+          "instructions": [
+            {
+              "accounts": [],
+              "data": "HMypLP",
+              "programId": "ComputeBudget111111111111111111111111111111",
+              "stackHeight": 1
+            },
+            {
+              "parsed": {
+                "info": {
+                  "destination": "EoppPB2YkVWnMHP3VoMi6CpqeRdoZYtSjfRK6ne9BYZg",
+                  "lamports": 50088555,
+                  "source": "HEjnRRCNEqcEom6rSRj518GJBMyFEwv9ixpCdM8CxfSV"
+                },
+                "type": "transfer"
+              },
+              "program": "system",
+              "programId": "11111111111111111111111111111111",
+              "stackHeight": 1
+            }
+          ],
+          "recentBlockhash": "GKByofMEuKEVUYehPPJiPPHrfMu71jHGDDcibuPQ9tvv"
+        },
+        "signatures": [
+          "3SCdnBRgYjwU39HUg5sa5qLVpPBm5hfaucQLcWTNeGKnryu5u8hC4MpRYKx1QkvhELTk3GKdoXetVGCpMe9PMAJf"
+        ]
+      },
+      "transactionIndex": 939,
+      "version": "legacy"
+    },
+    "id": 2
+  }
+}

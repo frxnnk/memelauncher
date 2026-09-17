@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "recordedAt": "2026-09-12T07:21:31.202Z",
+  "observations": [
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/PopBase/status/2098627160139325791",
+      "author": "@PopBase",
+      "publishedAt": "2026-09-12T04:18:00Z",
+      "observedAt": "2026-09-12T06:59:18.911Z",
+      "text": "Recuerda distribucion de Songs of Innocence por iTunes hace12años; muestra portada y telefono con album abierto.",
+      "textBasis": "paraphrase",
+      "kind": "historical-resurfacing",
+      "metrics": {
+        "views": 531719,
+        "likes": 13737,
+        "reposts": 795
+      }
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/Ariremako8181/status/2098631494415565145",
+      "author": "@Ariremako8181",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T06:59:18.911Z",
+      "text": "Lo describe como regalo no pedido y dificil de borrar; es recuerdo/humor del autor.",
+      "textBasis": "paraphrase",
+      "kind": "cultural-memory",
+      "metrics": {
+        "views": 16927,
+        "likes": 101,
+        "reposts": 0
+      }
+    },
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "sourceUrl": "https://x.com/pumpkwnpied/status/2098633583204180081",
+      "author": "@pumpkwnpied",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T06:59:18.911Z",
+      "text": "Recuerda haber pensado que era un virus al no saber por que aparecia y no poder borrarlo; el GIF asociado no fue reproducido.",
+      "textBasis": "paraphrase",
+      "kind": "cultural-memory",
+      "metrics": {
+        "views": 11406,
+        "likes": 182,
+        "reposts": 0
+      }
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "sourceUrl": "https://www.media.stellantis.com/me-en/corporate/press/stellantis-pro-one-and-uqi-robotics-explore-box-on-wheels-concept-to-advance-autonomous-last-mile-delivery",
+      "author": "Stellantis / UQI",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T07:00:00Z",
+      "text": "Stellantis y UQI anuncian una prueba de concepto de reparto autónomo. La presentación y demostración pública se anuncian para el 14 de septiembre; todavía no se observaron.",
+      "textBasis": "paraphrase",
+      "kind": "official-announcement"
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceUrl": "https://x.com/unusual_whales/status/2098581358469611549",
+      "author": "@unusual_whales",
+      "publishedAt": "2026-09-12T01:16:00Z",
+      "observedAt": "2026-09-12T06:58:39.069Z",
+      "text": "Atribuye a Reuters conversaciones de Nvidia para invertir en el IPO de Anthropic.",
+      "textBasis": "paraphrase",
+      "kind": "secondary-news",
+      "metrics": {
+        "views": 147183,
+        "likes": 1190,
+        "reposts": 72
+      }
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceUrl": "https://x.com/ccccccmore/status/2098592593319805379",
+      "author": "@ccccccmore",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T06:58:39.069Z",
+      "text": "Describe financiar al cliente que compra tus chips como un circuito muy caro.",
+      "textBasis": "paraphrase",
+      "kind": "interpretation",
+      "metrics": {
+        "views": 86,
+        "likes": 0,
+        "reposts": 0
+      }
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceUrl": "https://x.com/twan618/status/2098582496283648374",
+      "author": "@twan618",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T06:58:39.069Z",
+      "text": "Lo compara con vendor financing y pregunta si la inversion esta ligada contractualmente a compra de computo; el final del post estaba truncado.",
+      "textBasis": "paraphrase",
+      "kind": "interpretation",
+      "metrics": {
+        "views": 314,
+        "likes": 0,
+        "reposts": 0
+      }
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "sourceUrl": "https://x.com/jatingargiitk/status/2098599439346831859",
+      "author": "@jatingargiitk",
+      "publishedAt": null,
+      "observedAt": "2026-09-12T06:58:39.069Z",
+      "text": "Pregunta si el reporte representa inversion nueva o un compromiso anterior; las cifras historicas del comentario no se adoptan como hechos verificados.",
+      "textBasis": "paraphrase",
+      "kind": "verification-question",
+      "metrics": {
+        "views": 133,
+        "likes": 0,
+        "reposts": 0
+      }
+    }
+  ],
+  "sourceArchive": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\output\\market-agent\\ideas-2026-09-12T07-21-31-202Z-db46dcd0-a016-4121-8af2-e9ef103d949e",
+  "importedAt": "2026-09-12T07:40:52.719Z",
+  "method": "Import of the archived capture; recordedAt is the original archive time, not a new source observation.",
+  "coverage": [
+    {
+      "storyKey": "u2-unwanted-album-resurfacing",
+      "status": "observed",
+      "note": "Historical archived capture, bounded readings only."
+    },
+    {
+      "storyKey": "box-on-wheels-announcement",
+      "status": "observed",
+      "note": "Historical archived capture, bounded readings only."
+    },
+    {
+      "storyKey": "nvidia-anthropic-ipo-talks",
+      "status": "observed",
+      "note": "Historical archived capture, bounded readings only."
+    }
+  ]
+}

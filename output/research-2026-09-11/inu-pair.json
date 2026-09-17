@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "robinhood",
+      "dexId": "uniswap",
+      "url": "https://dexscreener.com/robinhood/0x7e271c400427ecb727f5fbb27dec69254bce7c4219e95e3535d0ed128f79648a",
+      "pairAddress": "0x7e271c400427ecb727f5fbb27dec69254bce7c4219e95e3535d0ed128f79648a",
+      "labels": [
+        "v4"
+      ],
+      "baseToken": {
+        "address": "0x63Ee32Ac3077d1fbd8a77eBBA2a6ed4b8e9c1e18",
+        "name": "iNu",
+        "symbol": "INU"
+      },
+      "quoteToken": {
+        "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+        "name": "Apple • Robinhood Token",
+        "symbol": "AAPL"
+      },
+      "priceNative": "0.000003278",
+      "priceUsd": "0.001067",
+      "txns": {
+        "m5": {
+          "buys": 38,
+          "sells": 58
+        },
+        "h1": {
+          "buys": 418,
+          "sells": 401
+        },
+        "h6": {
+          "buys": 7879,
+          "sells": 8489
+        },
+        "h24": {
+          "buys": 8051,
+          "sells": 8725
+        }
+      },
+      "volume": {
+        "h24": 1401732.54,
+        "h6": 1373449.36,
+        "h1": 104410.79,
+        "m5": 9330.46
+      },
+      "priceChange": {
+        "m5": 6.96,
+        "h1": -16.88,
+        "h6": 2077,
+        "h24": 5197
+      },
+      "liquidity": {
+        "usd": 281757.86,
+        "base": 143791166,
+        "quote": 393.9815
+      },
+      "fdv": 1067397,
+      "marketCap": 1067397,
+      "pairCreatedAt": 1789088008000,
+      "info": {
+        "imageUrl": "https://cdn.dexscreener.com/cms/images/OoK3cvx92ew_i5fS?width=800&height=800&quality=95&format=auto",
+        "header": "https://cdn.dexscreener.com/cms/images/TTGfrv927sct0Ka3?width=1500&height=500&quality=95&format=auto",
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x63ee32ac3077d1fbd8a77ebba2a6ed4b8e9c1e18?timestamp=1789128900000",
+        "websites": [],
+        "socials": []
+      }
+    }
+  ],
+  "pair": {
+    "chainId": "robinhood",
+    "dexId": "uniswap",
+    "url": "https://dexscreener.com/robinhood/0x7e271c400427ecb727f5fbb27dec69254bce7c4219e95e3535d0ed128f79648a",
+    "pairAddress": "0x7e271c400427ecb727f5fbb27dec69254bce7c4219e95e3535d0ed128f79648a",
+    "labels": [
+      "v4"
+    ],
+    "baseToken": {
+      "address": "0x63Ee32Ac3077d1fbd8a77eBBA2a6ed4b8e9c1e18",
+      "name": "iNu",
+      "symbol": "INU"
+    },
+    "quoteToken": {
+      "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "name": "Apple • Robinhood Token",
+      "symbol": "AAPL"
+    },
+    "priceNative": "0.000003278",
+    "priceUsd": "0.001067",
+    "txns": {
+      "m5": {
+        "buys": 38,
+        "sells": 58
+      },
+      "h1": {
+        "buys": 418,
+        "sells": 401
+      },
+      "h6": {
+        "buys": 7879,
+        "sells": 8489
+      },
+      "h24": {
+        "buys": 8051,
+        "sells": 8725
+      }
+    },
+    "volume": {
+      "h24": 1401732.54,
+      "h6": 1373449.36,
+      "h1": 104410.79,
+      "m5": 9330.46
+    },
+    "priceChange": {
+      "m5": 6.96,
+      "h1": -16.88,
+      "h6": 2077,
+      "h24": 5197
+    },
+    "liquidity": {
+      "usd": 281757.86,
+      "base": 143791166,
+      "quote": 393.9815
+    },
+    "fdv": 1067397,
+    "marketCap": 1067397,
+    "pairCreatedAt": 1789088008000,
+    "info": {
+      "imageUrl": "https://cdn.dexscreener.com/cms/images/OoK3cvx92ew_i5fS?width=800&height=800&quality=95&format=auto",
+      "header": "https://cdn.dexscreener.com/cms/images/TTGfrv927sct0Ka3?width=1500&height=500&quality=95&format=auto",
+      "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x63ee32ac3077d1fbd8a77ebba2a6ed4b8e9c1e18?timestamp=1789128900000",
+      "websites": [],
+      "socials": []
+    }
+  }
+}

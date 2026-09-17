@@ -1,0 +1,41 @@
+{
+  "observedAt": "2026-09-12T09:22:45.965Z",
+  "source": "dexscreener",
+  "coverage": [
+    "Provider-selected trending metas: first 1; collected 0. This is a bounded sample, not a market census.",
+    "Explicit search queries: 1; search ranking and matching are provider-controlled.",
+    "Pair chain filter: none.",
+    "Public GET only; no social reach, independent demand, wallet ownership, contract safety or executable liquidity verification.",
+    "Reported volume is not net inflow; trending placement and descriptive metadata are not evidence of organic demand."
+  ],
+  "metas": [],
+  "searches": [
+    {
+      "query": "CATGPT",
+      "pairs": [],
+      "collectionError": "REQUEST_FAILED"
+    }
+  ],
+  "errors": [
+    {
+      "endpoint": "https://api.dexscreener.com/metas/trending/v1",
+      "message": "REQUEST_FAILED"
+    },
+    {
+      "endpoint": "https://api.dexscreener.com/latest/dex/search?q=CATGPT",
+      "message": "REQUEST_FAILED"
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://api.dexscreener.com/metas/trending/v1",
+      "observedAt": "2026-09-12T09:22:45.966Z",
+      "ok": false
+    },
+    {
+      "url": "https://api.dexscreener.com/latest/dex/search?q=CATGPT",
+      "observedAt": "2026-09-12T09:22:47.139Z",
+      "ok": false
+    }
+  ]
+}

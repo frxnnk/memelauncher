@@ -1,0 +1,175 @@
+﻿{
+    "paused":  false,
+    "files":  [
+                  {
+                      "sha256":  "57c9c3e7b03a126a4e3978b2a1b398ee8d33facc605605944839c55b961f3686",
+                      "name":  "attempts.jsonl"
+                  },
+                  {
+                      "sha256":  "1595267922d21705117ca5e2a453596286bc56cd70d6cb40f1260652ffaf0163",
+                      "name":  "beta-owner.json"
+                  },
+                  {
+                      "sha256":  "c5cf6f79fb00fc3a901d95323c52a8b7b9e4333ab3ca94fdda0af55df728abfa",
+                      "name":  "beta-testers.json"
+                  },
+                  {
+                      "sha256":  "39d4a21479739502ef752034036aee1f793fe478e4ff554841376c314584de88",
+                      "name":  "beta.sqlite"
+                  },
+                  {
+                      "sha256":  "fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb",
+                      "name":  "beta.sqlite-shm"
+                  },
+                  {
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "name":  "beta.sqlite-wal"
+                  },
+                  {
+                      "sha256":  "de6319e586ef9a6f4f6b94a3d683ef5726e42338d9d5b609a4a2898757d6833c",
+                      "name":  "economy-sandbox.sqlite"
+                  },
+                  {
+                      "sha256":  "fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb",
+                      "name":  "economy-sandbox.sqlite-shm"
+                  },
+                  {
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "name":  "economy-sandbox.sqlite-wal"
+                  },
+                  {
+                      "sha256":  "a78ec9deec636677c5ab9708a014233be4a4b2e3f75d988444bea888a60c98d3",
+                      "name":  "model-jobs.sqlite"
+                  },
+                  {
+                      "sha256":  "fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb",
+                      "name":  "model-jobs.sqlite-shm"
+                  },
+                  {
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "name":  "model-jobs.sqlite-wal"
+                  },
+                  {
+                      "sha256":  "4bfef1ebea6020ae63471acb503753baecf5d134b4ca1e157b15e61426bcf5f0",
+                      "name":  "sessions.sqlite"
+                  },
+                  {
+                      "sha256":  "fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb",
+                      "name":  "sessions.sqlite-shm"
+                  },
+                  {
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "name":  "sessions.sqlite-wal"
+                  },
+                  {
+                      "sha256":  "f2ca4cfea1c97d61daa20337c4dea91a228f3b523bae1c8667e7acf995554da8",
+                      "name":  "usage.sqlite"
+                  },
+                  {
+                      "sha256":  "fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb",
+                      "name":  "usage.sqlite-shm"
+                  },
+                  {
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "name":  "usage.sqlite-wal"
+                  }
+              ],
+    "service":  "Running",
+    "restartPreservedState":  true,
+    "backupPath":  "C:\\vault-beta\\shared\\backups\\data-live-20260915044810",
+    "state":  {
+                  "checkedAt":  "2026-09-15T02:48:13.837Z",
+                  "checks":  [
+                                 {
+                                     "database":  "beta.sqlite",
+                                     "integrity":  "ok"
+                                 },
+                                 {
+                                     "database":  "economy-sandbox.sqlite",
+                                     "integrity":  "ok"
+                                 },
+                                 {
+                                     "database":  "model-jobs.sqlite",
+                                     "integrity":  "ok"
+                                 },
+                                 {
+                                     "database":  "sessions.sqlite",
+                                     "integrity":  "ok"
+                                 },
+                                 {
+                                     "database":  "usage.sqlite",
+                                     "integrity":  "ok"
+                                 }
+                             ],
+                  "receipts":  [
+                                   {
+                                       "id":  "63605551-895f-4aa4-9735-31eadaa7c037",
+                                       "sessionId":  "055f3d8b-9451-43c9-931b-e27c19258765",
+                                       "model":  "google/gemini-2.5-flash",
+                                       "returnedModel":  "google/gemini-2.5-flash",
+                                       "provider":  "Google",
+                                       "status":  "complete",
+                                       "decision":  "locked",
+                                       "costUsd":  0.0002287,
+                                       "createdAt":  "2026-09-15T02:43:34.025Z",
+                                       "inputMessages":  2,
+                                       "tool":  null,
+                                       "hasPreviousUserContext":  false
+                                   },
+                                   {
+                                       "id":  "63eec046-e7c2-4b50-b34c-86f41775d767",
+                                       "sessionId":  "031eca59-8efe-4a1a-bc23-04541c420f2d",
+                                       "model":  "anthropic/claude-haiku-4.5",
+                                       "returnedModel":  "anthropic/claude-haiku-4.5",
+                                       "provider":  "Anthropic",
+                                       "status":  "complete",
+                                       "decision":  "locked",
+                                       "costUsd":  0.002166,
+                                       "createdAt":  "2026-09-15T02:45:17.227Z",
+                                       "inputMessages":  2,
+                                       "tool":  "keep_locked",
+                                       "hasPreviousUserContext":  false
+                                   },
+                                   {
+                                       "id":  "5c976a7e-3a7d-4545-9a43-5aae07c91b84",
+                                       "sessionId":  "031eca59-8efe-4a1a-bc23-04541c420f2d",
+                                       "model":  "anthropic/claude-haiku-4.5",
+                                       "returnedModel":  "anthropic/claude-haiku-4.5",
+                                       "provider":  "Anthropic",
+                                       "status":  "complete",
+                                       "decision":  "locked",
+                                       "costUsd":  0.002199,
+                                       "createdAt":  "2026-09-15T02:45:54.717Z",
+                                       "inputMessages":  5,
+                                       "tool":  "keep_locked",
+                                       "hasPreviousUserContext":  true
+                                   }
+                               ],
+                  "receiptHash":  "38bff612a5ee468ddae2ff7349491b5034227f95dbbdce2fb6479df066cf0781",
+                  "sessionHash":  "ab1fee057a8506c40f07e299281403c5e8edf4cb635a7fe858fffb8bebae8f62",
+                  "sessions":  [
+                                   {
+                                       "id":  "031eca59-8efe-4a1a-bc23-04541c420f2d",
+                                       "model":  "anthropic/claude-haiku-4.5",
+                                       "turns":  2
+                                   },
+                                   {
+                                       "id":  "055f3d8b-9451-43c9-931b-e27c19258765",
+                                       "model":  "google/gemini-2.5-flash",
+                                       "turns":  1
+                                   }
+                               ],
+                  "usage":  [
+                                {
+                                    "state":  "known",
+                                    "count":  3,
+                                    "costMicros":  4594
+                                }
+                            ],
+                  "invitations":  {
+                                      "total":  6,
+                                      "claimed":  1
+                                  }
+              },
+    "checkedAt":  "2026-09-15T02:48:13.9782263Z"
+}

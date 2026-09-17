@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-09-15T05:46:20.876Z",
+  "rpc": "https://rpc.testnet.chain.robinhood.com",
+  "chainId": 46630,
+  "blockNumber": "119750316",
+  "tokenAddress": "0xD610B8f58689de7755947C05342A2DFaC30ebD57",
+  "name": "ChainLink Token",
+  "symbol": "LINK",
+  "decimals": 18,
+  "bytecodeHash": "0xb8056733589125e0a6289dd9aee21009bfa546c4ba12a351426cf889226e52d4",
+  "wallet": "0x686c6cd47d0a09b5b77fff3f76e2786425dc2f79",
+  "tokenBalance": "0",
+  "gasBalance": "0",
+  "source": "https://docs.chain.link/resources/link-token-contracts#robinhood-chain-testnet",
+  "faucet": "https://faucets.chain.link/robinhood-testnet",
+  "standardTransferVerified": false,
+  "liveDepositTested": false
+}

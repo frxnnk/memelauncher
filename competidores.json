@@ -1,0 +1,143 @@
+{
+  "consulted_at": "2026-09-10",
+  "scope": "Bounded search and primary page inspection. No first-ever claim. A contract alone cannot establish neural causation.",
+  "entries": [
+    {
+      "name": "Extreme Trench Fly",
+      "url": "https://www.flybrain.finance/",
+      "status": "PRIMARY_PAGE_READ",
+      "claim": "FlyWire model receives Pons market inputs and produces trading actions.",
+      "demo": "Public interface was connecting with no orders in the fetched snapshot; not a verified live runner session.",
+      "code": "Credits model/engine but runnable project code was not verified in this pass.",
+      "network_claim": "Robinhood Chain / Pons",
+      "authentic_token_address": null,
+      "class": "TRADING_CLAIM_UNVERIFIED",
+      "contradiction": "Narrative says real transactions, wallet section says paper trading, top says not launched yet.",
+      "model_triggered_issuance_evidence": "NOT_FOUND_IN_INSPECTED_MATERIAL"
+    },
+    {
+      "name": "Minecraft Fruit Fly / MINEFLY",
+      "url": "https://www.minefly.site/",
+      "status": "PRIMARY_PAGE_READ",
+      "claim": "A fly connectome operates a Minecraft body, with a related token.",
+      "demo": "Marketing page with images and contract claim; causal runner demo not verified.",
+      "code": null,
+      "network_claim": "Robinhood",
+      "reported_address_unverified": "0x6beDf70814DAFD07Ed1368bD81E3AF204FfF6D7b",
+      "authentic_token_address": null,
+      "class": "THEMED_TOKEN",
+      "model_triggered_issuance_evidence": "NOT_FOUND_IN_INSPECTED_MATERIAL",
+      "limit": "Do not conflate this identity with the FLY-000 token mentioned by Grok or with a separately authored Minecraft mod. Biological/alive/Google-association copy is not adopted."
+    },
+    {
+      "name": "fly-brain-minecraft",
+      "url": "https://github.com/blendi-remade/fly-brain-minecraft",
+      "status": "PRIMARY_REPOSITORY_INDEXED",
+      "claim": "Minecraft embodiment using a thresholded MaleCNS derivative.",
+      "demo": "Repository available; not executed locally in this pass.",
+      "code": "https://github.com/blendi-remade/fly-brain-minecraft",
+      "network_claim": null,
+      "authentic_token_address": null,
+      "class": "EMBODIMENT_SOFTWARE",
+      "model_triggered_issuance_evidence": "NOT_VERIFIED"
+    },
+    {
+      "name": "FLYCOIN",
+      "url": "https://www.ponsfamily.com/launchpad/0xd07b2001d0713ba95c9b89eeF3d6C672cf35e12F",
+      "status": "GROK_LEAD_NOT_INDEPENDENTLY_VERIFIED",
+      "claim": "Grok identified a FLY/GOOGL themed token on Pons.",
+      "demo": null,
+      "code": null,
+      "network_claim": "Robinhood, per Grok",
+      "authentic_token_address": null,
+      "class": "UNRESOLVED_IDENTITY",
+      "model_triggered_issuance_evidence": "NOT_VERIFIED",
+      "limit": "Direct web-tool open failed; URL/address is a research lead, not authenticated identity. Flycoin has unrelated namesakes."
+    },
+    {
+      "name": "Flyhard / FLYHARD",
+      "url": null,
+      "status": "SEARCH_LEAD_UNRESOLVED",
+      "claim": "Secondary listings mention a Solana token; no original project identity verified.",
+      "demo": null,
+      "code": null,
+      "network_claim": "Solana, secondary claims only",
+      "authentic_token_address": null,
+      "class": "UNRESOLVED_IDENTITY",
+      "model_triggered_issuance_evidence": "NOT_VERIFIED"
+    },
+    {
+      "name": "Fly Brain / flybrain.vercel.app",
+      "url": "https://flybrain.vercel.app/",
+      "status": "GROK_LEAD_NOT_INDEPENDENTLY_VERIFIED",
+      "claim": "Grok reports a retrospective raster-derived address and a claim that a fly created a coin.",
+      "demo": null,
+      "code": null,
+      "network_claim": "Pons, per Grok",
+      "authentic_token_address": null,
+      "class": "ISSUANCE_CLAIM_UNVERIFIED",
+      "model_triggered_issuance_evidence": "NOT_VERIFIED",
+      "limit": "Direct page retrieval failed. Do not present Grok's critique as an independently established fact about this team."
+    },
+    {
+      "name": "FlyEM / MaleCNS",
+      "url": "https://www.janelia.org/project-team/flyem/male-cns-connectome",
+      "status": "PRIMARY_PAGE_READ",
+      "claim": "Research dataset and tools for the male Drosophila CNS.",
+      "demo": "Research viewers and downloadable structural data.",
+      "code": "https://github.com/reiserlab/celltype-explorer-drosophila-male-cns",
+      "network_claim": null,
+      "authentic_token_address": null,
+      "class": "RESEARCH_INFRASTRUCTURE_NOT_TOKEN_COMPETITOR",
+      "model_triggered_issuance_evidence": "NOT_APPLICABLE"
+    },
+    {
+      "name": "lixiang1076/fly-brain",
+      "url": "https://github.com/lixiang1076/fly-brain",
+      "status": "PRIMARY_REPOSITORY_INDEXED",
+      "claim": "Fly simulation with a natural-language interface.",
+      "demo": "Source available; not executed in this pass.",
+      "code": "https://github.com/lixiang1076/fly-brain",
+      "network_claim": null,
+      "authentic_token_address": null,
+      "class": "SIMULATION_SOFTWARE",
+      "model_triggered_issuance_evidence": "NOT_VERIFIED"
+    },
+    {
+      "name": "FLYBRAIN / fruitflydev",
+      "url": "https://flybrain.online/",
+      "consulted_at": "2026-09-10",
+      "status": "TOKEN_CREATION_VERIFIED_IN_EXPLORER_UI",
+      "claim": "MaleCNS model operates a browser and contributed to a token launch; subsequent free browsing/reward-loop release is still in progress.",
+      "code": "https://github.com/fruitflydev/flycoinrh",
+      "source_commit": "9381313152906571b859fc24897f7d6d27859afd",
+      "network": "Robinhood Chain 4663",
+      "platform_verified": "PonsV2LaunchFactory",
+      "factory": "0x7eD598BcEf8bd9Edd8C97A195C6d13f40801EC7e",
+      "authentic_token_address": "0x4Eb990547BCe4a982432CA88Cf5fae7EED1A2d35",
+      "creation_transaction": "0x63b2164f3d784e46538cc81d3c48095bd7252a3d12398fdad9991870d12a4f1c",
+      "creation_timestamp": "2026-09-10T18:23:09Z",
+      "creation_block": 59614342,
+      "receipt_status": "Success",
+      "minted_supply": "1000000000",
+      "from": "0x6ce4085EfB52a6eBDb7d6989beb8860847f4b42A",
+      "class": "REAL_TOKEN_WITH_ASSISTED_NEURAL_BROWSER_EXPERIMENT",
+      "model_triggered_issuance_evidence": "Partial source/author evidence of neural form interaction; publication does not establish a precommitted neural launch/no-launch gate. Inspected rhlive.py presses Launch and Confirm programmatically.",
+      "limits": [
+        "The code snapshot was read, not executed. Its exact match to the historical live deployment was not independently verified.",
+        "Project says 1% creator tax and GOOGL pairing for FLYBRAIN; these fields were not independently decoded from the receipt in this review.",
+        "Older TEST deployments in README have different addresses, wallet and 2% creator tax; do not confuse them with FLYBRAIN.",
+        "Direct RPC/REST returned HTTP 403 through the shell route; contract and transaction were verified through normal public Blockscout UI.",
+        "Successful Pons launch does not establish our operator eligibility or NVDA acceptance."
+      ]
+    }
+  ],
+  "search_scope": [
+    "fly brain connectome autonomous token launch Robinhood Solana Bankr Pons",
+    "Extreme Trench Fly",
+    "FLYCOIN brain",
+    "Flyhard token",
+    "Minecraft Fruit Fly"
+  ],
+  "conclusion": "Fly-brain token narratives and a real Pons V2 token deployment now verified. Do not market BELLFLY as novel merely because a fly launches a token. A precommitted neural LAUNCH/NO_LAUNCH gate remains a design objective to compare rigorously, not a proven unique market gap. Re-evaluate Pons integration alongside Bankr using the concrete verified factory."
+}

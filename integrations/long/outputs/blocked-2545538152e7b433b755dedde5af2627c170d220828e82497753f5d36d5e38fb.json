@@ -1,0 +1,157 @@
+{
+  "status": "BLOCKED_NOT_LAUNCH_READY",
+  "approval": false,
+  "launch": false,
+  "live_execution_enabled": false,
+  "error": "No unused address found within bounded mining attempts",
+  "snapshot": {
+    "observedAt": "2026-09-10T20:38:21.301Z",
+    "rpc": "https://rpc.mainnet.chain.robinhood.com/",
+    "chainId": 4663,
+    "quote": "GOOGL",
+    "quoteAddress": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+    "ticker": "BELLFLY",
+    "block": "59694893",
+    "blockHash": "0x88cb0ffa5ab0d207cdffea5e52bb5135bd47f1e1b3af26779bf7bb7e44d14986",
+    "blockTimestamp": "1789072693",
+    "owner": "0x21E2ce70511e4FE542a97708e89520471DAa7A66",
+    "tickerAvailable": true,
+    "oracle": {
+      "feed": "0xF6f373a037c30F0e5010d854385cA89185AE638b",
+      "decimals": 8,
+      "round": [
+        "18446744073709552343",
+        "33200375000",
+        "1789059670",
+        "1789059683",
+        "18446744073709552343"
+      ],
+      "priceUsd": 332.00375,
+      "ageSeconds": "13010",
+      "review": {
+        "ageSeconds": "13010",
+        "stale": true,
+        "pricingValidated": false,
+        "mode": "EXPLICIT_DIAGNOSTIC_ONLY"
+      }
+    },
+    "gasPriceWei": "128828000",
+    "codes": {
+      "tickerFactory": {
+        "address": "0x22e99278308B393ea1260859B181AD7E78f5eeED",
+        "bytes": 5826,
+        "keccak256": "0x07f672e3431f9963637f0ecea95753147f10c36a22a8dc5192f397fe1cea0c59"
+      },
+      "integrator": {
+        "address": "0x92d435C96E63c43E12d6D0AB28f6b0B04072F765",
+        "bytes": 0,
+        "keccak256": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+      },
+      "quote": {
+        "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+        "bytes": 283,
+        "keccak256": "0x6c1fdd40002dcb440c7fff6a84171404d279ccb057803b65826f7546acd65630"
+      },
+      "feed": {
+        "address": "0xF6f373a037c30F0e5010d854385cA89185AE638b",
+        "bytes": 9571,
+        "keccak256": "0xbd6f524cdc4268b6bd1bb6f77a8821faeea9c52ee9e0afa0b6d948ce82c966c2"
+      },
+      "airlock": {
+        "address": "0xeb7C034704eF8Dcd2D32324c1545f62fB4aD0862",
+        "bytes": 5695,
+        "keccak256": "0x86b37100cbe9841771c452a592985b4e921254b127a380246073b84ec953f7f8"
+      },
+      "dopplerERC20V1Factory": {
+        "address": "0x1B37D3a72082029c44B35B604Ea473617580b69a",
+        "bytes": 1912,
+        "keccak256": "0x27abd63146eb5743b7871e211da17163afbb495863a626c0d002312af6813459"
+      },
+      "dopplerERC20V1Implementation": {
+        "address": "0x3Be8B97Fd0e713B5aBE0649Fa830223B6B4BC599",
+        "bytes": 13927,
+        "keccak256": "0x67a382a66d2b14a7032698e11c9ae4432435d2c803429d5c660692289ad10e12"
+      },
+      "dopplerHookInitializer": {
+        "address": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+        "bytes": 25533,
+        "keccak256": "0xc41a91106002f15bf70ae266824317f3f3ac638ac72ca5253bae395fa47ee631"
+      },
+      "rehypeDopplerHookInitializer": {
+        "address": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+        "bytes": 14564,
+        "keccak256": "0x5d33a1d867ba0d17cc7af077786b1356848c72f8e0bf960ef88aa15f7a6962d1"
+      },
+      "noOpGovernanceFactory": {
+        "address": "0x85f37f74Ef2478A770318bc810177a9835911aD7",
+        "bytes": 180,
+        "keccak256": "0x306dda9c8ef29935e569bb402c1626e8ef2048acd6b52a06bc3417bb4752c43f"
+      },
+      "noOpMigrator": {
+        "address": "0xba2F330EDb16cD8056f5988d8CE19BbC63475A0e",
+        "bytes": 524,
+        "keccak256": "0x7bf5115543e8e0769ceabe4da9b8e23547c9e95c1cce15d24d96f164406129e3"
+      },
+      "poolManager": {
+        "address": "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+        "bytes": 24009,
+        "keccak256": "0xbd3881180b547f5fe817545743cfb4343e96b1bc6640dcd70c106b0066e95626"
+      }
+    },
+    "moduleStates": {
+      "dopplerERC20V1Factory": 1,
+      "dopplerHookInitializer": 3,
+      "noOpGovernanceFactory": 2,
+      "noOpMigrator": 4
+    },
+    "hookEnabledFlags": "3",
+    "sourceSha256": {
+      "builder.js": "06f62af73a25691522d88c14d4536379e7a6a101b0cc4c73c7ec34f50ca593e5",
+      "constants.js": "4b3ad440e01077f4d93c1ef26e571c45cbf1fc0417677b132e4df5493d6131d8",
+      "assets.js": "0b0aace0f0f2d7f6314a3355f145afa8b730218e0356e6b1607ff7a536dda24b",
+      "sdk.js": "a47ec4c0059e83a14d32fc06295494b6886c715a81c41a2436f993937b07a4a1",
+      "app-chains.js": "d2de7945f23dc229159c7d13396401538d5342644d14f4e9fbac94c2a7f6c643"
+    },
+    "packageLockSha256": "8a00fd5c0d4c5f1dad1869726a67248224b6d1669f9e37b8b27565131cac9b68",
+    "toolSha256": {
+      "prepare.mjs": "f6e8ca8617c67d95f0f150909ba19c5a66761bf47efc023acdb1c394160e09e0",
+      "core.mjs": "5ee5a82184528f2a1291a6e64678368b04d5eaa8867880e2fd991eeb6cf90380",
+      "metadata.mjs": "807ed47443089040049e2aad70bde7a9741431838cbf13630f89b5045ce04e6b",
+      "runtime-review.mjs": "98c1f59c58df226e2d54ea7694c551478cbb69b36692df48e622b878b35eba62",
+      "frontend-encoding.mjs": "44369b39cb09383d354a725d6b0aec452f6a258320b53b08b70b42835b01b39d"
+    },
+    "runtimeReview": {
+      "status": "REVIEWED_RUNTIMES_MATCH",
+      "differences": [],
+      "reviewedContracts": [
+        "airlock",
+        "dopplerERC20V1Implementation",
+        "dopplerHookInitializer",
+        "rehypeDopplerHookInitializer",
+        "noOpGovernanceFactory",
+        "noOpMigrator"
+      ],
+      "recordedWithoutCompiledProof": [
+        "tickerFactory",
+        "integrator",
+        "quote",
+        "feed",
+        "dopplerERC20V1Factory",
+        "poolManager"
+      ],
+      "caveat": "Code identity only. Does not prove storage, authority, proxy implementation, oracle freshness or future OCAT state."
+    }
+  },
+  "input": {
+    "purpose": "UNSIGNED_REVIEW_ONLY",
+    "name": "BELLFLY",
+    "symbol": "BELLFLY",
+    "quote": "GOOGL",
+    "creator": "0x0000000000000000000000000000000000000001",
+    "feeRecipient": "0x0000000000000000000000000000000000000001",
+    "metadataURI": "https://bellfly.invalid/metadata.json",
+    "metadataSha256": "c73bbb2be5263d50597665da2e299b22dea40589355fbc3ed2a98dae2d6e954d",
+    "maxGasCostWei": null,
+    "startSalt": "0"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "recordedAt": "2026-09-12T07:48:26.558Z",
+  "generatedAt": "2026-09-12T07:16:03Z",
+  "executionAuthorized": false,
+  "inputs": [
+    {
+      "file": "concepts.json",
+      "sha256": "7b81faa2b8072c2b81d164fccb81a776c8d2d20314273fd30d29386b5fba2da7"
+    },
+    {
+      "file": "map-social.json",
+      "sha256": "22210665dd1c284c42b244990f321f09b4ed04416137c08d4d2744fab45850b3"
+    },
+    {
+      "file": "map-market.json",
+      "sha256": "c71067bb9f071dc06445a01f4890f22174d7b406adacd53311e455d81452e9cf"
+    },
+    {
+      "file": "idea-map-template.html",
+      "sha256": "4916d504e3469fa0e5b5faf68059728edb6dfe4f98d58bbb46244d527d2632a2"
+    },
+    {
+      "file": "ideas.mjs",
+      "sha256": "065ba87b9a1ff3fdba4e172d09ef8918f0f3aa91ea6f0e0f6522f46ce4e74fb4"
+    },
+    {
+      "file": "sightings.mjs",
+      "sha256": "3c948524e1c2bf9aed38cf030622726a02d0cb242f3620ba6317d9c15f39a706"
+    }
+  ],
+  "localEvidence": [
+    {
+      "file": "output\\market-agent\\sightings\\2026-09-12T07-20-23-678Z-b2c39f5c-ae90-4b56-a557-af354f57f166.json",
+      "sha256": "34e7d1c3cfd8573db949a6dba7862fc1e7cd198ca8ffe7aed942cfe7e1da27b5"
+    },
+    {
+      "file": "output\\market-agent\\research-2026-09-12-0655\\x-discovery.json",
+      "sha256": "a3adfe68db2bb3e5ac4ad753f48270c43537a748b6fc5d6d9b0937cc0c7a4ba2"
+    },
+    {
+      "file": "output\\market-agent\\research-2026-09-12-0655\\news-discovery.json",
+      "sha256": "039640e9bcbf92f834c37256bc0d471e165dffc0682656f3e235a3bb0bc5561c"
+    },
+    {
+      "file": "output\\market-agent\\research-2026-09-12-0655\\market-check.json",
+      "sha256": "cee546d61d8ebe61a81ca6bdad808e35eef909af50b078ce665bbaaa088a88e1"
+    },
+    {
+      "file": "output\\market-agent\\research-2026-09-12-followup\\followup-review.json",
+      "sha256": "9f271be961bd49f8734d3a944379ffa7298b28996357429b389f8b111fdaaf92"
+    },
+    {
+      "file": "output\\market-agent\\social\\2026-09-12T07-41-04-113Z-d9d5f6bc-2d84-4bdd-968b-f7e129c7eba1\\changes.json",
+      "sha256": "08d15b00a0aa5e5bfaba419485c53a4c40cf03fe9885eea6bc6ea1cf512f0623"
+    },
+    {
+      "file": "output\\market-agent\\social\\2026-09-12T07-41-04-113Z-d9d5f6bc-2d84-4bdd-968b-f7e129c7eba1\\batch.json",
+      "sha256": "85e65f11cdb8b79c5fdd3f2ce560a2fb7754c579389f1e7830820efe7153b2c6"
+    }
+  ],
+  "note": "Hashes detect changes against this record; this is a local timestamp, not independently notarized priority."
+}

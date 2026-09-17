@@ -1,0 +1,97 @@
+{
+  "checkedAt": "2026-09-14T23:20:30.549Z",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Vault — Nice argument. Still locked."
+    },
+    {
+      "path": "/play",
+      "status": 200,
+      "title": "Vault — Talk your way in."
+    },
+    {
+      "path": "/play?panel=rules",
+      "status": 200,
+      "title": "Vault — Talk your way in."
+    },
+    {
+      "path": "/?ui=custodian",
+      "status": 200,
+      "title": "Vault — Talk your way in."
+    },
+    {
+      "path": "/app.js",
+      "status": 200
+    },
+    {
+      "path": "/assets/guardian-idle.png",
+      "status": 200
+    },
+    {
+      "path": "/dialogs.css",
+      "status": 200
+    },
+    {
+      "path": "/favicon.svg",
+      "status": 200
+    },
+    {
+      "path": "/fonts/instrument-sans.woff2",
+      "status": 200
+    },
+    {
+      "path": "/landing.css",
+      "status": 200
+    },
+    {
+      "path": "/landing.js",
+      "status": 200
+    },
+    {
+      "path": "/mascot.css",
+      "status": 200
+    },
+    {
+      "path": "/play",
+      "status": 200
+    },
+    {
+      "path": "/play?panel=rules",
+      "status": 200
+    },
+    {
+      "path": "/styles.css",
+      "status": 200
+    },
+    {
+      "path": "/treasury.css",
+      "status": 200
+    }
+  ],
+  "status": {
+    "configured": false,
+    "mode": "practice",
+    "bountyEnabled": false,
+    "authentication": "local-only",
+    "accessMode": "local",
+    "sandboxEnabled": true
+  },
+  "channels": {
+    "telegram": {
+      "enabled": false
+    }
+  },
+  "realInferenceCalls": 0,
+  "browserVisualQA": false,
+  "browserBlocker": "Brave ERR_BLOCKED_BY_CLIENT; no protections changed",
+  "docker": {
+    "configuredDirectory": "E:\\DockerDesktop\\DockerDesktopWSL",
+    "directoryExists": true,
+    "dataVhdxBytes": 92420440064,
+    "registryMatchesDirectory": true,
+    "runningProcessesObserved": false,
+    "dataModified": false
+  }
+}

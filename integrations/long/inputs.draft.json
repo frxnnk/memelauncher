@@ -1,0 +1,12 @@
+{
+  "purpose": "UNSIGNED_REVIEW_ONLY",
+  "name": "BELLFLY",
+  "symbol": "BELLFLY",
+  "quote": "GOOGL",
+  "creator": null,
+  "feeRecipient": null,
+  "metadataURI": null,
+  "metadataSha256": null,
+  "maxGasCostWei": null,
+  "startSalt": "0"
+}

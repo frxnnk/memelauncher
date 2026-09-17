@@ -1,0 +1,1768 @@
+{
+  "capturedAt": "2026-09-11T12:15:58.1952529Z",
+  "query": "embercat",
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/eizvarbxzfx9xbmtjygs8lu8rbjwhv2bw9zg82cxceku",
+        "pairAddress": "EiZvARbXzfx9XbMTJygS8LU8rBjwhV2Bw9ZG82cXcEku",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+          "name": "Meteora",
+          "symbol": "MET"
+        },
+        "priceNative": "0.004376",
+        "priceUsd": "0.001185",
+        "txns": {
+          "m5": {
+            "buys": 121,
+            "sells": 80
+          },
+          "h1": {
+            "buys": 3354,
+            "sells": 2433
+          },
+          "h6": {
+            "buys": 8489,
+            "sells": 6202
+          },
+          "h24": {
+            "buys": 9002,
+            "sells": 6546
+          }
+        },
+        "volume": {
+          "h24": 2614938.37,
+          "h6": 2554002.61,
+          "h1": 1194558.65,
+          "m5": 32688.63
+        },
+        "priceChange": {
+          "m5": -4.49,
+          "h1": -50.18,
+          "h6": 5345,
+          "h24": 7252
+        },
+        "liquidity": {
+          "usd": 119146.88,
+          "base": 50238089,
+          "quote": 219817
+        },
+        "fdv": 1185864,
+        "marketCap": 1185864,
+        "pairCreatedAt": 1789024501000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/NgvbaXmneLR1cpNY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/7kAlEB9HG8SM910X?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://embercurve.fun/t/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/embercatember?s=11",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/erudppb6al1wmuk32gnkwewu1fnpfb1sqeznwqdg3pux",
+        "pairAddress": "EruDPPb6aL1wmUK32GnkWeWU1FnPfb1sqeznWQDg3Pux",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00001331",
+        "priceUsd": "0.001323",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 214,
+            "sells": 287
+          },
+          "h6": {
+            "buys": 347,
+            "sells": 393
+          },
+          "h24": {
+            "buys": 347,
+            "sells": 393
+          }
+        },
+        "volume": {
+          "h24": 86018.05,
+          "h6": 86018.05,
+          "h1": 70329.58,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -43.17,
+          "h6": 76.74,
+          "h24": 76.74
+        },
+        "liquidity": {
+          "usd": 26986.77,
+          "base": 4620647,
+          "quote": 210.05577
+        },
+        "fdv": 1323052,
+        "marketCap": 1323052,
+        "pairCreatedAt": 1789121323000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/NgvbaXmneLR1cpNY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/7kAlEB9HG8SM910X?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://embercurve.fun/t/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/embercatember?s=11",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/cnk1jpqsuhbz1zehhhvmud3bkuqyhwsqvruvw1wqgf9f",
+        "pairAddress": "CnK1jPqSuhbz1ZEHHhVmud3bkUQyHWsqvRuvW1wQGF9f",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00001161",
+        "priceUsd": "0.001153",
+        "txns": {
+          "m5": {
+            "buys": 27,
+            "sells": 23
+          },
+          "h1": {
+            "buys": 534,
+            "sells": 441
+          },
+          "h6": {
+            "buys": 534,
+            "sells": 441
+          },
+          "h24": {
+            "buys": 534,
+            "sells": 441
+          }
+        },
+        "volume": {
+          "h24": 134321.37,
+          "h6": 134321.37,
+          "h1": 134321.37,
+          "m5": 4870.25
+        },
+        "priceChange": {
+          "m5": -6.77,
+          "h1": -37.62,
+          "h6": -37.62,
+          "h24": -37.62
+        },
+        "liquidity": {
+          "usd": 21533.63,
+          "base": 7087255,
+          "quote": 134.4753
+        },
+        "fdv": 1153614,
+        "marketCap": 1153614,
+        "pairCreatedAt": 1789125958000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/NgvbaXmneLR1cpNY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/7kAlEB9HG8SM910X?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://embercurve.fun/t/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/embercatember?s=11",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/32zzvayeyimzpr5s1gn3znvk2jk3unnnwdgbftur4a7t",
+        "pairAddress": "32zzvAYeYiMzPR5S1Gn3znvK2jK3uNNNWDGbfTuR4a7t",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+          "name": "Meteora",
+          "symbol": "MET"
+        },
+        "priceNative": "0.004223",
+        "priceUsd": "0.001161",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h1": {
+            "buys": 73,
+            "sells": 144
+          },
+          "h6": {
+            "buys": 207,
+            "sells": 271
+          },
+          "h24": {
+            "buys": 207,
+            "sells": 271
+          }
+        },
+        "volume": {
+          "h24": 3502394.68,
+          "h6": 3502394.68,
+          "h1": 1455236.45,
+          "m5": 13.37
+        },
+        "priceChange": {
+          "m5": -2.1,
+          "h1": -48.89,
+          "h6": -99.98,
+          "h24": -99.98
+        },
+        "liquidity": {
+          "usd": 779.43,
+          "base": 306247,
+          "quote": 1541.4584
+        },
+        "fdv": 1161258,
+        "marketCap": 1161258,
+        "pairCreatedAt": 1789123078000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/NgvbaXmneLR1cpNY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/7kAlEB9HG8SM910X?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://embercurve.fun/t/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/embercatember?s=11",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/9pyvqjlgceceejx6wc1rbrhfcqlw2ludrpqrbahc2jqy",
+        "pairAddress": "9PYvqjLGceceEjX6Wc1RBrHFcqLw2LuDRpqrbAHc2jQy",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.001179",
+        "priceUsd": "0.001179",
+        "txns": {
+          "m5": {
+            "buys": 4,
+            "sells": 5
+          },
+          "h1": {
+            "buys": 216,
+            "sells": 280
+          },
+          "h6": {
+            "buys": 676,
+            "sells": 641
+          },
+          "h24": {
+            "buys": 676,
+            "sells": 641
+          }
+        },
+        "volume": {
+          "h24": 31838.61,
+          "h6": 31838.61,
+          "h1": 6291.59,
+          "m5": 2.55
+        },
+        "priceChange": {
+          "m5": -10.27,
+          "h1": -40.05,
+          "h6": 189,
+          "h24": 189
+        },
+        "liquidity": {
+          "usd": 2911.91,
+          "base": 530273,
+          "quote": 2286.5146
+        },
+        "fdv": 1179353,
+        "marketCap": 1179353,
+        "pairCreatedAt": 1789119329000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/NgvbaXmneLR1cpNY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/7kAlEB9HG8SM910X?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://embercurve.fun/t/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/embercatember?s=11",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x95a12c30d5637c7d9ce0ec268e82e69c6f6ba40b00471527e801cd2c669c0f71",
+        "pairAddress": "0x95a12c30d5637c7d9ce0ec268e82e69c6f6ba40b00471527e801cd2c669c0f71",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xeF70fd7642409bc0a50d2598eBB8FA56065471De",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000002525",
+        "priceUsd": "0.000006227",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 24.66,
+          "h6": 24.66,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 6164.63,
+          "base": 985925284,
+          "quote": 0.009999
+        },
+        "fdv": 6165,
+        "marketCap": 6165,
+        "pairCreatedAt": 1789112907000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/6s8cbekefulma37d7tvzuujj3lek2dj2tvhagfryd1vj",
+        "pairAddress": "6S8CBEkEfULma37d7TvzuUJJ3LEk2DJ2tvHAGfrYd1vJ",
+        "baseToken": {
+          "address": "94jVx7XRH3MHbgNzdk3bdWZsArZeMwkBr9antDRFpump",
+          "name": "EMBERCAT",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002521",
+        "priceUsd": "0.000002494",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 4,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 154.74,
+          "h6": 154.74,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 9.85,
+          "h24": 9.85
+        },
+        "liquidity": {
+          "usd": 2562.18,
+          "base": 852425263,
+          "quote": 4.4027
+        },
+        "fdv": 2460,
+        "marketCap": 2460,
+        "pairCreatedAt": 1785947760000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/rHXS_Z-7K6-ZcE4b?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/2PAvVlbKbv2iHcdy?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/94jVx7XRH3MHbgNzdk3bdWZsArZeMwkBr9antDRFpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.embercat.lol/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/embercat01",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteoradbc",
+        "url": "https://dexscreener.com/solana/h9erakbz8cfg83te1zachos5yvmdtdgzpbcr6k4e3jmk",
+        "pairAddress": "H9ERAKBZ8CFg83Te1ZAChoS5yVmdtDgZPBcR6k4e3JMk",
+        "baseToken": {
+          "address": "7L4DWW378BFXbQpAgvesGwNAQrCP9uLmXD3vDYUgJvzt",
+          "name": "EMBER CAT",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+          "name": "embercurve",
+          "symbol": "EMBER"
+        },
+        "priceNative": "0.0001085",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789127905000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteoradbc",
+        "url": "https://dexscreener.com/solana/fm2auec7x38mf5emrhvo4wnyandjvuwwxndsdo7pbuys",
+        "pairAddress": "Fm2aUEC7x38MF5EmrHvo4WNyANDjvUwwXNdSdo7Pbuys",
+        "baseToken": {
+          "address": "4Xhihx45jEJTTs6UVHEKibkTt5BZN3Zd5DRuHXHmv7mf",
+          "name": "EMBERCAT",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+          "name": "Meteora",
+          "symbol": "MET"
+        },
+        "priceNative": "0.00001980",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1788997257000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/ezxy1zrfkavqy7rr7fx8cdk1w2shprse1ckbvq6azrg9",
+        "pairAddress": "EzXY1zrFKaVQY7rr7Fx8cDk1W2sHPrsE1ckBvq6AzRG9",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000008779",
+        "priceUsd": "0.0008722",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 11,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 11,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 6.2,
+          "h6": 6.2,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 17.23,
+          "h24": 17.23
+        },
+        "liquidity": {
+          "usd": 0.13,
+          "base": 6E-06,
+          "quote": 0.001361
+        },
+        "fdv": 872239,
+        "marketCap": 872239,
+        "pairCreatedAt": 1789122508000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/NgvbaXmneLR1cpNY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/7kAlEB9HG8SM910X?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://embercurve.fun/t/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/embercatember?s=11",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/7m8guxjgjut5pi4lwfcsbbakkcfkpbojpjsr6xibv9uu",
+        "pairAddress": "7m8GuxjGjUT5pi4LwFcSBbAkKcFkpBojPjSR6XiBV9UU",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00001282",
+        "priceUsd": "0.001274",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 36,
+            "sells": 44
+          },
+          "h6": {
+            "buys": 191,
+            "sells": 127
+          },
+          "h24": {
+            "buys": 204,
+            "sells": 140
+          }
+        },
+        "volume": {
+          "h24": 72.5,
+          "h6": 72.27,
+          "h1": 2.85,
+          "m5": 0.04
+        },
+        "priceChange": {
+          "m5": -11.18,
+          "h1": -39.66,
+          "h6": 5797,
+          "h24": 5348
+        },
+        "liquidity": {
+          "usd": 2.48,
+          "base": 989.8213,
+          "quote": 0.01228
+        },
+        "fdv": 1274825,
+        "marketCap": 1274825,
+        "pairCreatedAt": 1789024514000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/NgvbaXmneLR1cpNY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/7kAlEB9HG8SM910X?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://embercurve.fun/t/8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/embercatember?s=11",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/5fu9p4nwgrmvifnjfqcdqr852tmsddkyefqajanftyhj",
+        "pairAddress": "5fu9p4NWgRMviFNJFQcdqr852TmsDdKYEfQAJaNfTYhj",
+        "baseToken": {
+          "address": "9FfDYEmpBimNXXQHSNDTdGHaUyyFhiGNBS38XaJUE8s9",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000009572",
+        "priceUsd": "0.00009544",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1000,
+            "sells": 20
+          },
+          "h24": {
+            "buys": 1000,
+            "sells": 20
+          }
+        },
+        "volume": {
+          "h24": 1121.83,
+          "h6": 1121.83,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 13.56,
+          "h24": 13.56
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.003236,
+          "quote": 4E-09
+        },
+        "fdv": 95446,
+        "marketCap": 95446,
+        "pairCreatedAt": 1789117947000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/cnen6vg1yw5sb4fz3gzj336vpattqecwbnnqzugjnvok",
+        "pairAddress": "CnEN6vG1Yw5SB4fZ3GZJ336vPATTqeCWbNnqzUGJnVoK",
+        "baseToken": {
+          "address": "4oTGjCsEQF2PL1MQTrxWDEDCVwkfcagao44HQiECaxkJ",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000009622",
+        "priceUsd": "0.00009599",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1002,
+            "sells": 16
+          },
+          "h24": {
+            "buys": 1002,
+            "sells": 16
+          }
+        },
+        "volume": {
+          "h24": 1165.98,
+          "h6": 1165.98,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 14.32,
+          "h24": 14.32
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.003228,
+          "quote": 4E-09
+        },
+        "fdv": 95994,
+        "marketCap": 95994,
+        "pairCreatedAt": 1789115226000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/fgpyd2pmdygl6ek14b69fe6jlzdsauwmxhvdphqdyhzh",
+        "pairAddress": "Fgpyd2PmDygL6eK14b69Fe6JLzDSaUwMxhvDPhQdyHZh",
+        "baseToken": {
+          "address": "5ywSKx3Cj6XdF6dHpCMP28P9f3LDDxQAW49J3x41ZNKp",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000009534",
+        "priceUsd": "0.00009502",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 962,
+            "sells": 17
+          },
+          "h24": {
+            "buys": 962,
+            "sells": 17
+          }
+        },
+        "volume": {
+          "h24": 1085,
+          "h6": 1085,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 13.81,
+          "h24": 13.81
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.003243,
+          "quote": 4E-09
+        },
+        "fdv": 95020,
+        "marketCap": 95020,
+        "pairCreatedAt": 1789114813000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/daydztdyv67zjjcryl4ex8v7gzw9rse6cutostd4zwce",
+        "pairAddress": "DaYdztdyV67zJJcRyL4eX8V7gZw9RSe6CutosTD4ZwCe",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "5ywSKx3Cj6XdF6dHpCMP28P9f3LDDxQAW49J3x41ZNKp",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000008589",
+        "priceUsd": "0.00008558",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 7,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 7,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.42,
+          "h6": 0.42,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 3837,
+          "h24": 3837
+        },
+        "liquidity": {
+          "usd": 0.04,
+          "base": 248.09078,
+          "quote": 0.0002194
+        },
+        "fdv": 85589,
+        "marketCap": 85589,
+        "pairCreatedAt": 1789114811000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/eoqhcybdc7cblbz1qmxchneelxexhzirm8js4mor1pbm",
+        "pairAddress": "EoQHCYbDC7CbLBZ1QMxCHNeELXExhZirM8Js4moR1pBM",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "4oTGjCsEQF2PL1MQTrxWDEDCVwkfcagao44HQiECaxkJ",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000008650",
+        "priceUsd": "0.00008634",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 6,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 0.34,
+          "h6": 0.34,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 3864,
+          "h24": 3864
+        },
+        "liquidity": {
+          "usd": 0.04,
+          "base": 247.2327,
+          "quote": 0.00022
+        },
+        "fdv": 86347,
+        "marketCap": 86347,
+        "pairCreatedAt": 1789115223000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/3mpy25jjgfc6447snicfybmaru52ajl88k55o5aw92r9",
+        "pairAddress": "3MPY25jJGFC6447SnicfYbMARu52AJL88K55o5aW92R9",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "9FfDYEmpBimNXXQHSNDTdGHaUyyFhiGNBS38XaJUE8s9",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000009095",
+        "priceUsd": "0.00009074",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 6,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.34,
+          "h6": 0.34,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 4068,
+          "h24": 4068
+        },
+        "liquidity": {
+          "usd": 0.04,
+          "base": 241.1852,
+          "quote": 0.0002255
+        },
+        "fdv": 90743,
+        "marketCap": 90743,
+        "pairCreatedAt": 1789117945000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/4rvnpwzvopfkh6mnpffvhkye7wjbtcen8bsxssj2zlke",
+        "pairAddress": "4RvNPwzvopFkH6MnpfFvHkyE7wjBtceN8BSxssj2zLke",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "UbCB2ssgc4JwjbbrAxFueRx3xNzJ8TUwq4kQnv2C1ML",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000009095",
+        "priceUsd": "0.00009081",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 6,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.34,
+          "h6": 0.34,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 4068,
+          "h24": 4068
+        },
+        "liquidity": {
+          "usd": 0.04,
+          "base": 241.1852,
+          "quote": 0.0002255
+        },
+        "fdv": 90816,
+        "marketCap": 90816,
+        "pairCreatedAt": 1789112343000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/dwpshvfabkqozbumq3avh59pmwqhph87hukvxqdvjrmj",
+        "pairAddress": "DwPsHVFabkqoZBuMq3avh59PmwQhPH87hukVXQDVjrmj",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "5fwwFiJSNPTFAUWPMLaqVLny1dcfqADZrgrm85GDywBJ",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000009094",
+        "priceUsd": "0.00009069",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 6,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.34,
+          "h6": 0.34,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 4068,
+          "h24": 4068
+        },
+        "liquidity": {
+          "usd": 0.04,
+          "base": 241.1913,
+          "quote": 0.0002255
+        },
+        "fdv": 90693,
+        "marketCap": 90693,
+        "pairCreatedAt": 1789118360000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/3sqfraqkrhuqb7d7xmyfrpcuyrd8gc9sga6uiixnhsmg",
+        "pairAddress": "3sQfRAQkRHUqB7d7xMyfrPcUyRD8GC9sGa6uiixNhsmG",
+        "baseToken": {
+          "address": "UbCB2ssgc4JwjbbrAxFueRx3xNzJ8TUwq4kQnv2C1ML",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000008754",
+        "priceUsd": "0.00008736",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 338,
+            "sells": 8
+          },
+          "h24": {
+            "buys": 338,
+            "sells": 8
+          }
+        },
+        "volume": {
+          "h24": 331.03,
+          "h6": 331.03,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 3.98,
+          "h24": 3.98
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.003385,
+          "quote": 3E-09
+        },
+        "fdv": 87364,
+        "marketCap": 87364,
+        "pairCreatedAt": 1789112346000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/b2enx9pmhg5eb686veqtcuwcqsrgtxxc39wkjvhcbjwk",
+        "pairAddress": "B2eNx9PMHG5eB686VeQtcUWcqsRgtxxC39wKJvhCbjwK",
+        "baseToken": {
+          "address": "5fwwFiJSNPTFAUWPMLaqVLny1dcfqADZrgrm85GDywBJ",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000008735",
+        "priceUsd": "0.00008707",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 262,
+            "sells": 8
+          },
+          "h24": {
+            "buys": 262,
+            "sells": 8
+          }
+        },
+        "volume": {
+          "h24": 313.07,
+          "h6": 313.07,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 3.64,
+          "h24": 3.64
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.003389,
+          "quote": 3E-09
+        },
+        "fdv": 87070,
+        "marketCap": 87070,
+        "pairCreatedAt": 1789118362000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/9jx7gsz4h1pewyboxwd49on9ckmehmaa4wsvcqws3foz",
+        "pairAddress": "9JX7GSZ4h1PEWyBoxwD49oN9cKmehmaa4WsVcqWs3Foz",
+        "baseToken": {
+          "address": "HkbF2eDG25pychRXez6bKKHSahrs7Chev7j5tX39Hg1D",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000001274",
+        "priceUsd": "0.00001266",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 712,
+            "sells": 894
+          },
+          "h6": {
+            "buys": 3727,
+            "sells": 2499
+          },
+          "h24": {
+            "buys": 3727,
+            "sells": 2499
+          }
+        },
+        "volume": {
+          "h24": 426593.92,
+          "h6": 426593.92,
+          "h1": 138174.7,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -32,
+          "h6": 49.04,
+          "h24": 49.04
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.00945,
+          "quote": 2E-09
+        },
+        "fdv": 12664,
+        "marketCap": 12664,
+        "pairCreatedAt": 1789122167000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "orca",
+        "url": "https://dexscreener.com/solana/hk6jkfmeizgp3ybgvcmjmmu1agmqgrxk5eidpjhjegcv",
+        "pairAddress": "HK6JkfmEiZgP3YbgVcmJMMU1aGmqGrXk5EidPjhjEGCv",
+        "labels": [
+          "wp"
+        ],
+        "baseToken": {
+          "address": "8gxYsM19TXy1rRZMJSWcvZmQHD7NavotDCxwhTHYLPuH",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.001823",
+        "priceUsd": "0.001823",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 5,
+            "sells": 2
+          },
+          "h6": {
+            "buys": 5,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 5,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 1106.6,
+          "h6": 1106.6,
+          "h1": 1106.6,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 3.31,
+          "base": 1.2703,
+          "quote": 3.3175
+        },
+        "fdv": 1823370,
+        "marketCap": 1823370,
+        "pairCreatedAt": 1789127257000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteoradbc",
+        "url": "https://dexscreener.com/solana/htpfbnaqnm9of7aetywrrkjuukqfr9ksbykgvgyvwswo",
+        "pairAddress": "HtpFbNaqnm9of7AeTYwrRKjUUkqFR9kSbyKgvGYvWsWo",
+        "baseToken": {
+          "address": "9E77jbfWq3myX2bCtUbKLf9nSB44kJDt3dDDAQsRYGSi",
+          "name": "EmberCat",
+          "symbol": "MCAT"
+        },
+        "quoteToken": {
+          "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+          "name": "Meteora",
+          "symbol": "MET"
+        },
+        "priceNative": "0.00001881",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 5,
+            "sells": 5
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789068584000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/56f7xf1gxmdmbjwd42tq7ax7xkqxkw3nq7vkhhifxkq7",
+        "pairAddress": "56f7XF1gxmdmBJwD42tQ7AX7xKqxKw3nQ7vKhHifXkq7",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "82hcxTu7r5kZMkkfK6EzkHtkZLRzVTDoqb33AdswNqjm",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000000006892",
+        "priceUsd": "0.0000000006875",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1360,
+            "sells": 1666
+          },
+          "h24": {
+            "buys": 1360,
+            "sells": 1666
+          }
+        },
+        "volume": {
+          "h24": 37438.15,
+          "h6": 37438.15,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -100,
+          "h24": -100
+        },
+        "liquidity": {
+          "usd": 0.89,
+          "base": 650640569,
+          "quote": 0.004443
+        },
+        "fdv": 1,
+        "marketCap": 1,
+        "pairCreatedAt": 1789112766000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/flm42jtuhc3b2jadt7nqfocfa9kdr5a83bxpfcutadnr",
+        "pairAddress": "FLM42jtuhc3b2jadT7nqfocFA9kDR5A83bxpfCUtAdnR",
+        "baseToken": {
+          "address": "7ykQY5aFSWn4rAPD3Zm7ofRkAodWZ1QZhizNir8YqhEV",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000001685",
+        "priceUsd": "0.000001679",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 350,
+            "sells": 110
+          },
+          "h24": {
+            "buys": 350,
+            "sells": 110
+          }
+        },
+        "volume": {
+          "h24": 16230.65,
+          "h6": 16230.65,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -80.17,
+          "h24": -80.17
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.02454,
+          "quote": 1E-09
+        },
+        "fdv": 1680,
+        "marketCap": 1680,
+        "pairCreatedAt": 1789121944000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/3q8cg8ogvxcqzmqyrgnsteic6x238j9rqqf38tllxbke",
+        "pairAddress": "3Q8cG8ogvxCqzMQyrgnsteiC6x238J9rQQF38tLLXBKe",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "HkbF2eDG25pychRXez6bKKHSahrs7Chev7j5tX39Hg1D",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002109",
+        "priceUsd": "0.000002097",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 40,
+            "sells": 40
+          },
+          "h6": {
+            "buys": 99,
+            "sells": 76
+          },
+          "h24": {
+            "buys": 99,
+            "sells": 76
+          }
+        },
+        "volume": {
+          "h24": 4.16,
+          "h6": 4.16,
+          "h1": 1.5,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -88.86,
+          "h6": 110,
+          "h24": 110
+        },
+        "liquidity": {
+          "usd": 0.05,
+          "base": 10799,
+          "quote": 0.0002778
+        },
+        "fdv": 2097,
+        "marketCap": 2097,
+        "pairCreatedAt": 1789122154000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteoradbc",
+        "url": "https://dexscreener.com/solana/8gj3xk4frsgi5sccqgks2bmxwzphiiexoyiqdsgaadvx",
+        "pairAddress": "8gJ3Xk4frsGi5sCCqGKs2bmXwzPHiiexoyiQdsgaadVX",
+        "baseToken": {
+          "address": "Cz5VnCYJsVMYicpprEmhSRybbJgvMjejM43i4TpXB2eJ",
+          "name": "Embercat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+          "name": "Zcash",
+          "symbol": "ZEC"
+        },
+        "priceNative": "0.000000003220",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1788996854000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteoradbc",
+        "url": "https://dexscreener.com/solana/8d8cphkq1ceczft1mavjoiuhvcexqcdctejzndu1xhc8",
+        "pairAddress": "8d8CpHkq1cEczfT1mAvjoiUhvcexqCDctejzndu1Xhc8",
+        "baseToken": {
+          "address": "HKk61qwWhzSnPUsXqLE2ZtkpfBkr8KQ8SqaGQvFgF47u",
+          "name": "embercat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+          "name": "embercurve",
+          "symbol": "EMBER"
+        },
+        "priceNative": "0.001095",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789085482000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/5vaobynxzqfzla7c2xu8d68byxqrix665ubbw6d7jcdm",
+        "pairAddress": "5VaobYnxzQFzLa7c2xU8d68bYXqRix665UbbW6d7JcDM",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "7ykQY5aFSWn4rAPD3Zm7ofRkAodWZ1QZhizNir8YqhEV",
+          "name": "Ember Cat",
+          "symbol": "EMBERCAT"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000008318",
+        "priceUsd": "0.0000008284",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 23,
+            "sells": 10
+          },
+          "h24": {
+            "buys": 23,
+            "sells": 10
+          }
+        },
+        "volume": {
+          "h24": 1.52,
+          "h6": 1.52,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -17.16,
+          "h24": -17.16
+        },
+        "liquidity": {
+          "usd": 0.03,
+          "base": 16224,
+          "quote": 0.0001849
+        },
+        "fdv": 828,
+        "marketCap": 828,
+        "pairCreatedAt": 1789121893000
+      }
+    ]
+  }
+}

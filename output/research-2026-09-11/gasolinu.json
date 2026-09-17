@@ -1,0 +1,661 @@
+{
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x0e83588ff3914c9801584d55d4dabf9d28880728d73ccff7394ded9aae02afa8",
+        "pairAddress": "0x0e83588ff3914c9801584d55d4dabf9d28880728d73ccff7394ded9aae02afa8",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0xa30FA36Db767ad9eD3f7a60fC79526fB4d56D344",
+          "name": "United States Oil Fund • Robinhood Token",
+          "symbol": "USO"
+        },
+        "priceNative": "0.00001449",
+        "priceUsd": "0.002287",
+        "txns": {
+          "m5": {
+            "buys": 5,
+            "sells": 4
+          },
+          "h1": {
+            "buys": 67,
+            "sells": 71
+          },
+          "h6": {
+            "buys": 488,
+            "sells": 598
+          },
+          "h24": {
+            "buys": 4020,
+            "sells": 4359
+          }
+        },
+        "volume": {
+          "h24": 2062514.31,
+          "h6": 179206.71,
+          "h1": 15268.88,
+          "m5": 836.7
+        },
+        "priceChange": {
+          "m5": -0.52,
+          "h1": 7.31,
+          "h6": 20.38,
+          "h24": 139
+        },
+        "liquidity": {
+          "usd": 474887.37,
+          "base": 111161754,
+          "quote": 1397.7193
+        },
+        "fdv": 2287666,
+        "marketCap": 2287666,
+        "pairCreatedAt": 1788376027000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xac33c99b9c06dbdb30851451e31759bcbf3def898c6dccbc29854a5714d13f71",
+        "pairAddress": "0xac33c99b9c06dbdb30851451e31759bcbf3def898c6dccbc29854a5714d13f71",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002047",
+        "priceUsd": "0.002050",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 2.91,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 4.5
+        },
+        "liquidity": {
+          "usd": 5507.41,
+          "base": 64.1887,
+          "quote": 5500.09573
+        },
+        "fdv": 2050657,
+        "marketCap": 2050657,
+        "pairCreatedAt": 1789057966000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x721afed4f270019da7712fc68ff5ea237dd34b3c0dc328a8f3d4c8d9fea2b473",
+        "pairAddress": "0x721afed4f270019da7712fc68ff5ea237dd34b3c0dc328a8f3d4c8d9fea2b473",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002012",
+        "priceUsd": "0.002012",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 2,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 565,
+            "sells": 514
+          }
+        },
+        "volume": {
+          "h24": 58359.76,
+          "h6": 12.59,
+          "h1": 12.22,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -6.76,
+          "h6": 5.46,
+          "h24": 52.44
+        },
+        "liquidity": {
+          "usd": 9.62,
+          "base": 138.7935,
+          "quote": 9.3473
+        },
+        "fdv": 2012082,
+        "marketCap": 2012082,
+        "pairCreatedAt": 1789055216000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x6d97144ae98d5735720d93bab835809199d7d45110aa36979f780ce253cb27ba",
+        "pairAddress": "0x6d97144ae98d5735720d93bab835809199d7d45110aa36979f780ce253cb27ba",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000008220",
+        "priceUsd": "0.002003",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 0.06,
+          "base": 28.437,
+          "quote": 5.042E-06
+        },
+        "fdv": 2003750,
+        "marketCap": 2003750,
+        "pairCreatedAt": 1789056481000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x8e140bf0411929f0c3bbfffa0147eb0d2b6dd3dae66f8dd1fd0c38deeb33304b",
+        "pairAddress": "0x8e140bf0411929f0c3bbfffa0147eb0d2b6dd3dae66f8dd1fd0c38deeb33304b",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0001446",
+        "priceUsd": "0.0001446",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.2,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 23.13
+        },
+        "liquidity": {
+          "usd": 0.12,
+          "base": 415.702,
+          "quote": 0.06013
+        },
+        "fdv": 144654,
+        "marketCap": 144654,
+        "pairCreatedAt": 1788946787000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xee1702a23b35f96cb2ec3afd962a9b18d416c4ef7d16541025164050bca237e6",
+        "pairAddress": "0xee1702a23b35f96cb2ec3afd962a9b18d416c4ef7d16541025164050bca237e6",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.004968",
+        "priceUsd": "0.004968",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 2.22,
+          "h6": 2.22,
+          "h1": 2.22,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 17.9,
+          "base": 1802.1203,
+          "quote": 8.9543
+        },
+        "fdv": 4968777,
+        "marketCap": 4968777,
+        "pairCreatedAt": 1788827541000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x4e9833dbc53e4095398c1d8f2cad2fd3e296375f8f55528daa1c445cbeda4e45",
+        "pairAddress": "0x4e9833dbc53e4095398c1d8f2cad2fd3e296375f8f55528daa1c445cbeda4e45",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000001553",
+        "priceUsd": "0.0003798",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.53,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 0.54,
+          "base": 714.884,
+          "quote": 0.000111
+        },
+        "fdv": 379890,
+        "marketCap": 379890,
+        "pairCreatedAt": 1788449287000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xeb380314935e6bcfe5a74bd87c151d7252aed978f17ca519796ab505e01e89a9",
+        "pairAddress": "0xeb380314935e6bcfe5a74bd87c151d7252aed978f17ca519796ab505e01e89a9",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000002328",
+        "priceUsd": "0.0005725",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.38,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 0.33,
+          "base": 290.6935,
+          "quote": 6.769E-05
+        },
+        "fdv": 572587,
+        "marketCap": 572587,
+        "pairCreatedAt": 1788946753000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x4cc2bae47183a583c1cbb0d3dfad4457b18be1ba8da8b4fda709cb6b3cdbd96b",
+        "pairAddress": "0x4cc2bae47183a583c1cbb0d3dfad4457b18be1ba8da8b4fda709cb6b3cdbd96b",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1e6EA1e89151cDc8443968Bf047cfa3177181e18",
+          "name": "Gasoline Inu",
+          "symbol": "GASOLINU"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.004246",
+        "priceUsd": "0.004251",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 4.36,
+          "base": 513.2531,
+          "quote": 2.1794
+        },
+        "fdv": 4251889,
+        "marketCap": 4251889,
+        "pairCreatedAt": 1788786410000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/-ofkkdpoiUetchZI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vesxDl43lfGmUyNL?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1e6ea1e89151cdc8443968bf047cfa3177181e18?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gasolinu.fun/#pair",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gasolineinu",
+              "type": "twitter"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "capturedAt": "2026-09-11T12:14:51.5247154Z",
+  "query": "gasolinu"
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "method": "eth_chainId",
+    "params": [],
+    "response": {
+      "error": "HTTP Error 403: Forbidden"
+    }
+  },
+  {
+    "method": "eth_getCode",
+    "params": [
+      "0x4eb990547bce4a982432ca88cf5fae7eed1a2d35",
+      "latest"
+    ],
+    "response": {
+      "error": "HTTP Error 403: Forbidden"
+    }
+  },
+  {
+    "method": "eth_call",
+    "params": [
+      {
+        "to": "0x4eb990547bce4a982432ca88cf5fae7eed1a2d35",
+        "data": "0x06fdde03"
+      },
+      "latest"
+    ],
+    "response": {
+      "error": "HTTP Error 403: Forbidden"
+    }
+  },
+  {
+    "method": "eth_call",
+    "params": [
+      {
+        "to": "0x4eb990547bce4a982432ca88cf5fae7eed1a2d35",
+        "data": "0x95d89b41"
+      },
+      "latest"
+    ],
+    "response": {
+      "error": "HTTP Error 403: Forbidden"
+    }
+  },
+  {
+    "method": "eth_call",
+    "params": [
+      {
+        "to": "0x4eb990547bce4a982432ca88cf5fae7eed1a2d35",
+        "data": "0x18160ddd"
+      },
+      "latest"
+    ],
+    "response": {
+      "error": "HTTP Error 403: Forbidden"
+    }
+  },
+  {
+    "method": "eth_call",
+    "params": [
+      {
+        "to": "0x4eb990547bce4a982432ca88cf5fae7eed1a2d35",
+        "data": "0x313ce567"
+      },
+      "latest"
+    ],
+    "response": {
+      "error": "HTTP Error 403: Forbidden"
+    }
+  },
+  {
+    "method": "eth_getTransactionReceipt",
+    "params": [
+      "0x1b3cda17f6456c9a4a67989770be97812e6ca67b3f1f1fb85d2ff04645484932"
+    ],
+    "response": {
+      "error": "HTTP Error 403: Forbidden"
+    }
+  }
+]

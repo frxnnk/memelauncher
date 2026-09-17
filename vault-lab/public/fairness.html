@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f7f5">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Vault — Public ledger</title>
+  <meta name="description" content="Published rules, on-chain deposits, and every attempt on this Vault round. Operator records, not a TEE.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/fonts/instrument-sans.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/landing.css">
+  <link rel="stylesheet" href="/fairness.css">
+  <script type="module" src="/fairness.js"></script>
+</head>
+<body class="fairness-page">
+  <a class="skip-link" href="#ledger">Skip to the ledger</a>
+  <header class="site-header page-width">
+    <a class="wordmark" href="/" aria-label="Vault home">vault<span class="brand-dot">.</span></a>
+    <nav aria-label="Main navigation">
+      <a href="/fairness" aria-current="page">Ledger</a>
+      <a class="nav-play" href="/play">Play <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+  <main id="ledger" class="fairness page-width">
+    <p class="edition" id="fairness-edition">Closed paid beta</p>
+    <h1>Public ledger.</h1>
+    <p class="fairness-lede">Every paid attempt on this server is listed here: who paid, what the model did, and how the pot moved. This is <strong>operator transparency</strong>, the Freysa model — not a cryptographic guarantee that Claude ran inside a TEE.</p>
+    <div class="fairness-stamps" id="fairness-stamps" aria-live="polite"></div>
+    <section class="fairness-grid" aria-labelledby="rules-title">
+      <div>
+        <h2 id="rules-title">Published rules</h2>
+        <dl class="fairness-dl" id="fairness-rules"></dl>
+      </div>
+      <div>
+        <h2>What this does not prove</h2>
+        <ul class="fairness-limits" id="fairness-limits"></ul>
+      </div>
+    </section>
+    <section aria-labelledby="deposits-title">
+      <h2 id="deposits-title">On-chain deposits</h2>
+      <p class="fairness-help">Credited Robinhood testnet transfers into treasury. Unsigned or expired orders are omitted.</p>
+      <div class="fairness-table-wrap" id="fairness-deposits"></div>
+    </section>
+    <section aria-labelledby="attempts-title">
+      <h2 id="attempts-title">Every attempt</h2>
+      <p class="fairness-help">Ledger rows for all players. Prompt text is in the transcripts below. Playing publishes your argument.</p>
+      <div class="fairness-table-wrap" id="fairness-attempts"></div>
+    </section>
+    <section aria-labelledby="transcripts-title">
+      <h2 id="transcripts-title">Transcripts</h2>
+      <p class="fairness-help">Operator receipts: requested model, tool call, decision. Not independent attestation of weights.</p>
+      <div id="fairness-transcripts"></div>
+    </section>
+    <section aria-labelledby="prompt-title">
+      <h2 id="prompt-title">Guardian prompt &amp; tools</h2>
+      <div id="fairness-prompt"></div>
+    </section>
+  </main>
+  <footer class="site-footer page-width">
+    <a class="footer-brand" href="/">vault.</a>
+    <p><a href="/play">Play</a></p>
+    <div><span class="footer-practice" id="fairness-footer">Operator records</span></div>
+  </footer>
+</body>
+</html>

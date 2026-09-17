@@ -1,0 +1,413 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-12T06:21:15Z",
+  "stories": [
+    {
+      "id": "preipo-opens",
+      "title": "Se abre la puerta al pre-IPO de IA",
+      "clusterId": "ai-stocks",
+      "mode": "snapshot",
+      "sourceEvidenceIds": [
+        "x-long-preipo",
+        "x-okx-preipo",
+        "okx-docs-preipo"
+      ],
+      "sourceUrls": [
+        "https://x.com/longdotxyz/status/2098554655110480307",
+        "https://x.com/okx/status/2097958461254590855",
+        "https://www.okx.com/en-us/learn/pre-ipo-x-perps-explained-eea"
+      ],
+      "publishedAt": "2026-09-11T23:29:00Z",
+      "firstSeenAt": null,
+      "firstMarketObservedAt": "2026-09-12T06:02:13.449Z",
+      "firstLaunchAt": null,
+      "timingNote": "Fecha del anuncio LONG; OKX publico antes, el 10/9. Mercado: primera captura incluida en map-market.json, no primera operacion ni primer hallazgo historico. No se conoce la primera deteccion del usuario ni el primer lanzamiento de la narrativa. Todas las interpretaciones se proponen ahora; no son hallazgos historicos ni nombres disponibles verificados. EXPLORE significa compararlas de inmediato, sin esperar comunidad previa ni autorizar un lanzamiento.",
+      "interpretations": [
+        {
+          "id": "preipo-waiting-room",
+          "title": "La sala de espera del IPO",
+          "angle": "association",
+          "pitch": "Hipotesis: la imagen de traders acampando ante una puerta que aun no abre puede condensar el deseo de entrar temprano en una escena facil de compartir.",
+          "whatItDoes": "Una sala de espera con personajes ficticios y tickets que representan expectativa; cada noticia comprobada cambia la escena, sin simular propiedad de acciones.",
+          "whyNow": "El snapshot contiene un nuevo acceso pre-IPO; permite proponer una escena sobre anticipacion antes de que exista adopcion del personaje.",
+          "distinctiveElement": "El protagonista es la espera y su absurdo, con una puerta que nunca se presenta como una IPO confirmada.",
+          "minimumBuild": "Una escena web, tres estados editoriales y una ficha con la noticia exacta; conceptos de nombre y ticker por validar.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "CATGPT y ANTHROPIG representan la familia IA/pre-IPO; no se busco esta expresion exacta ni se comprobo que este libre.",
+          "relatedMarketNodeIds": [
+            "catgpt",
+            "anthropig"
+          ],
+          "basisEvidenceIds": [
+            "x-long-preipo",
+            "x-okx-preipo"
+          ],
+          "quickCheck": "Comparar hoy tres bocetos de la sala y revisar si alguno cuenta la noticia sin explicacion; hacer una busqueda puntual del nombre antes de elegirlo.",
+          "discardIf": "La escena se confunde con una venta oficial de acciones o solo resulta un logo de IA con otro nombre.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Extrae una situacion nueva del catalizador sin depender de otro animal ni de que ya exista un token liquido."
+        },
+        {
+          "id": "preipo-news-bell",
+          "title": "La campana de los dos laboratorios",
+          "angle": "mechanic",
+          "pitch": "Hipotesis: dos campanas que reaccionan a anuncios verificables pueden convertir una carrera abstracta entre laboratorios en un ritual visual reconocible.",
+          "whatItDoes": "Dos puestos ficticios reaccionan a noticias de OpenAI y Anthropic con reglas visibles; cada evento abre una animacion y conserva la fuente que la disparo.",
+          "whyNow": "Los dos nombres aparecen juntos en el anuncio del snapshot; la interpretacion propone un mecanismo comparable ahora, no una carrera ya medida.",
+          "distinctiveElement": "El cambio de escena depende de una noticia identificada y una regla declarada, no de un narrador que atribuye intenciones a una IA.",
+          "minimumBuild": "Reproducir tres noticias guardadas con activacion manual identificada; decidir luego si compensa automatizar la ingestion.",
+          "buildEstimate": "hours",
+          "competitionStatus": "not_checked",
+          "competitionNote": "No se investigo si existe este ritual exacto; los pares IA observados no resuelven esa pregunta.",
+          "relatedMarketNodeIds": [
+            "catgpt",
+            "anthropig"
+          ],
+          "basisEvidenceIds": [
+            "x-long-preipo"
+          ],
+          "quickCheck": "Reproducir el mismo titular en dos escenas y comprobar si el gesto tiene gracia antes de construir un feed vivo.",
+          "discardIf": "Solo produce un contador de noticias sin un gesto memorable o necesita inventar hitos para parecer activo.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Permite contrastar una interpretacion mecanica con una identidad puramente visual en la misma historia."
+        },
+        {
+          "id": "preipo-imaginary-board-seat",
+          "title": "Accionista sin silla",
+          "angle": "cultural",
+          "pitch": "Hipotesis: un trader llega a la reunion de accionistas con un recibo de derivados y descubre que no tiene silla; el choque entre expectativa y derecho real puede sostener el chiste.",
+          "whatItDoes": "Una serie corta muestra a un personaje ficticio intentando usar su exposicion de precio como si fueran privilegios de accionista.",
+          "whyNow": "Los documentos del snapshot aclaran que el acceso pre-IPO no entrega acciones; esa diferencia produce una situacion comica concreta.",
+          "distinctiveElement": "El recibo y la silla vacia hacen visible el malentendido; no se atribuye la escena a una empresa real.",
+          "minimumBuild": "Un triptico original y una version animada de diez segundos; confirmar comprension sin texto tecnico largo.",
+          "buildEstimate": "hours",
+          "competitionStatus": "not_checked",
+          "competitionNote": "No se buscaron personajes o tokens con esta premisa; no se afirma originalidad global.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [
+            "okx-docs-preipo"
+          ],
+          "quickCheck": "Comparar la escena contra la sala de espera: elegir solo si el conflicto se entiende de inmediato y no requiere una clase de derivados.",
+          "discardIf": "La gracia depende de explicar normativa o hace creer que los tenedores tienen derechos accionarios.",
+          "disposition": "REWORK",
+          "decisionReason": "Tiene una tension cultural precisa, pero necesita resolver su expresion visual antes de priorizarla."
+        }
+      ]
+    },
+    {
+      "id": "draftkings-onchain",
+      "title": "DraftKings aparece como activo en Solana",
+      "clusterId": "stocks-dkng",
+      "mode": "snapshot",
+      "sourceEvidenceIds": [
+        "x-solana-dkng",
+        "x-solana-dkng-detail"
+      ],
+      "sourceUrls": [
+        "https://x.com/solana/status/2098504287672267068",
+        "https://x.com/solana/status/2098504290998338029"
+      ],
+      "publishedAt": "2026-09-11T20:09:00Z",
+      "firstSeenAt": null,
+      "firstMarketObservedAt": "2026-09-12T06:02:17.445Z",
+      "firstLaunchAt": null,
+      "timingNote": "Se conoce el anuncio de Solana y la captura ALLINU/DKNG del dataset; no la primera deteccion del usuario ni el primer meme lanzado. No se actualizo el snapshot para esta generacion. Las tres ideas son propuestas nuevas y no acreditan asociacion comercial con DraftKings, Sunrise o Backpack.",
+      "interpretations": [
+        {
+          "id": "dkng-wall-street-sportsbook",
+          "title": "La mesa de Wall Street se vuelve tribuna",
+          "angle": "association",
+          "pitch": "Hipotesis: el mismo personaje analiza una accion con traje y la festeja con camiseta; fusionar esas dos conductas puede expresar el cruce stock/apuesta en una imagen.",
+          "whatItDoes": "Una mesa bursatil se transforma en tribuna cuando llega una noticia; usa referencias ficticias y distingue el token meme del instrumento DKNG.",
+          "whyNow": "El anuncio DKNG del snapshot ofrece una asociacion concreta entre una plataforma de apuestas y un activo negociable onchain.",
+          "distinctiveElement": "La transformacion traje/camiseta cuenta la noticia; elegir DKNG como quote seria una decision separada por verificar.",
+          "minimumBuild": "Un storyboard de transformacion, escena animada y ficha de fuentes; revisar nombre y viabilidad del par sin ejecutar operaciones.",
+          "buildEstimate": "hours",
+          "competitionStatus": "partial",
+          "competitionNote": "ALLINU/DKNG ocupa parte de la asociacion apuestas/stock. No se reviso este personaje o escena exacta.",
+          "relatedMarketNodeIds": [
+            "allinu"
+          ],
+          "basisEvidenceIds": [
+            "x-solana-dkng",
+            "x-solana-dkng-detail"
+          ],
+          "quickCheck": "Comparar un boceto con ALLINU y otros referentes visibles: exigir que tenga una escena propia, no solo otra forma de decir all-in.",
+          "discardIf": "Todo su atractivo se reduce al ticker DKNG o parece contenido oficial de DraftKings.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Cruza dos comportamientos culturales ligados al hecho y permite evaluar un brief concreto enseguida."
+        },
+        {
+          "id": "dkng-last-leg-analyst",
+          "title": "El analista de la ultima pata",
+          "angle": "character",
+          "pitch": "Hipotesis: un analista impecable al que siempre le falla el ultimo casillero del pronostico mezcla autoridad financiera y frustracion deportiva reconocible.",
+          "whatItDoes": "Un personaje ficticio presenta recibos absurdos de predicciones; el ultimo casillero cambia el desenlace de cada escena.",
+          "whyNow": "La llegada de DKNG en el snapshot sirve como disparador editorial; el personaje puede existir aunque no se elija ese quote.",
+          "distinctiveElement": "Un unico rasgo estable: todo el despliegue de analisis termina pendiente de un detalle ridiculo.",
+          "minimumBuild": "Ficha del personaje, tres episodios y un generador local de recibos ficticios, sin apuestas ni premios.",
+          "buildEstimate": "hours",
+          "competitionStatus": "not_checked",
+          "competitionNote": "El humor sobre el ultimo resultado ya es una familia amplia; no se revisaron nombres o identidades exactas.",
+          "relatedMarketNodeIds": [
+            "allinu"
+          ],
+          "basisEvidenceIds": [
+            "x-solana-dkng-detail"
+          ],
+          "quickCheck": "Escribir tres episodios distintos en diez minutos; comparar si el mismo rasgo produce situaciones sin repetir el primer chiste.",
+          "discardIf": "No aparece una personalidad propia o solo funciona prometiendo aciertos, pagos o una ventaja para apostar.",
+          "disposition": "REWORK",
+          "decisionReason": "El personaje da continuidad, pero debe diferenciarse de un formato deportivo ya conocido."
+        },
+        {
+          "id": "dkng-headline-parlay",
+          "title": "Parlay de titulares",
+          "angle": "mechanic",
+          "pitch": "Hipotesis: ver tres titulares encajar en un recibo imposible puede hacer visible la costumbre de inventar una gran tesis a partir de noticias sueltas.",
+          "whatItDoes": "Una herramienta mezcla tres titulares publicados en un recibo satirico y explica que conexion es factual y cual invento el autor; no calcula cuotas ni acepta dinero.",
+          "whyNow": "El cruce DKNG/mercado del snapshot permite satirizar como se construyen narrativas, sin necesitar un partido ni un token previo.",
+          "distinctiveElement": "El usuario comparte su teoria visual; cada titular conserva su enlace y las asociaciones inventadas aparecen marcadas.",
+          "minimumBuild": "Selector de seis titulares del snapshot, tres espacios y exportacion de imagen; sin feed automatico inicial.",
+          "buildEstimate": "hours",
+          "competitionStatus": "not_checked",
+          "competitionNote": "No se comprobaron generadores o monedas equivalentes; ALLINU solo es un referente del par observado.",
+          "relatedMarketNodeIds": [
+            "allinu"
+          ],
+          "basisEvidenceIds": [
+            "x-solana-dkng",
+            "x-solana-dkng-detail"
+          ],
+          "quickCheck": "Generar tres recibos y comprobar si la incongruencia es graciosa sin sugerir una relacion economica falsa.",
+          "discardIf": "El resultado parece una recomendacion o se necesita desinformacion para conectar las noticias.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Ofrece una accion compartible distinta del personaje y puede compararse con un prototipo minimo."
+        }
+      ]
+    },
+    {
+      "id": "steel-verdict",
+      "title": "Una absolucion convierte al abogado en personaje",
+      "clusterId": "steel",
+      "mode": "snapshot",
+      "sourceEvidenceIds": [
+        "x-cuniff-verdict",
+        "x-cuniff-custody",
+        "x-fearbuck-steel",
+        "x-kira-steel"
+      ],
+      "sourceUrls": [
+        "https://x.com/meghanncuniff/status/2098566297483383085",
+        "https://x.com/meghanncuniff/status/2098569494017024085",
+        "https://x.com/FearedBuck/status/2098567760829661472",
+        "https://x.com/kirawontmiss/status/2098571313908523312"
+      ],
+      "publishedAt": "2026-09-12T00:16:00Z",
+      "firstSeenAt": null,
+      "firstMarketObservedAt": "2026-09-12T06:02:18.723Z",
+      "firstLaunchAt": null,
+      "timingNote": "El reporte del juicio precede por unos minutos al post 2-for-2. La primera deteccion del usuario y la hora del primer token no constan aqui. STEEL ya figura en el snapshot; no invalida explorar otra interpretacion ni demuestra demanda de ella. Las propuestas se generan ahora y no convierten dos casos en resultados juridicos equivalentes.",
+      "interpretations": [
+        {
+          "id": "steel-lawyer-mvp",
+          "title": "El abogado entra al vestuario",
+          "angle": "character",
+          "pitch": "Hipotesis: tratar al abogado como el MVP que vuelve al vestuario convierte el marcador 2-for-2 en un personaje y una escena mas amplia que una foto con ticker.",
+          "whatItDoes": "Una serie satirica muestra al defensor como estrella deportiva con carpeta, marcador y conferencias ficticias claramente separadas de la noticia real.",
+          "whyNow": "FearBuck y Kira ya muestran el salto de noticia a personaje en el snapshot; esta propuesta explora una escena nueva sobre ese salto.",
+          "distinctiveElement": "Mantener carpeta y traje como atributos del personaje dentro de un entorno deportivo inesperado.",
+          "minimumBuild": "Tres escenas originales y una ficha que separe hecho judicial de hiperbóle; nombres y uso de imagen por revisar.",
+          "buildEstimate": "hours",
+          "competitionStatus": "represented",
+          "competitionNote": "STEEL ya representa al abogado en un token observado; esta variante visual no fue buscada y no se considera libre.",
+          "relatedMarketNodeIds": [
+            "steel"
+          ],
+          "basisEvidenceIds": [
+            "x-fearbuck-steel",
+            "x-kira-steel"
+          ],
+          "quickCheck": "Comparar la escena vestuario con el dipitico original: continuar solo si aporta un chiste nuevo reconocible en segundos.",
+          "discardIf": "Es solo otra portada del mismo personaje o requiere afirmar que Durk fue liberado.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Una identidad ya representada aun permite comparar expresiones nuevas; el brief no espera a que otro token demuestre liquidez."
+        },
+        {
+          "id": "steel-impossible-defense",
+          "title": "Defendeme esta",
+          "angle": "mechanic",
+          "pitch": "Hipotesis: entregar al abogado un caso cotidiano indefendible y recibir una defensa absurda hace participativo el meme de que puede defenderlo todo.",
+          "whatItDoes": "Un generador combina situaciones ficticias de oficina o internet con argumentos humoristicos preescritos y produce una tarjeta compartible.",
+          "whyNow": "La exageracion de Kira da un mecanismo concreto que puede ensayarse de inmediato a partir del snapshot.",
+          "distinctiveElement": "La entrada del usuario es el chiste; la salida es un alegato breve de comedia, no una respuesta legal o una prediccion judicial.",
+          "minimumBuild": "Diez situaciones ficticias, diez respuestas editadas y una tarjeta exportable; no requiere un modelo generativo.",
+          "buildEstimate": "hours",
+          "competitionStatus": "not_checked",
+          "competitionNote": "No se reviso esta herramienta o expresion exacta; el token STEEL es competencia de personaje, no prueba de la mecanica.",
+          "relatedMarketNodeIds": [
+            "steel"
+          ],
+          "basisEvidenceIds": [
+            "x-kira-steel",
+            "x-fearbuck-steel"
+          ],
+          "quickCheck": "Probar cinco combinaciones localmente y descartar las que dependen de acusar a personas reales o explicar demasiado contexto.",
+          "discardIf": "Las respuestas son intercambiables con cualquier chatbot o necesitan casos reales sensibles para funcionar.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Convierte la interpretacion cultural en una accion concreta con un minimo construible en horas."
+        }
+      ]
+    },
+    {
+      "id": "acme-resignation",
+      "title": "La alarma de IA se transforma en renuncia a ACME",
+      "clusterId": "acme",
+      "mode": "snapshot",
+      "sourceEvidenceIds": [
+        "x-coxon-origin",
+        "x-acme-parody",
+        "x-acme-roadrunner-reaction"
+      ],
+      "sourceUrls": [
+        "https://x.com/hilbertspaess/status/2097476196791709843",
+        "https://x.com/jaeporeon/status/2097861672274743520",
+        "https://x.com/juanstoppable/status/2098138766481182873"
+      ],
+      "publishedAt": "2026-09-10T01:36:00Z",
+      "firstSeenAt": null,
+      "firstMarketObservedAt": null,
+      "firstLaunchAt": null,
+      "timingNote": "La fecha corresponde al subtipo ACME; el origen de la plantilla es del 9/9. La expresion tenia mas de dos dias en el snapshot, no es una novedad recien descubierta. map-market.json no contiene un activo ACME exacto; esto no indica ausencia de competidores. Las interpretaciones siguientes nacen con esta generacion.",
+      "interpretations": [
+        {
+          "id": "acme-resignation-template",
+          "title": "Renuncio a la fabrica de catastrofes",
+          "angle": "cultural",
+          "pitch": "Hipotesis: trasladar el lenguaje solemne de riesgo a una fabrica de objetos absurdos funciona por contraste inmediato entre tono y producto.",
+          "whatItDoes": "Un generador sustituye empresa y producto en cartas satiricas de renuncia.",
+          "whyNow": "La plantilla y el subtipo ACME ya aparecen en el snapshot; sirven como referencia, no como descubrimiento fresco.",
+          "distinctiveElement": "La propuesta tal como esta no añade un elemento fuerte al formato que ya publico Jae Holzman.",
+          "minimumBuild": "Tres cartas nuevas bastan para comparar; no construir un generador antes de encontrar una diferencia real.",
+          "buildEstimate": "hours",
+          "competitionStatus": "represented",
+          "competitionNote": "El post ACME ya materializa esta interpretacion cultural. La ocupacion de tickers no se reviso aqui.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [
+            "x-acme-parody",
+            "x-coxon-origin"
+          ],
+          "quickCheck": "Comparar cada carta con la original y señalar que experiencia añade ademas de reemplazar palabras.",
+          "discardIf": "La unica diferencia es el nombre de la empresa o el objeto peligroso.",
+          "disposition": "PASS",
+          "decisionReason": "La version propuesta repite el giro ya observado y llega tarde a esa expresion concreta."
+        },
+        {
+          "id": "acme-self-painting-tunnel",
+          "title": "El tunel se pinta solo",
+          "angle": "mechanic",
+          "pitch": "Hipotesis: ver al pincel automatico fabricar la trampa un segundo antes de que el personaje llegue convierte un texto absurdo en un gag observable.",
+          "whatItDoes": "Una escena web genera tuneles falsos delante de un personaje original; el espectador mueve un punto y ve al sistema perseguir el objetivo con reglas visibles.",
+          "whyNow": "La frase del snapshot contiene una accion literal todavia representable de otra forma; la novedad propuesta seria la experiencia, no la fecha del post.",
+          "distinctiveElement": "La pantalla muestra la secuencia objetivo, pincel y resultado; es automatizacion programada, sin presentarla como AGI o aprendizaje si no lo hay.",
+          "minimumBuild": "Un canvas, personaje original, tres obstaculos y repeticion exportable de diez segundos; interaccion local sin backend.",
+          "buildEstimate": "hours",
+          "competitionStatus": "not_checked",
+          "competitionNote": "No se busco una experiencia equivalente; el texto ACME es antecedente conocido, no prueba de que la mecanica este libre.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [
+            "x-acme-parody",
+            "x-acme-roadrunner-reaction"
+          ],
+          "quickCheck": "Construir una animacion minima y compararla sin explicacion contra el post: debe comunicar una accion nueva en segundos.",
+          "discardIf": "Solo ilustra la misma frase sin sorpresa o depende de atribuir capacidades tecnicas inexistentes al sistema.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Una noticia vieja puede producir una interpretacion nueva; esta se compara por su demostracion y costo, sin exigir comunidad previa."
+        }
+      ]
+    },
+    {
+      "id": "fly-retrospective",
+      "title": "Una mosca simulada: origen, personaje o accion observable",
+      "clusterId": "fly-retrospective",
+      "mode": "retrospective",
+      "sourceEvidenceIds": [],
+      "sourceUrls": [
+        "https://github.com/fruitflydev/flycoinrh",
+        "https://flybrain.online/"
+      ],
+      "publishedAt": null,
+      "firstSeenAt": null,
+      "firstMarketObservedAt": null,
+      "firstLaunchAt": null,
+      "timingNote": "Ejercicio retrospectivo pedido por el usuario, no hallazgo temprano de hoy. README.md describe BELLFLY local sin token ni executor vivo; docs/competitor-flybrain/REVIEW.md contiene una revision historica del competidor y sus enlaces, sin refresco de red aqui. Un deployment fechado en ese documento no acredita el primer lanzamiento de la narrativa. No se conoce cuando vio la noticia el usuario. Google es una asociacion de su ejemplo, no una afiliacion verificada. Las ideas se crean ahora y no se retrofechan.",
+      "interpretations": [
+        {
+          "id": "fly-google-origin",
+          "title": "Mosca + Google: ejemplo del usuario, origen por verificar",
+          "angle": "association",
+          "pitch": "Hipotesis: una procedencia cientifica que el publico reconoce puede darle significado a la mosca antes de que tenga personaje; Google solo figura como ejemplo no verificado del usuario.",
+          "whatItDoes": "Una ficha visual conecta noticia, autores, dataset, modelo y experimento para construir la identidad a partir de una procedencia comprobable.",
+          "whyNow": "Se incluye para mostrar la primera bifurcacion que el radar deberia proponer al ver la noticia; no afirma que esa ventana siga abierta.",
+          "distinctiveElement": "La asociacion nace de una fuente exacta y de su papel real; usar GOOGL como quote no demostraria autoria o respaldo de Google.",
+          "minimumBuild": "Verificar la noticia primaria y el papel de cada organizacion; solo entonces producir una identidad visual y un nombre provisional.",
+          "buildEstimate": "unknown",
+          "competitionStatus": "partial",
+          "competitionNote": "FLYBRAIN ya consta en el dossier local. No se verifico el origen Google ni la ocupacion de conceptos basados en esa asociacion.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [],
+          "quickCheck": "Localizar la fuente primaria que el usuario tenia en mente y escribir en una frase quien hizo que; sin esa evidencia no usar la marca como origen.",
+          "discardIf": "La asociacion solo procede del quote, una repeticion de terceros o una atribucion que no puede sostenerse.",
+          "disposition": "REWORK",
+          "decisionReason": "Es una rama legitima para estudiar de inmediato, pero el ejemplo de origen aun no tiene evidencia suficiente para convertirse en afirmacion."
+        },
+        {
+          "id": "fly-button-character",
+          "title": "La mosca frente al boton",
+          "angle": "character",
+          "pitch": "Hipotesis: una mosca diminuta ante un boton desproporcionado produce tension visual incluso para quien no entiende el modelo neural.",
+          "whatItDoes": "Un personaje original se distrae con azucar, rodea el boton y genera pequenas escenas; cualquier movimiento dibujado se distingue de una salida real del modelo.",
+          "whyNow": "Es la rama de personaje que habria que comparar al detectar la noticia; aqui se propone retrospectivamente, con un competidor ya conocido.",
+          "distinctiveElement": "Personalidad definida por la distraccion y la escala del objeto, no solo una foto de mosca con nombre de laboratorio.",
+          "minimumBuild": "Tres escenas de diez segundos y una ficha de comportamiento que identifique que es animacion y que procede de una simulacion.",
+          "buildEstimate": "hours",
+          "competitionStatus": "represented",
+          "competitionNote": "El competidor FLYBRAIN ya ocupa la asociacion mosca/launchpad segun la revision local; la nueva personalidad no fue buscada.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [],
+          "basisSourceFiles": [
+            "docs/competitor-flybrain/REVIEW.md"
+          ],
+          "quickCheck": "Comparar los tres gags con la presentacion documentada de FLYBRAIN; exigir un rasgo propio que sobreviva sin mencionar ciencia o token.",
+          "discardIf": "Solo cambia el nombre de la mosca o debe fingir que la animacion es una decision neural para interesar.",
+          "disposition": "REWORK",
+          "decisionReason": "La mosca ya es un personaje disponible, pero otra mascota exige una diferencia concreta frente al antecedente."
+        },
+        {
+          "id": "fly-observable-trigger",
+          "title": "La mosca puede decir que no",
+          "angle": "mechanic",
+          "pitch": "Hipotesis: observar un modelo que puede activar o no una senal, bajo la misma regla visible, crea una expectativa mas concreta que afirmar que una mosca decide todo.",
+          "whatItDoes": "Un modelo publicado produce spikes; un decodificador fijado de antemano cambia una senal visible entre SI, NO e INVALIDO y conserva los resultados para replay.",
+          "whyNow": "Es la rama mecanica extraible de la misma noticia; BELLFLY ya aporta una base local documentada, pero su existencia no demuestra demanda ni prioridad historica.",
+          "distinctiveElement": "El NO tiene consecuencias visibles y se conserva junto al SI; el script interpreta una regla explicita sin atribuir comprension financiera al modelo.",
+          "minimumBuild": "Usar las corridas positiva, negativa y ablacion documentadas para una demostracion reproducible con contador y replay; la senal no ejecuta una emision real.",
+          "buildEstimate": "days",
+          "competitionStatus": "partial",
+          "competitionNote": "La revision local describe un competidor con modelo y capa programada de lanzamiento. No demuestra que esta regla SI/NO sea unica ni compara todas las implementaciones.",
+          "relatedMarketNodeIds": [],
+          "basisEvidenceIds": [],
+          "basisSourceFiles": [
+            "README.md",
+            "docs/competitor-flybrain/REVIEW.md"
+          ],
+          "quickCheck": "Reproducir las tres condiciones existentes y verificar que la misma regla explica el resultado y que el espectador distingue modelo, decodificador y accion.",
+          "discardIf": "El sistema siempre fuerza SI, altera la regla despues del resultado o la diferencia frente al competidor solo existe en el discurso.",
+          "disposition": "EXPLORE",
+          "decisionReason": "Permite evaluar ya una mecanica observable con base tecnica disponible; la comunidad seria amplificador posterior, no requisito para que aparezca la idea."
+        }
+      ]
+    }
+  ]
+}

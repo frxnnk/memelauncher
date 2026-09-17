@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "observedAt": "2026-09-12T06:07:50.301Z",
+  "observationWindowUtc": [
+    "2026-09-12T06:02:29Z",
+    "2026-09-12T06:07:51Z"
+  ],
+  "method": "Lectura nativa de ocho posts principales de X y sus hilos mediante CUA, mas documentos oficiales. Muestra dirigida por pistas anteriores; no es un barrido exhaustivo ni medicion de tendencia global.",
+  "metricsCaveat": "Likes, reposts y views son contadores visibles de X al leer cada post. No equivalen a personas unicas, organicidad, compradores o demanda de tokens. No sumar audiencias de posts citados. Las primeras tres horas de captura tienen precision de ventana, no de segundo.",
+  "clusters": [
+    {
+      "id": "ai-stocks",
+      "title": "Stocks + IA + mercados pre-IPO",
+      "news": "LONG anuncia pares experimentales de OpenAI y Anthropic basados en perps de Lighter; OKX anuncia acceso pre-IPO y stocks tokenizados en Europa.",
+      "meme": "CATGPT / ANTHROPIG: juegos de nombre entre animales y laboratorios de IA; la identidad de los tokens se cruza en map-market.json.",
+      "memeSemantics": "El nombre evoca a la empresa. Esto permite un puente cultural reconocible, pero la adopcion de esos personajes en X no fue medida en esta muestra.",
+      "assetNodeIds": [
+        "catgpt",
+        "anthropig"
+      ],
+      "evidenceIds": [
+        "x-long-preipo",
+        "x-okx-preipo",
+        "okx-docs-preipo"
+      ],
+      "relationshipFacts": [
+        "LONG declara infraestructura para pares de IA y pre-IPO.",
+        "La documentacion oficial de OKX define sus X-Perps como derivados liquidados en efectivo sin acciones ni derechos de accionista.",
+        "El anuncio OKX es distinto del producto LONG."
+      ],
+      "relationshipHypotheses": [
+        "El acceso pre-IPO puede reforzar atencion a memes que evocan OpenAI y Anthropic.",
+        "No se demostro que OKX causara el volumen o precio de CATGPT/ANTHROPIG.",
+        "El nombre de empresa no acredita afiliacion, emision o respaldo de esa empresa."
+      ],
+      "gap": {
+        "status": "sin validar",
+        "type": "distribucion y comprension",
+        "text": "Hay tokens y catalizadores reales; falta probar que una expresion propia atraiga autores fuera del circuito de promociones y que entiendan el quote que estan usando.",
+        "falsifyingTest": "Tomar dos ventanas de posts del token exacto: si predominan promociones o simples reposts, no crecen autores originales y el volumen no persiste, rechazar la supuesta brecha. No usar un nombre de empresa sin contrato y par exactos."
+      },
+      "priority": "observar flujo y autores; sin brief de lanzamiento validado"
+    },
+    {
+      "id": "steel",
+      "title": "Brian Steel / 2-for-2",
+      "news": "Cuniff informa absolucion de Lil Durk en este juicio y aclara que permanece detenido por otro proceso.",
+      "meme": "Abogado como personaje invencible: 2-for-2, comparaciones deportivas e hiperbólicas sobre su capacidad de defensa.",
+      "memeSemantics": "FearBuck convierte la noticia en marcador de victorias y publica dos imagenes; Kira lo cita con una exageracion propia. Es una reinterpretacion social del hecho, no un resumen juridico de casos equivalentes.",
+      "assetNodeIds": [
+        "steel"
+      ],
+      "evidenceIds": [
+        "x-cuniff-verdict",
+        "x-cuniff-custody",
+        "x-fearbuck-steel",
+        "x-kira-steel",
+        "x-steel-rico-reaction"
+      ],
+      "relationshipFacts": [
+        "Noticia y meme nombran al mismo caso/personaje.",
+        "Kira cita directamente el post de FearBuck; es otro autor pero comparte la misma escena y puede compartir audiencia.",
+        "El hilo de FearBuck contiene reacciones propias de otros autores."
+      ],
+      "relationshipHypotheses": [
+        "La reutilizacion del personaje podria sostener una serie editorial.",
+        "La atencion social no prueba que STEEL o un ticker nuevo capture demanda.",
+        "No hay un vinculo observado con stocks o wrappers OpenAI/Anthropic; no forzar ese emparejamiento."
+      ],
+      "gap": {
+        "status": "sin validar",
+        "type": "expresion cultural a identidad de mercado",
+        "text": "Hay personaje y lenguaje compartido; falta saber si el publico adopta una identidad concreta mas alla de la noticia y si se concentra actividad en un contrato verificable.",
+        "falsifyingTest": "En una ventana posterior de 24 h contar remixes nuevos del personaje por autores distintos y actividad del mismo contrato. Si solo siguen likes del post original o aparecen tickers dispersos sin continuidad, descartar la brecha."
+      },
+      "priority": "primero para probar contenido; token no validado"
+    },
+    {
+      "id": "acme",
+      "title": "Renuncias de IA / ACME",
+      "news": "Jacob Coxon publica que renuncio a Anthropic y expresa preocupacion por la carrera de IA. La lectura confirma su declaracion, no sus predicciones tecnicas ni toda su historia laboral.",
+      "meme": "Jae Holzman traslada la plantilla a ACME y a tuneles falsos que se pintan solos.",
+      "memeSemantics": "La gravedad del discurso de riesgo se traslada al absurdo de Coyote/Correcaminos. El post comprobado es texto; una nueva escena dibujada seria una elaboracion creativa.",
+      "assetNodeIds": [],
+      "evidenceIds": [
+        "x-coxon-origin",
+        "x-acme-parody",
+        "x-acme-roadrunner-reaction"
+      ],
+      "relationshipFacts": [
+        "Ambos posts comparten una estructura textual muy similar, con sustitucion de empresa y tecnologia.",
+        "Respuestas al post ACME mencionan al Correcaminos y sus tuneles, lo que apoya esa lectura semantica."
+      ],
+      "relationshipHypotheses": [
+        "Es una adaptacion satirica de la plantilla; no se verifico una declaracion del autor sobre su motivacion.",
+        "La familia de renuncias puede continuar, pero ACME no hereda el alcance del post original.",
+        "No hay demanda actual de un token ACME demostrada aqui."
+      ],
+      "gap": {
+        "status": "debil",
+        "type": "subformato sin adopcion independiente comprobada",
+        "text": "Se entiende el chiste, pero en esta muestra solo hay un creador principal del subtipo ACME. La escala del origen no acredita escala de la derivacion.",
+        "falsifyingTest": "Buscar nuevos autores que desarrollen especificamente ACME/tuneles durante 24 h. Si solo hay respuestas breves y redistribucion del texto original, archivar el subtipo."
+      },
+      "priority": "archivo salvo reactivacion del subtipo"
+    },
+    {
+      "id": "stocks-dkng",
+      "title": "Stocks + memes / DraftKings",
+      "news": "Solana anuncia DKNG en su red via Sunrise, emitido por Backpack Securities, el 11 de septiembre a las 20:09 UTC.",
+      "meme": "ALLINU emparejado con DKNG; cultura de apuestas, all-in y memes de mercado como posible puente semantico.",
+      "memeSemantics": "El par ALLINU/DKNG existe en el cruce de mercado. La lectura all-in/apuestas es una hipotesis semantica; no se verifico en esta muestra adopcion de esa lectura por autores de X.",
+      "assetNodeIds": [
+        "allinu"
+      ],
+      "evidenceIds": [
+        "x-solana-dkng",
+        "x-solana-dkng-detail",
+        "x-sunrise-dkng"
+      ],
+      "relationshipFacts": [
+        "El anuncio oficial de Solana enlaza a DKNG con Sunrise y Backpack Securities.",
+        "El hilo identifica DraftKings y vincula a un directorio de la direccion del token.",
+        "La identidad y el quote del pool ALLINU se verifican por separado en map-market.json."
+      ],
+      "relationshipHypotheses": [
+        "El tema apuestas podria aportar una expresion cultural coherente al par ALLINU/DKNG.",
+        "El anuncio no prueba afiliacion de ALLINU con DraftKings ni que la noticia haya causado su volumen.",
+        "No se verifico comunidad del meme en X, respaldo legal del wrapper o conversion de lectores a compradores en esta pasada."
+      ],
+      "gap": {
+        "status": "sin validar",
+        "type": "noticia y quote verificados; adopcion cultural faltante",
+        "text": "Hay infraestructura y par exacto. Falta encontrar una expresion propia que se entienda y sea reutilizada fuera de promociones de tokens; el nombre all-in por si solo no demuestra oportunidad.",
+        "falsifyingTest": "Comparar publicaciones originales del contrato exacto durante dos ventanas: si solo son promos de trading sin remixes independientes o el volumen no persiste, rechazar la brecha. Verificar tambien profundidad en DKNG y variacion del quote."
+      },
+      "priority": "prioridad de investigacion por cruce stock real y pool exacto; no lanzamiento validado"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "x-long-preipo",
+      "kind": "official-announcement",
+      "url": "https://x.com/longdotxyz/status/2098554655110480307",
+      "author": "@longdotxyz",
+      "publishedAt": "2026-09-11T23:29:00Z",
+      "publishedAtPrecision": "minute",
+      "observedAt": "2026-09-12T06:03:00Z",
+      "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+      "paraphrase": "LONG anuncia pares pre-IPO OpenAI/Anthropic basados en perps de Lighter; menciona Anthropic1x, OpenAI1x y NVDA3x, menor profundidad y caracter experimental.",
+      "metrics": {
+        "views": 90982,
+        "likes": 449,
+        "reposts": 79
+      },
+      "verified": "native-x"
+    },
+    {
+      "id": "x-okx-preipo",
+      "kind": "official-announcement",
+      "url": "https://x.com/okx/status/2097958461254590855",
+      "author": "@okx",
+      "publishedAt": "2026-09-10T08:00:00Z",
+      "publishedAtPrecision": "minute",
+      "observedAt": "2026-09-12T06:03:45.928Z",
+      "paraphrase": "OKX anuncia acceso pre-IPO OpenAI/Anthropic y stocks tokenizados 24/7 en Europa. Respuesta oficial visible aclara derivados y ausencia de propiedad directa.",
+      "metrics": {
+        "views": 105715,
+        "likes": 121,
+        "reposts": 21
+      },
+      "verified": "native-x"
+    },
+    {
+      "id": "okx-docs-preipo",
+      "kind": "official-documentation",
+      "url": "https://www.okx.com/en-us/learn/pre-ipo-x-perps-explained-eea",
+      "author": "OKX Learn",
+      "publishedAt": "2026-09-11",
+      "observedAt": "2026-09-12T06:04:00Z",
+      "observedAtPrecision": "minute-approx",
+      "paraphrase": "Guia EEA: X-Perps pre-IPO son derivados liquidados en efectivo y de precio formado por mercado; no entregan acciones ni derechos sobre equity. Es un producto diferente de stocks tokenizados.",
+      "metrics": null,
+      "verified": "web-current"
+    },
+    {
+      "id": "x-cuniff-verdict",
+      "kind": "direct-reporting",
+      "url": "https://x.com/meghanncuniff/status/2098566297483383085",
+      "author": "@meghanncuniff",
+      "publishedAt": "2026-09-12T00:16:00Z",
+      "publishedAtPrecision": "minute",
+      "observedAt": "2026-09-12T06:04:10.03Z",
+      "paraphrase": "La periodista informa absolucion de Durk en todos los cargos de este juicio y distingue el resultado de los otros acusados.",
+      "metrics": {
+        "views": 2914907,
+        "likes": 27188,
+        "reposts": 11887
+      },
+      "verified": "native-x"
+    },
+    {
+      "id": "x-cuniff-custody",
+      "kind": "direct-reporting",
+      "url": "https://x.com/meghanncuniff/status/2098569494017024085",
+      "author": "@meghanncuniff",
+      "publishedAt": "2026-09-12",
+      "observedAt": "2026-09-12T06:04:10.03Z",
+      "paraphrase": "En el mismo hilo aclara que Durk no sale de prision porque afronta otro juicio por un cargo RICO.",
+      "metrics": {
+        "views": 783486,
+        "likes": 4026,
+        "reposts": 1661
+      },
+      "verified": "native-x-thread"
+    },
+    {
+      "id": "x-fearbuck-steel",
+      "kind": "meme-expression",
+      "url": "https://x.com/FearedBuck/status/2098567760829661472",
+      "author": "@FearedBuck",
+      "publishedAt": "2026-09-12T00:21:00Z",
+      "publishedAtPrecision": "minute",
+      "observedAt": "2026-09-12T06:03:00Z",
+      "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+      "paraphrase": "Presenta a Brian Steel con un marcador 2-for-2 tras representar a Lil Durk y Young Thug; contiene dos imagenes.",
+      "metrics": {
+        "views": 2300477,
+        "likes": 98325,
+        "reposts": 10064
+      },
+      "verified": "native-x"
+    },
+    {
+      "id": "x-kira-steel",
+      "kind": "meme-reinterpretation",
+      "url": "https://x.com/kirawontmiss/status/2098571313908523312",
+      "author": "@kirawontmiss",
+      "publishedAt": "2026-09-12T00:36:00Z",
+      "publishedAtPrecision": "minute",
+      "observedAt": "2026-09-12T06:05:13.839Z",
+      "paraphrase": "Cita a FearBuck y exagera la capacidad del abogado para conseguir absoluciones. Es humor, no afirmacion juridica.",
+      "metrics": {
+        "views": 144952,
+        "likes": 6694,
+        "reposts": 258
+      },
+      "verified": "native-x",
+      "quotesEvidenceId": "x-fearbuck-steel"
+    },
+    {
+      "id": "x-steel-rico-reaction",
+      "kind": "meme-reaction",
+      "url": "https://x.com/JuiceWRLDsGUN/status/2098568234974724163",
+      "author": "@JuiceWRLDsGUN",
+      "publishedAt": "2026-09-12",
+      "observedAt": "2026-09-12T06:03:00Z",
+      "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+      "paraphrase": "Respuesta a FearBuck sobre Steel defendiendo un caso RICO con video de 9 segundos; el contenido del video no se inspecciono.",
+      "metrics": {
+        "views": 90721,
+        "likes": 3830,
+        "reposts": 102
+      },
+      "verified": "native-x-thread"
+    },
+    {
+      "id": "x-coxon-origin",
+      "kind": "author-statement",
+      "url": "https://x.com/hilbertspaess/status/2097476196791709843",
+      "author": "@hilbertspaess",
+      "publishedAt": "2026-09-09T00:04:00Z",
+      "publishedAtPrecision": "minute",
+      "observedAt": "2026-09-12T06:04:29.755Z",
+      "paraphrase": "Coxon declara que renuncio a Anthropic y critica la carrera hacia sistemas mas capaces; son declaraciones del autor, no especificaciones de producto verificadas.",
+      "metrics": {
+        "views": 166897386,
+        "likes": 783206,
+        "reposts": 199988
+      },
+      "verified": "native-x"
+    },
+    {
+      "id": "x-acme-parody",
+      "kind": "meme-expression",
+      "url": "https://x.com/jaeporeon/status/2097861672274743520",
+      "author": "@jaeporeon",
+      "publishedAt": "2026-09-10T01:36:00Z",
+      "publishedAtPrecision": "minute",
+      "observedAt": "2026-09-12T06:03:00Z",
+      "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+      "paraphrase": "Parodia una renuncia a ACME por la carrera hacia tuneles falsos que se pintan solos. Es texto sin imagen adjunta en el post leido.",
+      "metrics": {
+        "views": 60863,
+        "likes": 2769,
+        "reposts": 356
+      },
+      "verified": "native-x"
+    },
+    {
+      "id": "x-acme-roadrunner-reaction",
+      "kind": "meme-reaction",
+      "url": "https://x.com/juanstoppable/status/2098138766481182873",
+      "author": "@juanstoppable",
+      "publishedAt": "2026-09-10",
+      "observedAt": "2026-09-12T06:03:00Z",
+      "observedAtPrecision": "window-06:02:29-to-06:03:45Z",
+      "paraphrase": "Relaciona el Correcaminos, los limites de seguridad y el uso de los dibujos como tuneles reales.",
+      "metrics": {
+        "views": 464,
+        "likes": 7,
+        "reposts": 0
+      },
+      "verified": "native-x-thread"
+    },
+    {
+      "id": "x-solana-dkng",
+      "kind": "official-announcement",
+      "url": "https://x.com/solana/status/2098504287672267068",
+      "author": "@solana",
+      "publishedAt": "2026-09-11T20:09:00Z",
+      "publishedAtPrecision": "minute",
+      "observedAt": "2026-09-12T06:07:50.301Z",
+      "paraphrase": "Solana anuncia DKNG en su red mediante Sunrise y atribuye su emision a Backpack Securities.",
+      "metrics": {
+        "views": 73204,
+        "likes": 272,
+        "reposts": 40
+      },
+      "verified": "native-x"
+    },
+    {
+      "id": "x-solana-dkng-detail",
+      "kind": "official-announcement",
+      "url": "https://x.com/solana/status/2098504290998338029",
+      "author": "@solana",
+      "publishedAt": "2026-09-11",
+      "observedAt": "2026-09-12T06:07:50.301Z",
+      "paraphrase": "El hilo identifica DraftKings como plataforma estadounidense de apuestas y juegos, y enlaza a Tokens.xyz para verificar la direccion.",
+      "metrics": {
+        "views": 9807,
+        "likes": 24,
+        "reposts": 1
+      },
+      "verified": "native-x-thread"
+    },
+    {
+      "id": "x-sunrise-dkng",
+      "kind": "official-announcement",
+      "url": "https://x.com/sunrise/status/2098502807099945229",
+      "author": "@sunrise",
+      "publishedAt": "2026-09-11",
+      "observedAt": "2026-09-12T06:07:50.301Z",
+      "paraphrase": "La cita de Sunrise visible en el hilo de Solana tambien anuncia DKNG en Solana y atribuye emision a Backpack Securities.",
+      "metrics": null,
+      "verified": "native-x-quoted-post",
+      "limitation": "El post fue leido como cita en el hilo; sus metricas propias y minuto exacto no se recuperaron."
+    }
+  ],
+  "limitations": [
+    "No se publicaron mensajes, siguieron cuentas ni conectaron wallets.",
+    "No se midieron organicidad, comunidades completas, autores unicos, bots o conversion a compradores.",
+    "Los posts fueron seleccionados con pistas previas; no prueban que sean las mayores tendencias de X hoy.",
+    "ACME es de hace mas de dos dias y el origen de renuncias tiene mas de tres dias.",
+    "No se cuantifica una brecha con un score inventado: cada brecha incluye evidencia faltante y prueba que puede descartarla."
+  ]
+}

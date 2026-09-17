@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-09-15T21:54:49.056Z",
+  "purpose": "unsigned quote only; not a successful model execution",
+  "maxContextCharacters": 12000,
+  "requestContextCharacters": 12000,
+  "maxOutputTokens": 512,
+  "signatures": 0,
+  "payments": 0,
+  "quotes": [
+    {
+      "model": "anthropic/claude-haiku-4.5",
+      "status": 402,
+      "price": {
+        "amount": "0.007019",
+        "currency": "USD"
+      },
+      "options": [
+        {
+          "scheme": "exact",
+          "network": "eip155:8453",
+          "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "amount": "7019",
+          "maxTimeoutSeconds": 300
+        }
+      ]
+    },
+    {
+      "model": "google/gemini-2.5-flash",
+      "status": 402,
+      "price": {
+        "amount": "0.002858",
+        "currency": "USD"
+      },
+      "options": [
+        {
+          "scheme": "exact",
+          "network": "eip155:8453",
+          "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "amount": "2858",
+          "maxTimeoutSeconds": 300
+        }
+      ]
+    }
+  ]
+}

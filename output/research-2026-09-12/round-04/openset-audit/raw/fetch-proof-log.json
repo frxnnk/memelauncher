@@ -1,0 +1,38 @@
+[
+  {
+    "file": "candidates-197.json",
+    "url": "https://www.open-set.xyz/api/public/receipt/drop-197/candidates",
+    "atUtc": "2026-09-12T06:44:59.8467524Z",
+    "status": 200
+  },
+  {
+    "file": "pay-197.html",
+    "url": "https://solscan.io/tx/31qEXXRweXGMuhTLTncpzFPr8SARqbiDqLD4ppnVtrM4aA9PKH8QRP4URJfrWSS7a866qBRbnGK4oowjFAiBGV6a",
+    "atUtc": "2026-09-12T06:44:59.9813910Z",
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  },
+  {
+    "file": "mint-197.html",
+    "url": "https://solscan.io/tx/3YohrMA6yHx3Zne2umMN2MMWK9ZM99wzXrUZtJV7YkA1YXoCv6f4ZL154PReEBv9K1CUMsby1BwyPKhKNNKC5vYx",
+    "atUtc": "2026-09-12T06:45:00.0877390Z",
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  },
+  {
+    "file": "candidates-198.json",
+    "url": "https://www.open-set.xyz/api/public/receipt/drop-198/candidates",
+    "atUtc": "2026-09-12T06:45:00.4354397Z",
+    "status": 200
+  },
+  {
+    "file": "pay-198.html",
+    "url": "https://solscan.io/tx/4czGcqddgCdeV5VouwmF4E54w7wyuzfW5Qpx5QFVRPu7y42qgNvEc3a5HU2pUNWErbmotiF7X9TeyY2N5mKxBZQP",
+    "atUtc": "2026-09-12T06:45:00.5425877Z",
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  },
+  {
+    "file": "mint-198.html",
+    "url": "https://solscan.io/tx/4JSvHWbbFgGeZ9YAnxsKMw2szWkSyN2ifcbt5cvKZgwnk6aR9qfBDMibDndrmnMYk4nPTxFsvSA8hUPunQ1wPTQM",
+    "atUtc": "2026-09-12T06:45:00.6524389Z",
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  }
+]

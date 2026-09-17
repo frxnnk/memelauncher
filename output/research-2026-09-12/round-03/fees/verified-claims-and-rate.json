@@ -1,0 +1,536 @@
+{
+  "claimsGasEth": 0.000486402672844,
+  "allReleaseTransferMatches": true,
+  "rateProofs": [
+    {
+      "swaps": [
+        {
+          "lpFee": "2000",
+          "amount0": "-124604559738757446897",
+          "pool": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+          "amount1": "4965617862240466120680262",
+          "sender": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc",
+          "index": 6
+        },
+        {
+          "lpFee": "2000",
+          "amount0": "1673192022203088341",
+          "pool": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+          "amount1": "-66042717567798199405047",
+          "sender": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+          "index": 9
+        }
+      ],
+      "transfers": [
+        {
+          "amount": "69518650071366525689523",
+          "token": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+          "to": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+          "from": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+          "index": 8
+        },
+        {
+          "amount": "1673192022203088341",
+          "token": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "to": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+          "from": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+          "index": 12
+        },
+        {
+          "amount": "1673192022203088341",
+          "token": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+          "to": "0x92d435C96E63c43E12d6D0AB28f6b0B04072F765",
+          "from": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+          "index": 13
+        }
+      ],
+      "hookTransferRaw": "69518650071366525689523",
+      "lpFee": "2000",
+      "url": "https://robinhoodchain.blockscout.com/api/v2/transactions/0x9e603eb62d9c76b0048ab2bb7f2cc9000ab2e86fda2add75a402fe01112445c0/logs",
+      "observedHookRate": 0.0139999999999999999999998655,
+      "pool": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+      "grossOutputRaw": "4965617862240466120680262"
+    },
+    {
+      "swaps": [
+        {
+          "lpFee": "2000",
+          "amount0": "4824109702455737149703741",
+          "pool": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+          "amount1": "-95561085195417063501",
+          "sender": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc",
+          "index": 50
+        },
+        {
+          "lpFee": "2000",
+          "amount0": "-64160659042661304091060",
+          "pool": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+          "amount1": "1281067631642648747",
+          "sender": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+          "index": 53
+        }
+      ],
+      "transfers": [
+        {
+          "amount": "67537535834380320095852",
+          "token": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+          "to": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+          "from": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+          "index": 52
+        },
+        {
+          "amount": "1281067631642648747",
+          "token": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "to": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+          "from": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+          "index": 56
+        },
+        {
+          "amount": "1281067631642648747",
+          "token": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+          "to": "0x92d435C96E63c43E12d6D0AB28f6b0B04072F765",
+          "from": "0x6f02324d20CC679d0E585290CAa6b16baCbC0F77",
+          "index": 57
+        }
+      ],
+      "hookTransferRaw": "67537535834380320095852",
+      "lpFee": "2000",
+      "url": "https://robinhoodchain.blockscout.com/api/v2/transactions/0x9731757b290b626865a76e51b83f7004eed35059d3b932216ef346b164979f63/logs",
+      "observedHookRate": 0.0139999999999999999999999225,
+      "pool": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+      "grossOutputRaw": "4824109702455737149703741"
+    }
+  ],
+  "checks": [
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T00:03:17Z",
+      "feeEth": 0.000030456149712,
+      "releaseMatchesTransfers": true,
+      "tx": "0x1d9b44df0fc9aeebe6285017b9b3e30aff9635ca98c814748239e21b5fd7e164",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "30456149712000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-11T23:51:26Z",
+      "feeEth": 0.000038130927936,
+      "releaseMatchesTransfers": true,
+      "tx": "0x04aa96b318fabe4ff1b9c16e02f03db50673aa712bc665695b028a074cfc6280",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "38130927936000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T02:42:25Z",
+      "feeEth": 0.000028785045334,
+      "releaseMatchesTransfers": true,
+      "tx": "0x49bb8504d3e614c8aee0724769516d8e70126cb2a43c3c319dfe4e7f89e97aa3",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "28785045334000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T02:29:24Z",
+      "feeEth": 0.000028406730482,
+      "releaseMatchesTransfers": true,
+      "tx": "0x290b35e087b487f4269d4b88b8e16209ee127b25477118a4ead8e8344221914c",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "28406730482000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T04:29:41Z",
+      "feeEth": 0.000028514499698,
+      "releaseMatchesTransfers": true,
+      "tx": "0x20926bd69c982d2c0ae71ba761b09b98121c280aa81bf9706ce2fd518c892ae0",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "28514499698000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T00:36:35Z",
+      "feeEth": 0.000030504980548,
+      "releaseMatchesTransfers": true,
+      "tx": "0x559f5d547dfbd67063c6ef42e38a42ca32ace3d31df5b94d4ed12ac2127d413f",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "30504980548000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T04:58:29Z",
+      "feeEth": 0.00002788247815,
+      "releaseMatchesTransfers": true,
+      "tx": "0x7035ec3cbff282a0315b923bb624b322bda693f3458e65f38cea1e04d8b65bcf",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "27882478150000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T02:04:15Z",
+      "feeEth": 0.000028372491304,
+      "releaseMatchesTransfers": true,
+      "tx": "0x3959db36aa7479a8c13ea721b1cbe0f29c2bb71b568f53ba5d0fcc7785bcdf3f",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "28372491304000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T00:20:42Z",
+      "feeEth": 0.000030565125846,
+      "releaseMatchesTransfers": true,
+      "tx": "0x7af2a9bece5312a2244801b581c1e781a5e24b45b4bda8e333b0669e15cf6da1",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "30565125846000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-11T23:45:26Z",
+      "feeEth": 0.00004234185207,
+      "releaseMatchesTransfers": true,
+      "tx": "0x7b0711ada533e1d2b6b8da8f1fcf897fce8ec25f78ede4ed86e6ad5409df72cd",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "42341852070000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T01:16:28Z",
+      "feeEth": 0.000030324544654,
+      "releaseMatchesTransfers": true,
+      "tx": "0x619a720299267c0ec516c079e5a378137c7e50bed8d946500971ef0e0b7725c1",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "30324544654000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "updateBeneficiary",
+      "transferCount": 0,
+      "timestamp": "2026-09-11T23:44:59Z",
+      "feeEth": 0.00000782492477,
+      "releaseMatchesTransfers": true,
+      "tx": "0x74fab9540e2fe6c7cb4fd9f11aa7e0722258be33e9dcd66203eb3ea80e9c1239",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "7824924770000",
+      "decoded": {
+        "method_call": "updateBeneficiary(bytes32 poolId, address newBeneficiary)",
+        "method_id": "d44f6738",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          },
+          {
+            "name": "newBeneficiary",
+            "type": "address",
+            "value": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x3a8e5Ba5Aa9C2464C75621C2bFFB9CF912DB995d"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T03:07:07Z",
+      "feeEth": 0.00002806770649,
+      "releaseMatchesTransfers": true,
+      "tx": "0xcd8b68187a3d774bc6cfede26b7c6f01454c2de7005a118a97f632b3d57786b0",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "28067706490000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T02:54:31Z",
+      "feeEth": 0.000028077809854,
+      "releaseMatchesTransfers": true,
+      "tx": "0xbd27425422d2694aad950d962e28e2cea69bc64703645a639c0f17dbba2ad193",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "28077809854000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T04:08:02Z",
+      "feeEth": 0.000028186140368,
+      "releaseMatchesTransfers": true,
+      "tx": "0xc90bc8e56eb9171ce8be55a56fe058c8354c4ab1ec4942dcecfa98686eff2154",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "28186140368000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-12T03:32:30Z",
+      "feeEth": 0.000029154379418,
+      "releaseMatchesTransfers": true,
+      "tx": "0xe0505a7f9704155b9c597ee1858ffc017157a81c4f558c2cbe24517858936acd",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "29154379418000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    },
+    {
+      "method": "collectFees",
+      "transferCount": 4,
+      "timestamp": "2026-09-11T23:55:53Z",
+      "feeEth": 0.00002863181098,
+      "releaseMatchesTransfers": true,
+      "tx": "0xfe35da1eea64f8537aa1a11764bc5e386ea5ca58b02fa4a49fc3b5aeb8f2a744",
+      "status": "ok",
+      "overflow": false,
+      "feeRaw": "28631810980000",
+      "decoded": {
+        "method_call": "collectFees(bytes32 poolId)",
+        "method_id": "817db73b",
+        "parameters": [
+          {
+            "name": "poolId",
+            "type": "bytes32",
+            "value": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36"
+          }
+        ]
+      },
+      "feeType": "actual",
+      "to": "0x4e3468951D49f2EEa976eD0D6e75fFCb44a9a544",
+      "from": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2"
+    }
+  ]
+}

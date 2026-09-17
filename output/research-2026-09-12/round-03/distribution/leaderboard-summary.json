@@ -1,0 +1,77 @@
+{
+  "at": "2026-09-12T06:04:16.121000+00:00",
+  "assetCount": 43,
+  "sumPayouts": 137293,
+  "allShare": 0.8865127865222553,
+  "topAssets": [
+    {
+      "symbol": "ALL",
+      "mint": "ASoQZA3Dee2HU34Vwx3b5SAtTaczJtZcyx1T413nDALL",
+      "paid": 9800,
+      "payouts": 121712
+    },
+    {
+      "symbol": "SPYx",
+      "mint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+      "paid": 4637,
+      "payouts": 6455
+    },
+    {
+      "symbol": "ALLCAT",
+      "mint": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+      "paid": 1423,
+      "payouts": 2598
+    },
+    {
+      "symbol": "BURNALL",
+      "mint": "8pUFiFu63c751JxXKwVdn6aBzWpcLJ4JGPeU8pZffALL",
+      "paid": 1032,
+      "payouts": 1041
+    },
+    {
+      "symbol": "ALLIN",
+      "mint": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+      "paid": 345,
+      "payouts": 1021
+    },
+    {
+      "symbol": "ALLINU",
+      "mint": "79vKQuL9mPnbD21rfRe6WaxPPTynZPm886hcobFrfALL",
+      "paid": 328,
+      "payouts": 606
+    },
+    {
+      "symbol": "GOAT",
+      "mint": "2RUjk7fAhunhrRmezv5RtxFQCc13UHcb8B7LUw4z8ALL",
+      "paid": 529,
+      "payouts": 532
+    },
+    {
+      "symbol": "BALLS",
+      "mint": "33hJouPjfwXF1tB5VQDp8uBdHXUWq9r8KVcj3fuASALL",
+      "paid": 303,
+      "payouts": 335
+    }
+  ],
+  "allWalletRowsReturned": 50,
+  "sampleMatchesReported": [
+    {
+      "wallet": "8rtyuY3XQKXFaZbs2a35yQBbdLWbkhR5Aed4GaJHe2v5",
+      "units": "192216362920",
+      "payouts": 65,
+      "lastAt": 1789192523419
+    },
+    {
+      "wallet": "mDR91ufq4S2uSHa9E2PYL7xg4LwcQXaQFP7YK864a1z",
+      "units": "91707164858",
+      "payouts": 62,
+      "lastAt": 1789192523419
+    },
+    {
+      "wallet": "2djudVDwv7J1uzJb9HeaseMkRkd45Xde7TnsLRj4bWUw",
+      "units": "84535784239",
+      "payouts": 62,
+      "lastAt": 1789192524401
+    }
+  ]
+}

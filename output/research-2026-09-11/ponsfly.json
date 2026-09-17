@@ -1,0 +1,850 @@
+{
+  "query": "ponsfly",
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xc0059fdc6543ff531128fd251b75785265e7b240c274545291f1852b56a63a6f",
+        "pairAddress": "0xc0059fdc6543ff531128fd251b75785265e7b240c274545291f1852b56a63a6f",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x24AF441A7e003f0257Fe01eF4F3E6403073A80fa",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000001909",
+        "priceUsd": "0.000004690",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 1,
+            "sells": 20
+          },
+          "h6": {
+            "buys": 4277,
+            "sells": 4571
+          },
+          "h24": {
+            "buys": 4277,
+            "sells": 4571
+          }
+        },
+        "volume": {
+          "h24": 485940.09,
+          "h6": 485940.09,
+          "h1": 415.52,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -21.77,
+          "h6": -90.93,
+          "h24": -90.93
+        },
+        "liquidity": {
+          "usd": 6285.9,
+          "base": 670002109,
+          "quote": 1.2793
+        },
+        "fdv": 4691,
+        "marketCap": 4691,
+        "pairCreatedAt": 1789120377000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/CTrAyKkcYVc2oxDG?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xuZJur0J_j4FIIpX?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x24af441a7e003f0257fe01ef4f3e6403073a80fa?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.ponsfly.wtf",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/PonsFlyRH",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/PonsFlyRH",
+              "type": "telegram"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 100
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xde6b3b56b6bae6e4d3362618a69ee44bf029e8493cf3c1ca16e6d92e4651c5b0",
+        "pairAddress": "0xde6b3b56b6bae6e4d3362618a69ee44bf029e8493cf3c1ca16e6d92e4651c5b0",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x92B42765361D8Acb474ef288141df61E9B766aA1",
+          "name": "Pons Flywheel",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000001279",
+        "priceUsd": "0.000003167",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 334.38,
+          "h6": 0.26,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 1.26,
+          "h24": -7.36
+        },
+        "liquidity": {
+          "usd": 5186.45,
+          "base": 818574698,
+          "quote": 1.04711
+        },
+        "fdv": 3168,
+        "marketCap": 3168,
+        "pairCreatedAt": 1787883409000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/L0Gj8nj-IH0UYfbs?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/QdrY5lUptCLMd5iF?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x92b42765361d8acb474ef288141df61e9b766aa1?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://pons-flywheel.com/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/PonsFlyWheel",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x213812eaaf59d4db14cc7d70ae6075e455bd3731595b82a44f01f267d12cafec",
+        "pairAddress": "0x213812eaaf59d4db14cc7d70ae6075e455bd3731595b82a44f01f267d12cafec",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x98659b7A038Cdc299De06C928Bfa155B288bbdDE",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000002616",
+        "priceUsd": "0.000006444",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 64,
+            "sells": 67
+          },
+          "h24": {
+            "buys": 64,
+            "sells": 67
+          }
+        },
+        "volume": {
+          "h24": 14588.53,
+          "h6": 14588.53,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -3.72,
+          "h24": -3.72
+        },
+        "liquidity": {
+          "usd": 6454.43,
+          "base": 980947081,
+          "quote": 0.05391
+        },
+        "fdv": 6444,
+        "marketCap": 6444,
+        "pairCreatedAt": 1789121229000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb0fabfdc53b0a87e0b81c42f7cf051dc76d701c3dca34026fdffde7e4b643df2",
+        "pairAddress": "0xb0fabfdc53b0a87e0b81c42f7cf051dc76d701c3dca34026fdffde7e4b643df2",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x0131D82ebC801b147eA390b06c765E10528F5B6f",
+          "name": "PonsFly",
+          "symbol": "PonsFly"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000002514",
+        "priceUsd": "0.000006199",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 12.32,
+          "h6": 12.32,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 6197.83,
+          "base": 997808112,
+          "quote": 0.004999
+        },
+        "fdv": 6198,
+        "marketCap": 6198,
+        "pairCreatedAt": 1789122695000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/a3s6qv5ntr8axecacbcwpfzhs4rfjjfp8cm9suex1idc",
+        "pairAddress": "A3S6Qv5nTr8axeCacbcwPfzHS4RfjJfp8cm9SUEX1iDc",
+        "baseToken": {
+          "address": "39vCDdxAedr8DRsN2Prww56ZQt9DYE4AeWFMNcjMMFoR",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000001433",
+        "priceUsd": "0.00001427",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 3066,
+            "sells": 1496
+          },
+          "h24": {
+            "buys": 3066,
+            "sells": 1496
+          }
+        },
+        "volume": {
+          "h24": 277019.77,
+          "h6": 277019.77,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 64.8,
+          "h24": 64.8
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.008553,
+          "quote": 2E-09
+        },
+        "fdv": 14271,
+        "marketCap": 14271,
+        "pairCreatedAt": 1789120438000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x2315dfd0771ef5ae6fb3b241fee0714f7a48a51ae856942de4b7d516c43ead32",
+        "pairAddress": "0x2315dfd0771ef5ae6fb3b241fee0714f7a48a51ae856942de4b7d516c43ead32",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x24AF441A7e003f0257Fe01eF4F3E6403073A80fa",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.00003942",
+        "priceUsd": "0.00003942",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 0.69,
+          "h6": 0.69,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -21.01,
+          "h24": -21.01
+        },
+        "liquidity": {
+          "usd": 4.55,
+          "base": 57734,
+          "quote": 2.2762
+        },
+        "fdv": 39426,
+        "marketCap": 39426,
+        "pairCreatedAt": 1789120278000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/CTrAyKkcYVc2oxDG?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xuZJur0J_j4FIIpX?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x24af441a7e003f0257fe01ef4f3e6403073a80fa?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.ponsfly.wtf",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/PonsFlyRH",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/PonsFlyRH",
+              "type": "telegram"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 100
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x71e403ecdbabeeac7e9f563d9ee0bd448b387aea96661f7b3ee9167e5c5cf747",
+        "pairAddress": "0x71e403ecdbabeeac7e9f563d9ee0bd448b387aea96661f7b3ee9167e5c5cf747",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x24AF441A7e003f0257Fe01eF4F3E6403073A80fa",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.00002442",
+        "priceUsd": "0.00002442",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 1.58,
+          "h6": 1.58,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -26.59,
+          "h24": -26.59
+        },
+        "liquidity": {
+          "usd": 8.88,
+          "base": 181758,
+          "quote": 4.4402
+        },
+        "fdv": 24429,
+        "marketCap": 24429,
+        "pairCreatedAt": 1789121807000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/CTrAyKkcYVc2oxDG?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xuZJur0J_j4FIIpX?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x24af441a7e003f0257fe01ef4f3e6403073a80fa?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.ponsfly.wtf",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/PonsFlyRH",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/PonsFlyRH",
+              "type": "telegram"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 100
+        }
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "flapsh",
+        "url": "https://dexscreener.com/bsc/0x6df135201627951da3bf876b0a358ee861042ad5",
+        "pairAddress": "0x6DF135201627951dA3bF876B0a358Ee861042AD5",
+        "baseToken": {
+          "address": "0x1Bf469099aFaFBF330413528B18b03Ce2Ed87777",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+          "name": "Ethereum Token",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000001733",
+        "priceUsd": "0.000004284",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 1.39,
+          "h6": 1.39,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.03,
+          "h24": -0.03
+        },
+        "liquidity": {
+          "usd": 9485.95,
+          "base": 1107036752,
+          "quote": 1.9189
+        },
+        "fdv": 4284,
+        "marketCap": 4284,
+        "pairCreatedAt": 1789120385000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0xed7bdfe2b984212c0ce7b6c54f828c0ba9a9ffff:4meme",
+        "pairAddress": "0xeD7BDfE2B984212c0ce7B6c54F828C0ba9A9ffff:4meme",
+        "baseToken": {
+          "address": "0xeD7BDfE2B984212c0ce7B6c54F828C0ba9A9ffff",
+          "name": "PONSFLY",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB"
+        },
+        "priceNative": "0.000000005739",
+        "priceUsd": "0.000004096",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "fdv": 4096.61,
+        "marketCap": 4096.61,
+        "pairCreatedAt": 1789067301000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x5d0f18bd4124cd93669d04d437f868da8ffbffff:4meme",
+        "pairAddress": "0x5D0F18BD4124cd93669D04d437f868Da8FfbffFF:4meme",
+        "baseToken": {
+          "address": "0x5D0F18BD4124cd93669D04d437f868Da8FfbffFF",
+          "name": "PONSFLY",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789066862000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0xdafe366b6be42b574a493036b6ed7e803004ffff:4meme",
+        "pairAddress": "0xdaFe366B6bE42B574A493036b6eD7E803004fFfF:4meme",
+        "baseToken": {
+          "address": "0xdaFe366B6bE42B574A493036b6eD7E803004fFfF",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fd86da9B05abE396fe9d02a4A213A7c00556503",
+          "name": "Moderna",
+          "symbol": "MRNAB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789120176000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0xd4c5302c34668b17128ccc16d7f43fd6f021ffff:4meme",
+        "pairAddress": "0xd4c5302c34668b17128ccc16d7f43FD6F021fFff:4meme",
+        "baseToken": {
+          "address": "0xd4c5302c34668b17128ccc16d7f43FD6F021fFff",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0xF2ec508422174Ee564de98187db9359D318AFB6b",
+          "name": "Trump Media & Technology Group Corp",
+          "symbol": "DJTB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789120389000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x43b246d9f39b3e64f1b7d13f369fa81a10b4ffff:4meme",
+        "pairAddress": "0x43B246D9F39B3E64F1b7d13f369Fa81A10B4fFFF:4meme",
+        "baseToken": {
+          "address": "0x43B246D9F39B3E64F1b7d13f369Fa81A10B4fFFF",
+          "name": "PonsFly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789119514000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x21c42e8f9c1d9eb8111dcd504ecb3072fd07ffff:4meme",
+        "pairAddress": "0x21c42E8F9c1D9EB8111Dcd504ECb3072fD07FFFF:4meme",
+        "baseToken": {
+          "address": "0x21c42E8F9c1D9EB8111Dcd504ECb3072fD07FFFF",
+          "name": "ponsfly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789093540000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x13752cb98a66c86bebcba3d9f36312c66f4effff:4meme",
+        "pairAddress": "0x13752cb98a66C86BEbcBA3D9F36312c66F4eFfff:4meme",
+        "baseToken": {
+          "address": "0x13752cb98a66C86BEbcBA3D9F36312c66F4eFfff",
+          "name": "ponsfly",
+          "symbol": "PONSFLY"
+        },
+        "quoteToken": {
+          "address": "0xF2ec508422174Ee564de98187db9359D318AFB6b",
+          "name": "Trump Media & Technology Group Corp",
+          "symbol": "DJTB"
+        },
+        "priceNative": "0.0000",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789093550000
+      }
+    ]
+  },
+  "capturedAt": "2026-09-11T12:16:44.6550172Z"
+}

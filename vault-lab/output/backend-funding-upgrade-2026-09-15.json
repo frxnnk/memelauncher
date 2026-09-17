@@ -1,0 +1,17 @@
+﻿{
+    "sessionsPreserved":  true,
+    "checkedAt":  "2026-09-15T06:03:02.6654970Z",
+    "usagePreserved":  true,
+    "release":  "C:\\vault-beta\\releases\\1c1d381b940f",
+    "previous":  "C:\\vault-beta\\releases\\b304f17115bd",
+    "storage":  {
+                    "files":  8,
+                    "databases":  5,
+                    "copyHashes":  "matched",
+                    "sqliteIntegrity":  "ok"
+                },
+    "fundingEnabled":  false,
+    "backup":  "C:\\vault-beta\\shared\\backups\\data-before-1c1d381b940f-20260915080256",
+    "state":  "requests-enabled",
+    "archiveSha256":  "d85ba3a6d9c057cdf44a92d0114a31e2246cd16615f7888932d6e12414180884"
+}

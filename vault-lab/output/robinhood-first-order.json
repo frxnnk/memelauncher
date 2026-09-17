@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-09-15T06:30:28.8777430Z",
+  "orderId": "47777acc-dc07-404b-8a40-79125b548bcb",
+  "state": "credited",
+  "amountBaseUnits": "100000000000000000",
+  "chainId": "46630",
+  "payer": "0x686c6cd47d0a09b5b77fff3f76e2786425dc2f79",
+  "treasury": "0xbec4fdb33ed39844956d9078fd232aca92d7396d",
+  "transactionHash": "0x2df3f5c1c1b97c0e89011daaa436bb4fa165056dd5bcda3a98f42423eaa2ba31",
+  "block": "119764303",
+  "transferSubmitted": true,
+  "credited": true,
+  "errorCreditReturned": "100000000000000000",
+  "bountyContribution": "0",
+  "modelErrorReceipt": "888bd9f6-73c0-47f1-a702-ac8775a5041c",
+  "blocker": "USAGE_UNRECONCILED: provider generation GET returned 404; no inferred cost"
+}

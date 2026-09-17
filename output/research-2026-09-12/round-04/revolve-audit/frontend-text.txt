@@ -1,0 +1,213 @@
+THE REVOLVE GUIDE
+Know the rules.
+A detailed guide to launching, pooled buybacks, permanent burns and the money behind every coin.
+Launch a coin ↗
+0.1 SOL
+70 / 10 / 20
+50% dip
+0.05 SOL
+ON THIS PAGE
+01 / GETTING STARTED
+Launching a coin
+Connect a supported Solana wallet, enter your coin’s name and symbol, add a public HTTPS image link, and choose a payout address. The artwork appears in the preview before you continue. A description is optional. Revolve prepares the token metadata from those details, so you do not need to write or host a metadata JSON file yourself.
+Review the details.
+Approve the setup transaction.
+Wait for confirmation.
+Track your coin.
+The creation cost is checked before a payment is offered. If a quote expires or a payment’s outcome is uncertain, use the existing launch’s recovery flow. Do not send another payment simply because the wallet or page took longer than expected.
+02 / THE MONEY FLOW
+Where the fees go
+Revolve claims the creator fees available to the generated creator wallet. Each confirmed claim is allocated into three separate balances. Trading volume is not the same thing as creator-fee income, and an unclaimed fee is not spendable budget.
+Allocation
+Share
+Purpose
+Buyback & burn
+70%
+Pools for a qualifying dip, then funds purchases and burns.
+Launcher payout
+10%
+Owed to the fixed payout address supplied at creation.
+Platform
+20%
+Funds service operations and treasury transfers.
+Example: 1 SOL of claimed creator revenue
+0.70 SOL is credited to buyback and burn, 0.10 SOL to launcher payouts, and 0.20 SOL to platform operations. Those are gross allocations: transaction fees and account rent reduce the balance responsible for that activity.
+Buyback costs come from the buyback allocation, payout costs from the payout allocation, and claim costs from platform operations. A wallet’s total SOL balance never authorizes extra buybacks. The designated main coin has a separate 80% buyback / 0% launcher payout / 20% treasury revenue split; standard customer launches use 70 / 10 / 20.
+03 / WHEN BUYBACKS START
+The pool waits for a dip
+100% of newly credited buyback funds enters the dip pool.
+The trigger compares the latest observed price with the highest price in the rolling two-minute window. A drop of 50% or more releases the accumulated pool for buyback execution. Two minutes is a moving reference window, not a two-minute delay: a price update can trigger the policy immediately.
+Example: a recent high of 100
+At a price of 50 or lower, an armed trigger releases the pool. If the current rolling high is still 100, the trigger re-arms only above 80. As older highs leave the two-minute window, the reference adjusts to the more recent market range. It does not require recovery to the old all-time high.
+Re-arming only makes the next qualifying dip eligible to trigger. It does not itself spend money. Once a pool is released, its available balance is processed in small lots; a rebound does not automatically re-lock that already released allocation. Newly claimed buyback revenue pools for the next trigger.
+A trigger also cannot create spending power. If the available amount is too small to cover a lot and its required execution costs, the keeper waits.
+04 / EXECUTION
+Small purchases. Atomic burns.
+Each purchase has a 0.05 SOL ceiling. The keeper submits one transaction at a time, with a minimum scheduled spacing of 15 seconds between buys. RPC delays, network congestion, pending confirmations and available funds can make the actual spacing longer.
+same Solana transaction
+The amount requested from the market is reduced to allow for the configured slippage ceiling. This means the observed debit and delivered token amount matter more than the number typed into an order. Network fees and any required token-account rent are accounted for separately from the purchase ceiling.
+Burning reduces token supply permanently. Buybacks and burns do not guarantee an upward chart, a price floor, liquidity or a return. Other holders can still sell during and after a buyback.
+05 / WHO CONTROLS WHAT
+Payouts and creator custody
+Each launch receives its own generated creator wallet and mint. Revolve stores the creator key encrypted and uses it for the keeper’s operations. The launcher does not receive that key. This is a custodial creator-wallet arrangement, even though the wallet you connect remains under your control.
+Your payout address is fixed when the coin is created. The keeper checks for scheduled payouts hourly and sends them when enough has accrued to cover the transfer and its cost. A schedule is not a guarantee of an exact delivery minute: confirmations, unresolved transactions and service availability affect timing.
+Payout money stays separate from buyback money and platform money. The buyback keeper cannot borrow an amount already owed to the launcher. A transfer reduces the payout balance only when its actual confirmed debit has been measured.
+06 / PRICE SOURCES
+Monitoring and graduation
+Before graduation, the keeper reads price information from bonding-curve account updates delivered through a websocket subscription. It does not use an indexer’s chart to decide when the dip rule triggers.
+After a curve completes, the keeper switches to the canonical SOL PumpSwap pool. It verifies the mint, creator and pool vaults, resets the price reference for the venue change, and checks its buy-and-burn transaction before resuming there. If the pool is not available yet, it waits. The final curve update and the migration wait do not release pooled funds.
+The mint account’s owner determines whether the token uses the legacy token program or Token-2022. Features that would invalidate an exact delivered-token burn are rejected rather than assumed to work.
+Coins share bounded infrastructure, but their state, funds and pending transactions stay separate. A halted coin does not instruct other keepers to stop. Watchers need current chain data and a running service; a missing feed is not treated as a price of zero.
+07 / WHEN SOMETHING TAKES LONGER
+Pending does not mean failed
+A submitted transaction may land even when the RPC times out. Revolve persists its signature and reserves its budget so that the same money cannot be allocated again. While that transaction is unresolved, the affected coin does not start another lot.
+The keeper checks chain evidence to establish what happened. A successful transaction books its observed balance change. A landed failed transaction still books its fee. A missing signature lookup or an expired blockhash alone does not prove that nothing landed.
+If the evidence is unavailable or disagrees, the coin retains its reserve and raises an alarm for review. Records survive a restart. Recovery does not blindly resend an uncertain transaction or release its funds because enough time has passed.
+Visible state
+What it tells you
+Funding / launching
+Payment or creation confirmation is still being checked.
+Watching dips
+The price watcher is attached; funds still need to meet the policy’s spending conditions.
+Graduated
+The coin has completed its curve; the keeper may be waiting for or monitoring its verified AMM pool.
+Needs attention
+A coin-specific condition requires reconciliation or operator review.
+Dead · watcher off
+The retirement policy stopped the price watcher. Revival needs approval.
+08 / RETIREMENT
+When a watcher stops
+both
+On retirement, the price watcher is detached. Accrued launcher payouts are settled first. Remaining eligible buyback and platform funds are then transferred to the treasury, with each transfer charged its actual costs. An unresolved transaction stops that sequence; unspendable dust stays recorded.
+Request revival
+Revival does not restore funds already transferred during retirement. An approved revival starts a fresh observation period so the same old inactivity window does not immediately retire it again.
+09 / QUICK ANSWERS
+Common questions
+Does launching guarantee buybacks immediately?
+No. A launch first needs confirmed creator-fee income, enough allocated funds to cover execution, a qualifying dip and a working keeper. The setup fee is not credited to the buyback pool.
+Can the launcher withdraw the buyback pool?
+The launcher receives the published payout allocation at the fixed payout address. The buyback pool follows the dip and retirement policy; it is not a launcher withdrawal balance.
+Will the pool release after 30 minutes?
+No. There is no timer-based release. Funds stay pooled until the dip condition is met, unless the coin later qualifies for retirement under the disclosed policy.
+Do I need my wallet connected for payouts?
+No. Once the payout address is recorded, confirmed scheduled transfers are sent to that address without requiring an open browser session.
+What happens if the service is offline?
+The frontend may remain available, but new keeper activity and API actions need the running backend and chain access. Offline time is not evidence that a pending transaction failed. The stored records are reconciled when service resumes.
+Where can I check the treasury and token address?
+The site footer links to the treasury on Solscan and the main token on pump.fun. Token links in Explore and My launches open the coin on pump.fun. A pre-generated address can be announced before its account has been created on-chain.
+Ready to put the policy behind your coin?
+Open the launcher ↗
+Website ↗
+X ↗
+↗
+↻
+LAUNCHPAD
+WORKSPACE
+↗
+↻
+Built on pump.fun
+/
+EVERY CREATOR FEE
+One transparent split.
+%
+Reinvested in your coin
+%
+Sent to your wallet
+%
+Keeps it running
+MAKE IT YOURS
+01 / CREATE
+*
+*
+$
+(optional)
+(optional)
+(optional)
+*
+Use connected
+Your 10% share is sent here. This address is fixed once the coin is created.
+Plus the wallet network fee
+SOL
+70 / 10 / 20 fee split
+◇
+Mint address
+Payout wallet
+Operator attention required
+View transaction ↗
+Creator revenue is split separately.
+SOL
+This unpaid request has expired.
+If you submitted a payment, recover it below. Otherwise, start a new launch.
+Start a new launch
+Creator wallet funding
+Retained in treasury
+Wallet network fee
+Where your setup fee goes
+The full 0.1 SOL enters the treasury. In that same transaction, the creator wallet receives its launch and keeper funding. Both transfers happen together.
+Treasury
+Get the creation cost check before approving your payment.
+↻ Refresh cost check
+Already paid? Recover your payment
+If your wallet submitted a payment, check that transaction. Do not pay again while its outcome is unknown.
+Check payment →
+Buy & burn credited
+Payout remaining
+Start another launch
+View payment on Solscan ↗
+Automatic burns.
+↗ Launch on pump.fun
+◎ Powered by Solana
+✦ Buy & burn
+A LITTLE MOMENTUM. BUILT IN.
+pump.fun
+✦
+SOLANA
+BUILT INTO EVERY LAUNCH
+↗
+Scheduled purchases, one transaction at a time.
+✦
+Purchased tokens burn in that same transaction.
+◷
+All buyback funds wait for a 50% dip, then buy in 0.05 SOL lots. No timer: the pool keeps growing until the dip.
+A transparent policy, not a price guarantee. Crypto prices can fall despite purchases and burns.
+YOUR WORKSPACE
+what you built.
+Confirmed activity. Actual balances. All your launches in one place.
+Total launches
+Connected wallet
+Buy & burn credited
+SOL
+Creator fees allocated
+Payout remaining
+SOL
+After confirmed debits
+↻ Refresh
+Pending buyback pool
+◫
++
+No sample balances. Just your on-chain activity.
+THE LAUNCHPAD
+community.
+Browse launched coins and see which watchers are active.
+↻ Refresh
+We couldn’t load the coins.
+Try again ↗
+You can keep using the rest of the site. No funds have moved.
+SOL
+On retirement, accrued launcher payouts settle first; remaining buyback and platform funds go to treasury, less costs. Watching resumes only after operator approval.
+Creator fees follow the published buy, burn and payout policy.
+⊞
+← Previous
+Next →
+What does “dead” mean here?
+The service retires a coin only when its market cap is below $10,000 USD and there have been no on-chain transactions involving its mint or bonding curve for at least one hour. Both conditions must be verified; unavailable data cannot trigger retirement. This is an operational status, not a claim that the coin can never trade again. New launches settle accrued launcher payouts and sweep remaining buyback and platform funds to treasury on retirement, less transaction costs. Unspendable dust stays recorded. Anyone with a connected wallet can request review.
+revolve
+X ↗
+Treasury ↗
+Not announced
+CA ↗
+Not announced
+×
+×
+COMMUNITY REVIVAL
+Tell the operator what changed: renewed trading, an active community, or another reason to restart the watcher.

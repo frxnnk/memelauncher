@@ -1,0 +1,1551 @@
+{
+  "capturedAt": "2026-09-11T12:15:58.6175545Z",
+  "query": "stocklana",
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/7x1xrelv6sslcouvy8uidywhbbykbfxqecdzpsmaswcj",
+        "pairAddress": "7x1xReLV6ssLcouvY8uidYwHBBYkBFxqecdzPSmaswcJ",
+        "baseToken": {
+          "address": "GYHPVwni3ucwizy9BM4TzTMw3PtSgxm5RRYvL8Ecpump",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000003076",
+        "priceUsd": "0.0003053",
+        "txns": {
+          "m5": {
+            "buys": 18,
+            "sells": 2
+          },
+          "h1": {
+            "buys": 200,
+            "sells": 21
+          },
+          "h6": {
+            "buys": 9241,
+            "sells": 6510
+          },
+          "h24": {
+            "buys": 122865,
+            "sells": 80304
+          }
+        },
+        "volume": {
+          "h24": 5327017.03,
+          "h6": 101218.35,
+          "h1": 692.92,
+          "m5": 53.73
+        },
+        "priceChange": {
+          "m5": 0.01,
+          "h1": 8391,
+          "h6": 265,
+          "h24": -35.23
+        },
+        "liquidity": {
+          "usd": 250919,
+          "base": 818123060,
+          "quote": 11.359
+        },
+        "fdv": 303710,
+        "marketCap": 303710,
+        "pairCreatedAt": 1789038718000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/ywAy06RRzXyZMxL5?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/QBDvQ1ilgAr0XH11?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GYHPVwni3ucwizy9BM4TzTMw3PtSgxm5RRYvL8Ecpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://stocklana.world",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/StocklanaSOL",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/stonklanasol",
+              "type": "telegram"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 500
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/8q6odeciyd757k6pvdavkyblqdpxjv4xgqepbzm69ma1",
+        "pairAddress": "8Q6odeCiyD757K6PVDavKYbLqdPXjv4XgQEpbzM69MA1",
+        "labels": [
+          "DLMM"
+        ],
+        "baseToken": {
+          "address": "GYHPVwni3ucwizy9BM4TzTMw3PtSgxm5RRYvL8Ecpump",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000007849",
+        "priceUsd": "0.0007794",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 178,
+            "sells": 194
+          }
+        },
+        "volume": {
+          "h24": 1718.33,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -28.09
+        },
+        "liquidity": {
+          "usd": 9.05,
+          "base": 9095.3845,
+          "quote": 0.01981
+        },
+        "fdv": 775292,
+        "marketCap": 775292,
+        "pairCreatedAt": 1789053633000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/ywAy06RRzXyZMxL5?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/QBDvQ1ilgAr0XH11?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/GYHPVwni3ucwizy9BM4TzTMw3PtSgxm5RRYvL8Ecpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://stocklana.world",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/StocklanaSOL",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/stonklanasol",
+              "type": "telegram"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 500
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/d9fttkwdtwzwphbmyqfmhsylbbtertytuzvjb5s59rsm",
+        "pairAddress": "D9fttkwdtWzwPHBMyqFMhsyLBBTeRtYtUzVJB5s59RSM",
+        "baseToken": {
+          "address": "E3N5GYBBwvvhXgzxzznM5piw8NjWv3qXQthCHchuTmFR",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000001329",
+        "priceUsd": "0.0001321",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 12485,
+            "sells": 8521
+          }
+        },
+        "volume": {
+          "h24": 15344610.32,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 156
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.003524,
+          "quote": 5E-09
+        },
+        "fdv": 132120,
+        "marketCap": 132120,
+        "pairCreatedAt": 1789088965000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xe8982b309a8de6f343dcf7eb72d015ff7f3af988bf7926dba93be4c25d306734",
+        "pairAddress": "0xe8982b309a8de6f343dcf7eb72d015ff7f3af988bf7926dba93be4c25d306734",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x936a7bb4E414C128BA27BE91f47A221aeCCa012b",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "0x4200000000000000000000000000000000000006",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.00000001001",
+        "priceUsd": "0.00002473",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3340,
+            "sells": 2982
+          }
+        },
+        "volume": {
+          "h24": 2258592.57,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 1.08
+        },
+        "liquidity": {
+          "usd": 50965.18,
+          "base": 371515509,
+          "quote": 16.9168
+        },
+        "fdv": 24731,
+        "marketCap": 24731,
+        "pairCreatedAt": 1789080079000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/fg9i1tflh9tspqh2gktzup6g1nfzj9uksa1wo3dkh4xe",
+        "pairAddress": "Fg9i1tfLH9tspQH2gkTZuP6G1NFZj9UksA1Wo3DKh4xe",
+        "baseToken": {
+          "address": "2CKzNxxxC6Bx6YqiY6aSQqjHDLtdE4x8rsrTFT4xxJHZ",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000002682",
+        "priceUsd": "0.00002667",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 7224,
+            "sells": 5493
+          }
+        },
+        "volume": {
+          "h24": 9525757.43,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -47.27
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.0149,
+          "quote": 1E-09
+        },
+        "fdv": 26674,
+        "marketCap": 26674,
+        "pairCreatedAt": 1789081446000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/4k44mrkljxfzalhcy8pf38lbwrcua9zqmzdsqzcu9fvk",
+        "pairAddress": "4K44mRKLJXfZaLHCy8PF38LBwRcUa9ZQmZdSqzcu9fvk",
+        "baseToken": {
+          "address": "7u2TqLQtC3qCpn44p5Eq92CmNbyyx34TPR9koMYYKwno",
+          "name": "stocklana",
+          "symbol": "stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000003282",
+        "priceUsd": "0.000003260",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 13
+          }
+        },
+        "volume": {
+          "h24": 235.33,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 7.96
+        },
+        "fdv": 3260.08,
+        "marketCap": 3260.08,
+        "pairCreatedAt": 1788994834000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/fxiserydpkubt6vfjnhqqzrvvjmonxjjtbappawfaln6",
+        "pairAddress": "FxisERYdpkuBT6vFjNHqQzrVvjmoNxJJtbapPAWfALn6",
+        "baseToken": {
+          "address": "8kkdzCASC9sz9dVtRqwbBYhWqYhBWvkqHpqDerQTxC6n",
+          "name": "STOCKLANA",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002783",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 10,
+            "sells": 51
+          }
+        },
+        "volume": {
+          "h24": 794.89,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -9.42
+        },
+        "fdv": 2783.88,
+        "marketCap": 2783.88,
+        "pairCreatedAt": 1789079765000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/6nh7pz4ndh8eydbry1asy3xo2ief1hfj7ldmfpjapwll",
+        "pairAddress": "6Nh7Pz4NdH8eYDbry1asY3Xo2ief1Hfj7LdMFPjApwLL",
+        "baseToken": {
+          "address": "7TSCaMeq1wamZFiSmrciaKFoKXuB7nMeHh2cpNcPpump",
+          "name": "Stocklana",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000002425",
+        "priceUsd": "0.0000002408",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 48,
+            "sells": 50
+          }
+        },
+        "volume": {
+          "h24": 248.52,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -91.38
+        },
+        "fdv": 240.89,
+        "marketCap": 240.89,
+        "pairCreatedAt": 1789094249000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/cry5ufe94nlqyokannkpvnjshsb5bex85pimx61lqy9q",
+        "pairAddress": "CRY5uFe94NLQyokaNNkPvnjSHSb5bex85PimX61LQY9Q",
+        "baseToken": {
+          "address": "CKB39tC3N77Lad7VfxifXnU13Q7Wojd7nmhvarKzpump",
+          "name": "stocklana",
+          "symbol": "stocklana"
+        },
+        "quoteToken": {
+          "address": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+          "name": "SP500 xStock",
+          "symbol": "SPYx"
+        },
+        "priceNative": "0.000000005300",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 13
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1788992797000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/bdxzfpmch1vr1n3wqscwpn3zsozqvgkw7q65tz5ydxfx",
+        "pairAddress": "BdxZFpmCh1Vr1n3WQscwPn3zsozqVGkw7Q65tz5YdxFx",
+        "baseToken": {
+          "address": "9Vwq7Sqh6WYuGP6ny72H9Jafsg3Vsbo6ytfexEJYpump",
+          "name": "Stocklana",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002675",
+        "priceUsd": "0.000002651",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 45,
+            "sells": 35
+          }
+        },
+        "volume": {
+          "h24": 272.94,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -4.88
+        },
+        "fdv": 2651.21,
+        "marketCap": 2651.21,
+        "pairCreatedAt": 1789096946000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/g6tftia4crfqg9zf24y2jp77hmzs7ly1wzzpmjwtdvgf",
+        "pairAddress": "G6Tftia4CRFQG9Zf24y2jP77HMZS7Ly1wZZpMjWTDVgf",
+        "baseToken": {
+          "address": "E3aP9be3hHSksFTayuW5P6vJ3QfcBm2sdhLE4rYdpump",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+          "name": "SP500 xStock",
+          "symbol": "SPYx"
+        },
+        "priceNative": "0.000000005295",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789009696000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/78krsckkjjymf6ut3mdz53rdcv2ax3twhmfkjqsudlpc",
+        "pairAddress": "78kRscKKJjYmF6uT3MDZ53RDCV2aX3twhmFkjQSUDLPc",
+        "baseToken": {
+          "address": "7PF2dQU4D9QBgTRnsmfHHirH3TYBbGfHno6twnUHpump",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000000001245",
+        "priceUsd": "0.000000001245",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 94,
+            "sells": 108
+          }
+        },
+        "volume": {
+          "h24": 308.06,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -99.96
+        },
+        "fdv": 1.25,
+        "marketCap": 1.25,
+        "pairCreatedAt": 1789062429000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/5fywvtk44z3pdmn5pcmhjjmwzhn82bjqzzl964z12oaz",
+        "pairAddress": "5fYwVTk44Z3pDmn5pCMhJJmwzhn82BjQzZL964Z12oAZ",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "8T7fgPF8vgxfEVTgCiY1RNou99AnUBMk8684NtiQLE6b",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000000003734",
+        "priceUsd": "0.0000000003729",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 959,
+            "sells": 1167
+          }
+        },
+        "volume": {
+          "h24": 40384.71,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -100
+        },
+        "liquidity": {
+          "usd": 0.65,
+          "base": 876891752,
+          "quote": 0.003296
+        },
+        "pairCreatedAt": 1789102167000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/aegxjwrjvkhr73lxoj8j3lxwy9yjzmiqvpn25hb965u6",
+        "pairAddress": "AegxjwRJVkhR73Lxoj8J3Lxwy9yjzMiqVPN25Hb965U6",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "57e8BCN31PWNVNqUez4fEsUmhsraFkwuPWhHgWQo9AwU",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000000003716",
+        "priceUsd": "0.0000000003679",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 951,
+            "sells": 1142
+          }
+        },
+        "volume": {
+          "h24": 36485.11,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -100
+        },
+        "liquidity": {
+          "usd": 0.64,
+          "base": 875119759,
+          "quote": 0.003303
+        },
+        "pairCreatedAt": 1789091183000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/2gmdaifvuxpmw47fxyhmp2t7hi1fppf269dtuerh8mrm",
+        "pairAddress": "2GmdaifvUxPmw47FxyhmP2t7hi1Fppf269dtUeRh8mRm",
+        "baseToken": {
+          "address": "2npZ9Q6Y7eaJmCvca2S5ngdPJZAm95TFQWfrRuqQpump",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002799",
+        "priceUsd": "0.000002796",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 5,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 253.54,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -6.15
+        },
+        "fdv": 2796.24,
+        "marketCap": 2796.24,
+        "pairCreatedAt": 1789066742000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/3zr7egrpnmcoijawigzwpuf5rmm2syrc3c2jmyc3vutk",
+        "pairAddress": "3Zr7eGRPNmcoiJAwiGZwpuf5RmM2Syrc3c2jMyc3vuTK",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "EHMu2aMcVWK12ZzLibt9DxnuagtdWBaa55KyUUKojUi4",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000000003921",
+        "priceUsd": "0.0000000003884",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 545,
+            "sells": 657
+          }
+        },
+        "volume": {
+          "h24": 11330.12,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -100
+        },
+        "liquidity": {
+          "usd": 0.66,
+          "base": 858967066,
+          "quote": 0.003389
+        },
+        "pairCreatedAt": 1789083252000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/e5terkuv9z5nu9otdhendzpxhpuxy4twsetzjlhquqcc",
+        "pairAddress": "E5TErKUV9Z5NU9oTDhENDZPxHpuxy4tWsetzJLhQUQcC",
+        "baseToken": {
+          "address": "go2JLZEpaXKZQ97uVA3ZbmmHzZyc7Th5i2MjR9opump",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002789",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 202.46,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -5.51
+        },
+        "fdv": 2789.75,
+        "marketCap": 2789.75,
+        "pairCreatedAt": 1789065043000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/6yjusfh76pa8ctydtgstpu8uktnmmlyu7vkcpbwedtot",
+        "pairAddress": "6yJuSFH76pA8CtYDtGsTPU8uKtnMMLYU7VKCpBWEDtoT",
+        "baseToken": {
+          "address": "9z8C96iFjAn9W3sneQDV7JWCPnLaZhBj38mftiDqpump",
+          "name": "Stocklana",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002822",
+        "priceUsd": "0.000002816",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 13.96,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "fdv": 2816.12,
+        "marketCap": 2816.12,
+        "pairCreatedAt": 1788992659000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/6wtc8rzqg1iudpiwjqqd2qmwpatrsxznzsuucnev3hnt",
+        "pairAddress": "6Wtc8RZqg1iUDPiWjQqd2qmWpAtrSxzNZSUucneV3HNT",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "1Um4DfS54Cs23jXfWd7JbfpbEXLZLSyfsCQJgQWKoM3",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000000003811",
+        "priceUsd": "0.0000000003785",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 336,
+            "sells": 353
+          }
+        },
+        "volume": {
+          "h24": 6176.69,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -100
+        },
+        "liquidity": {
+          "usd": 0.65,
+          "base": 868030241,
+          "quote": 0.003329
+        },
+        "pairCreatedAt": 1789053607000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/cqodgkup44na1jhzzfhcefjjz9z3jhsb3gkgh8yawc2z",
+        "pairAddress": "CQoDGkUP44na1JhzzfHCeFjjz9z3JHsb3GKgH8yaWc2z",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "8nigZrtiXoKxJnn757zrTMeMujCTAuhQ3wCauSeL85m1",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000000004169",
+        "priceUsd": "0.0000000004143",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 294,
+            "sells": 351
+          }
+        },
+        "volume": {
+          "h24": 8460.63,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -100
+        },
+        "liquidity": {
+          "usd": 0.69,
+          "base": 868158009,
+          "quote": 0.003329
+        },
+        "pairCreatedAt": 1789090315000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/j4qpknnoanhrpdzhhy6rjllo2gtn38zonyjtkpjyylhf",
+        "pairAddress": "J4QPkNNoANHRPDzHHy6RJLLo2GTN38zoNyjTkPjYyLhF",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "3i84TqNiYmnjRdKAALAP7727FUhUfBLkS9r2P4fbVedk",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000000000003903",
+        "priceUsd": "0.0000000003858",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 266,
+            "sells": 336
+          }
+        },
+        "volume": {
+          "h24": 7306.09,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -100
+        },
+        "liquidity": {
+          "usd": 0.66,
+          "base": 871928984,
+          "quote": 0.003339
+        },
+        "pairCreatedAt": 1789083012000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x1300f4d9614e95b14ee644b1a6b199ca166cff4d88f11af7438c02b7580c72c4",
+        "pairAddress": "0x1300f4d9614e95b14ee644b1a6b199ca166cff4d88f11af7438c02b7580c72c4",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xdD37cb41Fed8e2Bfa061DEb5c1251072Fbbbb23C",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000000001594",
+        "priceUsd": "0.0000003850",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 66,
+            "sells": 34
+          }
+        },
+        "volume": {
+          "h24": 30102.55,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 263
+        },
+        "fdv": 38502,
+        "marketCap": 38502,
+        "pairCreatedAt": 1789046008000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/4jhyu7cl1weagkgp9teq9zcfy4jp6ch42aqhch1c1syf",
+        "pairAddress": "4JhYU7cL1WeaGKGP9teq9zCfY4JP6CH42AqHCH1C1sYF",
+        "baseToken": {
+          "address": "EbxW75mXzXSJevSdtznGkpxRVBc48ZeQsVLR1w32pump",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002777",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 88.52,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -2.79
+        },
+        "fdv": 2777.45,
+        "marketCap": 2777.45,
+        "pairCreatedAt": 1789079645000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/fgwzlyt59cr8lybxum4m1t99m389wnrtfxgkdpqtfodk",
+        "pairAddress": "FgWzLyT59cR8LYbXUm4M1t99m389wnRtfXGKDpqtfoDK",
+        "baseToken": {
+          "address": "CjVcs8EUjJ2nPiRMoBC34hiNLRdjYumj5naHARdPpump",
+          "name": "Stocklana",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002796",
+        "priceUsd": "0.000002773",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 29.88,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.83
+        },
+        "fdv": 2773.6,
+        "marketCap": 2773.6,
+        "pairCreatedAt": 1789009676000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/2y8zgyxua1nuytkf51ktcmn6tjvrzywdqfzrhvg3or27",
+        "pairAddress": "2y8ZGyxUA1nuyTKF51ktcmn6tJvRZyWDqfZRHvg3or27",
+        "baseToken": {
+          "address": "FBhbKF2jbkzB8Z8T4xx9PQiQNQtRKFUmeUUBbKEwUuqF",
+          "name": "Stocklana",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002796",
+        "priceUsd": "0.000002783",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 22.83,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.74
+        },
+        "fdv": 2783.75,
+        "marketCap": 2783.75,
+        "pairCreatedAt": 1788992660000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/hlz6fs3zqgwfxllwkjzmrnzuq65dgh7yxqhlm9vucamx",
+        "pairAddress": "HLZ6Fs3zqGwFXLLWKjZmrNzuQ65dgh7yXqHLm9VucAMX",
+        "baseToken": {
+          "address": "HwgfC1i9Esj8FtgPrrDWdsUE2CNyCWtgXtvViNf4pump",
+          "name": "Stocklana",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002770",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 48.2,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "fdv": 2770.18,
+        "marketCap": 2770.18,
+        "pairCreatedAt": 1788992659000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/56ovra6ghrfcdmgougtqprd4aqw4ruayhhy41prhux3g",
+        "pairAddress": "56ovRa6ghRfCdMGoUGtQPrd4Aqw4rUayHHy41pRhUX3G",
+        "baseToken": {
+          "address": "2pDs4y6LAiGb9LFoaWcv9Y87SgZ3Lp2QxFcgN7Wppump",
+          "name": "Stocklana",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002796",
+        "priceUsd": "0.000002789",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 16.02,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 0.09
+        },
+        "fdv": 2789.34,
+        "marketCap": 2789.34,
+        "pairCreatedAt": 1789102015000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/4rermxgccl6vbuzn7hwc2gujwhaccz1pmjhpwmxj43j9",
+        "pairAddress": "4rERMXGcCL6VbuZn7HwC2GUjWhaCcZ1pMJhpWMXj43j9",
+        "baseToken": {
+          "address": "2TosArNKfj41oeQYcsspGS38GAfALtVC1zE8FvjEpump",
+          "name": "Stocklana",
+          "symbol": "STOCKLANA"
+        },
+        "quoteToken": {
+          "address": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+          "name": "SP500 xStock",
+          "symbol": "SPYx"
+        },
+        "priceNative": "0.000000005197",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1788988403000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteoradbc",
+        "url": "https://dexscreener.com/solana/4royrd7shcbbdsabxrqj256nkzmbzq9js3svz61byqhm",
+        "pairAddress": "4RoyRd7sHcBbDsabXrQJ256NkZmBzq9Js3svz61bYQhm",
+        "baseToken": {
+          "address": "1Um4DfS54Cs23jXfWd7JbfpbEXLZLSyfsCQJgQWKoM3",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000004885",
+        "priceUsd": "0.00004877",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 602,
+            "sells": 616
+          }
+        },
+        "volume": {
+          "h24": 12800.93,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 32.29
+        },
+        "fdv": 48778.55,
+        "marketCap": 48778.55,
+        "pairCreatedAt": 1789053378000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteoradbc",
+        "url": "https://dexscreener.com/solana/32uv2dtp6wnszroj2ensznlf18q6kaxuhfn4pgc5xbv6",
+        "pairAddress": "32uV2Dtp6WNszRoj2eNszNLF18Q6kaxuHfn4Pgc5Xbv6",
+        "baseToken": {
+          "address": "EHMu2aMcVWK12ZzLibt9DxnuagtdWBaa55KyUUKojUi4",
+          "name": "Stocklana",
+          "symbol": "Stocklana"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000004998",
+        "priceUsd": "0.00004953",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 501,
+            "sells": 629
+          }
+        },
+        "volume": {
+          "h24": 13233.59,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 33.25
+        },
+        "fdv": 49539.21,
+        "marketCap": 49539.21,
+        "pairCreatedAt": 1789083122000
+      }
+    ]
+  }
+}

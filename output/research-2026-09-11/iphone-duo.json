@@ -1,0 +1,1646 @@
+{
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x60e7d9e82a208f501f020f84d2ec47401837ad5993ac7faae893021434170347",
+        "pairAddress": "0x60e7d9e82a208f501f020f84d2ec47401837ad5993ac7faae893021434170347",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x56aAa501Fa9Eb6670d6175D686957434c3d21E18",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+          "name": "Apple • Robinhood Token",
+          "symbol": "AAPL"
+        },
+        "priceNative": "0.0000001719",
+        "priceUsd": "0.00005598",
+        "txns": {
+          "m5": {
+            "buys": 2,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 9,
+            "sells": 6
+          },
+          "h6": {
+            "buys": 91,
+            "sells": 65
+          },
+          "h24": {
+            "buys": 774,
+            "sells": 684
+          }
+        },
+        "volume": {
+          "h24": 79094.02,
+          "h6": 4883.29,
+          "h1": 192.18,
+          "m5": 148.72
+        },
+        "priceChange": {
+          "m5": -0.82,
+          "h1": -0.79,
+          "h6": -16.61,
+          "h24": -55.85
+        },
+        "liquidity": {
+          "usd": 51088.58,
+          "base": 639298394,
+          "quote": 46.9797
+        },
+        "fdv": 55988,
+        "marketCap": 55988,
+        "pairCreatedAt": 1788787845000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/thzf0JYwyG-bVfGI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/B8-UGMVMiCiZvHby?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x56aaa501fa9eb6670d6175d686957434c3d21e18?timestamp=1789128900000",
+          "websites": [],
+          "socials": []
+        }
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0x71333868881b5eaf1938d8ff933686a76bc64444:4meme",
+        "pairAddress": "0x71333868881B5eAf1938d8ff933686a76Bc64444:4meme",
+        "baseToken": {
+          "address": "0x71333868881B5eAf1938d8ff933686a76Bc64444",
+          "name": "苹果史上首款折叠屏手机",
+          "symbol": "IPHONE DUO"
+        },
+        "quoteToken": {
+          "address": "0x55d398326f99059fF775485246999027B3197955",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "priceNative": "0.00004955",
+        "priceUsd": "0.00004955",
+        "txns": {
+          "m5": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 31,
+            "sells": 4
+          },
+          "h6": {
+            "buys": 151,
+            "sells": 18
+          },
+          "h24": {
+            "buys": 586,
+            "sells": 29
+          }
+        },
+        "volume": {
+          "h24": 11826.07,
+          "h6": 1497.37,
+          "h1": 336.88,
+          "m5": 3.15
+        },
+        "priceChange": {
+          "m5": -0.02,
+          "h1": 1.51,
+          "h6": 15.22,
+          "h24": 27.06
+        },
+        "fdv": 49551.33,
+        "marketCap": 49551.33,
+        "pairCreatedAt": 1789087314000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb008e6b262fbc2361b23324ba1410d772efc287cb02c483e834d4f0e22c47974",
+        "pairAddress": "0xb008e6b262fbc2361b23324ba1410d772efc287cb02c483e834d4f0e22c47974",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x56aAa501Fa9Eb6670d6175D686957434c3d21E18",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.00007677",
+        "priceUsd": "0.00007677",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 29,
+            "sells": 109
+          }
+        },
+        "volume": {
+          "h24": 6404.66,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -40.81
+        },
+        "liquidity": {
+          "usd": 3943.78,
+          "base": 27487151,
+          "quote": 1833.3779
+        },
+        "fdv": 76778,
+        "marketCap": 76778,
+        "pairCreatedAt": 1788967769000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/thzf0JYwyG-bVfGI?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/B8-UGMVMiCiZvHby?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x56aaa501fa9eb6670d6175d686957434c3d21e18?timestamp=1789128900000",
+          "websites": [],
+          "socials": []
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/f7gkpjipxqken5p9zjgxwtjmdiizsvp3vrtvb8t3rhi9",
+        "pairAddress": "F7GkpJiPXqkEn5p9ZJGxWTjmdiiZsVP3VrTVb8t3Rhi9",
+        "baseToken": {
+          "address": "DpL17MheMFGyc3dGTa6E3mhu3n939EyxzfxzdXXApump",
+          "name": "Iphone Duo",
+          "symbol": "IPHONEDUO"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002814",
+        "priceUsd": "0.000002798",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h1": {
+            "buys": 3,
+            "sells": 2
+          },
+          "h6": {
+            "buys": 3,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 25.71,
+          "h6": 25.71,
+          "h1": 25.71,
+          "m5": 7.96
+        },
+        "priceChange": {
+          "m5": -0.38,
+          "h1": 0.15,
+          "h6": 0.15,
+          "h24": 0.15
+        },
+        "fdv": 2798.02,
+        "marketCap": 2798.02,
+        "pairCreatedAt": 1789128552000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/2tgjluvqvb2trctbfqu7ugdbu2osbgsvxhuoregfezn3",
+        "pairAddress": "2TGjLUVQvb2trctBfqu7UgdbU2osBgSvXhUorEGFezN3",
+        "baseToken": {
+          "address": "HVSwfeXxS2wciZjWypY2NcQvWkEhk8u4zLwS9ySEpump",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
+          "name": "Apple xStock",
+          "symbol": "AAPLx"
+        },
+        "priceNative": "0.00000001646",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 20,
+            "sells": 17
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "pairCreatedAt": 1789007786000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/cmmh2x4fgvxryke7zw4dwc6hipnktkn7m2hbxb8m2wk9",
+        "pairAddress": "CmMh2x4FGvxRYke7zw4dwC6HiPNKtkn7M2hbXB8m2WK9",
+        "labels": [
+          "CPMM"
+        ],
+        "baseToken": {
+          "address": "81Qq5793YiEHwvj7fCpY4U8Ly2yCGwHfXMMzjszabVcz",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
+          "name": "Apple xStock",
+          "symbol": "AAPLx"
+        },
+        "priceNative": "0.00000003153",
+        "priceUsd": "0.00001030",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 8,
+            "sells": 11
+          },
+          "h6": {
+            "buys": 40,
+            "sells": 56
+          },
+          "h24": {
+            "buys": 745,
+            "sells": 659
+          }
+        },
+        "volume": {
+          "h24": 123067.62,
+          "h6": 3424.2,
+          "h1": 1047.3,
+          "m5": 6.56
+        },
+        "priceChange": {
+          "m5": -0.29,
+          "h1": -26.31,
+          "h6": -32.8,
+          "h24": -86.81
+        },
+        "liquidity": {
+          "usd": 9553.25,
+          "base": 463445850,
+          "quote": 14.6165
+        },
+        "fdv": 10307,
+        "marketCap": 10307,
+        "pairCreatedAt": 1788952370000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/suxnZyoGxi_fDpwL?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/ffDzBvGloPssfsV_?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/81Qq5793YiEHwvj7fCpY4U8Ly2yCGwHfXMMzjszabVcz?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/markgurman/status/2097537284224721011",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/dxxrizzfmzjfmntfyee3ehvppwkrh5cnjjzszrhjevji",
+        "pairAddress": "DXxRizZFMZjFmNtFYEE3EhVPpWKrh5CNjJZszRHjeVJi",
+        "baseToken": {
+          "address": "f4N6mqcWKLi5gZ4xpjuchhDsX1c855UuEHs7Bsvi3bm",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000006514",
+        "priceUsd": "0.00006463",
+        "txns": {
+          "m5": {
+            "buys": 55,
+            "sells": 28
+          },
+          "h1": {
+            "buys": 2587,
+            "sells": 322
+          },
+          "h6": {
+            "buys": 2587,
+            "sells": 322
+          },
+          "h24": {
+            "buys": 2587,
+            "sells": 322
+          }
+        },
+        "volume": {
+          "h24": 42116.82,
+          "h6": 42116.82,
+          "h1": 42116.82,
+          "m5": 3999.82
+        },
+        "priceChange": {
+          "m5": 17.04,
+          "h1": 558,
+          "h6": 558,
+          "h24": 558
+        },
+        "liquidity": {
+          "usd": 48208.92,
+          "base": 372951291,
+          "quote": 242.9156
+        },
+        "fdv": 64638,
+        "marketCap": 64638,
+        "pairCreatedAt": 1789126121000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/9tq4w9hmsdwgjanfbyvruzeqcj7wv37gyvudsdbqcuy6",
+        "pairAddress": "9TQ4W9HmsDWgjaNfbYvRuzeqcj7Wv37gyVUdsdBqcUy6",
+        "baseToken": {
+          "address": "6m11HAP8NVKj6tPu6oAG6svSKNYBFPPgzp8r1oejiXix",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000004963",
+        "priceUsd": "0.00004924",
+        "txns": {
+          "m5": {
+            "buys": 54,
+            "sells": 27
+          },
+          "h1": {
+            "buys": 2616,
+            "sells": 645
+          },
+          "h6": {
+            "buys": 3092,
+            "sells": 866
+          },
+          "h24": {
+            "buys": 3092,
+            "sells": 866
+          }
+        },
+        "volume": {
+          "h24": 142125.19,
+          "h6": 142125.19,
+          "h1": 120177.81,
+          "m5": 6472.17
+        },
+        "priceChange": {
+          "m5": 19.27,
+          "h1": 338,
+          "h6": 477,
+          "h24": 477
+        },
+        "liquidity": {
+          "usd": 41159.72,
+          "base": 417061805,
+          "quote": 207.8319
+        },
+        "fdv": 49246,
+        "marketCap": 49246,
+        "pairCreatedAt": 1789124868000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x2706e0a4d84e1c6ae7c72813c9e67f0af6ba3496da1485e2d747983ef26f15c5",
+        "pairAddress": "0x2706e0a4d84e1c6ae7c72813c9e67f0af6ba3496da1485e2d747983ef26f15c5",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xaaf819b27a2EEc4b7D2553da68fc68C863fC8120",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+          "name": "Apple • Robinhood Token",
+          "symbol": "AAPL"
+        },
+        "priceNative": "0.00000001439",
+        "priceUsd": "0.000004682",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 14,
+            "sells": 29
+          }
+        },
+        "volume": {
+          "h24": 2190.11,
+          "h6": 6.67,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.27,
+          "h24": -33.99
+        },
+        "liquidity": {
+          "usd": 5486.32,
+          "base": 585785718,
+          "quote": 8.431
+        },
+        "fdv": 4683,
+        "marketCap": 4683,
+        "pairCreatedAt": 1788976568000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x4f2322dc0525fe9dcd0a0e4c87f6678309b8cc9a0e469b0058fcce094c35294b",
+        "pairAddress": "0x4f2322dc0525fe9dcd0a0e4c87f6678309b8cc9a0e469b0058fcce094c35294b",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x8c76dE46D8163D9BC080eEAE21a9c05B326d5cE9",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000001052",
+        "priceUsd": "0.000002583",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 8.28,
+          "h6": 8.28,
+          "h1": 7.51,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -1.76,
+          "h6": -1.14,
+          "h24": -1.14
+        },
+        "liquidity": {
+          "usd": 4662.22,
+          "base": 902299563,
+          "quote": 0.9499
+        },
+        "fdv": 2584,
+        "marketCap": 2584,
+        "pairCreatedAt": 1788976889000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/eofy2ey2xqdfioaftdzy2gnaw9tvhlwfqzesp3q7sd5d",
+        "pairAddress": "Eofy2EY2xQdfioaFtDZY2gNaw9tVHLwFqzESP3q7sd5d",
+        "baseToken": {
+          "address": "CQM8Nqv2ePZucBJRFuEYnbtQ4P3R7U76ett3ZdsLpump",
+          "name": "iPhone Duo",
+          "symbol": "iDuo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002795",
+        "priceUsd": "0.000002803",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 117,
+            "sells": 145
+          }
+        },
+        "volume": {
+          "h24": 14574.7,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -8.17
+        },
+        "fdv": 2803.73,
+        "marketCap": 2803.73,
+        "pairCreatedAt": 1789043240000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "fourmeme",
+        "url": "https://dexscreener.com/bsc/0xec9b266aa39910f6b824d72f674aa42884114444:4meme",
+        "pairAddress": "0xEC9b266AA39910F6b824d72F674AA42884114444:4meme",
+        "baseToken": {
+          "address": "0xEC9b266AA39910F6b824d72F674AA42884114444",
+          "name": "苹果史上首款折叠屏手机",
+          "symbol": "IPHONE DUO"
+        },
+        "quoteToken": {
+          "address": "0x55d398326f99059fF775485246999027B3197955",
+          "name": "Tether USD",
+          "symbol": "USDT"
+        },
+        "priceNative": "0.000004009",
+        "priceUsd": "0.000004009",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 9
+          },
+          "h24": {
+            "buys": 95,
+            "sells": 46
+          }
+        },
+        "volume": {
+          "h24": 13879.48,
+          "h6": 54.06,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -2.52,
+          "h24": -90.33
+        },
+        "fdv": 4009.46,
+        "marketCap": 4009.46,
+        "pairCreatedAt": 1789033638000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/spajw4xy4tewxtz7fzarzxkxfu56grbkj81ktyhxewt",
+        "pairAddress": "SPajW4xy4tEwXtz7fzarzXKXfu56GrBkj81KTyHxeWT",
+        "baseToken": {
+          "address": "BeKdrVVjT4fURmbHzp597nxzZZ6i1zpoeANe8wh5pump",
+          "name": "iPhone Duo",
+          "symbol": "iDuo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002802",
+        "priceUsd": "0.000002790",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 128,
+            "sells": 136
+          }
+        },
+        "volume": {
+          "h24": 13679.68,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -18.41
+        },
+        "fdv": 2790.36,
+        "marketCap": 2790.36,
+        "pairCreatedAt": 1789043206000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x5307c8f7ee7021145b80f2553a2b86f45c8f8d5b08851e7974475d7189e755e3",
+        "pairAddress": "0x5307c8f7ee7021145b80f2553a2b86f45c8f8d5b08851e7974475d7189e755e3",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x454d3f8b58d03B426807dc49B7834F2949De4D39",
+          "name": "Iphone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+          "name": "Apple • Robinhood Token",
+          "symbol": "AAPL"
+        },
+        "priceNative": "0.000000006157",
+        "priceUsd": "0.000002002",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 2
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 8.88,
+          "h6": 8.88,
+          "h1": 5.12,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.59,
+          "h6": -0.59,
+          "h24": -0.59
+        },
+        "liquidity": {
+          "usd": 3587.84,
+          "base": 895622449,
+          "quote": 5.5143
+        },
+        "fdv": 2003,
+        "marketCap": 2003,
+        "pairCreatedAt": 1788976542000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x6cc8706ec7844d9aa648361ec9cb148507002df69e1998964fceee8d18f83368",
+        "pairAddress": "0x6cc8706ec7844d9aa648361ec9cb148507002df69e1998964fceee8d18f83368",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xB2000000000000000000006ACa675B1fe5028701",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+          "name": "Apple Inc.",
+          "symbol": "AAPLc"
+        },
+        "priceNative": "0.00000001914",
+        "priceUsd": "0.000006207",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 10
+          }
+        },
+        "volume": {
+          "h24": 1280.01,
+          "h6": 6.57,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.29,
+          "h24": -17.08
+        },
+        "liquidity": {
+          "usd": 6003.21,
+          "base": 811611838,
+          "quote": 2.9762
+        },
+        "fdv": 6208,
+        "marketCap": 6208,
+        "pairCreatedAt": 1788931057000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/ggysxmfax8ymkr6mp8gphnhxh6nmccnibl2n7a2p41ys",
+        "pairAddress": "GGYsXMfaX8YmKr6MP8gPHnHXH6NmcCnibL2N7a2P41ys",
+        "baseToken": {
+          "address": "9BHDozZBHEze5aJ4MBHBfPq965rpKQdrhrQZTktwpump",
+          "name": "iPhone Duo",
+          "symbol": "iPhoneDuo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000001787",
+        "priceUsd": "0.000001784",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 12514,
+            "sells": 970
+          }
+        },
+        "volume": {
+          "h24": 131692.82,
+          "h6": 11.36,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 1.94,
+          "h24": -99.97
+        },
+        "liquidity": {
+          "usd": 1798.43,
+          "base": 992742307,
+          "quote": 0.2676
+        },
+        "fdv": 1784,
+        "marketCap": 1784,
+        "pairCreatedAt": 1789041649000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/budktjjthikgmc8ppj7bsymgozmptv3uog1enppa2xug",
+        "pairAddress": "BuDKtJJThikgMC8PpJ7bsymgozMptv3uog1enPpa2xug",
+        "baseToken": {
+          "address": "Cpa9rNWdF3Nh7XHPhuTdkkgzoiV1NtQp9zYgLrpGzqxo",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.000001278",
+        "priceUsd": "0.0001272",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3446,
+            "sells": 907
+          }
+        },
+        "volume": {
+          "h24": 186218.79,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 1387
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.002826,
+          "quote": 4E-09
+        },
+        "fdv": 127295,
+        "marketCap": 127295,
+        "pairCreatedAt": 1789096491000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/hxuuwd4ezzvbt2fyfgyg5fjz7nzc3co6isnumyexrutj",
+        "pairAddress": "Hxuuwd4ezzvbT2FyFgYG5fJz7nZc3co6isnUMYEXruTj",
+        "baseToken": {
+          "address": "BZ4ExAwhJWPJuZtX1WjvRcHcWtaBZ9QumP4FWcSxADte",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000003142",
+        "priceUsd": "0.00003126",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 3831,
+            "sells": 1450
+          },
+          "h24": {
+            "buys": 3831,
+            "sells": 1450
+          }
+        },
+        "volume": {
+          "h24": 268199.24,
+          "h6": 268199.24,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 264,
+          "h24": 264
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.005738,
+          "quote": 2E-09
+        },
+        "fdv": 31261,
+        "marketCap": 31261,
+        "pairCreatedAt": 1789114610000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/biugl1s1ig2xwdccvshs5f1ueshgjvufr74lieicqknr",
+        "pairAddress": "BiUgL1s1iG2XwdccvsHS5f1UeSHgjvUfR74LieicqkNr",
+        "baseToken": {
+          "address": "2xtHd8GghvGLqAmB3aREZNpVkXPF7YnzL3kHoZgsYnsr",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000002885",
+        "priceUsd": "0.00002852",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 156,
+            "sells": 172
+          },
+          "h6": {
+            "buys": 3419,
+            "sells": 1409
+          },
+          "h24": {
+            "buys": 3419,
+            "sells": 1409
+          }
+        },
+        "volume": {
+          "h24": 131462.35,
+          "h6": 131462.35,
+          "h1": 19928.07,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -33.49,
+          "h6": 221,
+          "h24": 221
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.005957,
+          "quote": 2E-09
+        },
+        "fdv": 28527,
+        "marketCap": 28527,
+        "pairCreatedAt": 1789119093000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/49ahm6hmdqitygdhcvo3bs2w1g74fbdz5dqkbumfui4a",
+        "pairAddress": "49aHm6hmdqiTYGDHCVo3bS2w1g74fBdZ5dQkBumFui4A",
+        "baseToken": {
+          "address": "FY4yu6zaHmjQF5yo4ibt8zqzyGNsUDQs5c6mJF9RMcRD",
+          "name": "iPhone Duo",
+          "symbol": "iPhone Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000002560",
+        "priceUsd": "0.00002549",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 7962,
+            "sells": 6999
+          }
+        },
+        "volume": {
+          "h24": 1088223.71,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 97.09
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.006599,
+          "quote": 2E-09
+        },
+        "fdv": 25491,
+        "marketCap": 25491,
+        "pairCreatedAt": 1789052939000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/d9q6bqzrvysiwxbaggcwyfekzxenpxgh141kxmtcqvde",
+        "pairAddress": "D9q6BQzRVySiwXBAGGCWyFekzxENPxGh141kxMTCQvDE",
+        "baseToken": {
+          "address": "5bjbQ98sAGiTKZSqYg9JPBxB8MDX6uGCbeHQVLJqKwni",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000002691",
+        "priceUsd": "0.00002682",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3041,
+            "sells": 1099
+          }
+        },
+        "volume": {
+          "h24": 96325.75,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 212
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.006155,
+          "quote": 2E-09
+        },
+        "fdv": 26829,
+        "marketCap": 26829,
+        "pairCreatedAt": 1789044150000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/9tkffr8w1jas7n41zsz6hvtudcgq8u852bv19ysfx6io",
+        "pairAddress": "9TkffR8W1JaS7N41zsZ6HVTUdcGq8U852bv19YsFx6io",
+        "baseToken": {
+          "address": "9YNEtja8Ys4gGwWJZSmocDFQW31nnmDmmeNXramVABif",
+          "name": "iphone duo",
+          "symbol": "duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000002705",
+        "priceUsd": "0.00002692",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3005,
+            "sells": 1111
+          }
+        },
+        "volume": {
+          "h24": 88677.88,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 189
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.006135,
+          "quote": 2E-09
+        },
+        "fdv": 26918,
+        "marketCap": 26918,
+        "pairCreatedAt": 1789043074000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/fpcokzcxlvqvjcyjvxczbeb3jqbvafapmbwtaaznrnkn",
+        "pairAddress": "FpCoKZcXLvqvJcYjVxCZBEB3JQBvAfapmbwtaAZnRnKn",
+        "baseToken": {
+          "address": "2UUVAkc2mK5WdnGVmShLnzBjAktNh2x4wPvAQ6AKdU4B",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000002308",
+        "priceUsd": "0.00002304",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 769,
+            "sells": 890
+          },
+          "h24": {
+            "buys": 4483,
+            "sells": 1940
+          }
+        },
+        "volume": {
+          "h24": 358408.58,
+          "h6": 144674.97,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -87.7,
+          "h24": 168
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.006712,
+          "quote": 2E-09
+        },
+        "fdv": 23044,
+        "marketCap": 23044,
+        "pairCreatedAt": 1789101438000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/8nxamqhnvmnplii2az8bxyhkcsm3zpt8ghlvwha9vjob",
+        "pairAddress": "8NXAMqhnVmNpLii2aZ8BXYhkcsm3zpT8GHLVwHa9VjoB",
+        "baseToken": {
+          "address": "6rnfJE9AAXSszmVxwQ3pPFkzwt4UtUawaciK27GKpump",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000003242",
+        "priceUsd": "0.000003208",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 5,
+            "sells": 9
+          }
+        },
+        "volume": {
+          "h24": 677.48,
+          "h6": 14.29,
+          "h1": 14.29,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.97,
+          "h6": -0.97,
+          "h24": -5.62
+        },
+        "fdv": 3208.2,
+        "marketCap": 3208.2,
+        "pairCreatedAt": 1788690776000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/cdocxh3kc6zr4ohj3ctjvgtmule53e4qdmkkn5o2kgub",
+        "pairAddress": "CDocXh3kc6Zr4oHJ3CTjvgtmULe53e4Qdmkkn5o2KguB",
+        "baseToken": {
+          "address": "A6VDri21Huo7uw1pGLxQafwnJJeb3qZz9W4N6BoZGzps",
+          "name": "iPhone Duo",
+          "symbol": "DUO"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000001808",
+        "priceUsd": "0.00001801",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 3100,
+            "sells": 1291
+          },
+          "h24": {
+            "buys": 3100,
+            "sells": 1291
+          }
+        },
+        "volume": {
+          "h24": 104898.08,
+          "h6": 104898.08,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 105,
+          "h24": 105
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.007539,
+          "quote": 2E-09
+        },
+        "fdv": 18015,
+        "marketCap": 18015,
+        "pairCreatedAt": 1789113700000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/cmxq3x3q39ovch16wdnfv7rzvcxqemrej9mn6bkrbjf3",
+        "pairAddress": "CmXQ3X3q39oVcH16WDNfv7rzVCxqemReJ9MN6bKRBjF3",
+        "baseToken": {
+          "address": "7uAB19zNsNWUvALHg98T1358f6XkaL3KZuzzEBXA7Xjm",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.02392",
+        "priceUsd": "2.38",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 276,
+            "sells": 132
+          },
+          "h24": {
+            "buys": 276,
+            "sells": 132
+          }
+        },
+        "volume": {
+          "h24": 15214.35,
+          "h6": 15214.35,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 27723699,
+          "h24": 27723699
+        },
+        "liquidity": {
+          "usd": 0.01,
+          "base": 0.002276,
+          "quote": 5.87E-05
+        },
+        "fdv": 2380382775,
+        "marketCap": 2380382775,
+        "pairCreatedAt": 1789114273000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xa7607603a4551009f717fd86cf61f8cc90c014dd4cb1def6e8649cd381184b16",
+        "pairAddress": "0xa7607603a4551009f717fd86cf61f8cc90c014dd4cb1def6e8649cd381184b16",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xe431C99CbcBd84F3FFa049aFC07086F41F2aB2Bc",
+          "name": "Iphone Duo",
+          "symbol": "IPHONE"
+        },
+        "quoteToken": {
+          "address": "0x4200000000000000000000000000000000000006",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.00000000009871",
+        "priceUsd": "0.0000002394",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.23,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 23947.15,
+          "base": 99999105097,
+          "quote": 8.833E-05
+        },
+        "fdv": 23947,
+        "marketCap": 23947,
+        "pairCreatedAt": 1789044569000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "pancakeswap",
+        "url": "https://dexscreener.com/bsc/0x57923c8285c0e2e6cd6ab0256c675a7e3b4540c0",
+        "pairAddress": "0x57923c8285C0E2e6Cd6Ab0256c675A7E3b4540C0",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0xC26e887D361a67226Fa2903375ccD312e2BB7777",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "0x431a3BEE82E2ca41e49895CbECE5bB0F76A89b7A",
+          "name": "Apple",
+          "symbol": "AAPLB"
+        },
+        "priceNative": "0.00000008327",
+        "priceUsd": "0.00002713",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 4,
+            "sells": 10
+          },
+          "h6": {
+            "buys": 64,
+            "sells": 75
+          },
+          "h24": {
+            "buys": 1799,
+            "sells": 1715
+          }
+        },
+        "volume": {
+          "h24": 330658.25,
+          "h6": 5674.49,
+          "h1": 513.77,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -3.67,
+          "h6": -28.75,
+          "h24": -8.01
+        },
+        "liquidity": {
+          "usd": 16160.61,
+          "base": 297812009,
+          "quote": 24.8007
+        },
+        "fdv": 27132,
+        "marketCap": 27132,
+        "pairCreatedAt": 1788806772000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/4w9xksgzmshvtgeatqcnbelcxojmb5ntum4iha9s9han",
+        "pairAddress": "4w9XkSGZMsHvtgEAtQCNBELCxoJMb5NtUM4iHa9S9haN",
+        "baseToken": {
+          "address": "CBmZymYu4FdwM2NSJbpkNWSeeeb34wcwUxcXvSdRKt8b",
+          "name": "iPhone Duo",
+          "symbol": "Duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000001505",
+        "priceUsd": "0.00001493",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2637,
+            "sells": 750
+          }
+        },
+        "volume": {
+          "h24": 85722.47,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 74.21
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.008253,
+          "quote": 2E-09
+        },
+        "fdv": 14939,
+        "marketCap": 14939,
+        "pairCreatedAt": 1789093177000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/afwjvaxjvqq5uynjujcm7jku4fzadvgxf5pgxunm4u1b",
+        "pairAddress": "AFWjvAxJVqq5uYNjuJCM7Jku4FZADVGxf5pGxUNM4u1b",
+        "baseToken": {
+          "address": "uZu3QSKzjAUGJVNRFmmSWT1HwgbqCSx6QXF3g6hR6Rc",
+          "name": "iphone duo",
+          "symbol": "duo"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000001234",
+        "priceUsd": "0.00001235",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3197,
+            "sells": 1444
+          }
+        },
+        "volume": {
+          "h24": 113514.57,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 43.97
+        },
+        "liquidity": {
+          "usd": 0,
+          "base": 0.009109,
+          "quote": 2E-09
+        },
+        "fdv": 12355,
+        "marketCap": 12355,
+        "pairCreatedAt": 1789047083000
+      }
+    ]
+  },
+  "capturedAt": "2026-09-11T12:14:50.0963858Z",
+  "query": "iphone duo"
+}

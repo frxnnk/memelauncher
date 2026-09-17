@@ -1,0 +1,65 @@
+{
+  "readAtUtcApprox": "2026-09-12T06:10:00Z",
+  "method": "Solscan public UI, token mint exact, From filter treasury, Hide Low Value off. Select most recent visible outgoing transaction for each of three largest minted assets. Unequal batches; not a random wallet sample.",
+  "sender": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+  "transactions": [
+    {
+      "symbol": "ALLCAT",
+      "mint": "J1U1BWkVUDtujjkew4fCGwvUteeaJwDirEkuPcYCgALL",
+      "url": "https://solscan.io/tx/4F9A6QVu5FKQFA8yAbYMQgDZ5Sxm5t1vmoypiEpp5QXknwfEzU775XQyvnjiT2V8YwHqRg1udh2JaGdPwabRVH7J",
+      "atUtc": "2026-09-11T23:51:49Z",
+      "status": "SUCCESS, finalized",
+      "totalTokens": "6309.179678",
+      "feeSol": "0.000005",
+      "tokenTransfers": [
+        {"recipient":"mK6BNiK1jv6RxS5ThTH2bjp2JNayTZNVvuKniY94Rkx","amount":"780.981815"},
+        {"recipient":"8P332Ga9LjYXChHLZrea1KHvdSNq13A4Fg6LGnvv98AH","amount":"744.615842"},
+        {"recipient":"AWkvEn5mBq3nBV8YgfEnxXMWEJgtDaz3oXzmaTXTx33t","amount":"722.090166"},
+        {"recipient":"5M7mfDFrB9ub45eZShcTj29dbKU9w4Nb4AFBghCRiDPJ","amount":"675.394829"},
+        {"recipient":"3sgVhkjwd6p1FX7JP2mF1x2CbZYkXMktC6BBEHA8Zn4G","amount":"653.425342"},
+        {"recipient":"4CMRUwECC9MdTJj58PkBf6yHCqieRfLNuFwMCA9TMhbS","amount":"614.522334"},
+        {"recipient":"J3A3QrAYi5cyUP8k6KShb1D4UpFXjGQYh9HdLtYUjVm7","amount":"567.712788"},
+        {"recipient":"9oBzTFwcjwkSoLpDNwGLE9XhC8g5AGd1wZMXDCGWs1cr","amount":"548.032419"},
+        {"recipient":"GQFocHx1SBuf3vgJQkx29VMFzeAjv4DJU367oZQBmEDD","amount":"510.323811"},
+        {"recipient":"2m5oYQMWnyKSGa3HzL1szaqMzYa6UXTsriKLP9xcPXxS","amount":"492.080332"}
+      ],
+      "createdTokenAccounts": [{"account":"28HZz1GBTBJjbDzMndg8JYrmLSgYQYy9DAvmtfZfiv1H","rentSol":"0.001513840"}],
+      "newHumanRecipients": null
+    },
+    {
+      "symbol": "ALLDOG",
+      "mint": "2QRqp5k3uefWisqCXSpSRWmMPu5pWFfEP9JXXbSA6ALL",
+      "url": "https://solscan.io/tx/3jabwhHw5Uz4T2BHTHBAdQLh1z7ciyX888oLj4ha6dZDD9778awyNUr8WQVTFcck3fwGDn1dxw7FUsGbXSFuLFHq",
+      "atUtc": "2026-09-12T00:34:22Z",
+      "status": "SUCCESS, finalized",
+      "totalTokens": "4818.856222",
+      "feeSol": "0.00000505",
+      "tokenTransfers": [{"recipient":"woQZigHfLGHje85cjhXr5Y6uUiau2Q8p65N58EQj328","amount":"4818.856222"}],
+      "createdTokenAccounts": null,
+      "newHumanRecipients": null
+    },
+    {
+      "symbol": "ALLIN",
+      "mint": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+      "url": "https://solscan.io/tx/26r2gzKQdpAE63HW6kEFZGkc6XeRffjUsr31Zb1oyHony9bszZSku9oaqeMkXhVFiEDvKY1EXzpfNngnq4QDHVyF",
+      "atUtc": "2026-09-12T00:34:29Z",
+      "status": "SUCCESS, finalized",
+      "totalTokens": "17041.624173",
+      "feeSol": "0.00000511",
+      "tokenTransfers": [
+        {"recipient":"JCXfGMsxGbH4fJuxKxdUuUL95d7d4zW1Zhbwvnu9Zb53","amount":"3483.794735"},
+        {"recipient":"mDR91ufq4S2uSHa9E2PYL7xg4LwcQXaQFP7YK864a1z","amount":"9127.755978"},
+        {"recipient":"woQZigHfLGHje85cjhXr5Y6uUiau2Q8p65N58EQj328","amount":"4430.073460"}
+      ],
+      "createdTokenAccounts": null,
+      "newHumanRecipients": null
+    }
+  ],
+  "sampleComparison": {
+    "tokenTransferEvents": 14,
+    "uniqueRecipientAddresses": 13,
+    "recipientRepeatedAcrossAssets": "woQZigHfLGHje85cjhXr5Y6uUiau2Q8p65N58EQj328",
+    "newAddressesMeans": "First observed in these three selected transactions only; not newly created wallets or people.",
+    "doesNotProve": "All reported drops, entitlement, independent control, human identity, retained balances, purchases or organic trading."
+  }
+}

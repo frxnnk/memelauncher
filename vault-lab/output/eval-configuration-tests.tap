@@ -1,0 +1,232 @@
+TAP version 13
+# (node:42932) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: default dry plan does not read a key, contact a network, or pretend model availability
+ok 1 - default dry plan does not read a key, contact a network, or pretend model availability
+  ---
+  duration_ms: 2.0857
+  type: 'test'
+  ...
+# Subtest: adversarial suite freezes 30 cases and bounded multi-turn requests without keys or network
+ok 2 - adversarial suite freezes 30 cases and bounded multi-turn requests without keys or network
+  ---
+  duration_ms: 2.0743
+  type: 'test'
+  ...
+# Subtest: adversarial inputs remain player data and do not veto a valid winning action
+ok 3 - adversarial inputs remain player data and do not veto a valid winning action
+  ---
+  duration_ms: 18.8545
+  type: 'test'
+  ...
+# Subtest: full adversarial suite preserves dialogue and fits application context limits with fixture replies
+ok 4 - full adversarial suite preserves dialogue and fits application context limits with fixture replies
+  ---
+  duration_ms: 44.6543
+  type: 'test'
+  ...
+# Subtest: matrix validation rejects silent truncation, duplicate models and unsupported inputs
+ok 5 - matrix validation rejects silent truncation, duplicate models and unsupported inputs
+  ---
+  duration_ms: 0.4595
+  type: 'test'
+  ...
+# Subtest: live key gate rejects unlimited, resetting, BYOK-excluded and exhausted keys
+ok 6 - live key gate rejects unlimited, resetting, BYOK-excluded and exhausted keys
+  ---
+  duration_ms: 0.2813
+  type: 'test'
+  ...
+# Subtest: live entry point cannot POST when provider key limit exceeds the chosen budget
+ok 7 - live entry point cannot POST when provider key limit exceeds the chosen budget
+  ---
+  duration_ms: 0.7014
+  type: 'test'
+  ...
+# Subtest: evaluation reuses real validation, stops a winning scenario and starts a fresh control session
+ok 8 - evaluation reuses real validation, stops a winning scenario and starts a fresh control session
+  ---
+  duration_ms: 5.1337
+  type: 'test'
+  ...
+# Subtest: multi-turn scenarios carry actual assistant and tool history into later requests
+ok 9 - multi-turn scenarios carry actual assistant and tool history into later requests
+  ---
+  duration_ms: 4.4937
+  type: 'test'
+  ...
+# Subtest: invalid model output remains an error in denominator and ends only its scenario when cost is known
+ok 10 - invalid model output remains an error in denominator and ends only its scenario when cost is known
+  ---
+  duration_ms: 4.0031
+  type: 'test'
+  ...
+# Subtest: missing usage halts the entire matrix; unreported cost is never called free
+ok 11 - missing usage halts the entire matrix; unreported cost is never called free
+  ---
+  duration_ms: 3.0348
+  type: 'test'
+  ...
+# Subtest: changed plans and mismatching rules abort before inference
+ok 12 - changed plans and mismatching rules abort before inference
+  ---
+  duration_ms: 2.8899
+  type: 'test'
+  ...
+# Subtest: receipt export failure stops before a second inference
+ok 13 - receipt export failure stops before a second inference
+  ---
+  duration_ms: 3.6226
+  type: 'test'
+  ...
+# Subtest: live CLI with mocked transport stores inspectable results and never writes the fixture key
+ok 14 - live CLI with mocked transport stores inspectable results and never writes the fixture key
+  ---
+  duration_ms: 33.7191
+  type: 'test'
+  ...
+# Subtest: candidate comparison freezes the exact system prompt without changing the app default
+ok 15 - candidate comparison freezes the exact system prompt without changing the app default
+  ---
+  duration_ms: 29.4221
+  type: 'test'
+  ...
+# Subtest: candidate plan cannot run against the baseline service or alter tools through an override
+ok 16 - candidate plan cannot run against the baseline service or alter tools through an override
+  ---
+  duration_ms: 1.514
+  type: 'test'
+  ...
+# (node:48756) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: only one valid release tool grants a practice victory; receipt is durable and contains no key
+ok 17 - only one valid release tool grants a practice victory; receipt is durable and contains no key
+  ---
+  duration_ms: 20.3308
+  type: 'test'
+  ...
+# Subtest: text claiming the vault opened is not a winning tool call
+ok 18 - text claiming the vault opened is not a winning tool call
+  ---
+  duration_ms: 3.7041
+  type: 'test'
+  ...
+# Subtest: different returned model is a recorded error, never a defeat or a win
+ok 19 - different returned model is a recorded error, never a defeat or a win
+  ---
+  duration_ms: 4.5015
+  type: 'test'
+  ...
+# Subtest: malformed tool arguments is a recorded error, never a defeat or a win
+ok 20 - malformed tool arguments is a recorded error, never a defeat or a win
+  ---
+  duration_ms: 4.0256
+  type: 'test'
+  ...
+# Subtest: multiple tool calls is a recorded error, never a defeat or a win
+ok 21 - multiple tool calls is a recorded error, never a defeat or a win
+  ---
+  duration_ms: 4.2711
+  type: 'test'
+  ...
+# Subtest: unknown tool is a recorded error, never a defeat or a win
+ok 22 - unknown tool is a recorded error, never a defeat or a win
+  ---
+  duration_ms: 4.3689
+  type: 'test'
+  ...
+# Subtest: truncated completion is a recorded error, never a defeat or a win
+ok 23 - truncated completion is a recorded error, never a defeat or a win
+  ---
+  duration_ms: 3.3585
+  type: 'test'
+  ...
+# Subtest: upstream error body never leaks secrets and is preserved as a sanitized failure
+ok 24 - upstream error body never leaks secrets and is preserved as a sanitized failure
+  ---
+  duration_ms: 4.121
+  type: 'test'
+  ...
+# Subtest: timeout is recorded and global lock is released
+ok 25 - timeout is recorded and global lock is released
+  ---
+  duration_ms: 25.9788
+  type: 'test'
+  ...
+# Subtest: missing key is useful 503 and makes no inference request
+ok 26 - missing key is useful 503 and makes no inference request
+  ---
+  duration_ms: 1.2223
+  type: 'test'
+  ...
+# Subtest: catalog caches real data, filters free models and rejects unavailable IDs
+ok 27 - catalog caches real data, filters free models and rejects unavailable IDs
+  ---
+  duration_ms: 1.32
+  type: 'test'
+  ...
+# Subtest: session context belongs to server and model is immutable
+ok 28 - session context belongs to server and model is immutable
+  ---
+  duration_ms: 3.8892
+  type: 'test'
+  ...
+# Subtest: concurrent requests are refused before a second inference call
+ok 29 - concurrent requests are refused before a second inference call
+  ---
+  duration_ms: 6.8921
+  type: 'test'
+  ...
+# Subtest: expired catalog is never silently used if its refresh fails
+ok 30 - expired catalog is never silently used if its refresh fails
+  ---
+  duration_ms: 1.4156
+  type: 'test'
+  ...
+# Subtest: catalog excludes moving aliases while retaining unfamiliar named model publishers
+ok 31 - catalog excludes moving aliases while retaining unfamiliar named model publishers
+  ---
+  duration_ms: 8.4061
+  type: 'test'
+  ...
+# Subtest: expired session cannot be replayed with a paid API request
+ok 32 - expired session cannot be replayed with a paid API request
+  ---
+  duration_ms: 2.9668
+  type: 'test'
+  ...
+# Subtest: receipt write failure never commits a new session as a win
+ok 33 - receipt write failure never commits a new session as a win
+  ---
+  duration_ms: 5.3535
+  type: 'test'
+  ...
+# (node:61124) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: sessions survive restart with actual previous messages and reject another account
+ok 34 - sessions survive restart with actual previous messages and reject another account
+  ---
+  duration_ms: 42.7251
+  type: 'test'
+  ...
+# Subtest: free practice and different credit rounds cannot share a persuasion history
+ok 35 - free practice and different credit rounds cannot share a persuasion history
+  ---
+  duration_ms: 17.7167
+  type: 'test'
+  ...
+# Subtest: configuration changes after restart refuse old sessions instead of silently changing the rival
+ok 36 - configuration changes after restart refuse old sessions instead of silently changing the rival
+  ---
+  duration_ms: 18.7035
+  type: 'test'
+  ...
+1..36
+# tests 36
+# suites 0
+# pass 36
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 230.0843

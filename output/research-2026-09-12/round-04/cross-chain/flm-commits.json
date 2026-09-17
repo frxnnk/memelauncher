@@ -1,0 +1,160 @@
+[
+  {
+    "sha": "7251a8921db4f891c39bd75ee5ad827f7031a24b",
+    "node_id": "C_kwDOUXZ6ANoAKDcyNTFhODkyMWRiNGY4OTFjMzliZDc1ZWU1YWQ4MjdmNzAzMWEyNGI",
+    "commit": {
+      "author": {
+        "name": "nftechie",
+        "email": "2530972+nftechie@users.noreply.github.com",
+        "date": "2026-09-11T21:51:25Z"
+      },
+      "committer": {
+        "name": "nftechie",
+        "email": "2530972+nftechie@users.noreply.github.com",
+        "date": "2026-09-11T21:51:25Z"
+      },
+      "message": "Add FLM artwork to README",
+      "tree": {
+        "sha": "91d3e1dea3ae966219171b115a2865fc808345c4",
+        "url": "https://api.github.com/repos/nftechie/flm/git/trees/91d3e1dea3ae966219171b115a2865fc808345c4"
+      },
+      "url": "https://api.github.com/repos/nftechie/flm/git/commits/7251a8921db4f891c39bd75ee5ad827f7031a24b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/nftechie/flm/commits/7251a8921db4f891c39bd75ee5ad827f7031a24b",
+    "html_url": "https://github.com/nftechie/flm/commit/7251a8921db4f891c39bd75ee5ad827f7031a24b",
+    "comments_url": "https://api.github.com/repos/nftechie/flm/commits/7251a8921db4f891c39bd75ee5ad827f7031a24b/comments",
+    "author": {
+      "login": "nftechie",
+      "id": 2530972,
+      "node_id": "MDQ6VXNlcjI1MzA5NzI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2530972?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nftechie",
+      "html_url": "https://github.com/nftechie",
+      "followers_url": "https://api.github.com/users/nftechie/followers",
+      "following_url": "https://api.github.com/users/nftechie/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nftechie/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nftechie/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nftechie/subscriptions",
+      "organizations_url": "https://api.github.com/users/nftechie/orgs",
+      "repos_url": "https://api.github.com/users/nftechie/repos",
+      "events_url": "https://api.github.com/users/nftechie/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nftechie/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "nftechie",
+      "id": 2530972,
+      "node_id": "MDQ6VXNlcjI1MzA5NzI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2530972?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nftechie",
+      "html_url": "https://github.com/nftechie",
+      "followers_url": "https://api.github.com/users/nftechie/followers",
+      "following_url": "https://api.github.com/users/nftechie/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nftechie/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nftechie/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nftechie/subscriptions",
+      "organizations_url": "https://api.github.com/users/nftechie/orgs",
+      "repos_url": "https://api.github.com/users/nftechie/repos",
+      "events_url": "https://api.github.com/users/nftechie/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nftechie/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d60610ff6af1efafaa8032c5302c3b02e9dd227f",
+        "url": "https://api.github.com/repos/nftechie/flm/commits/d60610ff6af1efafaa8032c5302c3b02e9dd227f",
+        "html_url": "https://github.com/nftechie/flm/commit/d60610ff6af1efafaa8032c5302c3b02e9dd227f"
+      }
+    ]
+  },
+  {
+    "sha": "d60610ff6af1efafaa8032c5302c3b02e9dd227f",
+    "node_id": "C_kwDOUXZ6ANoAKGQ2MDYxMGZmNmFmMWVmYWZhYTgwMzJjNTMwMmMzYjAyZTlkZDIyN2Y",
+    "commit": {
+      "author": {
+        "name": "nftechie",
+        "email": "2530972+nftechie@users.noreply.github.com",
+        "date": "2026-09-11T21:47:50Z"
+      },
+      "committer": {
+        "name": "nftechie",
+        "email": "2530972+nftechie@users.noreply.github.com",
+        "date": "2026-09-11T21:47:50Z"
+      },
+      "message": "Initial release: local FLM training and inference",
+      "tree": {
+        "sha": "bc08fd26dd80831684807086e790c3d010f4673e",
+        "url": "https://api.github.com/repos/nftechie/flm/git/trees/bc08fd26dd80831684807086e790c3d010f4673e"
+      },
+      "url": "https://api.github.com/repos/nftechie/flm/git/commits/d60610ff6af1efafaa8032c5302c3b02e9dd227f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/nftechie/flm/commits/d60610ff6af1efafaa8032c5302c3b02e9dd227f",
+    "html_url": "https://github.com/nftechie/flm/commit/d60610ff6af1efafaa8032c5302c3b02e9dd227f",
+    "comments_url": "https://api.github.com/repos/nftechie/flm/commits/d60610ff6af1efafaa8032c5302c3b02e9dd227f/comments",
+    "author": {
+      "login": "nftechie",
+      "id": 2530972,
+      "node_id": "MDQ6VXNlcjI1MzA5NzI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2530972?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nftechie",
+      "html_url": "https://github.com/nftechie",
+      "followers_url": "https://api.github.com/users/nftechie/followers",
+      "following_url": "https://api.github.com/users/nftechie/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nftechie/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nftechie/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nftechie/subscriptions",
+      "organizations_url": "https://api.github.com/users/nftechie/orgs",
+      "repos_url": "https://api.github.com/users/nftechie/repos",
+      "events_url": "https://api.github.com/users/nftechie/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nftechie/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "nftechie",
+      "id": 2530972,
+      "node_id": "MDQ6VXNlcjI1MzA5NzI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2530972?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nftechie",
+      "html_url": "https://github.com/nftechie",
+      "followers_url": "https://api.github.com/users/nftechie/followers",
+      "following_url": "https://api.github.com/users/nftechie/following{/other_user}",
+      "gists_url": "https://api.github.com/users/nftechie/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/nftechie/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/nftechie/subscriptions",
+      "organizations_url": "https://api.github.com/users/nftechie/orgs",
+      "repos_url": "https://api.github.com/users/nftechie/repos",
+      "events_url": "https://api.github.com/users/nftechie/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/nftechie/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": []
+  }
+]

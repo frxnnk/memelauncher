@@ -1,0 +1,695 @@
+{
+  "source": "markets.json",
+  "asOfAgeReference": "2026-09-12T06:45:00.0000000+00:00",
+  "captureNote": "Root captured markets around06:45UTC; exact time is not encoded in raw body.",
+  "dedupRule": "Case-sensitive mint, latest createdAt retained; duplicate records retained separately.",
+  "raw": {
+    "rows": 1731,
+    "graduated": 65,
+    "suspect": 2,
+    "capLe10k": 1682,
+    "capGt100k": 9,
+    "volume24hPositive": 958,
+    "volume24hGt1k": 308,
+    "trades24hPositive": 1324,
+    "lastTradeWithin1h": 104,
+    "volume24hUsd": 47855794.87590912,
+    "fees24hUsd": 499699.2687280723,
+    "allTimeFeesUsd": 594511.7399333352,
+    "allTimePaidUsd": 426040.07956984325,
+    "ledger24hClaimedUsd": 89006.90263108216,
+    "ledger24hPaidUsd": 89108.9099946167
+  },
+  "unique": {
+    "rows": 1730,
+    "graduated": 65,
+    "suspect": 2,
+    "capLe10k": 1681,
+    "capGt100k": 9,
+    "volume24hPositive": 957,
+    "volume24hGt1k": 307,
+    "trades24hPositive": 1323,
+    "lastTradeWithin1h": 104,
+    "volume24hUsd": 47853397.50783436,
+    "fees24hUsd": 499651.32136657863,
+    "allTimeFeesUsd": 594264.9653015498,
+    "allTimePaidUsd": 425742.9991415263,
+    "ledger24hClaimedUsd": 89000.74226670686,
+    "ledger24hPaidUsd": 89108.90999461657
+  },
+  "nonSuspect": {
+    "rows": 1728,
+    "graduated": 65,
+    "suspect": 0,
+    "capLe10k": 1681,
+    "capGt100k": 7,
+    "volume24hPositive": 956,
+    "volume24hGt1k": 307,
+    "trades24hPositive": 1323,
+    "lastTradeWithin1h": 104,
+    "volume24hUsd": 47853397.34717046,
+    "fees24hUsd": 499651.3197599397,
+    "allTimeFeesUsd": 594264.9636949108,
+    "allTimePaidUsd": 425742.9991415263,
+    "ledger24hClaimedUsd": 89000.74226670686,
+    "ledger24hPaidUsd": 89108.90999461657
+  },
+  "duplicates": [
+    {
+      "mint": "DVJUcTwgSSu5uuQbarEQ65EZiHYiDC99hMKsejzrsNjP",
+      "count": 2,
+      "pools": [
+        "iD93zvYDJiThaKJ5KH78nnJ3qqbVZpzuHPjJ34CMkPs",
+        "iD93zvYDJiThaKJ5KH78nnJ3qqbVZpzuHPjJ34CMkPs"
+      ],
+      "createdAt": [
+        1789128192,
+        1789128191
+      ],
+      "differentProperties": [
+        "createdAt"
+      ],
+      "rows": [
+        {
+          "mint": "DVJUcTwgSSu5uuQbarEQ65EZiHYiDC99hMKsejzrsNjP",
+          "pool": "iD93zvYDJiThaKJ5KH78nnJ3qqbVZpzuHPjJ34CMkPs",
+          "dammPool": "",
+          "symbol": "HEATBLAST",
+          "createdAt": 1789128192,
+          "signature": "4bKYbMGZYQbxxfgM3QFSUXMfbBV88rvJnf7w2pRPGtAbRivUM3pxp36pXL9bN56xBN21wfTWjU4FoeKLzhXry629",
+          "marketCapUsd": 1928.8350533106934,
+          "graduated": false,
+          "suspect": false,
+          "volume24hUsd": 2397.368074670705,
+          "fees24hUsd": 47.9473614934141,
+          "allTime": {
+            "feesUsd": 246.77463178532446,
+            "paidUsd": 297.080428317732,
+            "byKindUsd": {
+              "payout": 0,
+              "holders": 297.080428317732,
+              "burn": 0,
+              "lotto": 0,
+              "bounty": 0,
+              "jackpot": 0,
+              "wheel": 0,
+              "airdrop": 0,
+              "sweep": 0
+            },
+            "volumeUsd": 12338.731589266223,
+            "rounds": 4
+          }
+        },
+        {
+          "mint": "DVJUcTwgSSu5uuQbarEQ65EZiHYiDC99hMKsejzrsNjP",
+          "pool": "iD93zvYDJiThaKJ5KH78nnJ3qqbVZpzuHPjJ34CMkPs",
+          "dammPool": "",
+          "symbol": "HEATBLAST",
+          "createdAt": 1789128191,
+          "signature": "4bKYbMGZYQbxxfgM3QFSUXMfbBV88rvJnf7w2pRPGtAbRivUM3pxp36pXL9bN56xBN21wfTWjU4FoeKLzhXry629",
+          "marketCapUsd": 1928.8350533106934,
+          "graduated": false,
+          "suspect": false,
+          "volume24hUsd": 2397.368074670705,
+          "fees24hUsd": 47.9473614934141,
+          "allTime": {
+            "feesUsd": 246.77463178532446,
+            "paidUsd": 297.080428317732,
+            "byKindUsd": {
+              "payout": 0,
+              "holders": 297.080428317732,
+              "burn": 0,
+              "lotto": 0,
+              "bounty": 0,
+              "jackpot": 0,
+              "wheel": 0,
+              "airdrop": 0,
+              "sweep": 0
+            },
+            "volumeUsd": 12338.731589266223,
+            "rounds": 4
+          }
+        }
+      ]
+    }
+  ],
+  "uniquePools": 1730,
+  "byAge": [
+    {
+      "ageBin": "00-06h",
+      "stats": {
+        "rows": 140,
+        "graduated": 0,
+        "suspect": 0,
+        "capLe10k": 139,
+        "capGt100k": 0,
+        "volume24hPositive": 102,
+        "volume24hGt1k": 12,
+        "trades24hPositive": 140,
+        "lastTradeWithin1h": 26,
+        "volume24hUsd": 81523.46487765413,
+        "fees24hUsd": 1508.0945595668527,
+        "allTimeFeesUsd": 1555.0139832491832,
+        "allTimePaidUsd": 3166.7124872701725,
+        "ledger24hClaimedUsd": 1274.1699001665727,
+        "ledger24hPaidUsd": 3291.165796668979
+      }
+    },
+    {
+      "ageBin": "06-12h",
+      "stats": {
+        "rows": 94,
+        "graduated": 1,
+        "suspect": 0,
+        "capLe10k": 94,
+        "capGt100k": 0,
+        "volume24hPositive": 66,
+        "volume24hGt1k": 21,
+        "trades24hPositive": 94,
+        "lastTradeWithin1h": 4,
+        "volume24hUsd": 191046.93498952457,
+        "fees24hUsd": 3028.127977475272,
+        "allTimeFeesUsd": 3063.803009569791,
+        "allTimePaidUsd": 2099.1003638726374,
+        "ledger24hClaimedUsd": 2620.0528179564444,
+        "ledger24hPaidUsd": 2112.3129943344384
+      }
+    },
+    {
+      "ageBin": "12-24h",
+      "stats": {
+        "rows": 1053,
+        "graduated": 33,
+        "suspect": 0,
+        "capLe10k": 1043,
+        "capGt100k": 2,
+        "volume24hPositive": 646,
+        "volume24hGt1k": 210,
+        "trades24hPositive": 975,
+        "lastTradeWithin1h": 37,
+        "volume24hUsd": 15102872.173892524,
+        "fees24hUsd": 164443.06184525017,
+        "allTimeFeesUsd": 190285.07178232385,
+        "allTimePaidUsd": 107849.29276067519,
+        "ledger24hClaimedUsd": 14579.200425961671,
+        "ledger24hPaidUsd": 13187.247478847754
+      }
+    },
+    {
+      "ageBin": "24-48h",
+      "stats": {
+        "rows": 111,
+        "graduated": 4,
+        "suspect": 0,
+        "capLe10k": 95,
+        "capGt100k": 0,
+        "volume24hPositive": 51,
+        "volume24hGt1k": 17,
+        "trades24hPositive": 40,
+        "lastTradeWithin1h": 9,
+        "volume24hUsd": 1983955.7706615818,
+        "fees24hUsd": 22907.583304559386,
+        "allTimeFeesUsd": 26102.612379318332,
+        "allTimePaidUsd": 21177.394798215144,
+        "ledger24hClaimedUsd": 1245.9740876454707,
+        "ledger24hPaidUsd": 3599.32973447922
+      }
+    },
+    {
+      "ageBin": "48h+",
+      "stats": {
+        "rows": 332,
+        "graduated": 27,
+        "suspect": 2,
+        "capLe10k": 310,
+        "capGt100k": 7,
+        "volume24hPositive": 92,
+        "volume24hGt1k": 47,
+        "trades24hPositive": 74,
+        "lastTradeWithin1h": 28,
+        "volume24hUsd": 30493999.163413,
+        "fees24hUsd": 307764.45367972646,
+        "allTimeFeesUsd": 373258.4641470871,
+        "allTimePaidUsd": 291450.49873149337,
+        "ledger24hClaimedUsd": 69281.34503497678,
+        "ledger24hPaidUsd": 66918.85399028612
+      }
+    }
+  ],
+  "byMode": [
+    {
+      "mode": "holders",
+      "stats": {
+        "rows": 1044,
+        "graduated": 53,
+        "suspect": 2,
+        "capLe10k": 1004,
+        "capGt100k": 8,
+        "volume24hPositive": 636,
+        "volume24hGt1k": 230,
+        "trades24hPositive": 841,
+        "lastTradeWithin1h": 64,
+        "volume24hUsd": 44929140.06997295,
+        "fees24hUsd": 465146.8590535993,
+        "allTimeFeesUsd": 543154.1364069608,
+        "allTimePaidUsd": 361129.3045402517,
+        "ledger24hClaimedUsd": 79716.8107404841,
+        "ledger24hPaidUsd": 70293.62741994424
+      }
+    },
+    {
+      "mode": "keep",
+      "stats": {
+        "rows": 531,
+        "graduated": 2,
+        "suspect": 0,
+        "capLe10k": 529,
+        "capGt100k": 0,
+        "volume24hPositive": 238,
+        "volume24hGt1k": 44,
+        "trades24hPositive": 381,
+        "lastTradeWithin1h": 25,
+        "volume24hUsd": 601173.7628651896,
+        "fees24hUsd": 8591.805078087058,
+        "allTimeFeesUsd": 15998.221977478106,
+        "allTimePaidUsd": 13571.874133519097,
+        "ledger24hClaimedUsd": 2782.9841497639586,
+        "ledger24hPaidUsd": 4048.5075615979094
+      }
+    },
+    {
+      "mode": "burn",
+      "stats": {
+        "rows": 70,
+        "graduated": 6,
+        "suspect": 0,
+        "capLe10k": 68,
+        "capGt100k": 0,
+        "volume24hPositive": 40,
+        "volume24hGt1k": 20,
+        "trades24hPositive": 50,
+        "lastTradeWithin1h": 5,
+        "volume24hUsd": 726223.6655296171,
+        "fees24hUsd": 8921.780052967235,
+        "allTimeFeesUsd": 12602.045790209502,
+        "allTimePaidUsd": 8570.647967384542,
+        "ledger24hClaimedUsd": 1620.1651755117755,
+        "ledger24hPaidUsd": 1540.768763498991
+      }
+    },
+    {
+      "mode": "lotto",
+      "stats": {
+        "rows": 52,
+        "graduated": 3,
+        "suspect": 0,
+        "capLe10k": 49,
+        "capGt100k": 1,
+        "volume24hPositive": 24,
+        "volume24hGt1k": 7,
+        "trades24hPositive": 22,
+        "lastTradeWithin1h": 7,
+        "volume24hUsd": 1417177.6980571297,
+        "fees24hUsd": 14609.388407214878,
+        "allTimeFeesUsd": 19873.994539237283,
+        "allTimePaidUsd": 34706.57699756588,
+        "ledger24hClaimedUsd": 4725.159142907854,
+        "ledger24hPaidUsd": 10945.120963585392
+      }
+    },
+    {
+      "mode": "bounty",
+      "stats": {
+        "rows": 17,
+        "graduated": 0,
+        "suspect": 0,
+        "capLe10k": 16,
+        "capGt100k": 0,
+        "volume24hPositive": 10,
+        "volume24hGt1k": 2,
+        "trades24hPositive": 14,
+        "lastTradeWithin1h": 0,
+        "volume24hUsd": 5700.831556052219,
+        "fees24hUsd": 148.877475661698,
+        "allTimeFeesUsd": 329.7203179152733,
+        "allTimePaidUsd": 223.19612956404328,
+        "ledger24hClaimedUsd": 15.243458808724,
+        "ledger24hPaidUsd": 1.2780750987196
+      }
+    },
+    {
+      "mode": "dip",
+      "stats": {
+        "rows": 10,
+        "graduated": 1,
+        "suspect": 0,
+        "capLe10k": 9,
+        "capGt100k": 0,
+        "volume24hPositive": 7,
+        "volume24hGt1k": 3,
+        "trades24hPositive": 10,
+        "lastTradeWithin1h": 3,
+        "volume24hUsd": 171377.88606672146,
+        "fees24hUsd": 2180.5394233148068,
+        "allTimeFeesUsd": 2241.2538833049025,
+        "allTimePaidUsd": 7488.950244640586,
+        "ledger24hClaimedUsd": 88.97272883160394,
+        "ledger24hPaidUsd": 2238.481714842009
+      }
+    },
+    {
+      "mode": "split",
+      "stats": {
+        "rows": 6,
+        "graduated": 0,
+        "suspect": 0,
+        "capLe10k": 6,
+        "capGt100k": 0,
+        "volume24hPositive": 2,
+        "volume24hGt1k": 1,
+        "trades24hPositive": 5,
+        "lastTradeWithin1h": 0,
+        "volume24hUsd": 2603.593786684976,
+        "fees24hUsd": 52.071875733699514,
+        "allTimeFeesUsd": 65.59238644339725,
+        "allTimePaidUsd": 52.449128600665,
+        "ledger24hClaimedUsd": 51.40687039888841,
+        "ledger24hPaidUsd": 41.12549604926515
+      }
+    }
+  ],
+  "oldestCreatedAt": "2026-09-09T20:20:24.0000000+00:00",
+  "newestCreatedAt": "2026-09-12T06:36:11.0000000+00:00",
+  "topVolumeConcentration": [
+    {
+      "n": 1,
+      "volume24hUsd": 18824151.56,
+      "sharePct": 39.33712673194991,
+      "symbols": [
+        "EMBER"
+      ]
+    },
+    {
+      "n": 3,
+      "volume24hUsd": 30849741.57,
+      "sharePct": 64.4671920494776,
+      "symbols": [
+        "EMBER",
+        "FLAME",
+        "EMBERCAT"
+      ]
+    },
+    {
+      "n": 5,
+      "volume24hUsd": 33718938.3,
+      "sharePct": 70.46299775828513,
+      "symbols": [
+        "EMBER",
+        "FLAME",
+        "EMBERCAT",
+        "REBME",
+        "METCAT"
+      ]
+    },
+    {
+      "n": 10,
+      "volume24hUsd": 37570207.006768376,
+      "sharePct": 78.51105478300984,
+      "symbols": [
+        "EMBER",
+        "FLAME",
+        "EMBERCAT",
+        "REBME",
+        "METCAT",
+        "ECAT",
+        "ZECBALL",
+        "REBME",
+        "URANUS",
+        "ROCK"
+      ]
+    },
+    {
+      "n": 25,
+      "volume24hUsd": 42201089.91882237,
+      "sharePct": 88.18828392195167,
+      "symbols": [
+        "EMBER",
+        "FLAME",
+        "EMBERCAT",
+        "REBME",
+        "METCAT",
+        "ECAT",
+        "ZECBALL",
+        "REBME",
+        "URANUS",
+        "ROCK",
+        "LP",
+        "SEPT",
+        "MEOW",
+        "MEAT",
+        "METBOI",
+        "M3M3",
+        "EMBERDOG",
+        "METSUMI",
+        "FIRE",
+        "CUMET",
+        "CHARMANDER",
+        "LIT",
+        "BURNCOIN",
+        "GPUCAT",
+        "DLMM"
+      ]
+    }
+  ],
+  "topVolume": [
+    {
+      "symbol": "EMBER",
+      "mint": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+      "pool": "A8hL7AVYYdyKm9g7cM2Uv8YyN8h5RkaenthAqmVytoYQ",
+      "dammPool": "2y6PCqa4fEp3jLiFdan9jVMw7LSK8F3gwsTfy8p7traE",
+      "mode": "holders",
+      "createdAt": 1788985224,
+      "graduated": true,
+      "marketCapUsd": 14832314.192387896,
+      "volume24hUsd": 18824151.56,
+      "trades24h": 103909
+    },
+    {
+      "symbol": "FLAME",
+      "mint": "9oXA1VWKNiYDYa6VKHBFFBBvZdvuhw1b2eD5Aka7YrVt",
+      "pool": "8GAGtUt4JXuNxG6eVDZqPPfpuJftpcss3qk5JD6Agfaf",
+      "dammPool": "23B6d3FvDu2eiZxyBLgWdm2W2vn1bdRwJTR6NCfQpxGE",
+      "mode": "holders",
+      "createdAt": 1789120132,
+      "graduated": true,
+      "marketCapUsd": 891087.3265967295,
+      "volume24hUsd": 7494308.25,
+      "trades24h": 44939
+    },
+    {
+      "symbol": "EMBERCAT",
+      "mint": "8iYPW781jBDu8zkC6PFY8WpvtbHxSVMgBX8aPnNmRY3z",
+      "pool": "7Dd8Ue9zGMgvpMXBfHYpoi5UswjapTHJqpFRJkbf4Rtw",
+      "dammPool": "EiZvARbXzfx9XbMTJygS8LU8rBjwhV2Bw9ZG82cXcEku",
+      "mode": "holders",
+      "createdAt": 1788997534,
+      "graduated": true,
+      "marketCapUsd": 401701.3465373562,
+      "volume24hUsd": 4531281.76,
+      "trades24h": 30085
+    },
+    {
+      "symbol": "REBME",
+      "mint": "8JQXg7t2CQS7QyjqS27dE2HcRyRpn8tVZyxEC7htbXNQ",
+      "pool": "FeQH52NSHJ8JdNA8ioDTdkegZr8HeNEY7uVqW1d2DapQ",
+      "dammPool": "H6FsywZ5ZBDqFzVyAWqsWc6yGK5Gpf7jHnJUcu2Zga1f",
+      "mode": "holders",
+      "createdAt": 1789119730,
+      "graduated": true,
+      "marketCapUsd": 42804.81761554239,
+      "volume24hUsd": 1638069.22,
+      "trades24h": 12700
+    },
+    {
+      "symbol": "METCAT",
+      "mint": "GHcha5wmPV629D2aUnXsAz8x5EgEXTwPzC2YvuFJua5u",
+      "pool": "GAiu9ASdXLLHqzhJhWh35ndqu1bUMsp1ZE9hM35Sc1oH",
+      "dammPool": "2kXGtRwAM7VFYAtkXKZbzeXpbe6WwAWnoC65eMTQPDeD",
+      "mode": "holders",
+      "createdAt": 1788993962,
+      "graduated": true,
+      "marketCapUsd": 135009.86004018862,
+      "volume24hUsd": 1231127.51,
+      "trades24h": 9547
+    },
+    {
+      "symbol": "ECAT",
+      "mint": "AcLWggxmQyaF7vP8ZiJ18HHNMBFSb6yjNfSGHJR5QYwb",
+      "pool": "8F7Q7huEL5De7HTXuhnP5paVA9va7GeyMv18qjGVqfuu",
+      "dammPool": "D4WXdMxperGBik53V2MUjmAUzVFP3bXoML7T77bSXYtp",
+      "mode": "holders",
+      "createdAt": 1789084533,
+      "graduated": true,
+      "marketCapUsd": 60287.991332268866,
+      "volume24hUsd": 1173212.97,
+      "trades24h": 9335
+    },
+    {
+      "symbol": "ZECBALL",
+      "mint": "2Lt9MAeEdVyVCviZnEsDj9H3qn8KGjExaGud6yHT5ekj",
+      "pool": "avRbVbmg1LDWFZ8HsXmHGCNqHg25aRdWcdZkH74eMwC",
+      "dammPool": "GrS5nspLFZmfWofVM11EoueG7gAoPJLH5daxS4xY8w9q",
+      "mode": "lotto",
+      "createdAt": 1788990516,
+      "graduated": true,
+      "marketCapUsd": 147474.2451048064,
+      "volume24hUsd": 1143002.49,
+      "trades24h": 9724
+    },
+    {
+      "symbol": "REBME",
+      "mint": "AkLfzqn4vwCcS5CuqmJCCXZTnFNYLCRjwaJpJpsSuNar",
+      "pool": "9VfREKaNty2ZTqHpdmBfkC62mzT3bLwfwA4z4V9GkpQE",
+      "dammPool": "2NJ54xAjtrYEGmsVUhbtJ7Nrpsq2Mu9Sp6emX6kgJQVV",
+      "mode": "holders",
+      "createdAt": 1789115712,
+      "graduated": true,
+      "marketCapUsd": 25367.41979348634,
+      "volume24hUsd": 546262.14,
+      "trades24h": 5818
+    },
+    {
+      "symbol": "URANUS",
+      "mint": "HKmwr6Y8s5tN6ctEpNYLEXuPtzS4p2kYjPqCP8oM6r6U",
+      "pool": "6XYGBhgASxLTedsWrAqkzfUhasCnQDbH7tMpBoET4Fmz",
+      "dammPool": "8Y52Kps2dNSStjocaEG1xhjBRESAAWVct7oVnmB7ZCLS",
+      "mode": "holders",
+      "createdAt": 1788996811,
+      "graduated": true,
+      "marketCapUsd": 47292.91892842686,
+      "volume24hUsd": 535752.0767683755,
+      "trades24h": 3691
+    },
+    {
+      "symbol": "ROCK",
+      "mint": "9uHVufcAPmqVcgSyYHLnKDwUxbJ6cNznrT8wFYxkFGXX",
+      "pool": "EFH1ryAxHtyEMC5Q4NNA8eUaM5TvmvSkKqBDCHgeEiLh",
+      "dammPool": "Hws2eHYQ845Lt3rWtc7QtYFz3CsC4tQDLmgA7cX6H5B1",
+      "mode": "holders",
+      "createdAt": 1788993247,
+      "graduated": true,
+      "marketCapUsd": 72366.96223899438,
+      "volume24hUsd": 453039.03,
+      "trades24h": 3393
+    },
+    {
+      "symbol": "LP",
+      "mint": "8CECyxU5dTBwvzYXDcvzkgQ3qV8nsxXDrST396isn4Tu",
+      "pool": "5skvo9cxBtVkmR1385uqYGho6Q94L5Ghf9V9viRTRiVj",
+      "dammPool": "xZJTKthDmRx2H7fHp5FTeuv9V8vVrpYZkToa5sCmAXV",
+      "mode": "holders",
+      "createdAt": 1788998433,
+      "graduated": true,
+      "marketCapUsd": 15905.888899321091,
+      "volume24hUsd": 411159.39,
+      "trades24h": 4227
+    },
+    {
+      "symbol": "SEPT",
+      "mint": "Gy9nzAtHxPBrqCkJERqNqXHDyhSrRUH8uN9P87JExFjf",
+      "pool": "3Q6CcsZKcutrcAbr3nRTcYNjsaidehD1Pg1FN45Grnn3",
+      "dammPool": "8vL7c2jRzbSXELfh9DVdy8nELaZJ65jjX2uyPiP6oniT",
+      "mode": "holders",
+      "createdAt": 1789119671,
+      "graduated": true,
+      "marketCapUsd": 15850.430356923993,
+      "volume24hUsd": 388134.8,
+      "trades24h": 4210
+    }
+  ],
+  "sourceTotals": {
+    "claimedUsd": 483116.4305384808,
+    "paidUsd": 425880.5453811218,
+    "byKindUsd": {
+      "payout": 149414.66906583274,
+      "holders": 219811.89262519212,
+      "burn": 16056.063116878056,
+      "lotto": 13662.587309086835,
+      "bounty": 137.6122072682482,
+      "jackpot": 21100.993160112255,
+      "sweep": 97.75825331877695,
+      "wheel": 25159.506534049524,
+      "airdrop": 5598.969643430082
+    },
+    "rounds": {
+      "payout": 1641,
+      "holders": 2174,
+      "burn": 593,
+      "lotto": 187,
+      "bounty": 5,
+      "jackpot": 950,
+      "sweep": 318,
+      "wheel": 5531,
+      "airdrop": 3
+    },
+    "recipients": 209230,
+    "winners": 8081,
+    "burnedTokens": 1869224322.2080185,
+    "claimedQuote": 6522675.293532499,
+    "since": 1788985499
+  },
+  "sourceByKindSumUsd": 451040.0519151686,
+  "sourceByKindMinusPaidUsd": 25159.506534046785,
+  "main": {
+    "mint": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+    "feeBps": 200,
+    "graduated": true,
+    "allTime": {
+      "feesUsd": 227211.33732096804,
+      "paidUsd": 184739.55181545476,
+      "byKindUsd": {
+        "payout": 128471.9988667526,
+        "holders": 56267.55294870221,
+        "burn": 0,
+        "lotto": 0,
+        "bounty": 0,
+        "jackpot": 0,
+        "sweep": 0
+      },
+      "volumeUsd": 22721133.732096802,
+      "rounds": 264
+    },
+    "volume24hUsd": 18824151.56,
+    "fees24hUsd": 188241.51559999998,
+    "ledger24h": {
+      "claimedUsd": 32482.823257983335,
+      "paidUsd": 28375.393127200656,
+      "byKindUsd": {
+        "payout": 16603.173370106375,
+        "holders": 11772.219757094274,
+        "burn": 0,
+        "lotto": 0,
+        "bounty": 0,
+        "jackpot": 0,
+        "sweep": 0
+      },
+      "rounds": 114
+    },
+    "allTimeFeesToVolumeRatio": 0.01,
+    "fees24hToVolumeRatio": 0.01,
+    "ledger24hClaimedToFeesRatio": 0.17255929519292149
+  },
+  "feesEndpoint": {
+    "url": "https://embercurve.fun/api/solana/fees/pool/A8hL7AVYYdyKm9g7cM2Uv8YyN8h5RkaenthAqmVytoYQ",
+    "capturedAt": "2026-09-12T03:46:26.2643043-03:00",
+    "feeSource": "damm-v2-locked-lp",
+    "taxBps": 100,
+    "creatorOnChainBps": 0,
+    "platformAccrued": 263.911478,
+    "platformAccruedUsd": 59.505704413528,
+    "claimedByPlatform": 17073.216913999997,
+    "paidToCreator": 16405.972086,
+    "paidToCreatorUsd": 3716.110824479504,
+    "payoutRows": 30
+  }
+}

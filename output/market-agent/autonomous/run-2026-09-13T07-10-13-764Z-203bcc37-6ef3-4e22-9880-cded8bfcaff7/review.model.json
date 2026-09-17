@@ -1,0 +1,31 @@
+{
+  "summary": "Una interpretación merece una prueba creativa y otra necesita diferenciación. EXPLORE no autoriza un lanzamiento. La evidencia social se limita a comentarios del blog: las búsquedas de X no aportaron publicaciones verificables y una apertura devolvió 403. No se inspeccionaron imágenes ni videos. Las consultas de mercado adjuntas son una muestra acotada; no acreditan exclusividad y sus volúmenes reportados no demuestran demanda orgánica.",
+  "reviews": [
+    {
+      "storyId": "capitan",
+      "ideaId": "timon",
+      "disposition": "EXPLORE",
+      "decisionReason": "Aporta un personaje con una regla cómica repetible: traducir conflictos de directorio a instrucciones de navegación. Frente a anuncio, tiene un gesto más específico y una asociación documentada en los comentarios náuticos del blog. Según TechCrunch, Automattic confirmó el regreso de Mullenweg; el anuncio de la oferta por Mirene es del 11 de septiembre, anterior a la ventana, y no acredita una compra cerrada. El capitán ejecutivo es una interpretación satírica, no una conducta ni declaraciones verificadas del protagonista. Merece probar los tres diálogos identificados como ficción y sin nombres propios. La incertidumbre principal es si la confusión resulta comprensible y graciosa fuera del contexto de Mullenweg.",
+      "competitionStatus": "partial",
+      "competitionNote": "Captain Matt devolvió coincidencias nominales, pero los metadatos adjuntos no muestran el gesto de convertir reuniones corporativas en navegación. Mirene no devolvió pares. Los nombres con Captain o Matt no bastan para establecer competencia cultural; tampoco su irrelevancia demuestra que la propuesta sea la primera.",
+      "queryEvidence": [
+        "Captain Matt",
+        "Mirene"
+      ],
+      "relatedPairs": []
+    },
+    {
+      "storyId": "capitan",
+      "ideaId": "anuncio",
+      "disposition": "REWORK",
+      "decisionReason": "Propone un gesto distinto de timon: sustituye el personaje recurrente por una revelación lateral que frustra expectativas. Sin embargo, la estructura congelada todavía depende de una sorpresa genérica y aporta menos identidad propia. El blog documenta el anuncio personal, pero no demuestra que la audiencia esperara una respuesta concreta a la crisis ni que el autor intentara desviarla. La noticia posterior permite una relectura satírica, no atribuir esa intención ni presentar el barco como anunciado dentro de la ventana. La incertidumbre principal es si las variantes ficticias conservan una mecánica reconocible más allá del clickbait; falta demostrarlo con las tarjetas propuestas.",
+      "competitionStatus": "partial",
+      "competitionNote": "Las consultas de esta historia cubren nombres asociados al protagonista y al barco, con poco alcance para evaluar una mecánica de expectativa y revelación. Ningún resultado adjunto acredita un competidor con ese gesto. La respuesta vacía de Mirene no establece una brecha cultural ni exclusividad.",
+      "queryEvidence": [
+        "Captain Matt",
+        "Mirene"
+      ],
+      "relatedPairs": []
+    }
+  ]
+}

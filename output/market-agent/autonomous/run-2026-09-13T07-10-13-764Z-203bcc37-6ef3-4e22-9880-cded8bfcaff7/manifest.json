@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "status": "COMPLETE",
+  "startedAt": "2026-09-13T07:10:13.764Z",
+  "completedAt": "2026-09-13T07:12:52.523Z",
+  "files": {
+    "discovery.events.jsonl": "9852721d27ad910bbcac2757e972c5f9c51177edef6f4175a8d6d91ef86b1482",
+    "discovery.json": "1180082f6292ebeab95a81f3ea204bd56ea31b0cec356b1b54ba0e2dfc42fb2d",
+    "discovery.model.json": "d8b4341a2e9a704e134fb820b155f48f41001867fccc23c7830580c5d1243d66",
+    "discovery.prompt.txt": "9e9ec03f5c0b63e821185e1a7537811bd3bc56beae9ab5039579669d5c3cc3cd",
+    "discovery.schema.json": "797b4841e63e6bb5de0097aa3170062b417e40d729af4fc85072fdd7eed46b3e",
+    "discovery.stderr.txt": "0e03a5c6bb2974ed0b63385e49bcf00cee44a6a5cd972ddf311a17b712f5f343",
+    "map-data.json": "87d379ea7d5a294f0b4e272a6a6b07de420f3ac54d8b053621fd910a7ac36bd2",
+    "map.html": "64c93c47540d5847aade31aa103e67ef87eb04950b8b43ff63333898b5ed0011",
+    "market.json": "85748e4d132aba74b46c3a286a77665f61f1a49a8276d348537b2b0693b26f84",
+    "REPORT.md": "c7cbd7318b000342916ec7385c982037cec8c5c158b80ae712c44a2f13a2e27d",
+    "request.json": "e6774cc5e5fb667b566e6f59bd0758d49b1ab0626f6b16165385295145c5b521",
+    "result.json": "6dea7a75993107f154c3f07f500deff9c0e3b832c09bbbc18735ee902dcd1d86",
+    "review.events.jsonl": "e4822d79dd2e769d484996a659d117b586865dfc49fe57de9fa471bfc07e7c8c",
+    "review.json": "5fbcb0243df96da05d42aa8507efc0f3793886479a8a37ab05f32ce64f2eea63",
+    "review.model.json": "a015873be8006e1540e5b6c1a35593189e342106b57e7cbeeb1acc0371c80722",
+    "review.prompt.txt": "3c171f23b32fa6663abd3f9e212efb4dcff4bc2a3768836d6b35c3297fcef559",
+    "review.schema.json": "aa513705339170f51dfd0488b45b86a4a0f613b959c65bf2ac34fe536b7738e1",
+    "review.stderr.txt": "4b70cd0522b7542dc256bfcf5e1675f164be821247ca68381e1d848ad9f508fb"
+  },
+  "stages": [
+    {
+      "runtime": "codex-cli",
+      "stage": "discovery",
+      "searchEvents": 5,
+      "usage": [
+        {
+          "input_tokens": 258627,
+          "cached_input_tokens": 194688,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 2941,
+          "reasoning_output_tokens": 467
+        }
+      ],
+      "completedAt": "2026-09-13T07:12:12.169Z",
+      "sourceContentVerification": "Model-reported reading; inspect archived web events for access evidence."
+    },
+    {
+      "runtime": "codex-cli",
+      "stage": "review",
+      "searchEvents": 0,
+      "usage": [
+        {
+          "input_tokens": 24236,
+          "cached_input_tokens": 0,
+          "cache_write_input_tokens": 0,
+          "output_tokens": 816,
+          "reasoning_output_tokens": 142
+        }
+      ],
+      "completedAt": "2026-09-13T07:12:52.523Z",
+      "sourceContentVerification": "Model-reported reading; inspect archived web events for access evidence."
+    }
+  ],
+  "executionAuthorized": false,
+  "continuousMonitoring": false
+}

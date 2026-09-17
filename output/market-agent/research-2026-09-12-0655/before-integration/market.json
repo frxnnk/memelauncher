@@ -1,0 +1,203 @@
+{
+  "currentObservedAt": "2026-09-12T06:02:20.077Z",
+  "collectionStartedAt": "2026-09-12T06:02:08.683Z",
+  "source": "DEX Screener public API",
+  "scanFile": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\output\\market-agent\\2026-09-12T06-02-20-447Z-f1385289-4523-4c7a-b838-85d2bf9afdc8\\scan.json",
+  "nodes": [
+    {
+      "id": "catgpt",
+      "name": "CATGPT",
+      "symbol": "CATGPT",
+      "chain": "robinhood",
+      "contract": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "pair": "0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+      "quote": "OPENAIx1L",
+      "quoteName": "OPENAI 1x Long",
+      "quoteContract": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "priceUsd": 0.006653,
+      "liquidityUsd": 4273355.35,
+      "volume1h": 401974.93,
+      "sourceUrl": "https://dexscreener.com/robinhood/0x086f510359ad57e4f8588b71ffa21fe29bbed044e4d13aa2f72ecaefeda95a36",
+      "observedAt": "2026-09-12T06:02:13.449Z",
+      "notes": [
+        "Identidad del par OPENAIx1L seguido previamente; existen homonimos en Robinhood y Solana.",
+        "El quote se llama OPENAI 1x Long; la metadata del pool no prueba emision o respaldo de OpenAI.",
+        "Liquidez nominal: aproximadamente 96.67% es valoracion del propio token; residual quote contable aproximado 142129.00 USD. No mide profundidad ejecutable ni efectivo garantizado."
+      ]
+    },
+    {
+      "id": "anthropig",
+      "name": "Anthropig",
+      "symbol": "ANTHROPIG",
+      "chain": "robinhood",
+      "contract": "0x351Ab2C51e223B28D219fE28cc3956410CC11e18",
+      "pair": "0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+      "quote": "ANTHROPICx1L",
+      "quoteName": "ANTHROPIC 1x Long",
+      "quoteContract": "0x1937caD42b17D43bB2b347ce16d5288887C46c33",
+      "priceUsd": 0.001825,
+      "liquidityUsd": 1243536.52,
+      "volume1h": 152158.9,
+      "sourceUrl": "https://dexscreener.com/robinhood/0xaf28b153a45c4647ed76860811f734152e3c93e29c6a4489691954b71716d310",
+      "observedAt": "2026-09-12T06:02:14.740Z",
+      "notes": [
+        "Identidad del par ANTHROPICx1L seguido previamente.",
+        "ANTHROPIG/WETH 0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6 es otro token: no sumar sus metricas.",
+        "El nombre ANTHROPIC 1x Long del quote no prueba emision o respaldo de Anthropic.",
+        "Liquidez nominal: aproximadamente 94.23% es valoracion del propio token; residual quote contable aproximado 71733.62 USD. No mide profundidad ejecutable ni efectivo garantizado."
+      ]
+    },
+    {
+      "id": "stonk",
+      "name": "STONK",
+      "symbol": "STONK",
+      "chain": "solana",
+      "contract": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx",
+      "pair": "zxTpi4BtaWX3mgdAPoezkMD1hxx8CdeCfrqXMWvSCLX",
+      "quote": "SOL",
+      "quoteName": "Wrapped SOL",
+      "quoteContract": "So11111111111111111111111111111111111111112",
+      "priceUsd": 0.2674,
+      "liquidityUsd": 4706933.51,
+      "volume1h": 1399188.84,
+      "sourceUrl": "https://dexscreener.com/solana/zxtpi4btawx3mgdapoezkmd1hxx8cdecfrqxmwvsclx",
+      "observedAt": "2026-09-12T06:02:16.087Z",
+      "notes": [
+        "Contrato y pool SOL seguidos previamente; es el pool con mayor liquidez reportada de esta identidad en la busqueda.",
+        "Otros contratos llamados STONK reportan hasta 161.3M USD de liquidez y menos de 1 USD de volumen/h: no son esta identidad.",
+        "Los varios pools del mismo mint no se suman; el nodo muestra un pool."
+      ]
+    },
+    {
+      "id": "allinu",
+      "name": "ALLINU",
+      "symbol": "ALLINU",
+      "chain": "solana",
+      "contract": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
+      "pair": "5752ia7jC3ZU1c8ycytaSyi5D4nVhApSKvreGbs7pwWL",
+      "quote": "DKNG",
+      "quoteName": "DraftKings - Backpack Securities",
+      "quoteContract": "DKNGQFNGQmoBdXSRGKJ8tTu7uPDasw5JDcfMmWniNfow",
+      "priceUsd": 0.001256,
+      "liquidityUsd": 106379.1,
+      "volume1h": 232289.09,
+      "sourceUrl": "https://dexscreener.com/solana/5752ia7jc3zu1c8ycytasyi5d4nvhapskvregbs7pwwl",
+      "observedAt": "2026-09-12T06:02:17.445Z",
+      "notes": [
+        "Contrato del par DKNG seguido previamente; es el pool con mayor liquidez reportada de esta identidad en la busqueda.",
+        "Quote identificado por contrato como DraftKings - Backpack Securities segun DEX; no se audito aqui el emisor ni la elegibilidad de uso.",
+        "Los ALLINU con liquidez nominal millonaria y volumen/h cero son otros contratos."
+      ]
+    },
+    {
+      "id": "steel",
+      "name": "Brian Steel",
+      "symbol": "STEEL",
+      "chain": "solana",
+      "contract": "TH5vjP7bP8mVzVSyRZiCxVUMpTABotrhVQEJNbepump",
+      "pair": "EJKPJgTVGjA1TDgR9LEtk6mzxYHE4urmn3njDHTdDmnw",
+      "quote": "SOL",
+      "quoteName": "Wrapped SOL",
+      "quoteContract": "So11111111111111111111111111111111111111112",
+      "priceUsd": 0.000003615,
+      "liquidityUsd": null,
+      "volume1h": 5.01,
+      "sourceUrl": "https://dexscreener.com/solana/ejkpjgtvgja1tdgr9letk6mzxyhe4urmn3njdhtddmnw",
+      "observedAt": "2026-09-12T06:02:18.723Z",
+      "notes": [
+        "Coincidencia exacta Brian Steel, simbolo STEEL, contrato seguido previamente.",
+        "Liquidez no reportada por DEX: null significa desconocida, no cero. Solo 5.01 USD de volumen en la ultima hora.",
+        "La busqueda incluye Brian Armstrong, Anthropic Cat y Ballz of Steel: no son evidencia de adopcion de Brian Steel."
+      ]
+    },
+    {
+      "id": "polarbear",
+      "name": "Polar Bear 2026",
+      "symbol": "PolarBear",
+      "chain": "solana",
+      "contract": "yf1xw3TZ8ZLbmdYHDW6QEg5bcbKRpP3QNNhqPv5pump",
+      "pair": "G1qdtYH5FmNvaFSxsanEbKhHDzGTQ7vkFuDT8waRHYiS",
+      "quote": "SOL",
+      "quoteName": "Wrapped SOL",
+      "quoteContract": "So11111111111111111111111111111111111111112",
+      "priceUsd": 0.0000269,
+      "liquidityUsd": 14904.38,
+      "volume1h": 0,
+      "sourceUrl": "https://dexscreener.com/solana/g1qdtyh5fmnvafsxsanebkhhdzgtq7vkfudt8warhyis",
+      "observedAt": "2026-09-12T06:02:20.077Z",
+      "notes": [
+        "Polar Bear 2026, contrato seguido previamente y mayor liquidez reportada entre coincidencias relevantes de la busqueda actual.",
+        "Volumen/h cero: el precio visible no demuestra actividad actual. Hay homonimos en varias redes."
+      ]
+    }
+  ],
+  "coverage": [
+    "Captura puntual de 3 metas trending y 6 busquedas; consultas de todas las redes, hasta 30 pares por respuesta. No es un censo del mercado.",
+    "Precios de pools distintos capturados entre 06:02:13 y 06:02:20 UTC del 2026-09-12; no son cotizaciones ejecutables simultaneas.",
+    "Se seleccionaron identidades exactas previamente investigadas y pools relevantes; no se eligio automaticamente el mayor valor de liquidez entre homonimos.",
+    "No se sumaron capitalizaciones, liquidez ni volumen de pools o contratos.",
+    "Identidad verificada contra respuesta DEX por red, contrato base, pair y contrato quote; no constituye auditoria del contrato o del emisor."
+  ],
+  "queryAmbiguities": [
+    {
+      "query": "CATGPT",
+      "returnedPairs": 30,
+      "distinctBaseTokens": 14
+    },
+    {
+      "query": "ANTHROPIG",
+      "returnedPairs": 30,
+      "distinctBaseTokens": 12
+    },
+    {
+      "query": "STONK",
+      "returnedPairs": 30,
+      "distinctBaseTokens": 14
+    },
+    {
+      "query": "ALLINU",
+      "returnedPairs": 30,
+      "distinctBaseTokens": 24
+    },
+    {
+      "query": "Brian Steel",
+      "returnedPairs": 30,
+      "distinctBaseTokens": 30
+    },
+    {
+      "query": "Polar Bear",
+      "returnedPairs": 30,
+      "distinctBaseTokens": 29
+    }
+  ],
+  "excludedHomonyms": [
+    {
+      "query": "ANTHROPIG",
+      "chain": "robinhood",
+      "contract": "0x04d6AAa3147B9f5b5dB255d3151561c07019BDC6",
+      "quote": "WETH",
+      "reason": "Otro token, no otro pool del ANTHROPIG de LONG.",
+      "priceUsd": 0.002824,
+      "liquidityUsd": 200806.79,
+      "volume1h": 2903924.37
+    },
+    {
+      "query": "STONK",
+      "chain": "solana",
+      "contract": "6mNyiGNer9sdgCcdpMQFb3DtFVqdu1KptufwSwetN4AL",
+      "quote": "USDC",
+      "reason": "Homonimo con gran liquidez nominal y actividad casi nula; no corresponde al mint seguido.",
+      "liquidityUsd": 161297713.18,
+      "volume1h": 0.97
+    },
+    {
+      "query": "ALLINU",
+      "chain": "solana",
+      "contract": "RZjZXpA84nxb3VFtUd2hGigGRqKsuQvLt1HNK9eVqNX",
+      "quote": "USDC",
+      "reason": "Homonimo con volumen/h cero; no es ALLINU/DKNG seguido.",
+      "liquidityUsd": 16837728.89,
+      "volume1h": 0
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+[
+  {
+    "mint": "FaJdgnGmmcJibf7uJYtqWK7tsdBQCYkHsp1VGTHaxtsA",
+    "at": 1789190505393,
+    "coin": {
+      "mint": "FaJdgnGmmcJibf7uJYtqWK7tsdBQCYkHsp1VGTHaxtsA",
+      "name": "HUNG",
+      "symbol": "HUNG",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeihzbqpbybf53boxpmfuad7fem45ulhjw2ovcsjf3k4c6udopvpjuy",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafybeihzbqpbybf53boxpmfuad7fem45ulhjw2ovcsjf3k4c6udopvpjuy",
+      "createdAt": 1789172402000,
+      "marketCapUsd": 2879.8968624422614,
+      "source": "etc",
+      "quote": {
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "symbol": "TSLAX"
+      },
+      "pricedFrom": "curve"
+    },
+    "pair": {
+      "mint": "FaJdgnGmmcJibf7uJYtqWK7tsdBQCYkHsp1VGTHaxtsA",
+      "stock": {
+        "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+        "symbol": "TSLAx",
+        "name": "Tesla",
+        "class": "equity",
+        "decimals": 8
+      },
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0,
+      "stocks": [
+        {
+          "stock": {
+            "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+            "symbol": "TSLAx",
+            "name": "Tesla",
+            "class": "equity",
+            "decimals": 8
+          },
+          "bps": 10000
+        }
+      ]
+    },
+    "paid": null,
+    "dropped": null,
+    "history": null,
+    "split": {
+      "config": "FaiAhzVSDULYBxSDXkhBm1dP7ec5PMtXt7Js3953Wv3G",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders:XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+          "label": "your holders, in TSLAx",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys this coin and drops it into $all wallets",
+          "bps": 1000,
+          "role": "etc"
+        },
+        {
+          "key": "Cu3nUxTHDcdQiCRWU3oW9aw5RA7dAdBqVrj3GjZdQEvj",
+          "label": "the platform fee",
+          "bps": 2000,
+          "role": "platform"
+        },
+        {
+          "key": "9c5R8vs1RTEYEt41fZPeaTobBuYdYjCrKpq2E64wR6FY",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "5EBaaz8S3DJrBxsRStAQ9jcX6b1qGKML4wK29y8qHoSa",
+      "waiting": "650242",
+      "claimable": null,
+      "earned": null
+    },
+    "claims": {
+      "lamports": "636169",
+      "claims": 1,
+      "lastAt": 1789184528000,
+      "lastSignature": "3fFWCbTPQq8CxNtPYUkgCcSmV6gsfcunLgUNsnXBxYmfQrdDvr832sfwAvudJ4HB8TmeFUHmerndNCLjUV7VsjL6",
+      "complete": false
+    },
+    "next": {
+      "at": 1789190084654,
+      "state": "running",
+      "held": "2 lamports accrued, under the 5000 a claim costs to send"
+    },
+    "feeRead": {
+      "at": 1789192287697,
+      "distributions": [],
+      "complete": false
+    }
+  }
+]

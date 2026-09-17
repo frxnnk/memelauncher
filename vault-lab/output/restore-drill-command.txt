@@ -1,0 +1,77 @@
+
+> dear-vault-local-lab@0.1.0 drill:restore
+> node audit/restore-drill.mjs
+
+{
+  "createdAt": "2026-09-14T19:40:59.639Z",
+  "status": "passed",
+  "mode": "isolated-local-fixtures",
+  "realInferenceCalls": 0,
+  "realFunds": false,
+  "realUserDataCopied": false,
+  "fixtureInferenceCalls": 4,
+  "copied": [
+    {
+      "name": "attempts.jsonl",
+      "sha256": "d2720af6f7294edaf21e925e9b8623471fdb043210d868032772298fc961dd8f"
+    },
+    {
+      "name": "economy.sqlite",
+      "sha256": "48144cf3453450165bb2be89188a3b0b8f8ea336594fd10cfc60ad2caaca28d9"
+    },
+    {
+      "name": "jobs.sqlite",
+      "sha256": "025341d3f962098f3fa8f6abbe4186ac988f1d19958cd3fda37894d2bddaaf8c"
+    },
+    {
+      "name": "sessions.sqlite",
+      "sha256": "a63ce58915ca26f598b1789382769bebe8275ef9f2ce35e3677676ff1abd0f2c"
+    },
+    {
+      "name": "usage.sqlite",
+      "sha256": "86c96962a4c76e98e68e6827764205e0b6adef375321baa750c4af92f05d64e6"
+    }
+  ],
+  "databaseChecks": [
+    {
+      "name": "economy.sqlite",
+      "integrity": "ok",
+      "foreignKeys": "ok"
+    },
+    {
+      "name": "jobs.sqlite",
+      "integrity": "ok",
+      "foreignKeys": "ok"
+    },
+    {
+      "name": "sessions.sqlite",
+      "integrity": "ok",
+      "foreignKeys": "ok"
+    },
+    {
+      "name": "usage.sqlite",
+      "integrity": "ok",
+      "foreignKeys": "ok"
+    }
+  ],
+  "ledger": {
+    "status": "internally-consistent",
+    "eventsChecked": 9,
+    "roundManifestsChecked": 1,
+    "custody": "1500",
+    "unit": "TEST",
+    "evidence": "replayed-operator-export",
+    "realFunds": false,
+    "independentExecutionProof": false,
+    "meaning": "Every supplied event reproduces the supplied balances. This does not verify deposits, model execution, completeness against an external source, or freedom from operator rewriting."
+  },
+  "duplicateModelReplayedWithoutInference": true,
+  "unknownCreditJobPreserved": true,
+  "pendingUsageBlocksAfterRestore": true,
+  "receiptRecoveryIdempotent": true,
+  "ownerSessionResumed": true,
+  "foreignOwnerRejected": true,
+  "ownerReceiptHistoryRestored": true,
+  "usageAfterResumeUsd": 0.006,
+  "limits": "A controlled stopped-writer restore drill, not a production backup, continuous replication or independent execution proof."
+}

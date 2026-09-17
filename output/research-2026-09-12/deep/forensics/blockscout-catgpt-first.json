@@ -1,0 +1,1192 @@
+[
+  {
+    "capturedAt": "2026-09-12T04:36:59.4712330Z",
+    "url": "https://robinhoodchain.blockscout.com/api/v2/tokens/0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "data": {
+      "address_hash": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "circulating_market_cap": null,
+      "circulating_supply": null,
+      "decimals": "18",
+      "exchange_rate": null,
+      "holders_count": "2719",
+      "icon_url": null,
+      "name": "CATGPT",
+      "reputation": "ok",
+      "symbol": "CATGPT",
+      "total_supply": "1000000000000000000000000000",
+      "type": "ERC-20",
+      "volume_24h": null
+    }
+  },
+  {
+    "capturedAt": "2026-09-12T04:37:00.7367650Z",
+    "url": "https://robinhoodchain.blockscout.com/api/v2/tokens/0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18/holders",
+    "data": {
+      "items": [
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+            "implementations": [],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": {
+              "tags": [
+                {
+                  "meta": {
+                    "tagIcon ": "https://blockscout-icons.s3.us-east-1.amazonaws.com/OLI_tag_logo.svg",
+                    "textColor": "#C163D4",
+                    "tooltipAttribution": "https://www.openlabelsinitiative.org?utm_source=blockscout",
+                    "tooltipAttributionIcon": "https://blockscout-icons.s3.us-east-1.amazonaws.com/OLI_tag_logo.svg",
+                    "tooltipDescription": "Provided by OLI"
+                  },
+                  "name": "PoolManager",
+                  "ordinal": 0,
+                  "slug": "poolmanager",
+                  "tagType": "name"
+                }
+              ]
+            },
+            "name": "PoolManager",
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "625661344023149552582930451"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xa37cD19f9A6FDcc323BA42FA498807B4212222f3",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "20000000000000000000000000"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x7F6e4E1e59be05dc717C8e5429154A7408609Ee2",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "16037463696267067050917578"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x50C0b87BDF73888cc5972A40f060eE8D08E836B2",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "15682692971266318609545778"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x1890E719822bc704C4f117AA4109401C2BAb6f79",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "14890324416597745635063601"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xC47ca82b9fEd94676B1195a49FD1A68192b7CEE0",
+            "implementations": [
+              {
+                "address_hash": "0x000000009B1D0aF20D8C6d0A44e162d11F9b8f00",
+                "name": "CaliburEntry"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "13014965213411762800917539"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x420B2Bbe06002bBC2d26B1599cc8BCf7b37278Bf",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "12102679452626042821486732"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xa2b68ab4A1B7077543C5E3fDe03157aA9Ec8f7b4",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "10510948542121378863839489"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xB11C68021541203727EcD54E4E656b956A057B76",
+            "implementations": [
+              {
+                "address_hash": "0x63c0c19a282a1B52b07dD5a65b58948A07DAE32B",
+                "name": "EIP7702StatelessDeleGator"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "9512545464741693042858767"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x80f3B0B712a82172A67E454e313BA6E2b0E7aE64",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "8225475775163127284798423"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x38E23ACC292d79B3ade1Dd6022830A3756755487",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "7540645468783647465123441"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xA8c6bdAe9Ba7E6371d839f4bdab94085b32c8c39",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "7374335883882806586067377"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x1944D7A35fDE8A866357048E4082d2B06884F5ae",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "6999528046580959386701347"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x78bE72376183Ccbca1eb1cfb636eE73f21eD043E",
+            "implementations": [
+              {
+                "address_hash": "0x69007702764179f14F51cdce752f4f775d74E139",
+                "name": "SemiModularAccount7702"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "6713026777428612229484684"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xF4B4337137A6Ba59c2e80de090f3b8f54eE8A415",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "6645309885149554750119649"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x1130c13002e8f33a33144a275764011212E4C34b",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "6503737993581003033121057"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x6c3E0019cC6E05627A378E8ec93038cF81236fad",
+            "implementations": [
+              {
+                "address_hash": "0x63c0c19a282a1B52b07dD5a65b58948A07DAE32B",
+                "name": "EIP7702StatelessDeleGator"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "5856978653354163696897477"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x65c9874A0107c5553c92430a7AA3863a79D543fD",
+            "implementations": [
+              {
+                "address_hash": "0x63c0c19a282a1B52b07dD5a65b58948A07DAE32B",
+                "name": "EIP7702StatelessDeleGator"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "4455464795676048369125944"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x696CBa91fdc752171F7bb0a8e689c13212c77e03",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "4088623080265028309345524"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xde0200E9c339Dec09BbE5254108EbC104815C213",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3966995281360256765550533"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xbaFd34a2EAa6e1919ADf99eC3A3188f7D4f0BF02",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3920031952183241178542962"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x10772eDCa0a783b0CD62AA9249BE44097B25fe09",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3725437085759274438304843"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x52e37C91CF2A7AcCc4DFf9C47f44BBF0E7507Cfe",
+            "implementations": [
+              {
+                "address_hash": "0x77021100bD87b7008E5E1989d0eB38555d0d0000",
+                "name": "SemiModularAccount7702"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3641145004743612339312171"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x24e7a8963c07DC0Ad58098172ab2B9826bC90fB2",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3492895599046084714446359"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x8F5369DE2Ca0C17a722C43d1E02Ee9aC7a16c763",
+            "implementations": [
+              {
+                "address_hash": "0x63c0c19a282a1B52b07dD5a65b58948A07DAE32B",
+                "name": "EIP7702StatelessDeleGator"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3469054363204566801494254"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x8c509E461bCEbe90711E3eB99A6EF1F1dDdE3351",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3390956877793472729350954"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xDCE001e4eC11AB58650c51AE9658accbe0F49c48",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3208317751450192281109433"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x04a2D435017228FE3C150f2C238B184236422a6b",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3192558324960949186010700"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xb617f3a1822EBf706189f8d2348f0Ce0824D7cf8",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3155592920987479970997738"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xc3e4Ca76601dB03F0cEdA0150C7936365bC5B14f",
+            "implementations": [
+              {
+                "address_hash": "0x63c0c19a282a1B52b07dD5a65b58948A07DAE32B",
+                "name": "EIP7702StatelessDeleGator"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "3044817583547626230200520"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xD50A8Cf2005b2f9d8237D58aec79BbA7645eB9ab",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2932491385602577010761805"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x4403fE42816a98278fB801489C51b47Cc1587C1d",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2746064229356943414282590"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xC110BCd2f548DEf528006581975B20Bd2122DA45",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2742803313296085944020757"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xe979C1A89220b5FA55090bD7c6AEFF526f308E4C",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2649706848429032272478981"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x431f15623676d6617859794F18dc3d0681c9eC00",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2572445628540065837977562"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xc08D911508c91246b48408E5b5F7eA65fFb15b6A",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2519405690798734396142430"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x8660E9A571c1D8E23b0B79676FCEC9F5E40cBC4D",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2424359908375678985055873"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xBCB4e81F4C1839F7ef831b8D3d499bb3bd148936",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2405107959575214670642438"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xC3A76958Cb75bD3070462515916FA6fF2564c405",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2401234720178073309821716"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xf24022Ba0FEa5926D30Fba8feCE6d7A852732989",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2263102442262454246492330"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x2F24521F53054C227c432B73D23F9f3ee5F5C336",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2257284308065934577741824"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xeA2b2874FaA9ba1843117F33aaC37265800c360E",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2247471602222698497205953"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xc3707421e026d540eC3471C1Ab0B3aC968090879",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2215332677442072653249616"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x438219E7F64a4fDBA15ed50A468f7f570B8e8043",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2203958852716674387043398"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xfdfc45155D65ffc60aCFC153471FBEFB04038D95",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2143568555161222448122420"
+        },
+        {
+          "address": {
+            "ens_domain_name": "grail-ens.eth",
+            "hash": "0xBe3d19e56d1dd610a4E18201366346e3db967Daa",
+            "implementations": [],
+            "is_contract": false,
+            "is_scam": false,
+            "is_verified": false,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": null,
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2115675479609652378825629"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x9268bcb3ec04eF5ba788E863C99D3973F72C1176",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2064998953779651169001239"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x39F9BC17AbCa98Dd104d1285F769516C5F577d3e",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2061505956140055085440889"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0x1DFc49B9AAd00F7B9f3357B62F0442C1DA5bACa0",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2019272255388299756539785"
+        },
+        {
+          "address": {
+            "ens_domain_name": null,
+            "hash": "0xB5a0448d1ff740186ff625fF96a27ceaBe85511E",
+            "implementations": [
+              {
+                "address_hash": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+                "name": "Simple7702Account"
+              }
+            ],
+            "is_contract": true,
+            "is_scam": false,
+            "is_verified": true,
+            "metadata": null,
+            "name": null,
+            "private_tags": [],
+            "proxy_type": "eip7702",
+            "public_tags": [],
+            "reputation": "ok",
+            "watchlist_names": []
+          },
+          "token_id": null,
+          "value": "2007993932011646639415701"
+        }
+      ],
+      "next_page_params": {
+        "value": "2007993932011646639415701",
+        "address_hash": "0xb5a0448d1ff740186ff625ff96a27ceabe85511e",
+        "items_count": 50
+      }
+    }
+  },
+  {
+    "capturedAt": "2026-09-12T04:37:08.0632239Z",
+    "url": "https://robinhoodchain.blockscout.com/api/v2/smart-contracts/0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+    "data": {
+      "conflicting_implementations": null,
+      "creation_bytecode": "0x602c3d8160093d39f33d3d3d3d363d3d37363d733be8b97fd0e713b5abe0649fa830223b6b4bc5995af43d3d93803e602a57fd5bf3",
+      "creation_status": "success",
+      "deployed_bytecode": "0x3d3d3d3d363d3d37363d733be8b97fd0e713b5abe0649fa830223b6b4bc5995af43d3d93803e602a57fd5bf3",
+      "implementations": [
+        {
+          "address_hash": "0x3Be8B97Fd0e713B5aBE0649Fa830223B6B4BC599",
+          "name": "DopplerERC20V1"
+        }
+      ],
+      "proxy_type": "eip1167"
+    }
+  }
+]

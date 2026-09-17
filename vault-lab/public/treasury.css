@@ -1,0 +1,45 @@
+.treasury-dialog { width:780px; padding:26px; }
+.treasury-dialog .dialog-heading { margin-bottom:16px; }
+.treasury-label { color:var(--accent); font-size:10px; letter-spacing:.1em; text-transform:uppercase; }
+.treasury-intro { font-size:12px;line-height:1.65;color:var(--muted);margin:0 0 18px;max-width:620px; }
+.treasury-topline { display:flex;align-items:center;justify-content:space-between;gap:12px;margin:20px 0; }
+.treasury-topline>div { display:flex;gap:14px;flex-wrap:wrap;justify-content:flex-end; }
+.treasury-topline label { display:flex;align-items:center;gap:10px;font-size:12px; }
+.treasury-dialog select,.treasury-dialog input { color:var(--text);background:var(--bg);border:1px solid var(--border);padding:8px 10px;border-radius:6px;font:inherit;max-width:100%; }
+.treasury-balances { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-block:1px solid var(--border); }
+.treasury-balance { padding:19px 15px 19px 0; min-width:0; }
+.treasury-balance span { display:block;font-size:10px;color:var(--muted);margin-bottom:10px; }
+.treasury-balance strong { font-size:26px;font-weight:500;letter-spacing:-1px;font-variant-numeric:tabular-nums;overflow-wrap:anywhere; }
+.treasury-balance small { margin-left:6px;color:var(--subtle);font-size:9px; }
+#treasury-prize { color:var(--accent); }
+.treasury-audit { margin:12px 0 24px;font-size:10px;color:var(--muted);line-height:1.6; }
+.treasury-section { margin:23px 0;padding-top:20px;border-top:1px solid var(--border); }
+.treasury-section h3 { font-weight:500;font-size:14px;margin:0 0 9px;letter-spacing:-.2px; }
+.treasury-section p,.treasury-muted { color:var(--muted);font-size:11px;line-height:1.7; }
+.treasury-section p { margin:7px 0 12px; }
+.treasury-buttons { display:flex;flex-wrap:wrap;gap:7px;margin:10px 0; }
+.treasury-action { color:var(--text);border:1px solid var(--border);background:var(--soft);border-radius:6px;font-size:11px;padding:9px 11px;line-height:1.4; }
+.treasury-action:hover:not(:disabled) { border-color:var(--accent); }
+.treasury-action:disabled { opacity:.4;cursor:not-allowed; }
+.treasury-amount { display:flex;align-items:center;gap:10px;font-size:11px;color:var(--muted); }
+.treasury-amount input { width:135px; }
+.treasury-event { border-bottom:1px solid var(--border);font-size:11px; }
+.treasury-event summary { display:flex;justify-content:space-between;padding:12px 0;cursor:pointer;text-transform:capitalize; }
+.treasury-event summary small { color:var(--subtle); }
+.treasury-event pre { white-space:pre-wrap;overflow-wrap:anywhere;font:10px/1.7 var(--mono);color:var(--muted);max-height:250px;overflow:auto; }
+.treasury-status { font-size:11px;line-height:1.7;padding:10px 0;color:var(--accent);min-height:36px; }
+#wallet-state { white-space:pre-line;overflow-wrap:anywhere; }
+#account-summary { white-space:pre-line;overflow-wrap:anywhere; }
+#account-login-form { display:grid;grid-template-columns:minmax(0,1fr) auto;gap:9px;align-items:center; }
+#account-login-form label { grid-column:1 / -1;font-size:11px;color:var(--muted); }
+#account-login-form[hidden] { display:none; }
+#beta-invite-form { display:grid;grid-template-columns:minmax(0,1fr) auto;gap:9px;align-items:center; }
+#beta-invite-form label { grid-column:1 / -1;font-size:11px;color:var(--muted); }
+#beta-invite-form[hidden] { display:none; }
+#account-restore { margin-top:12px; }
+.account-data-note a { color:var(--muted);font-size:12px; }
+html[data-access="public-practice"] #treasury-dialog > :is(.treasury-topline,.treasury-event,.treasury-balances,.treasury-audit,.treasury-status,#treasury-retry),
+html[data-access="public-practice"] #treasury-dialog > .treasury-section:not(:has(#account-status)) { display:none; }
+.credit-toggle { display:flex;align-items:center;gap:9px;font-size:12px;cursor:pointer; }
+.treasury-dialog .credit-toggle input { width:16px;height:16px;padding:0;margin:0;accent-color:var(--accent);flex:none; }
+@media(max-width:540px) { .treasury-dialog { padding:19px; }.treasury-balances { grid-template-columns:repeat(2,minmax(0,1fr)); }.treasury-balance { padding-block:14px; }.treasury-balance strong { font-size:23px; }.treasury-topline { align-items:flex-start; }.treasury-topline label { flex-direction:column;align-items:flex-start;gap:5px; } }

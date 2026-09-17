@@ -1,0 +1,48 @@
+{
+  "method": "Manual structured transcription of public browser DOM and explorer Read Contract results; no wallet connected or transaction submitted",
+  "captured_utc": "2026-09-12T06:38:00Z",
+  "timestamp_precision": "minute; initial readings between 06:26 and 06:31, reconfirmed approximately 06:37",
+  "binance_poc": {
+    "url": "https://www.binance.com/en/proof-of-collateral/bstocks",
+    "filter": "QQQB",
+    "total_issued_bstocks_displayed": 74,
+    "asset_name": "Invesco QQQ Trust (bStocks)",
+    "token_contract_link": "https://bscscan.com/token/0x205812cdbed920aff76c6580abd681a46d11efc7",
+    "equities_in_custody_displayed": 69541,
+    "equity_symbol": "QQQ",
+    "tokenized_securities_displayed": 69541,
+    "token_symbol": "QQQB",
+    "ratio_displayed": "100%",
+    "last_updated_displayed": "09/12/2026 00:47:18",
+    "last_updated_timezone": null,
+    "independent_custody_audit_performed": false,
+    "note": "The static web extract showed zero issued assets before dynamic rendering; public browser rendering showed 74. Values are displayed rounded operator disclosures."
+  },
+  "istonks_pool": {
+    "url": "https://basescan.org/address/0x9f8353f61574da73218206ad3f70d9455bfed9c4#readContract",
+    "read_iframe_url": "https://basescan.org/readcontract?m=light&n=base&a=0x9f8353f61574da73218206ad3f70d9455bfed9c4&v=0x614d2ff8b2591e648f67d6f8c4a1fc1502add5f5",
+    "source_name": "UniswapV3Pool",
+    "source_match_kind": "similar verified match",
+    "token0_result": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+    "token1_result": "0xCB2BAff7177C8966A8b059b3Df3e9323dc2Ee267",
+    "router_identity_verified": false
+  },
+  "qqqb_proxy": {
+    "url": "https://bscscan.com/token/0x205812cdbed920aff76c6580abd681a46d11efc7",
+    "read_iframe_url": "https://bscscan.com/readcontract?m=light&n=bsc&a=0x205812cdbed920aff76c6580abd681a46d11efc7&v=0xcfed6c4679297ea4889f8183bc057b4a86c64e46",
+    "proxy_name": "BeaconProxy",
+    "implementation_displayed": "0xCFEd6c4679297ea4889F8183bC057B4A86C64e46",
+    "burnEnabled": true,
+    "mintEnabled": true,
+    "decimals": 18,
+    "compliance": "0x53dBa7AaBDe774787A1F57236B235567dA8e14F4",
+    "pauseManager": "0x9fc74Be63f3589485B2423984a7a0557e0CF700a",
+    "uiMultiplier": "1000000000000000000",
+    "ISSUER_ROLE": "0x114e74f6ea3bd819998f78687bfcb11b140da08e9b7d222fa9c1f1ba1f2aa122",
+    "getRoleMembers_ISSUER_ROLE": null,
+    "getRoleMembers_status": "Query attempted, no result rendered; null does not mean empty role",
+    "current_pause_state": null,
+    "beacon_owner": null,
+    "note": "Enabled mint and burn are permissioned ISSUER_ROLE operations, not permissionless user issuance/redemption."
+  }
+}

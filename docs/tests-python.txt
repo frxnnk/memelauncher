@@ -1,0 +1,26 @@
+test_only_incoming_edges_are_zeroed (test_reference.AblationTest.test_only_incoming_edges_are_zeroed) ... WARNING    C:\Users\franc\OneDrive\Documentos\ChatGPT\memelauncher\.venv\Lib\site-packages\brian2\equations\equations.py:387: PyparsingDeprecationWarning: 'parseString' deprecated - use 'parse_string'
+  parsed = EQUATIONS.parseString(eqns, parseAll=True)
+ [py.warnings]
+WARNING    C:\Users\franc\OneDrive\Documentos\ChatGPT\memelauncher\.venv\Lib\site-packages\pyparsing\util.py:466: PyparsingDeprecationWarning: 'parseAll' argument is deprecated, use 'parse_all'
+  return fn(self, *args, **kwargs)
+ [py.warnings]
+WARNING    C:\Users\franc\OneDrive\Documentos\ChatGPT\memelauncher\.venv\Lib\site-packages\brian2\equations\equations.py:161: PyparsingDeprecationWarning: 'scanString' deprecated - use 'scan_string'
+  parse_result = list(IDENTIFIER.scanString(identifier))
+ [py.warnings]
+WARNING    C:\Users\franc\OneDrive\Documentos\ChatGPT\memelauncher\.venv\Lib\site-packages\brian2\parsing\statements.py:51: PyparsingDeprecationWarning: 'parseString' deprecated - use 'parse_string'
+  parsed = STATEMENT.parseString(code, parseAll=True)
+ [py.warnings]
+WARNING    The object 'synapses' is getting deleted, but was never included in a network. This probably means that you did not store the object reference in a variable, or that the variable was not used to construct the network.
+The object was created here (most recent call only):
+  File 'C:\Users\franc\OneDrive\Documentos\ChatGPT\memelauncher\tests\test_reference.py', line 14, in test_only_incoming_edges_are_zeroed
+    syn = b.Synapses(neurons, neurons, 'w : volt') [brian2.core.base.unused_brian_object]
+WARNING    The object 'neurongroup' is getting deleted, but was never included in a network. This probably means that you did not store the object reference in a variable, or that the variable was not used to construct the network.
+The object was created here (most recent call only):
+  File 'C:\Users\franc\OneDrive\Documentos\ChatGPT\memelauncher\tests\test_reference.py', line 13, in test_only_incoming_edges_are_zeroed
+    neurons = b.NeuronGroup(4, 'v : volt') [brian2.core.base.unused_brian_object]
+ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.018s
+
+OK

@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-15",
+  "deploymentId": "dpl_2YsvFFctVC6V2AgZL7Ffozf8LKXo",
+  "source": "Browser observations and local test suite; not independent attestation",
+  "guide": {"automaticFirstVisit": true, "stepsInspected": 3, "skip": true, "replay": true, "dismissedAfterReload": true, "escape": true, "focusAfterEscape": "tour-button"},
+  "responsive": [
+    {"width":390,"height":844,"gameDocumentOverflow":false,"guideAndComposerVisible":true},
+    {"width":320,"height":568,"gameDocumentOverflow":false,"guideAndComposerVisible":true,"composerBottomAfterReply":512,"longReplyPages":2},
+    {"width":390,"height":400,"guideAndComposerVisible":true,"method":"reduced viewport height; no physical keyboard"},
+    {"width":1024,"height":768,"darkThemeAndGuideInspected":true}
+  ],
+  "voiceControlPresent": false,
+  "decorativeStatusDotsPresent": false,
+  "defaultBackground": "rgb(247, 247, 245)",
+  "reducedMotion": {"emulated":true,"headerAnimation":"none","composerAnimation":"none","doorTransition":"0s","overrideReset":true},
+  "localFixture": {"providerIntercepted":true,"externalInferenceCalls":0,"selectedModel":"anthropic/claude-haiku-4.5","statesObserved":["thinking","locked"],"replyPagination":true,"receiptControlAvailable":true},
+  "landing": {"mobileInspected":true,"horizontalOverflow":false,"normalVerticalScrolling":true},
+  "live": {"catalogLoaded":true,"firstVisitGuideOpened":true,"admissionStillRequired":true,"newInferenceCalls":0},
+  "testsPassed":212,
+  "build":"passed",
+  "physicalPhoneTested":false
+}

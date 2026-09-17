@@ -1,0 +1,23 @@
+{
+  "status": "DRAFT_REQUIRES_REVIEW",
+  "concept": {
+    "name": "Audit Draft",
+    "ticker": "AUDIT",
+    "thesis": "LOCAL AUDIT FIXTURE ONLY. Tests text metadata preparation, not an actual token proposal.",
+    "sourceUrls": [
+      "https://api.dexscreener.com/latest/dex/search?q=CATGPT"
+    ],
+    "createdFromReport": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\output\\market-agent\\2026-09-12T09-23-23-582Z-ff0f332a-2d0f-4eee-a125-0a2ea12f3620\\decision.json",
+    "chain": "solana"
+  },
+  "createdAt": "2026-09-12T09:24:24.956Z",
+  "evidenceReport": "C:\\Users\\franc\\OneDrive\\Documentos\\ChatGPT\\memelauncher\\output\\market-agent\\2026-09-12T09-23-23-582Z-ff0f332a-2d0f-4eee-a125-0a2ea12f3620\\decision.json",
+  "launchAuthorized": false,
+  "unresolved": [
+    "independent social demand",
+    "exact token/pool competition",
+    "creator and distribution plan",
+    "platform quote and simulation",
+    "budget and fees"
+  ]
+}

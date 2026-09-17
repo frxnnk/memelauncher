@@ -1,0 +1,90 @@
+[
+  {
+    "mint": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+    "at": 1789192252656,
+    "coin": {
+      "mint": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+      "name": "ALLIN",
+      "symbol": "ALLIN",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeifoyhmbfijmcub4kzzzdl5mtdtwp44xweuxp3zah5uqgfowsmuliq",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafybeifoyhmbfijmcub4kzzzdl5mtdtwp44xweuxp3zah5uqgfowsmuliq",
+      "createdAt": 1789157014000,
+      "marketCapUsd": 31944.644997080883,
+      "source": "etc",
+      "quote": null
+    },
+    "pair": {
+      "mint": "A5mD1fnqJvUxWRJhQV7Y9yBZR7toXL87weQY7SCWVCVL",
+      "stock": null,
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0
+    },
+    "paid": {
+      "symbol": "$$ALL",
+      "decimals": 6,
+      "units": "229534926128",
+      "usd": 660.4471322050703,
+      "payouts": 108,
+      "lastAt": 1789166038740,
+      "wallets": 911
+    },
+    "dropped": {
+      "symbol": "DROP-A5MD-2",
+      "decimals": 6,
+      "units": "6553303822897",
+      "usd": null,
+      "wallets": 345,
+      "lastAt": 1789173269000
+    },
+    "history": null,
+    "split": {
+      "config": "A4EKzZQCzpX6C8PtjuFPkJi9gjCqRLHNtdmG2KPSt9eL",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders",
+          "label": "your holders",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys this coin and drops it into $all wallets",
+          "bps": 3000,
+          "role": "etc"
+        },
+        {
+          "key": "HVLkepY2vYQn71nZjEgJSfzS1FiX2XYKb6c9ddkn6Q8A",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "Gbc7QrHjg7Ae7mGBXPKER8Mz4MKQSPh8gFmeBEVnToXw",
+      "waiting": "4969388202",
+      "claimable": "4968737962",
+      "earned": null
+    },
+    "claims": {
+      "lamports": "224209411",
+      "claims": 1,
+      "lastAt": 1789168578413,
+      "lastSignature": "5ryK3PyhW6krjrGu2MnimNLt4CnSzBTcfAgbXwaF2eWvD3cS3PDDGjddQSXgneqrg4c6khfueT9S7JCMp713DEKa",
+      "complete": false
+    },
+    "next": {
+      "at": 1789191894066,
+      "state": "running",
+      "held": "failed to get info about account KrmvJKJ5edt82ZrAALw5TUDw9Lyh1fb5eKdMoPf1NKs: TypeError: fetch failed"
+    },
+    "feeRead": {
+      "at": 1789192286175,
+      "distributions": [],
+      "complete": false
+    }
+  }
+]

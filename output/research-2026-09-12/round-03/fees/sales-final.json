@@ -1,0 +1,617 @@
+{
+  "rows": [
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "102",
+          "valueRaw": "40927692274819084",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "101",
+          "valueRaw": "413411033078980",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.000059378586084",
+      "tx": "0x9927db322d74057523d041c93df8448057615d762650f733c98b644e8275fc8c",
+      "ethReceived": "0.040927692274819084",
+      "tracesComplete": true,
+      "tokenAmount": "318322.385935657605904162",
+      "routerFeeEth": "0.00041341103307898",
+      "tokenAddress": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "token": "CATGPT",
+      "claim": "0x7b0711ada533e1d2b6b8da8f1fcf897fce8ec25f78ede4ed86e6ad5409df72cd",
+      "timestamp": "2026-09-11T23:45:52Z",
+      "tokenAmountRaw": "318322385935657605904162"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "54",
+          "valueRaw": "157190089992217866",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "53",
+          "valueRaw": "1587778686790079",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.000050907532572",
+      "tx": "0xb12729cf133100a5dec5912244d08c1fda08f6905e3945e790bef0093b37696f",
+      "ethReceived": "0.157190089992217866",
+      "tracesComplete": true,
+      "tokenAmount": "192.154331283884001661",
+      "routerFeeEth": "0.001587778686790079",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x04aa96b318fabe4ff1b9c16e02f03db50673aa712bc665695b028a074cfc6280",
+      "timestamp": "2026-09-11T23:51:30Z",
+      "tokenAmountRaw": "192154331283884001661"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "102",
+          "valueRaw": "233486393953605496",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "101",
+          "valueRaw": "2358448423773792",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.00008079208429",
+      "tx": "0xdf70c14e3dc62bda394301a41827bd25552048a5ea1ecf2d3ecbca4c3e7c7a66",
+      "ethReceived": "0.233486393953605496",
+      "tracesComplete": true,
+      "tokenAmount": "323530.101751107586800923",
+      "routerFeeEth": "0.002358448423773792",
+      "tokenAddress": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "token": "CATGPT",
+      "claim": "0x04aa96b318fabe4ff1b9c16e02f03db50673aa712bc665695b028a074cfc6280",
+      "timestamp": "2026-09-11T23:51:29Z",
+      "tokenAmountRaw": "323530101751107586800923"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "102",
+          "valueRaw": "46449055144600946",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "101",
+          "valueRaw": "469182375197989",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.00006153981762",
+      "tx": "0x0f0a04869b890a6cadff794153abd478a78c4c4a21450ff399322b12430b658c",
+      "ethReceived": "0.046449055144600946",
+      "tracesComplete": true,
+      "tokenAmount": "160485.42657160211131786",
+      "routerFeeEth": "0.000469182375197989",
+      "tokenAddress": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "token": "CATGPT",
+      "claim": "0xfe35da1eea64f8537aa1a11764bc5e386ea5ca58b02fa4a49fc3b5aeb8f2a744",
+      "timestamp": "2026-09-11T23:55:57Z",
+      "tokenAmountRaw": "160485426571602111317860"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "54",
+          "valueRaw": "136343144630259418",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "53",
+          "valueRaw": "1377203481113731",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.000032943117966",
+      "tx": "0x6f61f9c178a0188236d4870bed688552c6305187d9aa35851b37429ffe939a63",
+      "ethReceived": "0.136343144630259418",
+      "tracesComplete": true,
+      "tokenAmount": "299.703319560045637068",
+      "routerFeeEth": "0.001377203481113731",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x1d9b44df0fc9aeebe6285017b9b3e30aff9635ca98c814748239e21b5fd7e164",
+      "timestamp": "2026-09-12T00:03:22Z",
+      "tokenAmountRaw": "299703319560045637068"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "102",
+          "valueRaw": "159717952362783101",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "101",
+          "valueRaw": "1613312650129122",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.00005906342574",
+      "tx": "0x77c185020d1a5281f333c6a9bc265efe2aa03fbc47858d567a1c40a38d91b1c8",
+      "ethReceived": "0.159717952362783101",
+      "tracesComplete": true,
+      "tokenAmount": "174324.921794070072638724",
+      "routerFeeEth": "0.001613312650129122",
+      "tokenAddress": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "token": "CATGPT",
+      "claim": "0x1d9b44df0fc9aeebe6285017b9b3e30aff9635ca98c814748239e21b5fd7e164",
+      "timestamp": "2026-09-12T00:03:21Z",
+      "tokenAmountRaw": "174324921794070072638724"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "54",
+          "valueRaw": "202703457535366464",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "53",
+          "valueRaw": "2047509672074408",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.00003277390233",
+      "tx": "0x27f98d5c0207eb4f2106f0522486af7320d0ea701ac98f07ac951ca2b8299f14",
+      "ethReceived": "0.202703457535366464",
+      "tracesComplete": true,
+      "tokenAmount": "393.447917094069255168",
+      "routerFeeEth": "0.002047509672074408",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x7af2a9bece5312a2244801b581c1e781a5e24b45b4bda8e333b0669e15cf6da1",
+      "timestamp": "2026-09-12T00:20:57Z",
+      "tokenAmountRaw": "393447917094069255168"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "102",
+          "valueRaw": "165867073688551173",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "101",
+          "valueRaw": "1675424986753042",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.0000593936031",
+      "tx": "0x0a7b1afe05bebb4d601a72147c1ac9a5c6623f8e8e62ddf8f34232e905a80513",
+      "ethReceived": "0.165867073688551173",
+      "tracesComplete": true,
+      "tokenAmount": "204905.668945657249761853",
+      "routerFeeEth": "0.001675424986753042",
+      "tokenAddress": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "token": "CATGPT",
+      "claim": "0x7af2a9bece5312a2244801b581c1e781a5e24b45b4bda8e333b0669e15cf6da1",
+      "timestamp": "2026-09-12T00:20:55Z",
+      "tokenAmountRaw": "204905668945657249761853"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "54",
+          "valueRaw": "141120091771236304",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "53",
+          "valueRaw": "1425455472436730",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.000032460369114",
+      "tx": "0x7c9d26dd4f7f358018795fa4299a6a8baec77b999a9b41476094bb1e276c32da",
+      "ethReceived": "0.141120091771236304",
+      "tracesComplete": true,
+      "tokenAmount": "286.177914726109625927",
+      "routerFeeEth": "0.00142545547243673",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x559f5d547dfbd67063c6ef42e38a42ca32ace3d31df5b94d4ed12ac2127d413f",
+      "timestamp": "2026-09-12T00:36:39Z",
+      "tokenAmountRaw": "286177914726109625927"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 101,
+          "valueRaw": "1208795977253697",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 102,
+          "valueRaw": "119670801748116038",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.0000581354532",
+      "tx": "0x6c03af531fd2281031fd2694d844d4ff3cc353f4fea4498fa9c25fd12b56042b",
+      "ethReceived": "0.119670801748116038",
+      "tracesComplete": true,
+      "tokenAmount": "90129.459785830513739776",
+      "routerFeeEth": "0.001208795977253697",
+      "tokenAddress": "0xd6FDE6a3Fc6Ab2d83b2BE58383944CA1baDe1E18",
+      "token": "CATGPT",
+      "claim": "0x559f5d547dfbd67063c6ef42e38a42ca32ace3d31df5b94d4ed12ac2127d413f",
+      "timestamp": "2026-09-12T00:36:38Z",
+      "tokenAmountRaw": "90129459785830513739776"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 53,
+          "valueRaw": "4379862465283008",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 54,
+          "valueRaw": "433606384063017808",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.00003255443478",
+      "tx": "0x7f684517b36533820fbb0db2c181c58393d61da77fc1673fd852120b44da32d8",
+      "ethReceived": "0.433606384063017808",
+      "tracesComplete": true,
+      "tokenAmount": "768.596674435276239296",
+      "routerFeeEth": "0.004379862465283008",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x619a720299267c0ec516c079e5a378137c7e50bed8d946500971ef0e0b7725c1",
+      "timestamp": "2026-09-12T01:16:37Z",
+      "tokenAmountRaw": "768596674435276239296"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 53,
+          "valueRaw": "2140040888583116",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 54,
+          "valueRaw": "211864047969728511",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.00003231141063",
+      "tx": "0x9fc392e523db19243ce44bfecb94e739cee5300b9836f0a0e30271c9aa8e5864",
+      "ethReceived": "0.211864047969728511",
+      "tracesComplete": true,
+      "tokenAmount": "502.271224807138406277",
+      "routerFeeEth": "0.002140040888583116",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x3959db36aa7479a8c13ea721b1cbe0f29c2bb71b568f53ba5d0fcc7785bcdf3f",
+      "timestamp": "2026-09-12T02:04:25Z",
+      "tokenAmountRaw": "502271224807138406277"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 53,
+          "valueRaw": "1345154201408870",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 54,
+          "valueRaw": "133170265939478213",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.000032432176234",
+      "tx": "0x90c9b9ed4dd501b76087d6b913a66881383788911f2934440413e159eb49d770",
+      "ethReceived": "0.133170265939478213",
+      "tracesComplete": true,
+      "tokenAmount": "318.712706971106499605",
+      "routerFeeEth": "0.00134515420140887",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x290b35e087b487f4269d4b88b8e16209ee127b25477118a4ead8e8344221914c",
+      "timestamp": "2026-09-12T02:29:35Z",
+      "tokenAmountRaw": "318712706971106499605"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 53,
+          "valueRaw": "2167731378653167",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 54,
+          "valueRaw": "214605406486663592",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.00003208224761",
+      "tx": "0x249b535f2d02d26b8bc781a569b59f693d481f2d5f0307cb174af9d93779d05f",
+      "ethReceived": "0.214605406486663592",
+      "tracesComplete": true,
+      "tokenAmount": "504.501536126437147517",
+      "routerFeeEth": "0.002167731378653167",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x49bb8504d3e614c8aee0724769516d8e70126cb2a43c3c319dfe4e7f89e97aa3",
+      "timestamp": "2026-09-12T02:42:31Z",
+      "tokenAmountRaw": "504501536126437147517"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 53,
+          "valueRaw": "2424377903112334",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 54,
+          "valueRaw": "240013412408121132",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.000035828916984",
+      "tx": "0xb45c39c4a97e22043b0ec9f148383b4006821ad64cc9046f931f3ba0b28f72e6",
+      "ethReceived": "0.240013412408121132",
+      "tracesComplete": true,
+      "tokenAmount": "552.986198272012786727",
+      "routerFeeEth": "0.002424377903112334",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0xbd27425422d2694aad950d962e28e2cea69bc64703645a639c0f17dbba2ad193",
+      "timestamp": "2026-09-12T02:54:34Z",
+      "tokenAmountRaw": "552986198272012786727"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 118,
+          "valueRaw": "1099058828898146",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 119,
+          "valueRaw": "108806824060916490",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.000065399091992",
+      "tx": "0xba1d22d0d9c680187504e9a174021ca920fc3775b2ac1f9cae68b6b2fa853350",
+      "ethReceived": "0.10880682406091649",
+      "tracesComplete": true,
+      "tokenAmount": "249.798164218931210913",
+      "routerFeeEth": "0.001099058828898146",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0xcd8b68187a3d774bc6cfede26b7c6f01454c2de7005a118a97f632b3d57786b0",
+      "timestamp": "2026-09-12T03:07:13Z",
+      "tokenAmountRaw": "249798164218931210913"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 53,
+          "valueRaw": "2248085544338940",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 54,
+          "valueRaw": "222560468889555115",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.00003247158586",
+      "tx": "0x5fc8ca498c73250cd00d45919db0d7ba9d5b9ad49d9efa248ead8ddb5d0f66f5",
+      "ethReceived": "0.222560468889555115",
+      "tracesComplete": true,
+      "tokenAmount": "479.668406675587586229",
+      "routerFeeEth": "0.00224808554433894",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0xe0505a7f9704155b9c597ee1858ffc017157a81c4f558c2cbe24517858936acd",
+      "timestamp": "2026-09-12T03:32:37Z",
+      "tokenAmountRaw": "479668406675587586229"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0xb8159ba378904F803639D274cEc79F788931c9C8",
+          "index": 53,
+          "valueRaw": "934203966923766",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        },
+        {
+          "success": true,
+          "to": "0x79B069112DF103f28bE2012a52eCEF0F4a5106F2",
+          "index": 54,
+          "valueRaw": "92486192725452906",
+          "type": "call",
+          "from": "0x65050A9b7E5075A2bA5cED7b1b64EE66262c40Dc"
+        }
+      ],
+      "gasEth": "0.000032388613642",
+      "tx": "0x01820b2e56eb648e110429d308d81cdce38a80d5d2375fe0556a8efad68f0cbf",
+      "ethReceived": "0.092486192725452906",
+      "tracesComplete": true,
+      "tokenAmount": "199.928064239624919716",
+      "routerFeeEth": "0.000934203966923766",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0xc90bc8e56eb9171ce8be55a56fe058c8354c4ab1ec4942dcecfa98686eff2154",
+      "timestamp": "2026-09-12T04:08:05Z",
+      "tokenAmountRaw": "199928064239624919716"
+    },
+    {
+      "paymentTraces": [
+        {
+          "success": true,
+          "to": "0x79b069112df103f28be2012a52ecef0f4a5106f2",
+          "index": "54",
+          "valueRaw": "132529489645776744",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        },
+        {
+          "success": true,
+          "to": "0xb8159ba378904f803639d274cec79f788931c9c8",
+          "index": "53",
+          "valueRaw": "1338681713593704",
+          "type": "call",
+          "from": "0x65050a9b7e5075a2ba5ced7b1b64ee66262c40dc"
+        }
+      ],
+      "gasEth": "0.000032203402214",
+      "tx": "0x1ac3ebba1b720d2587657e740d8f566c785a1064223427d67531458b4ab31f72",
+      "ethReceived": "0.132529489645776744",
+      "tracesComplete": true,
+      "tokenAmount": "286.781428965212428205",
+      "routerFeeEth": "0.001338681713593704",
+      "tokenAddress": "0xfe09Fb328bE1c286B4f597eD34764b7472ae72c5",
+      "token": "OPENAIx1L",
+      "claim": "0x20926bd69c982d2c0ae71ba761b09b98121c280aa81bf9706ce2fd518c892ae0",
+      "timestamp": "2026-09-12T04:29:44Z",
+      "tokenAmountRaw": "286781428965212428205"
+    }
+  ],
+  "summary": {
+    "completeTraces": 19,
+    "salesGasEth": "0.000855059771962",
+    "scope": "Only 19 exact amount matches within 30 seconds of a CATGPT LP Release; not full wallet inventory or profit; all amounts historical token/native units, no USD mark.",
+    "transactions": 19,
+    "ethReceived": "3.193118245290266401",
+    "claims": 15,
+    "ethReceivedMinusSalesGas": "3.192263185518304401",
+    "tokens": [
+      {
+        "count": 6,
+        "tokenAmount": "1271697.964783925140163298",
+        "ethReceived": "0.766118969172475838",
+        "token": "CATGPT"
+      },
+      {
+        "count": 13,
+        "tokenAmount": "5034.727887375435744309",
+        "ethReceived": "2.426999276117790563",
+        "token": "OPENAIx1L"
+      }
+    ],
+    "routerFeeEth": "0.032253719649396621"
+  }
+}

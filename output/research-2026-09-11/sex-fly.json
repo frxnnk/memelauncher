@@ -1,0 +1,2137 @@
+{
+  "query": "sex fly",
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xfcada2212dc41a40d8a96e92d0d3a5bc355fa6b1875ff453bb62a3793879545f",
+        "pairAddress": "0xfcada2212dc41a40d8a96e92d0d3a5bc355fa6b1875ff453bb62a3793879545f",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+          "name": "Alphabet Class A • Robinhood Token",
+          "symbol": "GOOGL"
+        },
+        "priceNative": "0.0000005516",
+        "priceUsd": "0.0001840",
+        "txns": {
+          "m5": {
+            "buys": 6,
+            "sells": 7
+          },
+          "h1": {
+            "buys": 175,
+            "sells": 141
+          },
+          "h6": {
+            "buys": 1385,
+            "sells": 1148
+          },
+          "h24": {
+            "buys": 15979,
+            "sells": 16407
+          }
+        },
+        "volume": {
+          "h24": 6365569.95,
+          "h6": 496556.37,
+          "h1": 42509.21,
+          "m5": 952.15
+        },
+        "priceChange": {
+          "m5": 6.63,
+          "h1": -9.18,
+          "h6": -77.7,
+          "h24": 365
+        },
+        "liquidity": {
+          "usd": 34825.77,
+          "base": 94617023,
+          "quote": 52.1975
+        },
+        "fdv": 184035,
+        "marketCap": 184035,
+        "pairCreatedAt": 1789097327000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x568bf0e9b93cd669ed0e00e81729886b049dab37000e7b4d9bb4af00b9f88b42",
+        "pairAddress": "0x568bf0e9b93cd669ed0e00e81729886b049dab37000e7b4d9bb4af00b9f88b42",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0001795",
+        "priceUsd": "0.0001795",
+        "txns": {
+          "m5": {
+            "buys": 2,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 43,
+            "sells": 34
+          },
+          "h6": {
+            "buys": 400,
+            "sells": 294
+          },
+          "h24": {
+            "buys": 3580,
+            "sells": 3775
+          }
+        },
+        "volume": {
+          "h24": 1689532.49,
+          "h6": 102586,
+          "h1": 4440.82,
+          "m5": 42.84
+        },
+        "priceChange": {
+          "m5": 2.42,
+          "h1": -18.42,
+          "h6": -78.02,
+          "h24": -45.68
+        },
+        "liquidity": {
+          "usd": 3226.22,
+          "base": 15026446,
+          "quote": 527.6206
+        },
+        "fdv": 179590,
+        "marketCap": 179590,
+        "pairCreatedAt": 1789097954000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xd13d6ccdb32766cf147e6c7c479248eb26e4a8f26a52d22e72dbc90b5afa6cb5",
+        "pairAddress": "0xd13d6ccdb32766cf147e6c7c479248eb26e4a8f26a52d22e72dbc90b5afa6cb5",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0001823",
+        "priceUsd": "0.0001823",
+        "txns": {
+          "m5": {
+            "buys": 4,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 43,
+            "sells": 29
+          },
+          "h6": {
+            "buys": 261,
+            "sells": 210
+          },
+          "h24": {
+            "buys": 1024,
+            "sells": 1025
+          }
+        },
+        "volume": {
+          "h24": 91988.94,
+          "h6": 16135.1,
+          "h1": 1491.95,
+          "m5": 38.78
+        },
+        "priceChange": {
+          "m5": 5.77,
+          "h1": -17.03,
+          "h6": -77.72,
+          "h24": -93.4
+        },
+        "liquidity": {
+          "usd": 2387.74,
+          "base": 5765163,
+          "quote": 1336.2857
+        },
+        "fdv": 182382,
+        "marketCap": 182382,
+        "pairCreatedAt": 1789099617000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xf622f6787925cf370a1a6dc4493cf985b0d2a3a292fff4d8b569af1fe03738f0",
+        "pairAddress": "0xf622f6787925cf370a1a6dc4493cf985b0d2a3a292fff4d8b569af1fe03738f0",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.001497",
+        "priceUsd": "0.001497",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 332,
+            "sells": 307
+          }
+        },
+        "volume": {
+          "h24": 20421.98,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -30.68
+        },
+        "liquidity": {
+          "usd": 2908.8,
+          "base": 290035,
+          "quote": 2474.4272
+        },
+        "fdv": 1497660,
+        "marketCap": 1497660,
+        "pairCreatedAt": 1789100603000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x2d82a7769e6f0fcce95c4c23a4ece0cdedc02bf59bb5995a5372321f078677c1",
+        "pairAddress": "0x2d82a7769e6f0fcce95c4c23a4ece0cdedc02bf59bb5995a5372321f078677c1",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0007640",
+        "priceUsd": "0.0007640",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 300,
+            "sells": 292
+          }
+        },
+        "volume": {
+          "h24": 19109.33,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -66.59
+        },
+        "liquidity": {
+          "usd": 3104.95,
+          "base": 0.09904,
+          "quote": 3104.9531
+        },
+        "fdv": 764080,
+        "marketCap": 764080,
+        "pairCreatedAt": 1789099111000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xe855a95765c7ee056d7c7975416b17e3f77f5d14fa8b0973529e9971fc1b34de",
+        "pairAddress": "0xe855a95765c7ee056d7c7975416b17e3f77f5d14fa8b0973529e9971fc1b34de",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.001605",
+        "priceUsd": "0.001605",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 220,
+            "sells": 254
+          }
+        },
+        "volume": {
+          "h24": 11323.43,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -48.84
+        },
+        "liquidity": {
+          "usd": 2554.82,
+          "base": 364129,
+          "quote": 1970.2562
+        },
+        "fdv": 1605399,
+        "marketCap": 1605399,
+        "pairCreatedAt": 1789099525000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xace260e5d88af585e7f0cd75347a28afabcb098865f3ad2febc8cc7505e4a429",
+        "pairAddress": "0xace260e5d88af585e7f0cd75347a28afabcb098865f3ad2febc8cc7505e4a429",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002719",
+        "priceUsd": "0.002719",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 44,
+            "sells": 51
+          }
+        },
+        "volume": {
+          "h24": 3919.56,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 2.68
+        },
+        "liquidity": {
+          "usd": 4999.99,
+          "base": 6.086E-05,
+          "quote": 4999.9999
+        },
+        "fdv": 2719514,
+        "marketCap": 2719514,
+        "pairCreatedAt": 1789099206000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xc5a1f4cf80af43e26a0b814031b168c1f440def694ead9dbaa93ec3fddbffcb4",
+        "pairAddress": "0xc5a1f4cf80af43e26a0b814031b168c1f440def694ead9dbaa93ec3fddbffcb4",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.001692",
+        "priceUsd": "0.001692",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 107,
+            "sells": 128
+          }
+        },
+        "volume": {
+          "h24": 7848.54,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -42.78
+        },
+        "liquidity": {
+          "usd": 2651.84,
+          "base": 629624,
+          "quote": 1586.1289
+        },
+        "fdv": 1692622,
+        "marketCap": 1692622,
+        "pairCreatedAt": 1789099456000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x21fc337d171ddd7d0393e53b247dbe64f44a11d23896b46266997b5589f6b69f",
+        "pairAddress": "0x21fc337d171ddd7d0393e53b247dbe64f44a11d23896b46266997b5589f6b69f",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0009207",
+        "priceUsd": "0.0009207",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 95,
+            "sells": 113
+          }
+        },
+        "volume": {
+          "h24": 5336.21,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -34.93
+        },
+        "liquidity": {
+          "usd": 2882.09,
+          "base": 517840,
+          "quote": 2405.2727
+        },
+        "fdv": 920800,
+        "marketCap": 920800,
+        "pairCreatedAt": 1789100191000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x3ef353c5ce3f88e898ba815e19791c909348965819cdb359cbe2eae65045ffd7",
+        "pairAddress": "0x3ef353c5ce3f88e898ba815e19791c909348965819cdb359cbe2eae65045ffd7",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002739",
+        "priceUsd": "0.002739",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 108,
+            "sells": 137
+          }
+        },
+        "volume": {
+          "h24": 6849.67,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 7.89
+        },
+        "liquidity": {
+          "usd": 2499.99,
+          "base": 0.0002454,
+          "quote": 2499.9999
+        },
+        "fdv": 2739164,
+        "marketCap": 2739164,
+        "pairCreatedAt": 1789099083000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x5f3bd1d54e8fcf866dfacb5910d4b2f80a8c740109350a11db012256c7135ac5",
+        "pairAddress": "0x5f3bd1d54e8fcf866dfacb5910d4b2f80a8c740109350a11db012256c7135ac5",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0005841",
+        "priceUsd": "0.0005841",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 55,
+            "sells": 45
+          }
+        },
+        "volume": {
+          "h24": 2821.81,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -24.77
+        },
+        "liquidity": {
+          "usd": 2055.8,
+          "base": 446669,
+          "quote": 1794.894
+        },
+        "fdv": 584129,
+        "marketCap": 584129,
+        "pairCreatedAt": 1789101906000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x6c9365e30f8240da1b4659c9f53d2608f85f7fb659da6d08eaa3b3cfb64fa0f6",
+        "pairAddress": "0x6c9365e30f8240da1b4659c9f53d2608f85f7fb659da6d08eaa3b3cfb64fa0f6",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.001135",
+        "priceUsd": "0.001135",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 21,
+            "sells": 30
+          }
+        },
+        "volume": {
+          "h24": 673.67,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -19.34
+        },
+        "liquidity": {
+          "usd": 1982.39,
+          "base": 104052,
+          "quote": 1864.241
+        },
+        "fdv": 1135573,
+        "marketCap": 1135573,
+        "pairCreatedAt": 1789103462000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb9520b2d304b4c51cd414c2bbf1e11c90b37cdb9ba0842cfdf3847aea1a40eba",
+        "pairAddress": "0xb9520b2d304b4c51cd414c2bbf1e11c90b37cdb9ba0842cfdf3847aea1a40eba",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002495",
+        "priceUsd": "0.002495",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 88,
+            "sells": 57
+          }
+        },
+        "volume": {
+          "h24": 16486.23,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 0.34
+        },
+        "liquidity": {
+          "usd": 1999.99,
+          "base": 0.06658,
+          "quote": 1999.9998
+        },
+        "fdv": 2495920,
+        "marketCap": 2495920,
+        "pairCreatedAt": 1789099195000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xef1477b93ff20895b62937d48d0ec29e0137b816b645e4005f2fdd2576b43e81",
+        "pairAddress": "0xef1477b93ff20895b62937d48d0ec29e0137b816b645e4005f2fdd2576b43e81",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.001781",
+        "priceUsd": "0.001781",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 31,
+            "sells": 41
+          }
+        },
+        "volume": {
+          "h24": 1724.52,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -25.94
+        },
+        "liquidity": {
+          "usd": 2937.07,
+          "base": 208541,
+          "quote": 2565.5211
+        },
+        "fdv": 1781681,
+        "marketCap": 1781681,
+        "pairCreatedAt": 1789099357000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x5f2b47da61ed0e3d463dd4c316df957642b9b596850bc18fa790d0a74b0bf5b1",
+        "pairAddress": "0x5f2b47da61ed0e3d463dd4c316df957642b9b596850bc18fa790d0a74b0bf5b1",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002194",
+        "priceUsd": "0.002194",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 10,
+            "sells": 16
+          }
+        },
+        "volume": {
+          "h24": 1556.55,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -14.07
+        },
+        "liquidity": {
+          "usd": 2774.44,
+          "base": 225245,
+          "quote": 2280.05427
+        },
+        "fdv": 2194877,
+        "marketCap": 2194877,
+        "pairCreatedAt": 1789099397000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x6df23562ce02a2f9f721a2ebd3a26965c72590631713a978dc854141c13b125c",
+        "pairAddress": "0x6df23562ce02a2f9f721a2ebd3a26965c72590631713a978dc854141c13b125c",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002396",
+        "priceUsd": "0.002396",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 18,
+            "sells": 21
+          }
+        },
+        "volume": {
+          "h24": 950.67,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 0.74
+        },
+        "liquidity": {
+          "usd": 2799.99,
+          "base": 0.0323,
+          "quote": 2799.9999
+        },
+        "fdv": 2396860,
+        "marketCap": 2396860,
+        "pairCreatedAt": 1789099179000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb8526aa0eebfab723b02962a6c1ac6323e06a0d14fb9afb439145d20ed5bc543",
+        "pairAddress": "0xb8526aa0eebfab723b02962a6c1ac6323e06a0d14fb9afb439145d20ed5bc543",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002060",
+        "priceUsd": "0.002060",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 38,
+            "sells": 21
+          }
+        },
+        "volume": {
+          "h24": 4441.09,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 0.15
+        },
+        "liquidity": {
+          "usd": 1999.99,
+          "base": 0.0005629,
+          "quote": 1999.9999
+        },
+        "fdv": 2060744,
+        "marketCap": 2060744,
+        "pairCreatedAt": 1789099128000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x81b633516b82350a2b0182f8d3f3f72b6e9929531b1495aa8001b3671361d209",
+        "pairAddress": "0x81b633516b82350a2b0182f8d3f3f72b6e9929531b1495aa8001b3671361d209",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.003022",
+        "priceUsd": "0.003022",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 537.62,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 1.53
+        },
+        "liquidity": {
+          "usd": 2999.99,
+          "base": 0.00046,
+          "quote": 2999.9999
+        },
+        "fdv": 3022995,
+        "marketCap": 3022995,
+        "pairCreatedAt": 1789099458000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x7a8f7feeb30b7c3fdab3fa642767b717b95e4c5284cb032444aced91bfba3bf3",
+        "pairAddress": "0x7a8f7feeb30b7c3fdab3fa642767b717b95e4c5284cb032444aced91bfba3bf3",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.0009398",
+        "priceUsd": "0.0009398",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 29,
+            "sells": 27
+          }
+        },
+        "volume": {
+          "h24": 1156.39,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -21.15
+        },
+        "liquidity": {
+          "usd": 1970.31,
+          "base": 228896,
+          "quote": 1755.1841
+        },
+        "fdv": 939860,
+        "marketCap": 939860,
+        "pairCreatedAt": 1789103415000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x57babc3a32b72c6ca584152713c1af1b66191b9a7d1e8569a05b918706aeb636",
+        "pairAddress": "0x57babc3a32b72c6ca584152713c1af1b66191b9a7d1e8569a05b918706aeb636",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002746",
+        "priceUsd": "0.002746",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 1951.42,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 0.26
+        },
+        "liquidity": {
+          "usd": 2999.99,
+          "base": 0.0009262,
+          "quote": 2999.9999
+        },
+        "fdv": 2746844,
+        "marketCap": 2746844,
+        "pairCreatedAt": 1789099419000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x7880d6333c88f0c27f808cad21de0bfd7e44336d3099f9084b68bf2e0bea0724",
+        "pairAddress": "0x7880d6333c88f0c27f808cad21de0bfd7e44336d3099f9084b68bf2e0bea0724",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xA0F46f3868c7F4F8cb2a2A6C929310Af4a879d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+          "name": "Global Dollar",
+          "symbol": "USDG"
+        },
+        "priceNative": "0.002336",
+        "priceUsd": "0.002336",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 15
+          }
+        },
+        "volume": {
+          "h24": 1702.87,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -14.13
+        },
+        "liquidity": {
+          "usd": 1867.55,
+          "base": 672222,
+          "quote": 297.1264
+        },
+        "fdv": 2336170,
+        "marketCap": 2336170,
+        "pairCreatedAt": 1789099671000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/Bp8Evz7qeBXT-YY2?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/WWW04Sd1hbfA0bY3?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.sexfly.tech/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYRH",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 150
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xc6f5df7360b4254360ac4cb7c736e32d42ffe239a5416e34b4ee7bfabac340da",
+        "pairAddress": "0xc6f5df7360b4254360ac4cb7c736e32d42ffe239a5416e34b4ee7bfabac340da",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x8fEa9Eda9Fd7bf5241C58266844e67f0b6fc0d57",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000002297",
+        "priceUsd": "0.000005634",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 4
+          },
+          "h1": {
+            "buys": 28,
+            "sells": 17
+          },
+          "h6": {
+            "buys": 28,
+            "sells": 22
+          },
+          "h24": {
+            "buys": 8012,
+            "sells": 6557
+          }
+        },
+        "volume": {
+          "h24": 1216599.47,
+          "h6": 3587.01,
+          "h1": 3573.63,
+          "m5": 709.47
+        },
+        "priceChange": {
+          "m5": -31.3,
+          "h1": 97.16,
+          "h6": 94.98,
+          "h24": -89.32
+        },
+        "liquidity": {
+          "usd": 6882.81,
+          "base": 610821116,
+          "quote": 1.4032
+        },
+        "fdv": 5634,
+        "marketCap": 5634,
+        "pairCreatedAt": 1789098198000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/aaELRKMeYb1roHFq?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/SEOCywgWDw-qgrvH?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x8fea9eda9fd7bf5241c58266844e67f0b6fc0d57?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/SEXFLYROBIN",
+              "type": "twitter"
+            }
+          ]
+        },
+        "boosts": {
+          "active": 100
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x4d2494b03e88cde7d1a6bb1c10b991f43240cb18b1ae017e7a23401aeb457a8f",
+        "pairAddress": "0x4d2494b03e88cde7d1a6bb1c10b991f43240cb18b1ae017e7a23401aeb457a8f",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xa718b08911d84ed443Ebd1D02801b5adDB224233",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "name": "WETH",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.00000002096",
+        "priceUsd": "0.00005119",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 32,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 10951.46,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 110
+        },
+        "liquidity": {
+          "usd": 46291.51,
+          "base": 690627883,
+          "quote": 4.4795
+        },
+        "fdv": 51191,
+        "marketCap": 51191,
+        "pairCreatedAt": 1789097398000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xb1895974c2dcba0900000a569d863ed59e188288d1e26099bc103dc523c71aad",
+        "pairAddress": "0xb1895974c2dcba0900000a569d863ed59e188288d1e26099bc103dc523c71aad",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x6C50Cb7Cbf46DBAAE540f84c2d6AbeED16e49d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000004996",
+        "priceUsd": "0.001227",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 34,
+            "sells": 19
+          }
+        },
+        "volume": {
+          "h24": 21966.02,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 120
+        },
+        "liquidity": {
+          "usd": 37003.43,
+          "base": 15068658,
+          "quote": 7.529
+        },
+        "fdv": 39860,
+        "marketCap": 39860,
+        "pairCreatedAt": 1789102860000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xacdc3510c44a8fa711cb1f7538e8bd3aa7007b9427d458891f88fc8dd0c0c69e",
+        "pairAddress": "0xacdc3510c44a8fa711cb1f7538e8bd3aa7007b9427d458891f88fc8dd0c0c69e",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x305C793F4A672eDE6415B7FF44c840633fe59d90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000004572",
+        "priceUsd": "0.001117",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 26,
+            "sells": 15
+          }
+        },
+        "volume": {
+          "h24": 16624.88,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 84.83
+        },
+        "liquidity": {
+          "usd": 35197.46,
+          "base": 15751829,
+          "quote": 7.2024
+        },
+        "fdv": 36270,
+        "marketCap": 36270,
+        "pairCreatedAt": 1789098760000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x427acf35c3afc0f1786a81bfd766e4ec909f12ceec88433427ad33b74d89d514",
+        "pairAddress": "0x427acf35c3afc0f1786a81bfd766e4ec909f12ceec88433427ad33b74d89d514",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xc4210C8e8b12627cD21cd517ADEf0aBF496076Ed",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000000001496",
+        "priceUsd": "0.0000003695",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 44,
+            "sells": 27
+          },
+          "h24": {
+            "buys": 69,
+            "sells": 40
+          }
+        },
+        "volume": {
+          "h24": 30686.24,
+          "h6": 19875.17,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 75.85,
+          "h24": 241
+        },
+        "liquidity": {
+          "usd": 27377.55,
+          "base": 46334206727,
+          "quote": 4.1526
+        },
+        "fdv": 36957,
+        "marketCap": 36957,
+        "pairCreatedAt": 1789107243000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x2bf87549d4adbc1422ba467cc7ec1c38099fc68da548f2ed51906bfdbbfd1695",
+        "pairAddress": "0x2bf87549d4adbc1422ba467cc7ec1c38099fc68da548f2ed51906bfdbbfd1695",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xa4C497F02f139A86e4ef8231F7CB72D427C29D90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000002732",
+        "priceUsd": "0.0006691",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 3353.58,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 16.97
+        },
+        "liquidity": {
+          "usd": 27268.85,
+          "base": 20375056,
+          "quote": 5.5681
+        },
+        "fdv": 21724,
+        "marketCap": 21724,
+        "pairCreatedAt": 1789100206000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x0839cf78a4ebf4fcd331598637aa1548d75ac56252c1dc7e1234ffd501050ef5",
+        "pairAddress": "0x0839cf78a4ebf4fcd331598637aa1548d75ac56252c1dc7e1234ffd501050ef5",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x4Ae9226865D376F04eA91426d21A093fbeb59D90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000002718",
+        "priceUsd": "0.0006641",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 1365.31,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 19.8
+        },
+        "liquidity": {
+          "usd": 27137.63,
+          "base": 20430101,
+          "quote": 5.5531
+        },
+        "fdv": 21561,
+        "marketCap": 21561,
+        "pairCreatedAt": 1789099021000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x279829f347949c3c8e6acbc53a3f058741bc18bf6e44071052b548d0e208728d",
+        "pairAddress": "0x279829f347949c3c8e6acbc53a3f058741bc18bf6e44071052b548d0e208728d",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x6Ae0789a6f8792c66FD421D682720fC331C29D90",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000002562",
+        "priceUsd": "0.0006310",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 2,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 975.31,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 8.64
+        },
+        "liquidity": {
+          "usd": 26554.42,
+          "base": 21040298,
+          "quote": 5.3921
+        },
+        "fdv": 20486,
+        "marketCap": 20486,
+        "pairCreatedAt": 1789101450000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/fw5jtwhsayemfcfkja4khecs896gglvn5qrmi145hy58",
+        "pairAddress": "Fw5JTWhsAyeMfcfKJA4KhECs896GGLVN5Qrmi145hy58",
+        "labels": [
+          "DYN2"
+        ],
+        "baseToken": {
+          "address": "2GE6h1uMsBLM2qEkdfewExkfyr1wmp2dARvwwQji3qmK",
+          "name": "SEX FLY",
+          "symbol": "SEXFLY"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000005902",
+        "priceUsd": "0.00005884",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 4843,
+            "sells": 3011
+          }
+        },
+        "volume": {
+          "h24": 1360647.5,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 570
+        },
+        "liquidity": {
+          "usd": 56.15,
+          "base": 954233,
+          "quote": 2.411E-06
+        },
+        "fdv": 58843,
+        "marketCap": 58843,
+        "pairCreatedAt": 1789101621000
+      }
+    ]
+  },
+  "capturedAt": "2026-09-11T12:16:44.2395379Z"
+}

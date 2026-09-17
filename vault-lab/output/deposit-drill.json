@@ -1,0 +1,652 @@
+{
+  "createdAt": "2026-09-15T06:47:06.181Z",
+  "status": "passed",
+  "mode": "isolated-synthetic-rpc-evidence",
+  "externalNetworkCalls": 0,
+  "modelCalls": 0,
+  "walletSignatures": 0,
+  "realFunds": false,
+  "fixtureRpcCalls": 36,
+  "rpcMethods": [
+    "eth_blockNumber",
+    "eth_chainId",
+    "eth_getBlockByNumber",
+    "eth_getTransactionReceipt"
+  ],
+  "checkpoints": [
+    {
+      "stage": "deposits-confirmed",
+      "custody": "1200",
+      "aliceAvailable": "1000",
+      "bobAvailable": "200",
+      "bounty": "0",
+      "winnerPayable": "0",
+      "operations": "0",
+      "nextRound": "0",
+      "depositHolds": 0,
+      "balanced": true
+    },
+    {
+      "stage": "guard-keeps-locked",
+      "custody": "1200",
+      "aliceAvailable": "900",
+      "bobAvailable": "200",
+      "bounty": "70",
+      "winnerPayable": "0",
+      "operations": "20",
+      "nextRound": "10",
+      "depositHolds": 0,
+      "balanced": true
+    },
+    {
+      "stage": "technical-error-refunded",
+      "custody": "1200",
+      "aliceAvailable": "900",
+      "bobAvailable": "200",
+      "bounty": "70",
+      "winnerPayable": "0",
+      "operations": "20",
+      "nextRound": "10",
+      "depositHolds": 0,
+      "balanced": true
+    },
+    {
+      "stage": "reorg-hold",
+      "custody": "1200",
+      "aliceAvailable": "900",
+      "bobAvailable": "200",
+      "bounty": "70",
+      "winnerPayable": "0",
+      "operations": "20",
+      "nextRound": "10",
+      "depositHolds": 1,
+      "balanced": true
+    },
+    {
+      "stage": "original-evidence-restored",
+      "custody": "1200",
+      "aliceAvailable": "900",
+      "bobAvailable": "200",
+      "bounty": "70",
+      "winnerPayable": "0",
+      "operations": "20",
+      "nextRound": "10",
+      "depositHolds": 0,
+      "balanced": true
+    },
+    {
+      "stage": "winner-recorded-not-paid",
+      "custody": "1200",
+      "aliceAvailable": "800",
+      "bobAvailable": "200",
+      "bounty": "0",
+      "winnerPayable": "140",
+      "operations": "40",
+      "nextRound": "20",
+      "depositHolds": 0,
+      "balanced": true
+    }
+  ],
+  "ledger": {
+    "unit": {
+      "symbol": null,
+      "decimals": 18,
+      "mode": "rpc-credit-preparation",
+      "chainId": "1337",
+      "tokenAddress": "0x1111111111111111111111111111111111111111",
+      "creditBaseUnitsPerReceivedUnit": "1"
+    },
+    "instanceId": "793084c2-bcdf-4a05-b493-2108c592903e",
+    "realFundsEnabled": false,
+    "evidence": "rpc-credit-preparation-not-independent-proof",
+    "asset": {
+      "chainId": "1337",
+      "tokenAddress": "0x1111111111111111111111111111111111111111",
+      "destination": "0x3333333333333333333333333333333333333333",
+      "decimals": 18,
+      "minimumConfirmations": 3,
+      "standardTransferVerified": true
+    },
+    "assetHash": "35632007e5f7969fce85ba73c10c0729e64842596785f347a4a4dd16c67a803f",
+    "depositHolds": [],
+    "depositRecords": {
+      "formatVersion": "deposit-records-v2",
+      "orders": [
+        {
+          "id": "3669e685-e512-4a57-93bf-c9c62d5d6ad0",
+          "accountId": "player_drill_alice",
+          "owner": "0x2222222222222222222222222222222222222222",
+          "minimumReceived": "1000",
+          "assetHash": "35632007e5f7969fce85ba73c10c0729e64842596785f347a4a4dd16c67a803f",
+          "asset": {
+            "chainId": "1337",
+            "tokenAddress": "0x1111111111111111111111111111111111111111",
+            "destination": "0x3333333333333333333333333333333333333333",
+            "decimals": 18,
+            "minimumConfirmations": 3,
+            "standardTransferVerified": true
+          },
+          "createdAt": 1789454826138,
+          "expiresAt": 1789455726138,
+          "earliestBlock": "100",
+          "state": "credit-recorded",
+          "credited": true,
+          "mode": "preparation-only",
+          "transactionHash": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "logIndex": "0x0",
+          "attachedAt": 1789454826139,
+          "accounting": {
+            "player": "player_drill_alice",
+            "received": "1000",
+            "source": "trusted-rpc-standard-transfer",
+            "realFundsEnabled": false,
+            "eventSequence": 2
+          },
+          "accountingHold": false
+        },
+        {
+          "id": "de8baad9-e75f-43ac-ae92-bb2561f62298",
+          "accountId": "player_drill_bob",
+          "owner": "0x4444444444444444444444444444444444444444",
+          "minimumReceived": "200",
+          "assetHash": "35632007e5f7969fce85ba73c10c0729e64842596785f347a4a4dd16c67a803f",
+          "asset": {
+            "chainId": "1337",
+            "tokenAddress": "0x1111111111111111111111111111111111111111",
+            "destination": "0x3333333333333333333333333333333333333333",
+            "decimals": 18,
+            "minimumConfirmations": 3,
+            "standardTransferVerified": true
+          },
+          "createdAt": 1789454826147,
+          "expiresAt": 1789455726147,
+          "earliestBlock": "100",
+          "state": "credit-recorded",
+          "credited": true,
+          "mode": "preparation-only",
+          "transactionHash": "0xcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+          "logIndex": "0x0",
+          "attachedAt": 1789454826148,
+          "accounting": {
+            "player": "player_drill_bob",
+            "received": "200",
+            "source": "trusted-rpc-standard-transfer",
+            "realFundsEnabled": false,
+            "eventSequence": 3
+          },
+          "accountingHold": false
+        }
+      ],
+      "evidence": [
+        {
+          "status": "verified-rpc-evidence",
+          "orderId": "3669e685-e512-4a57-93bf-c9c62d5d6ad0",
+          "chainId": "1337",
+          "tokenAddress": "0x1111111111111111111111111111111111111111",
+          "destination": "0x3333333333333333333333333333333333333333",
+          "owner": "0x2222222222222222222222222222222222222222",
+          "transactionHash": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "logIndex": "0",
+          "blockHash": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+          "blockNumber": "100",
+          "amount": "1000",
+          "decimals": 18,
+          "confirmations": "3",
+          "depositKey": "1337:0x1111111111111111111111111111111111111111:0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa:0",
+          "evidence": "trusted-rpc-standard-transfer",
+          "finality": "configured-block-confirmations-not-L1-finality",
+          "credited": false,
+          "rpcEvidence": {
+            "chainId": "0x539",
+            "receipt": {
+              "transactionHash": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+              "logIndex": "0x0",
+              "status": "0x1",
+              "blockNumber": "0x64",
+              "blockHash": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+              "logs": [
+                {
+                  "transactionHash": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+                  "logIndex": "0x0",
+                  "address": "0x1111111111111111111111111111111111111111",
+                  "blockNumber": "0x64",
+                  "blockHash": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+                  "removed": false,
+                  "topics": [
+                    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+                    "0x0000000000000000000000002222222222222222222222222222222222222222",
+                    "0x0000000000000000000000003333333333333333333333333333333333333333"
+                  ],
+                  "data": "0x00000000000000000000000000000000000000000000000000000000000003e8"
+                }
+              ]
+            },
+            "canonicalBlock": {
+              "number": "0x64",
+              "hash": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+            },
+            "headBlockNumber": "0x66"
+          }
+        },
+        {
+          "status": "verified-rpc-evidence",
+          "orderId": "de8baad9-e75f-43ac-ae92-bb2561f62298",
+          "chainId": "1337",
+          "tokenAddress": "0x1111111111111111111111111111111111111111",
+          "destination": "0x3333333333333333333333333333333333333333",
+          "owner": "0x4444444444444444444444444444444444444444",
+          "transactionHash": "0xcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+          "logIndex": "0",
+          "blockHash": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+          "blockNumber": "100",
+          "amount": "200",
+          "decimals": 18,
+          "confirmations": "3",
+          "depositKey": "1337:0x1111111111111111111111111111111111111111:0xcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc:0",
+          "evidence": "trusted-rpc-standard-transfer",
+          "finality": "configured-block-confirmations-not-L1-finality",
+          "credited": false,
+          "rpcEvidence": {
+            "chainId": "0x539",
+            "receipt": {
+              "transactionHash": "0xcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+              "logIndex": "0x0",
+              "status": "0x1",
+              "blockNumber": "0x64",
+              "blockHash": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+              "logs": [
+                {
+                  "transactionHash": "0xcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+                  "logIndex": "0x0",
+                  "address": "0x1111111111111111111111111111111111111111",
+                  "blockNumber": "0x64",
+                  "blockHash": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+                  "removed": false,
+                  "topics": [
+                    "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+                    "0x0000000000000000000000004444444444444444444444444444444444444444",
+                    "0x0000000000000000000000003333333333333333333333333333333333333333"
+                  ],
+                  "data": "0x00000000000000000000000000000000000000000000000000000000000000c8"
+                }
+              ]
+            },
+            "canonicalBlock": {
+              "number": "0x64",
+              "hash": "0xbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+            },
+            "headBlockNumber": "0x66"
+          }
+        }
+      ],
+      "checks": [
+        {
+          "sequence": 1,
+          "order_id": "3669e685-e512-4a57-93bf-c9c62d5d6ad0",
+          "status": "pending",
+          "checked_at": 1789454826141,
+          "ledger_sequence": 1
+        },
+        {
+          "sequence": 2,
+          "order_id": "3669e685-e512-4a57-93bf-c9c62d5d6ad0",
+          "status": "credit-verified",
+          "checked_at": 1789454826143,
+          "ledger_sequence": 2
+        },
+        {
+          "sequence": 3,
+          "order_id": "3669e685-e512-4a57-93bf-c9c62d5d6ad0",
+          "status": "credit-verified",
+          "checked_at": 1789454826146,
+          "ledger_sequence": 2
+        },
+        {
+          "sequence": 4,
+          "order_id": "de8baad9-e75f-43ac-ae92-bb2561f62298",
+          "status": "pending",
+          "checked_at": 1789454826149,
+          "ledger_sequence": 2
+        },
+        {
+          "sequence": 5,
+          "order_id": "de8baad9-e75f-43ac-ae92-bb2561f62298",
+          "status": "credit-verified",
+          "checked_at": 1789454826150,
+          "ledger_sequence": 3
+        },
+        {
+          "sequence": 6,
+          "order_id": "de8baad9-e75f-43ac-ae92-bb2561f62298",
+          "status": "credit-verified",
+          "checked_at": 1789454826151,
+          "ledger_sequence": 3
+        },
+        {
+          "sequence": 7,
+          "order_id": "3669e685-e512-4a57-93bf-c9c62d5d6ad0",
+          "status": "reconciliation-error",
+          "checked_at": 1789454826161,
+          "ledger_sequence": 9
+        },
+        {
+          "sequence": 8,
+          "order_id": "3669e685-e512-4a57-93bf-c9c62d5d6ad0",
+          "status": "credit-verified",
+          "checked_at": 1789454826175,
+          "ledger_sequence": 9
+        }
+      ]
+    },
+    "audit": {
+      "balanced": true,
+      "custody": "1200",
+      "liabilitiesAndAllocations": "1200"
+    },
+    "balances": [
+      {
+        "account": "custody",
+        "amount": "1200"
+      },
+      {
+        "account": "player:player_drill_alice:available",
+        "amount": "800"
+      },
+      {
+        "account": "player:player_drill_alice:reserved",
+        "amount": "0"
+      },
+      {
+        "account": "player:player_drill_bob:available",
+        "amount": "200"
+      },
+      {
+        "account": "round:r1:payable",
+        "amount": "140"
+      },
+      {
+        "account": "round:r1:prize",
+        "amount": "0"
+      },
+      {
+        "account": "treasury:next",
+        "amount": "20"
+      },
+      {
+        "account": "treasury:operations",
+        "amount": "40"
+      }
+    ],
+    "rounds": [
+      {
+        "id": "r1",
+        "state": "won",
+        "price": "100",
+        "prize_bps": 7000,
+        "operations_bps": 2000,
+        "configuration": "deposit-drill-fixture",
+        "winner": "player_drill_alice"
+      }
+    ],
+    "attempts": [
+      {
+        "position": 3,
+        "id": "winner",
+        "round_id": "r1",
+        "player": "player_drill_alice",
+        "state": "released",
+        "price": "100",
+        "receipt_ref": "synthetic-model-winner",
+        "recipient": "0x2222222222222222222222222222222222222222"
+      },
+      {
+        "position": 2,
+        "id": "technical-error",
+        "round_id": "r1",
+        "player": "player_drill_alice",
+        "state": "error",
+        "price": "100",
+        "receipt_ref": "synthetic-model-technical-error",
+        "recipient": "0x2222222222222222222222222222222222222222"
+      },
+      {
+        "position": 1,
+        "id": "locked",
+        "round_id": "r1",
+        "player": "player_drill_alice",
+        "state": "locked",
+        "price": "100",
+        "receipt_ref": "synthetic-model-locked",
+        "recipient": "0x2222222222222222222222222222222222222222"
+      }
+    ],
+    "events": [
+      {
+        "sequence": 1,
+        "key": "drill-1",
+        "requestHash": "f69f3ced54c546c743433397c8dce2588a1dc74808133be3fbd1119e23d7986b",
+        "createdAt": "2026-09-15T06:47:06.125Z",
+        "request": {
+          "configuration": "deposit-drill-fixture",
+          "operationsBps": 2000,
+          "price": "100",
+          "prizeBps": 7000,
+          "roundId": "r1",
+          "type": "open-round"
+        },
+        "result": {
+          "roundId": "r1",
+          "state": "open"
+        }
+      },
+      {
+        "sequence": 2,
+        "key": "deposit-d68c489e26518e3b61ba511299ecc3b363a458a1261bc88336d39c6989206e68",
+        "requestHash": "efe85b41226a7fee49e3c55ba31b2cf91c6fda83aafda70610b37b446def5fac",
+        "createdAt": "2026-09-15T06:47:06.143Z",
+        "request": {
+          "type": "verified-deposit",
+          "orderId": "3669e685-e512-4a57-93bf-c9c62d5d6ad0",
+          "depositKey": "1337:0x1111111111111111111111111111111111111111:0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa:0",
+          "assetHash": "35632007e5f7969fce85ba73c10c0729e64842596785f347a4a4dd16c67a803f",
+          "player": "player_drill_alice",
+          "amount": "1000"
+        },
+        "result": {
+          "player": "player_drill_alice",
+          "received": "1000",
+          "source": "trusted-rpc-standard-transfer",
+          "realFundsEnabled": false
+        }
+      },
+      {
+        "sequence": 3,
+        "key": "deposit-6a90fd5af5cc6619929bc4112e65080661ab79fb1c881cccbae8ea98f81b9165",
+        "requestHash": "f038179533b23d02619f49eee1fa788dfb5a442f70e29814fb24444786ba8f9b",
+        "createdAt": "2026-09-15T06:47:06.150Z",
+        "request": {
+          "type": "verified-deposit",
+          "orderId": "de8baad9-e75f-43ac-ae92-bb2561f62298",
+          "depositKey": "1337:0x1111111111111111111111111111111111111111:0xcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc:0",
+          "assetHash": "35632007e5f7969fce85ba73c10c0729e64842596785f347a4a4dd16c67a803f",
+          "player": "player_drill_bob",
+          "amount": "200"
+        },
+        "result": {
+          "player": "player_drill_bob",
+          "received": "200",
+          "source": "trusted-rpc-standard-transfer",
+          "realFundsEnabled": false
+        }
+      },
+      {
+        "sequence": 4,
+        "key": "drill-2",
+        "requestHash": "e76c9b37cf5226d7cbab9b73497589f83b5e6411d7199afc34ea4689e53e26f4",
+        "createdAt": "2026-09-15T06:47:06.153Z",
+        "request": {
+          "attemptId": "locked",
+          "player": "player_drill_alice",
+          "recipient": "0x2222222222222222222222222222222222222222",
+          "roundId": "r1",
+          "type": "reserve"
+        },
+        "result": {
+          "attemptId": "locked",
+          "state": "reserved",
+          "price": "100",
+          "recipient": "0x2222222222222222222222222222222222222222"
+        }
+      },
+      {
+        "sequence": 5,
+        "key": "drill-3",
+        "requestHash": "867cef44116843ce715bd317275f9d5d60d160bd2e5f31d4ac335942687bcd8b",
+        "createdAt": "2026-09-15T06:47:06.154Z",
+        "request": {
+          "attemptId": "locked",
+          "type": "start"
+        },
+        "result": {
+          "attemptId": "locked",
+          "state": "processing"
+        }
+      },
+      {
+        "sequence": 6,
+        "key": "drill-4",
+        "requestHash": "f4b67c178d0e763c1290fdb0700e92013faf6d5c645ddc5d9580b46e1e3c39f6",
+        "createdAt": "2026-09-15T06:47:06.156Z",
+        "request": {
+          "attemptId": "locked",
+          "outcome": "locked",
+          "receiptRef": "synthetic-model-locked",
+          "type": "settle"
+        },
+        "result": {
+          "attemptId": "locked",
+          "state": "locked",
+          "prizeContribution": "70",
+          "operations": "20",
+          "nextRound": "10",
+          "winnerPayable": "0"
+        }
+      },
+      {
+        "sequence": 7,
+        "key": "drill-5",
+        "requestHash": "0ac2f10b69365005335d159875b593495236a0012560c8f48ea73db213793071",
+        "createdAt": "2026-09-15T06:47:06.157Z",
+        "request": {
+          "attemptId": "technical-error",
+          "player": "player_drill_alice",
+          "recipient": "0x2222222222222222222222222222222222222222",
+          "roundId": "r1",
+          "type": "reserve"
+        },
+        "result": {
+          "attemptId": "technical-error",
+          "state": "reserved",
+          "price": "100",
+          "recipient": "0x2222222222222222222222222222222222222222"
+        }
+      },
+      {
+        "sequence": 8,
+        "key": "drill-6",
+        "requestHash": "ec1d1b824b480cbc52e2fa79a594c042093ca640aae871c6dd3d2ddb746a8e7a",
+        "createdAt": "2026-09-15T06:47:06.158Z",
+        "request": {
+          "attemptId": "technical-error",
+          "type": "start"
+        },
+        "result": {
+          "attemptId": "technical-error",
+          "state": "processing"
+        }
+      },
+      {
+        "sequence": 9,
+        "key": "drill-7",
+        "requestHash": "2f5c5bbbedae6fe3e11b90ca3189045a846aca88543548632fc828d77f0d700a",
+        "createdAt": "2026-09-15T06:47:06.159Z",
+        "request": {
+          "attemptId": "technical-error",
+          "outcome": "error",
+          "receiptRef": "synthetic-model-technical-error",
+          "type": "settle"
+        },
+        "result": {
+          "attemptId": "technical-error",
+          "state": "error",
+          "creditsReturned": "100",
+          "prizeContribution": "0"
+        }
+      },
+      {
+        "sequence": 10,
+        "key": "drill-9",
+        "requestHash": "d36a8db9a87d744cb84e5a7bdcdd0c3db9c7193d2920b19752d287c2d562c3d0",
+        "createdAt": "2026-09-15T06:47:06.177Z",
+        "request": {
+          "attemptId": "winner",
+          "player": "player_drill_alice",
+          "recipient": "0x2222222222222222222222222222222222222222",
+          "roundId": "r1",
+          "type": "reserve"
+        },
+        "result": {
+          "attemptId": "winner",
+          "state": "reserved",
+          "price": "100",
+          "recipient": "0x2222222222222222222222222222222222222222"
+        }
+      },
+      {
+        "sequence": 11,
+        "key": "drill-10",
+        "requestHash": "92426c3d2353e856c19ef0e6ac072897c6ced2588de9eeb44ba12420e072baed",
+        "createdAt": "2026-09-15T06:47:06.178Z",
+        "request": {
+          "attemptId": "winner",
+          "type": "start"
+        },
+        "result": {
+          "attemptId": "winner",
+          "state": "processing"
+        }
+      },
+      {
+        "sequence": 12,
+        "key": "drill-11",
+        "requestHash": "39666b3acfd9538e2e0c2d1997b705f4f749f28a8199816a1ebcea6353b8e592",
+        "createdAt": "2026-09-15T06:47:06.179Z",
+        "request": {
+          "attemptId": "winner",
+          "outcome": "released",
+          "receiptRef": "synthetic-model-winner",
+          "type": "settle"
+        },
+        "result": {
+          "attemptId": "winner",
+          "state": "released",
+          "prizeContribution": "70",
+          "operations": "20",
+          "nextRound": "10",
+          "winnerPayable": "140",
+          "winnerRecipient": "0x2222222222222222222222222222222222222222"
+        }
+      }
+    ],
+    "eventCount": 12
+  },
+  "recovery": {
+    "databaseIntegrity": "ok",
+    "stoppedWriterCopySha256": "7d11cb4e9045de01ee30265d4b839b674c0087b8b168629aa6b6190f11530c62",
+    "evidenceAndBalancesRestored": true,
+    "reorgHoldSurvived": true,
+    "duplicateCredits": false,
+    "foreignOwnerQueriedRpc": false
+  },
+  "limits": "Local accounting evidence only. Synthetic chain and model outcomes; no live Privy, asset, indexer, payout, price adoption or independent operator proof."
+}

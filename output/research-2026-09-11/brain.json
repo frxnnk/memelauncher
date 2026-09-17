@@ -1,0 +1,1876 @@
+{
+  "data": {
+    "schemaVersion": "1.0.0",
+    "pairs": [
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x1dda53dc082a6aeeab00093a341ed01e83feec7abbf72845035eb1db4b55340e",
+        "pairAddress": "0x1dda53dc082a6aeeab00093a341ed01e83feec7abbf72845035eb1db4b55340e",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1F729Ff9ACB706617b55f485925DD28D962ef001",
+          "name": "BRAIN",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x03BC731Ffb162cdd7B98D3C6542bFC291126075d",
+          "name": "Firefly Aerospace Inc. • Robinhood Token",
+          "symbol": "FLY"
+        },
+        "priceNative": "0.0000001968",
+        "priceUsd": "0.000004156",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 5
+          },
+          "h24": {
+            "buys": 445,
+            "sells": 382
+          }
+        },
+        "volume": {
+          "h24": 53856.3,
+          "h6": 212.13,
+          "h1": 2.7,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.41,
+          "h6": -9.64,
+          "h24": -1.18
+        },
+        "liquidity": {
+          "usd": 4149.94,
+          "base": 961480139,
+          "quote": 7.2917
+        },
+        "fdv": 4156,
+        "marketCap": 4156,
+        "pairCreatedAt": 1789100768000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/AQc5RNnZObR8uazx?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/2anrjOTCbDkPfZf9?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1f729ff9acb706617b55f485925dd28d962ef001?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/FlyRh_",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xfbabdfb96900a6413455a4603324fa066f7f8a74",
+        "pairAddress": "0xFBabdFB96900A6413455a4603324fA066F7f8a74",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0xCE1eAB31756A48915B7E7bb79C589835aAc6242d",
+          "name": "Gigabrain by Virtuals",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+          "name": "Virtual Protocol",
+          "symbol": "VIRTUAL"
+        },
+        "priceNative": "0.0001948",
+        "priceUsd": "0.0001235",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 431.98,
+          "h6": 428.1,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -4.13,
+          "h24": -4.13
+        },
+        "liquidity": {
+          "usd": 53207.6,
+          "base": 215248654,
+          "quote": 41934
+        },
+        "fdv": 123536,
+        "marketCap": 123536,
+        "pairCreatedAt": 1736256671000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/89b9689c16a27a90f40537b1ef72a6bedc2271bf01b73de1d86fd1a7d801a798?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/fab6eecf63309a0233ad8aa5fa74061e096aa5248e81e65727aca1627785afc9?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xce1eab31756a48915b7e7bb79c589835aac6242d?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://gigabrain.gg",
+              "label": "Website"
+            },
+            {
+              "url": "https://docs.gigabrain.gg",
+              "label": "Docs"
+            },
+            {
+              "url": "https://gigabrain.gg/token",
+              "label": "Tokenomics"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/gigabraingg",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/gigabraingg",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x7c2103a56d592411a70c881d81b037140d5b7afce832447ca00caddffe31207a",
+        "pairAddress": "0x7c2103a56d592411a70c881d81b037140d5b7afce832447ca00caddffe31207a",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xAFb0F804eFcA0Dc598A5A1C19c1226Acc302c77b",
+          "name": "sheisinthere",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.0000000002423",
+        "priceUsd": "0.0000005983",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 131,
+            "sells": 70
+          },
+          "h24": {
+            "buys": 131,
+            "sells": 70
+          }
+        },
+        "volume": {
+          "h24": 63429.98,
+          "h6": 63429.98,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 453,
+          "h24": 453
+        },
+        "liquidity": {
+          "usd": 36399.9,
+          "base": 34028274801,
+          "quote": 6.4965
+        },
+        "fdv": 59839,
+        "marketCap": 59839,
+        "pairCreatedAt": 1789111287000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xca0ce175bbcb04b2e9f8789a73ff0c94185434ac32ee33ab11fde41ddeafa497",
+        "pairAddress": "0xca0ce175bbcb04b2e9f8789a73ff0c94185434ac32ee33ab11fde41ddeafa497",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x7ff2B3a09755fB38Bc8334c2C05173F75fD4dba3",
+          "name": "Brain",
+          "symbol": "Brain"
+        },
+        "quoteToken": {
+          "address": "0x4200000000000000000000000000000000000006",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.0000000001221",
+        "priceUsd": "0.0000003005",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 6.88,
+          "h6": 6.88,
+          "h1": 6.88,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 29801.7,
+          "base": 90813247731,
+          "quote": 1.01933
+        },
+        "fdv": 30056,
+        "marketCap": 30056,
+        "pairCreatedAt": 1780086419000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/riyItOn5YcASTFel?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/_ffP1zS71dyZyDAB?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x7ff2b3a09755fb38bc8334c2c05173f75fd4dba3?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.brain.fi/",
+              "label": "Website"
+            },
+            {
+              "url": "https://docs.brain.fi/",
+              "label": "Docs"
+            }
+          ],
+          "socials": []
+        }
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xe2a0c93c2702e6f468a534a89b546ba1808649037b52338067265debd67b4b6c",
+        "pairAddress": "0xe2a0c93c2702e6f468a534a89b546ba1808649037b52338067265debd67b4b6c",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x8E7517bd2476fC74D78026A8Bae5269bf0779ca1",
+          "name": "BRAIN ARMSTRONK",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0xf8B22f75b7Ee248fF723650f43C98B253e7dfb60",
+          "name": "Kairence DIEM",
+          "symbol": "kDIEM"
+        },
+        "priceNative": "0.00000001377",
+        "priceUsd": "0.00002682",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 11,
+            "sells": 11
+          }
+        },
+        "volume": {
+          "h24": 1359.99,
+          "h6": 12.06,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 3.18,
+          "h24": 1.35
+        },
+        "liquidity": {
+          "usd": 13236.35,
+          "base": 466448040,
+          "quote": 0.371
+        },
+        "fdv": 26334,
+        "marketCap": 26334,
+        "pairCreatedAt": 1787505305000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/46twljonfpq7yklofmsuddcn2pdmh5xrgvydnz7ctoc3",
+        "pairAddress": "46twLjonFPq7yKLoFMsudDCN2Pdmh5XrGvyDnZ7Ctoc3",
+        "baseToken": {
+          "address": "7qSrCNchoiFxtxikTJm8x892tGdrtNgsaghfcnDBpump",
+          "name": "Brainblast",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000004337",
+        "priceUsd": "0.00004316",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 3
+          },
+          "h6": {
+            "buys": 11,
+            "sells": 22
+          },
+          "h24": {
+            "buys": 53,
+            "sells": 55
+          }
+        },
+        "volume": {
+          "h24": 6589.73,
+          "h6": 1629.55,
+          "h1": 46.45,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -1.15,
+          "h6": 24.77,
+          "h24": -7.52
+        },
+        "liquidity": {
+          "usd": 19361.15,
+          "base": 223401836,
+          "quote": 97.6322
+        },
+        "fdv": 42247,
+        "marketCap": 42247,
+        "pairCreatedAt": 1781903884000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/KyOvv0g7XhkL7ceY?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/u9EqxUrb0MFu9vdz?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7qSrCNchoiFxtxikTJm8x892tGdrtNgsaghfcnDBpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://brainblast.tech",
+              "label": "Website"
+            },
+            {
+              "url": "https://github.com/DSB-117/brainblast",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/brainblast_ai",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/brainblastAI",
+              "type": "telegram"
+            },
+            {
+              "url": "https://discord.gg/ynPXA7wffZ",
+              "type": "discord"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "pancakeswap",
+        "url": "https://dexscreener.com/bsc/0x5f0053f48730bbdcff067753330e2d130dc0393e",
+        "pairAddress": "0x5f0053F48730bBDcFF067753330E2d130Dc0393e",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0x5aE6ABD70147d2214CaC2E2DEE7af15235bF4444",
+          "name": "Ask Brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB"
+        },
+        "priceNative": "0.000000008431",
+        "priceUsd": "0.000005981",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.84,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 8989.5,
+          "base": 751460214,
+          "quote": 6.3362
+        },
+        "fdv": 5922,
+        "marketCap": 5922,
+        "pairCreatedAt": 1762444901000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/60b9f2597dea5244f9c9e276a2f3d3f92c87f0dcb6ba36470f5b23062a3bb0f7?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/5ab1dd9044447b9aec8bcaa9bf3da2b62b874e4ae4ab06647a7327669941337c?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/bsc/0x5ae6abd70147d2214cac2e2dee7af15235bf4444?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.askbrain.io/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/askbrain_AI",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/askbrain_AI",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/dhqvzxdrgaxdbyemybmpf4iepaywi5dwmdjosebcavsx",
+        "pairAddress": "DhqVZxDRgAXdbyEmybMPf4iePAYwi5dWmdJosEBcAVSX",
+        "baseToken": {
+          "address": "3fGeFf9GBQkMbFiRMQQtJtR5EnKjsrVYezj6yD7ypump",
+          "name": "sheisinthere",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000001086",
+        "priceUsd": "0.00001077",
+        "txns": {
+          "m5": {
+            "buys": 2,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 6,
+            "sells": 13
+          },
+          "h6": {
+            "buys": 213,
+            "sells": 182
+          },
+          "h24": {
+            "buys": 2773,
+            "sells": 2906
+          }
+        },
+        "volume": {
+          "h24": 252291.08,
+          "h6": 14650.09,
+          "h1": 612.7,
+          "m5": 166.43
+        },
+        "priceChange": {
+          "m5": -7.04,
+          "h1": -19.09,
+          "h6": 28.47,
+          "h24": -73.73
+        },
+        "liquidity": {
+          "usd": 6980.71,
+          "base": 404813169,
+          "quote": 26.3818
+        },
+        "fdv": 9369,
+        "marketCap": 9369,
+        "pairCreatedAt": 1789066492000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/iME-WDqciz-EMfRO?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/vTpZO13gImlb7z1U?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/3fGeFf9GBQkMbFiRMQQtJtR5EnKjsrVYezj6yD7ypump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://sheisinthere.dev/",
+              "label": "Website"
+            }
+          ],
+          "socials": []
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/7rrfzq32e5px9odknjzpdeg2e9ovfrwh9qlranyp3dq4",
+        "pairAddress": "7RRFZq32E5PX9odknjZPDEG2E9oVFRwH9qLraNyp3DQ4",
+        "baseToken": {
+          "address": "9oDndFiC7RW42vZcmSzacTKMWE9kgeqnzwXDGLSkpump",
+          "name": "brainfart",
+          "symbol": "brain"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000009228",
+        "priceUsd": "0.000009156",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 3
+          },
+          "h24": {
+            "buys": 28,
+            "sells": 45
+          }
+        },
+        "volume": {
+          "h24": 35.36,
+          "h6": 12.05,
+          "h1": 3.11,
+          "m5": 3.11
+        },
+        "priceChange": {
+          "m5": -0.67,
+          "h1": -0.67,
+          "h6": -1.01,
+          "h24": -0.14
+        },
+        "liquidity": {
+          "usd": 11121.09,
+          "base": 603634180,
+          "quote": 56.3793
+        },
+        "fdv": 9148,
+        "marketCap": 9148,
+        "pairCreatedAt": 1783984874000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/og4679HsOXfNzYEF?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/xh1EpPI1YmaihuFr?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9oDndFiC7RW42vZcmSzacTKMWE9kgeqnzwXDGLSkpump?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://brainfart.live",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/BrainfartAgent",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x26b1cd2bb83e66882996e950932b67f9b8be555b9b9b56ac8f78b0d5ecd215d9",
+        "pairAddress": "0x26b1cd2bb83e66882996e950932b67f9b8be555b9b9b56ac8f78b0d5ecd215d9",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x8E7517bd2476fC74D78026A8Bae5269bf0779ca1",
+          "name": "BRAIN ARMSTRONK",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.00002472",
+        "priceUsd": "0.00002472",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 5,
+            "sells": 7
+          }
+        },
+        "volume": {
+          "h24": 823.64,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -3.08
+        },
+        "liquidity": {
+          "usd": 6065.25,
+          "base": 225010556,
+          "quote": 501.3843
+        },
+        "fdv": 24272,
+        "marketCap": 24272,
+        "pairCreatedAt": 1787505305000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xb1121a3f6dcfb064ee8aad620b38f9736732f6d778ea954ce6e7543d90f655c5",
+        "pairAddress": "0xb1121a3f6dcfb064ee8aad620b38f9736732f6d778ea954ce6e7543d90f655c5",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x8E7517bd2476fC74D78026A8Bae5269bf0779ca1",
+          "name": "BRAIN ARMSTRONK",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0xb20000000000000000000078ee7ce2fE4908108C",
+          "name": "NVIDIA Corporation",
+          "symbol": "NVDAc"
+        },
+        "priceNative": "0.0000001119",
+        "priceUsd": "0.00002471",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 6,
+            "sells": 5
+          }
+        },
+        "volume": {
+          "h24": 298.85,
+          "h6": 11.92,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 1.58,
+          "h24": -2.62
+        },
+        "liquidity": {
+          "usd": 6052.61,
+          "base": 228971655,
+          "quote": 1.7845
+        },
+        "fdv": 24258,
+        "marketCap": 24258,
+        "pairCreatedAt": 1787734111000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xab28184af1432e6bb68c070fde7e1b84c9871f57",
+        "pairAddress": "0xAB28184af1432e6bB68C070fde7E1B84C9871f57",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0x88144b9ea94ff714147573b98165D2ACA90efB11",
+          "name": "Chad Brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x4200000000000000000000000000000000000006",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.000000003227",
+        "priceUsd": "0.000007967",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 6
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": 0.82,
+          "h24": 1.03
+        },
+        "liquidity": {
+          "usd": 9069.26,
+          "base": 566993100,
+          "quote": 1.8443
+        },
+        "fdv": 7967,
+        "marketCap": 7967,
+        "pairCreatedAt": 1740324505000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/2c40f13a0e345ff1cacd9efb181090ce4f42c28fe4e619919692b3d9490ea90f?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/9d0c033b45717245dcdbd318b6b5e47a95edc601be53ea33abeb21c9ab7bc018?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x88144b9ea94ff714147573b98165d2aca90efb11?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://chadbrain.ai",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/chadbrainai",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/chadbrain",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xde027fb98f4ffec963932e27cbe5792cc0eec392",
+        "pairAddress": "0xdE027FB98f4fFEc963932E27CBE5792cc0Eec392",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0x11682f52b243d89060355C54FB0f81096Ea769E7",
+          "name": "BRAIN",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "name": "WETH",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.000000001391",
+        "priceUsd": "0.000003419",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 24.45,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 3419.11,
+          "base": 987196336,
+          "quote": 0.01768
+        },
+        "fdv": 3419,
+        "marketCap": 3419,
+        "pairCreatedAt": 1785583723000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0xde828901de827f66ea4d7a6bc4587e32588d3fa9",
+        "pairAddress": "0xde828901De827f66eA4d7a6bC4587e32588d3Fa9",
+        "labels": [
+          "v3"
+        ],
+        "baseToken": {
+          "address": "0x14B31613A4DAA82fDC0064aC9CC8Be19EcF3144C",
+          "name": "BRAIN",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+          "name": "WETH",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.000000001364",
+        "priceUsd": "0.000003325",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 0
+          }
+        },
+        "volume": {
+          "h24": 0.05,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 3325.72,
+          "base": 996914739,
+          "quote": 0.004196
+        },
+        "fdv": 3326,
+        "marketCap": 3326,
+        "pairCreatedAt": 1785585281000
+      },
+      {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0xb8179ab4d3c6a4a055b1970c10488118307c16ee",
+        "pairAddress": "0xB8179Ab4d3C6a4A055b1970C10488118307c16Ee",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0xD2Aa35f6d376a9F1cc391dB157E3Eeb08819479c",
+          "name": "BrAIngent",
+          "symbol": "BrAIn"
+        },
+        "quoteToken": {
+          "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+          "name": "Wrapped Ether",
+          "symbol": "WETH"
+        },
+        "priceNative": "0.000001981",
+        "priceUsd": "0.004877",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 4.12,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -1.04
+        },
+        "liquidity": {
+          "usd": 1094.6,
+          "base": 112210,
+          "quote": 0.2223
+        },
+        "fdv": 1109,
+        "marketCap": 1109,
+        "pairCreatedAt": 1717246763000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/174a796a104e41818480b1629264b71472479334fafea31fa93ac6afe5c8dcbc?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/4e0e299ecbbeed6c2111a49d0aa960f1bce627ba0bca3d46400fcb17595e8cae?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0xd2aa35f6d376a9f1cc391db157e3eeb08819479c?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://www.braingent.io/",
+              "label": "Website"
+            },
+            {
+              "url": "https://braingent.gitbook.io/braingent",
+              "label": "Docs"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/0xBrAInGent",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/BrAInGentGroup",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/3dlyg6hsrfgukftf7q83emdhmfjnybvkmuzb2jyr6236",
+        "pairAddress": "3DLyg6hsrfGukftf7q83EmDhmfJNyBVkmUzB2Jyr6236",
+        "baseToken": {
+          "address": "LQiNwD86HE4SvY8UU5K4pLrmKhje1Avc2BbKjykpump",
+          "name": "Grok Bot Second Brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002162",
+        "priceUsd": "0.000002139",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 0.1,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 2152.04,
+          "base": 903855961,
+          "quote": 2.2053
+        },
+        "fdv": 2023,
+        "marketCap": 2023,
+        "pairCreatedAt": 1787938514000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/5aF6A4JqcwNOG9EM?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/9jbhqCchlO7MVBz9?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/LQiNwD86HE4SvY8UU5K4pLrmKhje1Avc2BbKjykpump?timestamp=1789128900000",
+          "websites": [],
+          "socials": [
+            {
+              "url": "https://x.com/AleiahLock/status/2093364666088964387?s=20",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x5251a894a226d75218121bb1e3014c791410e803ff9a0f0fd4ac77e11cee86fc",
+        "pairAddress": "0x5251a894a226d75218121bb1e3014c791410e803ff9a0f0fd4ac77e11cee86fc",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0xB2000000000000000000006DdACC20C1965e4C43",
+          "name": "BRAIN",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.00000006164",
+        "priceUsd": "0.0001518",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 113,
+            "sells": 40
+          }
+        },
+        "volume": {
+          "h24": 60060.78,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 747
+        },
+        "liquidity": {
+          "usd": 39356.46,
+          "base": 174252107,
+          "quote": 5.2333
+        },
+        "fdv": 74417,
+        "marketCap": 74417,
+        "pairCreatedAt": 1789100451000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/4upunm8wc3quiq3o5nbjfbhs5qes4xcuhxvzwsqp1wyh",
+        "pairAddress": "4upUnM8wC3qUiQ3o5nbJfBHs5qES4xCUhXVZWSqP1Wyh",
+        "baseToken": {
+          "address": "EqTfwudYKLtRm8LJrM1yJBVmpArtekB8sLvENZDXpump",
+          "name": "Brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002798",
+        "priceUsd": "0.000002769",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 36,
+            "sells": 48
+          }
+        },
+        "volume": {
+          "h24": 3560.76,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -6.15
+        },
+        "fdv": 2769.75,
+        "marketCap": 2769.75,
+        "pairCreatedAt": 1789087899000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/fvmqj9axj3qvjheni6pn8ph88mjtfc6n4vsnzyq2p7ra",
+        "pairAddress": "Fvmqj9AXJ3qVjHENi6pN8Ph88mjtFc6N4vSnZyQ2P7ra",
+        "baseToken": {
+          "address": "7oVBwMzsKSLiJStyrdQxBBjHxzGsXvWRCJiVvHkYcu4r",
+          "name": "Galaxy Brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002964",
+        "priceUsd": "0.000002960",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 19.62,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 0.25
+        },
+        "fdv": 2960.03,
+        "marketCap": 2960.03,
+        "pairCreatedAt": 1788276182000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/2Wmd0tesNxpRH38-?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/jT6izOtLXqZLpdDT?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oVBwMzsKSLiJStyrdQxBBjHxzGsXvWRCJiVvHkYcu4r?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://otcdesks.cash/coin/7oVBwMzsKSLiJStyrdQxBBjHxzGsXvWRCJiVvHkYcu4r",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/i/communities/1984899143429734524",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/czbkgfrqc8cfjwyeqd8xohzquoek1b6rymmvmpq25zvc",
+        "pairAddress": "CzBkGfrqc8CFJwyeQd8xohzqUoEk1b6rYmMVmpq25ZVc",
+        "baseToken": {
+          "address": "9x8559N4dqfFKXjyTrhaSfqDyKQ6L1BYYYK8tHtqpump",
+          "name": "Galaxy Brain is Braining",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002023",
+        "priceUsd": "0.000002012",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 4.89,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {},
+        "liquidity": {
+          "usd": 3987.2,
+          "base": 990530557,
+          "quote": 20.04875
+        },
+        "fdv": 2012,
+        "marketCap": 2012,
+        "pairCreatedAt": 1718956020000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/2avkryw3vcit5dfjpdaqzkz6vlpmexqwpp9f2kcrx4st",
+        "pairAddress": "2AvkRYW3vcit5DFJpdaQzkZ6vLpmexQWpP9f2KCrx4st",
+        "baseToken": {
+          "address": "7jawTmne8ZgULaHtncfXfKdyEuBMQtj2aWmvqGyhN7hJ",
+          "name": "devwifbrain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000001799",
+        "priceUsd": "0.000001788",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 0.36,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -0.02
+        },
+        "liquidity": {
+          "usd": 3566.12,
+          "base": 995638615,
+          "quote": 17.9615
+        },
+        "fdv": 1786,
+        "marketCap": 1786,
+        "pairCreatedAt": 1715361435000
+      },
+      {
+        "chainId": "robinhood",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/robinhood/0x4c5706a2855460734fe066195d4c6ef0a9ac056a8288e0c429582816d308af25",
+        "pairAddress": "0x4c5706a2855460734fe066195d4c6ef0a9ac056a8288e0c429582816d308af25",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x1F729Ff9ACB706617b55f485925DD28D962ef001",
+          "name": "BRAIN",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x0000000000000000000000000000000000000000",
+          "name": "Ether",
+          "symbol": "ETH"
+        },
+        "priceNative": "0.000000002735",
+        "priceUsd": "0.000006726",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 2.69,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -43.84
+        },
+        "liquidity": {
+          "usd": 9.15,
+          "base": 680397,
+          "quote": 0.001861
+        },
+        "fdv": 6726,
+        "marketCap": 6726,
+        "pairCreatedAt": 1789100991000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/AQc5RNnZObR8uazx?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/2anrjOTCbDkPfZf9?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/robinhood/0x1f729ff9acb706617b55f485925dd28d962ef001?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/FlyRh_",
+              "type": "twitter"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/exsh3cu9zezxpro68jby64z5e6xyy6haqvpag1yvhnge",
+        "pairAddress": "ExSh3Cu9zeZXpro68jBy64Z5E6xYy6HAQVPag1yVhnge",
+        "baseToken": {
+          "address": "7DmPiBNsUiNqDfYBz2dVtukMK7B1qs75bkCrzgq2pump",
+          "name": "Brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.0000001232",
+        "priceUsd": "0.00001227",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 54,
+            "sells": 32
+          }
+        },
+        "volume": {
+          "h24": 719.46,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": 330
+        },
+        "fdv": 12271.95,
+        "marketCap": 12271.95,
+        "pairCreatedAt": 1789080413000
+      },
+      {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xbe28d50fc35fbc93b46a5db17cd0ab2e5186113c8fea919a00bfae6eb12ee21e",
+        "pairAddress": "0xbe28d50fc35fbc93b46a5db17cd0ab2e5186113c8fea919a00bfae6eb12ee21e",
+        "labels": [
+          "v4"
+        ],
+        "baseToken": {
+          "address": "0x88144b9ea94ff714147573b98165D2ACA90efB11",
+          "name": "Chad Brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0xaed50e698b6B50c0E4406101e60BF7328E03554C",
+          "name": "ChatGPT",
+          "symbol": "ChatGPT"
+        },
+        "priceNative": "1.4171",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 2
+          }
+        },
+        "volume": {
+          "h24": 0,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.73,
+          "h24": -0.73
+        },
+        "pairCreatedAt": 1756003773000,
+        "info": {
+          "imageUrl": "https://cdn.dexscreener.com/cms/images/2c40f13a0e345ff1cacd9efb181090ce4f42c28fe4e619919692b3d9490ea90f?width=800&height=800&quality=95&format=auto",
+          "header": "https://cdn.dexscreener.com/cms/images/9d0c033b45717245dcdbd318b6b5e47a95edc601be53ea33abeb21c9ab7bc018?width=1500&height=500&quality=95&format=auto",
+          "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x88144b9ea94ff714147573b98165d2aca90efb11?timestamp=1789128900000",
+          "websites": [
+            {
+              "url": "https://chadbrain.ai",
+              "label": "Website"
+            }
+          ],
+          "socials": [
+            {
+              "url": "https://x.com/chadbrainai",
+              "type": "twitter"
+            },
+            {
+              "url": "https://t.me/chadbrain",
+              "type": "telegram"
+            }
+          ]
+        }
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/3wrdgw63bgz8dtqkvkhqxiulsdllvhjlltotqh9ph3sa",
+        "pairAddress": "3wrdgW63BGZ8dtqkVkHqXiULsDLLVHjLLTotQh9PH3sA",
+        "baseToken": {
+          "address": "DyF58W3L3RciDRd7Sakweg4k5tdCYVpJ7S2BVS9qpump",
+          "name": "BRAIN",
+          "symbol": "BC"
+        },
+        "quoteToken": {
+          "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC"
+        },
+        "priceNative": "0.000002668",
+        "priceUsd": "0.000002668",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 15,
+            "sells": 17
+          }
+        },
+        "volume": {
+          "h24": 324.83,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -34.97
+        },
+        "fdv": 2668.29,
+        "marketCap": 2668.29,
+        "pairCreatedAt": 1789078269000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "flapsh",
+        "url": "https://dexscreener.com/bsc/0x42133353a163f900eb80b3271a1f18c65a47d71d",
+        "pairAddress": "0x42133353A163f900EB80B3271a1F18C65A47d71D",
+        "baseToken": {
+          "address": "0x20404a6246F08b9556af160c9bAD84aAF9877777",
+          "name": "bullbrain.fun",
+          "symbol": "brain"
+        },
+        "quoteToken": {
+          "address": "0x7C8D5502b544dDAf8852Fc46D1174E34876D545C",
+          "name": "Cea Industries",
+          "symbol": "BNC4"
+        },
+        "priceNative": "0.0000006985",
+        "priceUsd": "0.000003483",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 1
+          },
+          "h6": {
+            "buys": 177,
+            "sells": 169
+          },
+          "h24": {
+            "buys": 177,
+            "sells": 169
+          }
+        },
+        "volume": {
+          "h24": 29699.17,
+          "h6": 29699.17,
+          "h1": 0.1,
+          "m5": 0
+        },
+        "priceChange": {
+          "h1": -0.02,
+          "h6": -5.2,
+          "h24": -5.2
+        },
+        "liquidity": {
+          "usd": 7681.88,
+          "base": 1102765390,
+          "quote": 770.3723
+        },
+        "fdv": 3483,
+        "marketCap": 3483,
+        "pairCreatedAt": 1789120744000
+      },
+      {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/fcxqwktrr95s24crm78xzwnx2mpaj3pg6gwecp3acu4c",
+        "pairAddress": "FCxQWkTrR95S24cRm78XzWnX2mPaJ3PG6gWEcp3acU4C",
+        "baseToken": {
+          "address": "851tmTcCpUXawS82f66kc9WhNqFt3H3Z9XVtY47Kpump",
+          "name": "Anthropic Ape",
+          "symbol": "Brain"
+        },
+        "quoteToken": {
+          "address": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL"
+        },
+        "priceNative": "0.00000002809",
+        "priceUsd": "0.000002779",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 0,
+            "sells": 3
+          }
+        },
+        "volume": {
+          "h24": 312.2,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -1.26
+        },
+        "fdv": 2779.54,
+        "marketCap": 2779.54,
+        "pairCreatedAt": 1789019075000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "flapsh",
+        "url": "https://dexscreener.com/bsc/0x8f3768d64cfd82668a7719c1bd9bc568e5ab45b6",
+        "pairAddress": "0x8f3768d64cFd82668a7719c1bD9bC568E5Ab45b6",
+        "baseToken": {
+          "address": "0x6504b4e47601efBa0FAA472F8A26faCaA43b7777",
+          "name": "brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.000000005136",
+        "priceUsd": "0.000003662",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 3,
+            "sells": 4
+          },
+          "h24": {
+            "buys": 3,
+            "sells": 4
+          }
+        },
+        "volume": {
+          "h24": 608.09,
+          "h6": 608.09,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -12.52,
+          "h24": -12.52
+        },
+        "liquidity": {
+          "usd": 8109.04,
+          "base": 1107036751,
+          "quote": 5.6859
+        },
+        "fdv": 3662,
+        "marketCap": 3662,
+        "pairCreatedAt": 1789117427000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "pancakeswap",
+        "url": "https://dexscreener.com/bsc/0x61e6133237db7bd4b5381022037c032f3a51d115",
+        "pairAddress": "0x61E6133237Db7BD4B5381022037c032F3a51D115",
+        "labels": [
+          "v2"
+        ],
+        "baseToken": {
+          "address": "0xF5Ab7B0290E706Ad4C3A05653Db3Fa56Db90276c",
+          "name": "BrainCoin",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB"
+        },
+        "priceNative": "0.0000001105",
+        "priceUsd": "0.00007879",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h24": {
+            "buys": 4,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 2.18,
+          "h6": 0,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h24": -92.53
+        },
+        "liquidity": {
+          "usd": 0.54,
+          "base": 3481.09688,
+          "quote": 0.0003848
+        },
+        "fdv": 7879,
+        "marketCap": 7879,
+        "pairCreatedAt": 1784487023000
+      },
+      {
+        "chainId": "bsc",
+        "dexId": "flapsh",
+        "url": "https://dexscreener.com/bsc/0x844778abd4b5399c4aa48fa8f71b4da0d308742b",
+        "pairAddress": "0x844778ABd4B5399c4aa48fa8F71b4Da0d308742b",
+        "baseToken": {
+          "address": "0x6570013E4DD2D79fCEb88138eb0a1A7222407777",
+          "name": "brain",
+          "symbol": "BRAIN"
+        },
+        "quoteToken": {
+          "address": "0x205812CdBed920aFf76C6580abD681a46D11efc7",
+          "name": "Invesqo QQQ",
+          "symbol": "QQQB"
+        },
+        "priceNative": "0.000000005136",
+        "priceUsd": "0.000003663",
+        "txns": {
+          "m5": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h1": {
+            "buys": 0,
+            "sells": 0
+          },
+          "h6": {
+            "buys": 1,
+            "sells": 1
+          },
+          "h24": {
+            "buys": 1,
+            "sells": 1
+          }
+        },
+        "volume": {
+          "h24": 6.99,
+          "h6": 6.99,
+          "h1": 0,
+          "m5": 0
+        },
+        "priceChange": {
+          "h6": -0.17,
+          "h24": -0.17
+        },
+        "liquidity": {
+          "usd": 8111.08,
+          "base": 1107036751,
+          "quote": 5.6859
+        },
+        "fdv": 3663,
+        "marketCap": 3663,
+        "pairCreatedAt": 1789117462000
+      }
+    ]
+  },
+  "capturedAt": "2026-09-11T12:14:52.6720414Z",
+  "query": "brain"
+}

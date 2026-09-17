@@ -1,0 +1,9 @@
+{
+  "observedAt": "2026-09-10T20:40:47.128Z",
+  "chainId": 4663,
+  "block": "59696393",
+  "tickerFactory": "0x22e99278308B393ea1260859B181AD7E78f5eeED",
+  "paused": true,
+  "selector": "0xd93c0665",
+  "decodedError": "EnforcedPause()"
+}

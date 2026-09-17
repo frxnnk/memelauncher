@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-09-15T06:43:01.793Z",
+  "reconciled": true,
+  "receiptId": "888bd9f6-73c0-47f1-a702-ac8775a5041c",
+  "reservationId": "ec8dc194-a7dc-4d53-9b86-ba24bff3df53",
+  "accountedCostUsd": 0,
+  "policyUrl": "https://openrouter.ai/docs/guides/features/zero-completion-insurance",
+  "upstreamId": "gen-1789453574-ChOA6kqN6GePkm0ApvuE",
+  "source": "openrouter-zero-completion-policy",
+  "originalReceiptUnchanged": true,
+  "receiptSha256": "e922fe56c6366deadbb88270e5cfb6882a316af2b8adbdf7e3f7c69766365075",
+  "before": {
+    "scope": "persistent-public-practice",
+    "globalRequestsToday": 5,
+    "totalPerDay": 250,
+    "budgetUsd": 5,
+    "reportedCostUsd": 0.00609,
+    "pending": 0,
+    "unknown": 1,
+    "known": 4,
+    "notSent": 0,
+    "oldestPendingAgeMs": null,
+    "dailyWindow": "UTC"
+  },
+  "after": {
+    "scope": "persistent-public-practice",
+    "globalRequestsToday": 5,
+    "totalPerDay": 250,
+    "budgetUsd": 5,
+    "reportedCostUsd": 0.00609,
+    "pending": 0,
+    "unknown": 0,
+    "known": 5,
+    "notSent": 0,
+    "oldestPendingAgeMs": null,
+    "dailyWindow": "UTC"
+  },
+  "independentAttestation": false,
+  "corroboration": {
+    "keyUsageBeforeUsd": 0.1063884,
+    "keyUsageAfterUsd": 0.1063884,
+    "keyLimitUsd": 5,
+    "providerBudgetCheckedAt": "2026-09-15T06:37:42.915Z",
+    "generationLookupStatus": 404
+  }
+}

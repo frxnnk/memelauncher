@@ -1,0 +1,109 @@
+[
+  {
+    "mint": "6MX2aBUHVizAjy6dFHyNHkSuRPF3KCoZT9ReBrjLwALL",
+    "at": 1789191890345,
+    "coin": {
+      "mint": "6MX2aBUHVizAjy6dFHyNHkSuRPF3KCoZT9ReBrjLwALL",
+      "name": "LOYAL",
+      "symbol": "LOYAL",
+      "image": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreibzatc23vmf2uk23gembasoe2h3qp43cu52jvmo7rl57vls55uaoy",
+      "fallback": "https://pump.mypinata.cloud/ipfs/bafkreibzatc23vmf2uk23gembasoe2h3qp43cu52jvmo7rl57vls55uaoy",
+      "createdAt": 1789185519000,
+      "marketCapUsd": 2849.409506532684,
+      "source": "etc",
+      "quote": {
+        "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+        "symbol": "NVDAX"
+      },
+      "pricedFrom": "curve"
+    },
+    "pair": {
+      "mint": "6MX2aBUHVizAjy6dFHyNHkSuRPF3KCoZT9ReBrjLwALL",
+      "stock": {
+        "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+        "symbol": "NVDAx",
+        "name": "NVIDIA",
+        "class": "equity",
+        "decimals": 8
+      },
+      "confidence": "declared",
+      "lastPaidAt": null,
+      "paidUsd": null,
+      "payoutCount": 0,
+      "stocks": [
+        {
+          "stock": {
+            "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+            "symbol": "NVDAx",
+            "name": "NVIDIA",
+            "class": "equity",
+            "decimals": 8
+          },
+          "bps": 10000
+        }
+      ]
+    },
+    "paid": null,
+    "dropped": null,
+    "history": null,
+    "split": {
+      "config": "CgN5k3KGgDUcz2PdsaVYGPUPjDZshimWtiV4FtikvPh8",
+      "adminRevoked": true,
+      "slices": [
+        {
+          "key": "holders:Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+          "label": "your holders, in NVDAx",
+          "bps": 5000,
+          "role": "holders"
+        },
+        {
+          "key": "TjJUc9niZ1MAagSmkTkdLpKCk1vnJWL2q7QznzQQALL",
+          "label": "buys this coin and drops it into $all wallets",
+          "bps": 1000,
+          "role": "etc"
+        },
+        {
+          "key": "Cu3nUxTHDcdQiCRWU3oW9aw5RA7dAdBqVrj3GjZdQEvj",
+          "label": "the platform fee",
+          "bps": 1000,
+          "role": "platform"
+        },
+        {
+          "key": "E3jxkMVDk9YdnLPQwzupjZEYDMLMKUtGv7K4WJiYPxXc",
+          "label": "E3jx…PxXc",
+          "bps": 1000,
+          "role": "other"
+        },
+        {
+          "key": "BLEh9WV1M17arLo7pDSWtVsrghEPT7LdaatihJw381SZ",
+          "label": "launcher",
+          "bps": 2000,
+          "role": "launcher"
+        }
+      ]
+    },
+    "vault": {
+      "address": "CUpEHTEJyf2jCPjzrxygxMJ4BuR5Q1Gj8dzRzHeD8nXJ",
+      "waiting": "650242",
+      "claimable": null,
+      "earned": null
+    },
+    "claims": {
+      "lamports": "1559647",
+      "claims": 1,
+      "lastAt": 1789189053000,
+      "lastSignature": "3U53564bx2r68U7K1tLqNXjwvqJwVpLfBgRPFET8CX4qg3UeutxTxJeGQo2wQn5jFSYB2wnjMgfkqZVFXjTQLr5Q",
+      "complete": false
+    },
+    "next": {
+      "at": 1789190084654,
+      "state": "running",
+      "held": "2 lamports accrued, under the 5000 a claim costs to send"
+    },
+    "feeRead": {
+      "at": 1789192287148,
+      "distributions": [],
+      "complete": false
+    }
+  }
+]

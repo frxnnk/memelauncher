@@ -1,0 +1,24 @@
+{
+  "id": "00000000-0000-4000-8000-000000000020",
+  "state": "credit-recorded",
+  "credited": true,
+  "accountingHold": false,
+  "createdAt": 1789421567809,
+  "expiresAt": 1789422467809,
+  "submittedAt": 1789421567843,
+  "attachedAt": null,
+  "owner": "0x2222222222222222222222222222222222222222",
+  "asset": {
+    "chainId": "1337",
+    "decimals": 18,
+    "tokenAddress": "0x1111111111111111111111111111111111111111",
+    "destination": "0x3333333333333333333333333333333333333333",
+    "minimumConfirmations": 3
+  },
+  "amountRequestedBaseUnits": "1000000000000000000",
+  "amountCreditedBaseUnits": "1000000000000000000",
+  "transactionHash": "0xaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "logIndex": "0x0",
+  "realFundsEnabled": false,
+  "evidence": "qa-fixture"
+}

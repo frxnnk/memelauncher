@@ -1,0 +1,74 @@
+[
+  {
+    "file": "coinbase-tokenize.html",
+    "url": "https://www.coinbase.com/tokenize",
+    "atUtc": "2026-09-12T06:22:11.5776194Z",
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  },
+  {
+    "file": "base-stocks.html",
+    "url": "https://www.base.org/stocks",
+    "atUtc": "2026-09-12T06:22:11.9481505Z",
+    "status": 200
+  },
+  {
+    "file": "base-docs.html",
+    "url": "https://docs.base.org/build-on-base/integrate-defi/list-tokenized-stocks",
+    "atUtc": "2026-09-12T06:22:12.3447860Z",
+    "status": 200
+  },
+  {
+    "file": "aapl-prospectus.pdf",
+    "url": "https://assets.ctfassets.net/o10es7wu5gm1/6t7LV7NUfghwRYjZpReFYH/6e08881544b683a4c886aaa809c2d51a/Coinbase_Onchain_SPV_Ltd_-_Prospectus__AAPL__-_FSRA_VERSION.pdf",
+    "atUtc": "2026-09-12T06:22:13.1677955Z",
+    "status": 200
+  },
+  {
+    "file": "googl-prospectus.pdf",
+    "url": "https://assets.ctfassets.net/o10es7wu5gm1/4Z7WbCZC0rQ6AkkEV6sBgX/b6ecb474929fa9b4802b258a7ef6e948/Coinbase_Onchain_SPV_Ltd_-_Prospectus__GOOGL__-_FSRA_VERSION.pdf",
+    "atUtc": "2026-09-12T06:22:13.9108149Z",
+    "status": 200
+  },
+  {
+    "file": "twentypad-quotes.html",
+    "url": "https://docs.twentypad.com/docs/launching/quote-assets",
+    "atUtc": "2026-09-12T06:22:15.4335721Z",
+    "status": 200
+  },
+  {
+    "file": "twentypad-contracts.html",
+    "url": "https://docs.twentypad.com/docs/developers/contracts",
+    "atUtc": "2026-09-12T06:22:16.2903522Z",
+    "status": 200
+  },
+  {
+    "file": "twentypad-router.html",
+    "url": "https://docs.twentypad.com/docs/trading/swap-router",
+    "atUtc": "2026-09-12T06:22:16.8306981Z",
+    "status": 200
+  },
+  {
+    "file": "dex-aaplc.json",
+    "url": "https://api.dexscreener.com/token-pairs/v1/base/0xb200000000000000000000C2e324d24d7eEcd1fb",
+    "atUtc": "2026-09-12T06:22:17.3053731Z",
+    "status": 200
+  },
+  {
+    "file": "dex-googlc.json",
+    "url": "https://api.dexscreener.com/token-pairs/v1/base/0xb2000000000000000000002D0BA3164cc74f58B7",
+    "atUtc": "2026-09-12T06:22:17.7260320Z",
+    "status": 200
+  },
+  {
+    "file": "basescan-aapl.html",
+    "url": "https://basescan.org/token/0xb200000000000000000000C2e324d24d7eEcd1fb",
+    "atUtc": "2026-09-12T06:22:18.0222514Z",
+    "status": 200
+  },
+  {
+    "file": "basescan-googl.html",
+    "url": "https://basescan.org/token/0xb2000000000000000000002D0BA3164cc74f58B7",
+    "atUtc": "2026-09-12T06:22:18.5264841Z",
+    "status": 200
+  }
+]
