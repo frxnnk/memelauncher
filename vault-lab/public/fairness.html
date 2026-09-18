@@ -19,13 +19,14 @@
     <a class="wordmark" href="/" aria-label="Vault home">vault<span class="brand-dot">.</span></a>
     <nav aria-label="Main navigation">
       <a href="/fairness" aria-current="page">Ledger</a>
+      <a href="https://github.com/frxnnk/memelauncher">Source</a>
       <a class="nav-play" href="/play">Play <span aria-hidden="true">↗</span></a>
     </nav>
   </header>
   <main id="ledger" class="fairness page-width">
     <p class="edition" id="fairness-edition">Closed paid beta</p>
     <h1>Public ledger.</h1>
-    <p class="fairness-lede">Every paid attempt on this server is listed here: who paid, what the model did, and how the pot moved. This is <strong>operator transparency</strong>, the Freysa model — not a cryptographic guarantee that Claude ran inside a TEE.</p>
+    <p class="fairness-lede">Every paid attempt on this server is listed here: who paid, what the model did, and how the pot moved. This is <strong>operator transparency</strong>, the Freysa model — not a cryptographic guarantee that Claude ran inside a TEE. Source is public.</p>
     <div class="fairness-stamps" id="fairness-stamps" aria-live="polite"></div>
     <section class="fairness-grid" aria-labelledby="rules-title">
       <div>
@@ -36,6 +37,11 @@
         <h2>What this does not prove</h2>
         <ul class="fairness-limits" id="fairness-limits"></ul>
       </div>
+    </section>
+    <section aria-labelledby="rounds-title">
+      <h2 id="rounds-title">Open rounds</h2>
+      <p class="fairness-help">The persuasion game and the payout-proving drill are separate pots. Winning Haiku does not empty the Opus bounty.</p>
+      <div class="fairness-table-wrap" id="fairness-rounds"></div>
     </section>
     <section aria-labelledby="deposits-title">
       <h2 id="deposits-title">On-chain deposits</h2>
@@ -59,7 +65,7 @@
   </main>
   <footer class="site-footer page-width">
     <a class="footer-brand" href="/">vault.</a>
-    <p><a href="/play">Play</a></p>
+    <p><a href="/play">Play</a> · <a id="fairness-source" href="https://github.com/frxnnk/memelauncher">Source</a></p>
     <div><span class="footer-practice" id="fairness-footer">Operator records</span></div>
   </footer>
 </body>

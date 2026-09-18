@@ -164,7 +164,10 @@ test('paid-beta Vercel opus funding prepares an unsigned 5e18 AMZN deposit and n
     hosting: { name: 'local', ephemeralData: false, backgroundTimers: false }
   });
   const round = runtime.funding.configuration().rounds[0];
+  assert.equal(runtime.funding.configuration().rounds.length, 2);
   assert.equal(round.id, 'rh-paid-opus-v1');
+  assert.equal(runtime.funding.configuration().rounds[1].id, 'rh-payout-prove-v1');
+  assert.equal(runtime.funding.configuration().rounds[1].kind, 'payout-proving');
   assert.equal(round.prizeBps, 7000);
   assert.equal(round.operationsBps, 3000);
   assert.equal(round.nextRoundBps, 0);

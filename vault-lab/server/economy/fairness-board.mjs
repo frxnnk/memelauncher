@@ -1,4 +1,6 @@
 import { splitAttemptPrice, units } from './schema.mjs';
+import { roundKindFromRules } from './payout-proving.mjs';
+import { PUBLIC_SOURCE_URL } from '../../public/source.js';
 
 export function truncateAddress(value) {
   if (typeof value !== 'string' || !value) return 'player';
@@ -36,9 +38,15 @@ export function publicFairnessBoard(economy) {
     const bounty = snapshot.balances.find(row => row.account === `round:${round.id}:prize`)?.amount ?? '0';
     const prizePayable = snapshot.balances.find(row => row.account === `round:${round.id}:payable`)?.amount ?? '0';
     const claim = economy.ledger.payoutClaim?.(round.id);
+    const manifest = economy.manifest?.(round.id);
+    const rules = manifest?.manifest?.configuration?.rules;
     return {
       id: round.id,
       state: round.state,
+      kind: roundKindFromRules(rules),
+      promptVersion: rules?.version ?? null,
+      systemPrompt: typeof rules?.systemPrompt === 'string' ? rules.systemPrompt : null,
+      tools: Array.isArray(rules?.tools) ? rules.tools : [],
       price: round.price,
       prizeBps: round.prize_bps,
       operationsBps: round.operations_bps,
@@ -50,6 +58,9 @@ export function publicFairnessBoard(economy) {
       prizeSent: claim?.state === 'paid',
       prizeTransactionHash: claim?.state === 'paid' ? claim.transaction_hash : null
     };
+  }).sort((a, b) => {
+    if (a.kind !== b.kind) return a.kind === 'payout-proving' ? 1 : -1;
+    return a.id.localeCompare(b.id);
   });
   const attempts = snapshot.attempts.map(attempt => {
     const round = snapshot.rounds.find(row => row.id === attempt.round_id);
@@ -69,6 +80,7 @@ export function publicFairnessBoard(economy) {
   return {
     custody: 'operator-controlled',
     attestation: 'operator-recorded-rpc-not-independent-attestation',
+    sourceUrl: PUBLIC_SOURCE_URL,
     realFundsEnabled: false,
     payoutsEnabled: false,
     asset: snapshot.asset ? {

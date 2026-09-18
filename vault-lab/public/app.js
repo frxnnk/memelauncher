@@ -5,8 +5,8 @@ import './onboarding.js';
 import { accountHeaders, accountState, accountCanPlay, refreshAccountStatus, lockAccount } from './account.js';
 import { showAccountRecords } from './account-records.js';
 import './account-credits.js';
-import './funding.js?v=phantom-sign-5';
-import { webAttemptPrice, selectedCreditPlayModel } from './web-credits.js';
+import './funding.js?v=phantom-sign-6';
+import { webAttemptPrice, selectedCreditPlayModel, fundingConfiguration } from './web-credits.js';
 import { setBountyModel, refreshDoorBounty } from './guardian-bounty.js';
 import { prepareAttempt, finishCreditAttempt, usesTestCredits, roundModels } from './credit-mode.js';
 import { addMessage, announceTranscript, followConversation, resizeEditor } from './conversation.js';
@@ -121,8 +121,17 @@ function applyModel(model) {
   $('#model-mark').textContent = (model.company || model.name).slice(0, 1).toUpperCase();
   $('#model-button').setAttribute('aria-label', `Choose model: ${model.name}`);
   $('#models-dialog').close();
+  syncProvingPrompt();
   resetConversation();
   renderSettings({ rules, selected, configured });
+}
+
+function syncProvingPrompt() {
+  const proving = $('#proving-prompt');
+  if (!proving) return;
+  const round = selected && fundingConfiguration()?.rounds?.find(row => row.state === 'open' && row.kind === 'payout-proving'
+    && row.manifest?.manifest?.configuration?.guardians?.some(g => g.modelId === selected.id));
+  proving.hidden = !round;
 }
 
 function selectModel(model) {
@@ -223,7 +232,7 @@ $('#prompt').addEventListener('input', () => { updateControls(); setGuardianDraf
 document.addEventListener('vault:credit-mode-changed', () => {
   const next = selectedCreditPlayModel(models, selected?.id);
   if (next && next.id !== selected?.id) applyModel(next);
-  else updateControls();
+  else { syncProvingPrompt(); updateControls(); }
 });
 document.addEventListener('vault:account-changed', event => {
   const nextId = event.detail?.accountId ?? null;

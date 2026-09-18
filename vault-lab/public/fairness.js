@@ -1,3 +1,5 @@
+import { PUBLIC_SOURCE_URL } from './source.js';
+
 function amount(value, decimals = 18) {
   try {
     const n = BigInt(value);
@@ -66,9 +68,11 @@ try {
     read('/api/rules').catch(() => null),
     read('/api/status').catch(() => ({}))
   ]);
-  const round = board.rounds?.[0];
+  const round = board.rounds?.find(row => row.kind !== 'payout-proving') ?? board.rounds?.[0];
   const decimals = board.asset?.decimals ?? 18;
   const demonstrated = board.demonstrated ?? {};
+  const source = document.querySelector('#fairness-source');
+  if (source) source.href = board.sourceUrl || PUBLIC_SOURCE_URL;
   document.querySelector('#fairness-edition').textContent = status.paidConfigured
     ? `Closed paid beta · ${status.mode || 'x402'}` : 'Practice / operator records';
   document.querySelector('#fairness-footer').textContent = board.custody === 'operator-controlled'
@@ -82,13 +86,19 @@ try {
     stamp('TEE / attested executor', false)
   );
   rulesList(document.querySelector('#fairness-rules'), [
+    ['Source', board.sourceUrl || PUBLIC_SOURCE_URL],
     ['Round', round?.id || 'None open'],
     ['State', round?.state || '—'],
     ['Price now', round?.price ? `${amount(round.price, decimals)} AMZN` : '—'],
     ['Split', round ? `${(round.prizeBps ?? 0) / 100}% bounty / ${(round.operationsBps ?? 0) / 100}% ops` : '70% / 30%'],
     ['On a win', `${((round?.winRetainBps ?? 2500) / 100)}% stays as continuity`],
-    ['Pot', round?.bounty ? `${amount(round.bounty, decimals)} AMZN` : '0'],
-    ['Prize payable', round?.prizePayable ? `${amount(round.prizePayable, decimals)} AMZN` : '0'],
+    ['Opus pot', (() => {
+      const game = board.rounds?.find(row => row.kind !== 'payout-proving') ?? round;
+      return game?.bounty ? `${amount(game.bounty, decimals)} AMZN` : '0';
+    })()],
+    ['Prize payable', board.rounds?.some(row => row.prizePayable && row.prizePayable !== '0')
+      ? board.rounds.filter(row => row.prizePayable && row.prizePayable !== '0')
+        .map(row => `${row.id} ${amount(row.prizePayable, decimals)}`).join(' · ') : '0'],
     ['Expiry', round?.expiresAt ? new Date(round.expiresAt).toLocaleDateString('en-US') : '5 months from open'],
     ['Custody', board.custody || 'operator-controlled'],
     ['Evidence', board.attestation || 'operator receipts']
@@ -97,8 +107,24 @@ try {
     el('li', 'OpenRouter still chooses the running provider. We record the requested and returned model IDs.'),
     el('li', 'A TEE in front of a normal API would attest the proxy, not the weights.'),
     el('li', 'Treasury still signs prize sends. No escrow contract on this testnet round.'),
-    el('li', 'Credits are not refundable. Technical failures restore the attempt, not cash.')
+    el('li', 'Credits are not refundable. Technical failures restore the attempt, not cash.'),
+    el('li', 'Payout proving is a published drill. It does not make the Opus persuasion round easy.')
   );
+  const roundsNode = document.querySelector('#fairness-rounds');
+  if (roundsNode) {
+    roundsNode.replaceChildren(table(
+      ['Round', 'Kind', 'State', 'Pot', 'Payable', 'Prize tx'],
+      (board.rounds ?? []).map(row => [
+        row.id,
+        row.kind === 'payout-proving' ? 'payout proving' : 'the game',
+        row.state,
+        `${amount(row.bounty, decimals)} AMZN`,
+        `${amount(row.prizePayable, decimals)} AMZN`,
+        row.prizeTransactionHash ? el('code', row.prizeTransactionHash) : '—'
+      ]),
+      'No paid rounds recorded yet.'
+    ));
+  }
   document.querySelector('#fairness-deposits').replaceChildren(table(
     ['From', 'To', 'Amount', 'Tx'],
     (board.deposits ?? []).map(row => [
@@ -134,7 +160,16 @@ try {
     transcripts.append(card);
   }
   const prompt = document.querySelector('#fairness-prompt');
-  if (rules?.systemPrompt) {
+  const frozen = (board.rounds ?? []).filter(row => row.systemPrompt);
+  if (frozen.length) {
+    for (const row of frozen) {
+      prompt.append(el('h3', `${row.id} · ${row.kind === 'payout-proving' ? 'payout proving' : 'the game'} · ${row.promptVersion || 'frozen'}`));
+      prompt.append(el('pre', row.systemPrompt, 'prompt-block'));
+      if (Array.isArray(row.tools) && row.tools.length) {
+        prompt.append(el('pre', JSON.stringify(row.tools, null, 2), 'prompt-block'));
+      }
+    }
+  } else if (rules?.systemPrompt) {
     prompt.append(el('pre', rules.systemPrompt, 'prompt-block'));
     if (Array.isArray(rules.tools)) {
       prompt.append(el('pre', JSON.stringify(rules.tools, null, 2), 'prompt-block'));

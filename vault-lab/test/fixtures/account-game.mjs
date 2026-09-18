@@ -48,7 +48,7 @@ export async function accountGameFixture(options = {}) {
   function open() {
     economy = createAssetEconomy({ path: join(directory, 'credits.sqlite'), asset: usedAsset, terms: options.terms ?? terms, now: options.now,
       unsignedLifetimeMs: options.unsignedLifetimeMs });
-    economy.openRound(roundId, options.models);
+    economy.openRound(roundId, options.models, options.rules);
     vault = createVaultService({ apiKey: 'fixture-not-real', payment: options.paidInference, logDir: directory, sessionsPath: join(directory, 'sessions.sqlite'),
       fetchImpl: async (url, init = {}) => {
         if (url === 'https://openrouter.ai/api/v1/models') {

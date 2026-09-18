@@ -18,6 +18,7 @@ test('landing copy names paid beta when x402 and funding are live', () => {
   );
   assert.equal(copy.edition, 'Closed paid beta');
   assert.match(copy.playNote, /5 AMZN per paid attempt/i);
+  assert.match(copy.playNote, /Ledger and source are public/i);
   assert.doesNotMatch(copy.playNote, /No deposit/i);
   assert.match(copy.footer, /testnet AMZN/i);
   assert.equal(copy.navPlay, 'Enter the beta ');
@@ -33,6 +34,7 @@ test('landing keeps practice copy when funding is off', () => {
 test('account copy tells invited players to Top up AMZN when web funding is on', () => {
   const copy = paidBetaAccountCopy({ webFundingEnabled: true, closedBeta: true });
   assert.match(copy.treasuryIntro, /Top up/i);
+  assert.match(copy.treasuryIntro, /payout proving/i);
   assert.doesNotMatch(copy.treasuryIntro, /Deposits and payouts are disabled/i);
   assert.match(copy.treasuryLabel, /operator custody/i);
   assert.equal(paidBetaAccountCopy({ webFundingEnabled: false }), null);
@@ -56,7 +58,10 @@ test('landing and play expose the public fairness ledger', () => {
   const play = readFileSync(join(root, 'public/index.html'), 'utf8');
   const page = readFileSync(join(root, 'public/fairness.html'), 'utf8');
   assert.match(landing, /href="\/fairness"/);
+  assert.match(landing, /github.com\/frxnnk\/memelauncher/);
   assert.match(play, /href="\/fairness"/);
+  assert.match(play, /github.com\/frxnnk\/memelauncher/);
   assert.match(page, /Public ledger/);
   assert.match(page, /src="\/fairness.js"/);
+  assert.match(page, /github.com\/frxnnk\/memelauncher/);
 });

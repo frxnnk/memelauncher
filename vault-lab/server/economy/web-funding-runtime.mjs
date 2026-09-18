@@ -17,6 +17,7 @@ import { localOperatorEnabled } from '../local-operator.mjs';
 import { createInboundObserver } from './inbound-observe.mjs';
 import { provingAutoplayEnabled, createProvingAutoplay } from './proving-autoplay.mjs';
 import { unsignedDepositLifetimeMs } from './deposit-orders.mjs';
+import { PAYOUT_PROVING_KIND, freezeRulesForRound } from './payout-proving.mjs';
 
 function testnetProvingPrices(config) {
   if (config?.policy !== 'paid-beta' || config?.environment !== 'testnet' || !config.terms) return null;
@@ -60,6 +61,10 @@ export function validateWebFundingConfiguration(config) {
   const roundIds = new Set();
   for (const round of config.rounds) {
     id(round.id);
+    if (Object.keys(round).some(key => !['id', 'models', 'kind'].includes(key))) {
+      throw new Error('Each funding round accepts only id, models, and kind.');
+    }
+    if (round.kind != null && round.kind !== PAYOUT_PROVING_KIND) throw new Error('Unknown funding round kind.');
     if (roundIds.has(round.id) || !Array.isArray(round.models) || round.models.length !== 1) throw new Error('Each funding round must have one guardian and a unique ID.');
     roundIds.add(round.id);
   }
@@ -93,7 +98,7 @@ export async function startWebFunding({ configPath, dataDirectory, authenticatio
     economy = createAssetEconomy({ path: join(dataDirectory, 'credits.sqlite'), asset: config.asset, terms: config.terms, env,
       unsignedLifetimeMs: unsignedDepositLifetimeMs(config) });
     assertLedgerMatchesFundingTerms(economy, config.terms);
-    for (const round of config.rounds) economy.openRound(round.id, round.models);
+    for (const round of config.rounds) economy.openRound(round.id, round.models, freezeRulesForRound(round));
     monitor = createDepositMonitor({ economy, reader, policy: { batchSize: 20, intervalMs: 15000, maxAgeMs: 120000 } });
     await monitor.runBatch();
     // Funded attempts pay their own inference from the operating box. Without one they fall back to the provider key.

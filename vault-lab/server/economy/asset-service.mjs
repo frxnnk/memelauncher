@@ -20,8 +20,8 @@ export function createAssetEconomy({ path, asset, terms, env, now, unsignedLifet
   let rounds;
   try { rounds = createRoundRegistry({ path, accounting: { unit, assetHash, ...pricing }, env }); }
   catch (error) { ledger.close(); throw error; }
-  function openRound(roundId, models) {
-    const manifest = rounds.freeze(roundId, models);
+  function openRound(roundId, models, rules) {
+    const manifest = rounds.freeze(roundId, models, rules);
     const retireKey = createHash('sha256').update(JSON.stringify(manifest.manifest.configuration.guardians.map(g => g.modelId))).digest('hex');
     return ledger.execute('round-' + createHash('sha256').update(roundId).digest('hex'), { type: 'open-round', roundId,
       price: pricing.price, prizeBps: pricing.prizeBps, operationsBps: pricing.operationsBps, configuration: manifest.hash,

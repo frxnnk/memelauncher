@@ -1,7 +1,7 @@
 {
   "environment": "testnet",
   "policy": "paid-beta",
-  "note": "Vercel Node /api paid-beta round. Robinhood testnet 46630 AMZN to the disclosed treasury. Published 5→25, 70/30, 25% retain, one Opus guardian. Not the local Haiku proving overlay. Not AMZN rehearsal. Not mainnet 4663 USDG.",
+  "note": "Vercel Node /api paid-beta. Robinhood testnet 46630 AMZN to the disclosed treasury. Published 5→25, 70/30, 25% retain. Live persuasion round rh-paid-opus-v1 (Opus, frozen prompt). Separate payout-proving round rh-payout-prove-v1 (Haiku, published eval prompt) so a treasury send can be demonstrated without rewriting the Opus pot. Not the local Haiku overlay. Not AMZN rehearsal. Not mainnet 4663 USDG.",
   "asset": {
     "chainId": "46630",
     "tokenAddress": "0x5884ad2f920c162cfbbacc88c9c51aa75ec09e02",
@@ -21,6 +21,7 @@
     "durationMonths": 5
   },
   "rounds": [
-    { "id": "rh-paid-opus-v1", "models": ["anthropic/claude-opus-5"] }
+    { "id": "rh-paid-opus-v1", "models": ["anthropic/claude-opus-5"] },
+    { "id": "rh-payout-prove-v1", "models": ["anthropic/claude-haiku-4.5"], "kind": "payout-proving" }
   ]
 }

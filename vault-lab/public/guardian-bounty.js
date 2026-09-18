@@ -13,7 +13,9 @@ export function setBountyModel(value) {
     amount.textContent = text;
     amount.animate?.([{ opacity: .35 }, { opacity: 1 }], { duration: matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 400 });
   }
-  label.textContent = round && !failed ? 'Bounty · test tokens' : 'Round bounty';
+  label.textContent = round && !failed
+    ? (round.kind === 'payout-proving' ? 'Payout proving · test tokens' : 'The game · test tokens')
+    : 'Round bounty';
   amount.title = round ? `${text} test tokens · ${modelId} · ${round.id}` : text;
 }
 

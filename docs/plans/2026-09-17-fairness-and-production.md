@@ -20,7 +20,9 @@
 | USDG escrow fixture | `vault-lab/output/usdg-claim-drill.json` — 1 USDG, 75/25, unsigned, mainnet refused |
 | TEE | Not built. Not claimed. |
 
-Not demonstrated: a live `release_prize`, a treasury prize send, mainnet USDG, or independent attestation.
+Not demonstrated: a live `release_prize` on the Opus persuasion round, a treasury prize send, mainnet USDG, or independent attestation.
+
+A **payout-proving** round `rh-payout-prove-v1` (Haiku, published eval prompt) is the path to demonstrate treasury→player without rewriting the Opus pot. It is labeled on `/fairness`. The game prompt is unchanged.
 
 ## What production still needs
 

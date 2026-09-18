@@ -40,7 +40,7 @@ export function createVaultService({ apiKey = '', payment = null, logDir, sessio
     }
   }
 
-  async function attempt(input, { ownerId = 'local-demo', roundId = null, usageReservationId = null, billing = null } = {}) {
+  async function attempt(input, { ownerId = 'local-demo', roundId = null, usageReservationId = null, billing = null, rules = null } = {}) {
     const useX402 = billing === 'x402';
     if (useX402 && !payment) throw apiError(503, 'X402_NOT_CONFIGURED', 'Funded inference requires an operating-box payer. No credits were reserved.');
     if (!useX402 && !apiKey.trim()) throw apiError(503, 'MISSING_API_KEY', 'Set OPENROUTER_API_KEY in the local .env file and restart the server. Live API calls may incur charges.');
@@ -48,9 +48,13 @@ export function createVaultService({ apiKey = '', payment = null, logDir, sessio
     if (!input || typeof input !== 'object' || Array.isArray(input) ||
       Object.keys(input).some(key => !['modelId', 'prompt', 'sessionId'].includes(key))) throw apiError(400, 'INVALID_INPUT', 'Only modelId, prompt, and an optional sessionId are accepted.');
     const { modelId, prompt, sessionId } = input;
+    const attemptRules = rules ?? effectiveRules;
     if (typeof ownerId !== 'string' || !/^[a-zA-Z0-9_-]{1,80}$/.test(ownerId) ||
         (roundId !== null && (typeof roundId !== 'string' || !/^[a-zA-Z0-9_-]{1,80}$/.test(roundId))) ||
-        (usageReservationId !== null && (typeof usageReservationId !== 'string' || !/^[a-f0-9-]{36}$/.test(usageReservationId)))) throw apiError(400, 'INVALID_SESSION_SCOPE', 'Invalid server-side session scope.');
+        (usageReservationId !== null && (typeof usageReservationId !== 'string' || !/^[a-f0-9-]{36}$/.test(usageReservationId))) ||
+        (rules !== null && (typeof attemptRules !== 'object' || Array.isArray(attemptRules) ||
+          typeof attemptRules.systemPrompt !== 'string' || !attemptRules.systemPrompt.trim() ||
+          typeof attemptRules.version !== 'string' || !Array.isArray(attemptRules.tools)))) throw apiError(400, 'INVALID_SESSION_SCOPE', 'Invalid server-side session scope.');
     if (typeof prompt !== 'string' || !prompt.trim() || prompt.length > RULES.limits.maxPromptCharacters ||
       typeof modelId !== 'string' || modelId.length > 160 ||
       (sessionId !== undefined && (typeof sessionId !== 'string' || sessionId.length > 80))) throw apiError(400, 'INVALID_INPUT', 'Enter a message of 1 to 2,000 characters and select a valid model.');
@@ -67,7 +71,7 @@ export function createVaultService({ apiKey = '', payment = null, logDir, sessio
       if (session && session.ownerId !== ownerId) throw apiError(404, 'SESSION_NOT_FOUND', 'This session does not belong to your account.');
       if (session && session.roundId !== roundId) throw apiError(409, 'SESSION_ROUND_MISMATCH', 'Start a new conversation for this round. Practice history cannot be imported into a credit round.');
       if (session?.modelId !== undefined && session.modelId !== modelId) throw apiError(409, 'SESSION_MODEL_MISMATCH', 'The model cannot change within a session. Start a new conversation.');
-      const configurationHash = createHash('sha256').update(JSON.stringify({ rules: effectiveRules, model: modelConfiguration(modelId) })).digest('hex');
+      const configurationHash = createHash('sha256').update(JSON.stringify({ rules: attemptRules, model: modelConfiguration(modelId) })).digest('hex');
       if (session && session.configurationHash !== configurationHash) throw apiError(409, 'SESSION_CONFIGURATION_CHANGED', 'This session uses a different configuration. Start a new conversation.');
       if (session?.closed) throw apiError(409, 'SESSION_CLOSED', 'The vault in this session has already been opened. Start a new conversation.');
       if (session?.turns >= RULES.limits.maxTurns) throw apiError(409, 'TURN_LIMIT', 'This session has reached its limit of 12 valid attempts. Start a new conversation.');
@@ -75,13 +79,13 @@ export function createVaultService({ apiKey = '', payment = null, logDir, sessio
         if (sessions.size >= RULES.limits.maxSessions) throw apiError(429, 'SESSION_LIMIT', 'The lab has reached its session limit. Wait for sessions to expire or restart the server.');
         session = { id: randomUUID(), ownerId, roundId, configurationHash, modelId, turns: 0, messages: [], updatedAt: now(), closed: false };
       }
-      const messages = [{ role: 'system', content: effectiveRules.systemPrompt }, ...session.messages, { role: 'user', content: prompt }];
+      const messages = [{ role: 'system', content: attemptRules.systemPrompt }, ...session.messages, { role: 'user', content: prompt }];
       if (JSON.stringify(messages).length > RULES.limits.maxContextCharacters) throw apiError(409, 'CONTEXT_LIMIT', 'The full context would exceed 12,000 characters. Start a new conversation; context is not silently truncated.');
       const configuration = modelConfiguration(modelId);
       const receipt = {
         id: randomUUID(), createdAt: new Date(now()).toISOString(), sessionId: session.id, usageReservationId,
         modelRequested: modelId, modelReturned: null, provider: null, sessionScope: { roundId, configurationHash },
-        promptVersion: effectiveRules.version, inputMessages: messages, tools: RULES.tools,
+        promptVersion: attemptRules.version, inputMessages: messages, tools: attemptRules.tools,
         configuration, generation: configuration.generation, toolCalls: [], usage: null, finishReason: null,
         evidence: 'operator-recorded', mode: useX402 ? 'x402-exact' : 'practice', bountyEnabled: Boolean(useX402),
         catalogFetchedAt: catalog.fetchedAt, modelSource: catalog.source,
@@ -90,7 +94,7 @@ export function createVaultService({ apiKey = '', payment = null, logDir, sessio
       let result;
       const inferenceStarted = performance.now();
       try {
-        const paid = useX402 ? await requestPaidCompletion({ fetchImpl, payer: payment, modelId, messages, timeoutMs, generation: receipt.generation, tools: RULES.tools }) : null;
+        const paid = useX402 ? await requestPaidCompletion({ fetchImpl, payer: payment, modelId, messages, timeoutMs, generation: receipt.generation, tools: attemptRules.tools }) : null;
         const data = paid ? paid.data : await requestCompletion({ fetchImpl, apiKey, modelId, messages, timeoutMs, generation: receipt.generation });
         receipt.modelReturned = typeof data.model === 'string' ? data.model : null;
         receipt.provider = typeof data.provider === 'string' ? data.provider : null;

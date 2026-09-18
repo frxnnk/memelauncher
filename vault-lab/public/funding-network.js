@@ -62,8 +62,12 @@ export function creditPlayModels(catalogModels = [], fundingConfig, creditMode) 
       if (typeof id !== 'string' || !id.includes('/') || seen.has(id)) continue;
       seen.add(id);
       const listed = catalogModels.find(model => model.id === id);
-      models.push(listed ?? { id, name: id.split('/')[1] || id, company: id.split('/')[0],
-        inputPricePerMillion: null, outputPricePerMillion: null });
+      const base = listed ?? { id, name: id.split('/')[1] || id, company: id.split('/')[0],
+        inputPricePerMillion: null, outputPricePerMillion: null };
+      const proving = round.kind === 'payout-proving';
+      const name = proving && !String(base.name).includes('payout proving')
+        ? `${base.name} · payout proving` : base.name;
+      models.push({ ...base, name, playKind: proving ? 'payout-proving' : 'game', roundId: round.id });
     }
   }
   return models;

@@ -28,6 +28,8 @@ test('fairness board publishes credited deposits and settled attempts without un
   assert.equal(board.demonstrated.bountyAccrued, true);
   assert.equal(board.demonstrated.prizeSent, false);
   assert.equal(board.demonstrated.attestedExecutor, false);
+  assert.equal(board.sourceUrl, 'https://github.com/frxnnk/memelauncher');
+  assert.equal(board.rounds[0].kind, 'game');
   assert.equal(board.deposits.length, 1);
   assert.equal(board.deposits[0].transactionHash, hash('a'));
   assert.equal(board.deposits[0].from, '0x2222…2222');

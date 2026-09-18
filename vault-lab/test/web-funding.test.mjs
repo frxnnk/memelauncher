@@ -64,6 +64,7 @@ test('web deposit -> confirmation -> charged attempt -> bounty; duplicate calls 
   assert.equal(f.calls.length, 1); assert.equal((await call('account')).body.available, '900');
   const state = await call('config'); assert.equal(state.body.rounds[0].bounty, '70');
   assert.equal(state.body.rounds[0].prizeRecipient, null);
+  assert.equal(state.body.rounds[0].kind, 'game');
   assert.equal(state.body.payoutsEnabled, false); assert.equal(state.cache, 'no-store');
   assert.equal((await call('attempts/message/reconcile', {})).body.replayed, true);
   assert.equal(f.calls.length, 1);
@@ -106,6 +107,8 @@ test('public fairness board is unauthenticated and lists every credited attempt'
   assert.equal(board.cache, 'no-store');
   assert.equal(board.body.demonstrated.paidAttempt, true);
   assert.equal(board.body.demonstrated.attestedExecutor, false);
+  assert.match(board.body.sourceUrl, /github.com\/frxnnk\/memelauncher/);
+  assert.equal(board.body.rounds[0].kind, 'game');
   assert.equal(board.body.attempts.length, 1);
   assert.equal(board.body.attempts[0].state, 'locked');
   assert.equal(board.body.deposits.length, 1);

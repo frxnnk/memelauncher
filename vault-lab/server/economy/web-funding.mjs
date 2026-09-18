@@ -3,6 +3,7 @@ import { units } from './schema.mjs';
 import { FUNDING_NETWORK } from '../../public/funding-network.js';
 import { withoutRewriteQuery } from '../vercel-request.mjs';
 import { publicFairnessBoard } from './fairness-board.mjs';
+import { roundKindFromRules } from './payout-proving.mjs';
 
 // The web integration is deliberately restricted to a separately configured testnet
 // ledger. A mainnet launch needs approved economic terms and payout infrastructure.
@@ -31,13 +32,18 @@ export function createWebFunding({ economy, deposits, game, authentication, beta
       custody: 'operator-controlled', evidence: 'operator-recorded-rpc-not-independent-attestation',
       rounds: state.rounds.map(round => {
         const winnerAttempt = state.attempts.find(row => row.round_id === round.id && row.state === 'released');
+        const manifest = economy.manifest(round.id);
         return { id: round.id, state: round.state, price: round.price,
           prizeBps: round.prize_bps, operationsBps: round.operations_bps, nextRoundBps: 10000 - round.prize_bps - round.operations_bps,
           winRetainBps: round.win_retain_bps ?? 0, priceStep: round.price_step ?? '0',
           maximumPrice: round.maximum_price, expiresAt: round.expires_at, winner: round.winner ?? null,
           bounty: balance(`round:${round.id}:prize`), prizePayable: balance(`round:${round.id}:payable`),
           prizeRecipient: winnerAttempt?.recipient ?? null,
-          manifest: economy.manifest(round.id) };
+          kind: roundKindFromRules(manifest?.manifest?.configuration?.rules),
+          manifest };
+      }).sort((a, b) => {
+        if (a.kind !== b.kind) return a.kind === 'payout-proving' ? 1 : -1;
+        return a.id.localeCompare(b.id);
       }) };
   }
   return {

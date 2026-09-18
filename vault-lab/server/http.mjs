@@ -7,6 +7,7 @@ import { createPublicPractice } from './public-practice.mjs';
 import { readOperationalHealth } from './health.mjs';
 import { BETA_MODELS } from './beta-access.mjs';
 import { withoutRewriteQuery } from './vercel-request.mjs';
+import { PUBLIC_SOURCE_URL } from '../public/source.js';
 
 const MIME = {
   '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8',
@@ -121,6 +122,7 @@ export function createRequestListener({ service, publicDir, economy, creditGame,
               enabled: false, realFundsEnabled: false, custody: 'operator-controlled',
               attestation: 'operator-recorded-rpc-not-independent-attestation',
               demonstrated: { depositToTreasury: false, paidAttempt: false, bountyAccrued: false, prizeSent: false, attestedExecutor: false },
+              sourceUrl: PUBLIC_SOURCE_URL,
               rounds: [], attempts: [], deposits: []
             });
           }

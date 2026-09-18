@@ -7,7 +7,8 @@
 .fairness-stamp { font-size: 11px; letter-spacing: 0.04em; text-transform: uppercase; padding: 8px 12px; border: 1px solid var(--line); border-radius: 3px; }
 .fairness-stamp[data-ok="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .fairness-stamp[data-ok="false"] { color: var(--muted); }
-.fairness h2 { font-size: 22px; font-weight: 500; letter-spacing: -0.04em; margin: 0 0 12px; }
+.fairness h3 { font-size: 15px; font-weight: 500; letter-spacing: -0.03em; margin: 18px 0 10px; }
+.fairness h3:first-child { margin-top: 0; }
 .fairness section { padding: 36px 0; border-top: 1px solid var(--line); }
 .fairness-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; }
 .fairness-dl { margin: 0; }

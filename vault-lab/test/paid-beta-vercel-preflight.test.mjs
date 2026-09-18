@@ -208,6 +208,9 @@ test('cutover is not ready when Vercel names, Turso login or libsql env are miss
   assert.equal(vercelPaid.asset.destination, '0xbec4fdb33ed39844956d9078fd232aca92d7396d');
   assert.equal(vercelPaid.terms.price, '5000000000000000000');
   assert.equal(vercelPaid.rounds[0].models[0], 'anthropic/claude-opus-5');
+  assert.equal(vercelPaid.rounds[1].id, 'rh-payout-prove-v1');
+  assert.equal(vercelPaid.rounds[1].kind, 'payout-proving');
+  assert.equal(vercelPaid.rounds[1].models[0], 'anthropic/claude-haiku-4.5');
   assert.notEqual(vercelPaid.asset.destination, '0x0000000000000000000000000000000000000001');
 
   const usernameOnly = assessVercelPaidBetaPreflight({

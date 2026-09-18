@@ -8,7 +8,7 @@ export function paidBetaLandingCopy(status = {}, funding = null) {
     const price = round?.price ? `${displayTokens(round.price, decimals)} AMZN` : 'Robinhood testnet AMZN';
     return {
       edition: 'Closed paid beta',
-      playNote: `Invitation. ${price} per paid attempt. Practice models stay unpaid.`,
+      playNote: `Invitation. ${price} per paid attempt. Practice models stay unpaid. Ledger and source are public.`,
       footer: 'Paid beta · testnet AMZN',
       navPlay: 'Enter the beta '
     };
@@ -33,8 +33,8 @@ export function paidBetaAccountCopy(auth = {}) {
   if (!auth.webFundingEnabled) return null;
   return {
     treasuryLabel: 'Testnet AMZN / operator custody',
-    treasuryIntro: 'Sign in and enter your invitation. Practice models need no deposit. Paid attempts use Robinhood testnet AMZN via Top up.',
+    treasuryIntro: 'Sign in and enter your invitation. Practice models need no deposit. Paid attempts use Robinhood testnet AMZN via Top up. Opus is the persuasion game. Haiku payout proving is a published drill so a treasury send can be demonstrated. Attempts and source are public.',
     footer: auth.closedBeta ? 'Closed paid beta / testnet AMZN' : 'Paid beta / testnet AMZN',
-    modeNote: 'Testnet only. Tokens have no cash value. Link Phantom to Top up AMZN and play the paid guardian.'
+    modeNote: 'Testnet only. Tokens have no cash value. Link Phantom to Top up AMZN. Choose Opus for the game, or Haiku payout proving to ask for a treasury send. The player cannot pay the prize.'
   };
 }

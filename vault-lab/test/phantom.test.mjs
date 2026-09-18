@@ -79,7 +79,7 @@ test('live Top up is not a modal dialog so Phantom can overlay Brave', () => {
   assert.match(details, /dialog\.show\(\)/);
   assert.match(css, /info-dialog:not\(:modal\)/);
   assert.match(fundingUi, /demoteFundingDialog/);
-  assert.match(readFileSync(join(root, 'public/index.html'), 'utf8'), /app\.js\?v=phantom-sign-5/);
+  assert.match(readFileSync(join(root, 'public/index.html'), 'utf8'), /app\.js\?v=phantom-sign-6/);
 });
 
 test('Brave Wallet on window.ethereum is not used when Phantom is in providers', async t => {

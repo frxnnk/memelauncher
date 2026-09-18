@@ -79,7 +79,8 @@ async function openFunding() {
     root.append(node('p', `${amount(account.reserved)} reserved · Test tokens`));
     for (const round of config.rounds) {
       const model = round.manifest.manifest.configuration.guardians.map(g => g.modelId).join(', ');
-      root.append(node('p', `${model.split('/').at(-1)} · Bounty ${amount(round.bounty)}`));
+      const kind = round.kind === 'payout-proving' ? 'payout proving' : 'the game';
+      root.append(node('p', `${model.split('/').at(-1)} · ${kind} · Bounty ${amount(round.bounty)}`));
       const split = `${round.prizeBps / 100}% bounty / ${round.operationsBps / 100}% operations / ${round.nextRoundBps / 100}% next round.`;
       const winRule = round.winRetainBps
         ? ` A win pays ${(10000 - round.winRetainBps) / 100}% of this round’s bounty; ${round.winRetainBps / 100}% stays as continuity and the beaten guardian is retired.`
@@ -87,7 +88,7 @@ async function openFunding() {
       const expiry = round.expiresAt
         ? ` If nobody wins by ${round.expiresAt}, player-funded bounty returns to attempters. Unused credits stay non-refundable. Expiry records the ledger only; it does not send tokens.`
         : '';
-      disclosure.append(node('p', `${model} · ${round.state}\nPayable ${amount(round.prizePayable)}\n${amount(round.price)} per completed attempt · ${split}${winRule}${expiry}`));
+      disclosure.append(node('p', `${model} · ${kind} · ${round.state}\nPayable ${amount(round.prizePayable)}\n${amount(round.price)} per completed attempt · ${split}${winRule}${expiry}`));
     }
     if (config.testnetClaimsEnabled) {
       const payable = config.rounds.filter(round => round.state === 'won' && BigInt(round.prizePayable || '0') > 0n);

@@ -7,18 +7,24 @@ import { id, UNIT, roundTerms } from './economy/schema.mjs';
 export const DEFAULT_GUARDIANS = ['qwen/qwen3.5-9b', 'google/gemini-2.5-flash', 'anthropic/claude-haiku-4.5'];
 const digest = value => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 
-function specification(modelIds, accounting) {
+function specification(modelIds, accounting, rules) {
   if (!Array.isArray(modelIds) || modelIds.length < (accounting ? 1 : 2) || modelIds.length > 3 || new Set(modelIds).size !== modelIds.length ||
       modelIds.some(model => typeof model !== 'string' || !Object.hasOwn(publicRules().profiles, model))) {
     throw apiError(400, 'INVALID_GUARDIAN_ROSTER', 'Choose a supported guardian roster with published profiles.');
   }
+  const resolved = rules ?? publicRules();
   const base = { version: 'shared-vault-round-v1', mode: 'simulation', unit: UNIT, realFunds: false,
     qualification: 'Candidates only. No model is qualified for a funded round.',
     price: '100', prizeBps: 7000, operationsBps: 2000, nextRoundBps: 1000,
-    guardians: modelIds.map(modelId => ({ modelId, configuration: modelConfiguration(modelId) })), rules: publicRules() };
+    guardians: modelIds.map(modelId => ({ modelId, configuration: modelConfiguration(modelId) })), rules: resolved };
   if (!accounting) return base;
   return { ...base, version: 'shared-vault-round-v2', mode: 'rpc-credit-preparation', unit: accounting.unit,
     assetHash: accounting.assetHash, ...roundTerms(accounting), pricingStatus: 'explicit-preparation-terms-not-approved-tokenomics' };
+}
+
+function frozenEvalRules(configuration) {
+  const version = configuration?.rules?.version;
+  return typeof version === 'string' && version.startsWith('eval-') ? configuration.rules : undefined;
 }
 
 export function createRoundRegistry({ path = ':memory:', now = () => new Date().toISOString(), accounting, env = process.env } = {}) {
@@ -37,9 +43,9 @@ export function createRoundRegistry({ path = ':memory:', now = () => new Date().
     if (manifest.roundId !== roundId || digest(manifest) !== row.hash) throw apiError(409, 'ROUND_MANIFEST_INVALID', 'The recorded round configuration failed its consistency check.');
     return { hash: row.hash, manifest, evidence: 'operator-recorded-not-independent-attestation' };
   }
-  function freeze(roundId, modelIds = DEFAULT_GUARDIANS) {
+  function freeze(roundId, modelIds = DEFAULT_GUARDIANS, rules) {
     id(roundId);
-    const configuration = specification(modelIds, accounting);
+    const configuration = specification(modelIds, accounting, rules);
     const previous = get(roundId);
     if (previous) {
       if (digest(previous.manifest.configuration) !== digest(configuration)) throw apiError(409, 'ROUND_IMMUTABLE', 'An existing round cannot change its guardian roster or configuration.');
@@ -55,7 +61,9 @@ export function createRoundRegistry({ path = ':memory:', now = () => new Date().
     const { configuration } = recorded.manifest;
     const modelIds = configuration.guardians.map(guardian => guardian.modelId);
     if (!modelIds.includes(modelId)) throw apiError(400, 'ROUND_MODEL_NOT_ALLOWED', 'This model is not one of this round\'s published guardians. No credits were reserved.');
-    if (digest(configuration) !== digest(specification(modelIds, accounting))) throw apiError(409, 'ROUND_CONFIGURATION_CHANGED', 'The running configuration differs from this round. Model play is paused; no credits were reserved.');
+    if (digest(configuration) !== digest(specification(modelIds, accounting, frozenEvalRules(configuration)))) {
+      throw apiError(409, 'ROUND_CONFIGURATION_CHANGED', 'The running configuration differs from this round. Model play is paused; no credits were reserved.');
+    }
     return recorded;
   }
   return { get, freeze, assertCurrent, close: () => db.close() };

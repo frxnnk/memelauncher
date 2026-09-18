@@ -103,7 +103,8 @@ export function createCreditGame({ path = ':memory:', economy, vault, depositMon
       let outcome;
       try {
         const value = await vault.attempt({ modelId: input.modelId, prompt: input.prompt, ...(input.sessionId ? { sessionId: input.sessionId } : {}) },
-          { ownerId, roundId: accountCredits ? economy.sessionRound(input.roundId) : input.roundId });
+          { ownerId, roundId: accountCredits ? economy.sessionRound(input.roundId) : input.roundId,
+            rules: roundManifest.manifest.configuration.rules });
         if (accountCredits) assertRoundReceipt(value, input, roundManifest, economy.sessionRound(input.roundId));
         outcome = { ok: true, value: { ...value, receipt: { ...value.receipt,
           round: { id: input.roundId, manifestHash: roundManifest.hash, evidence: roundManifest.evidence } } } };
