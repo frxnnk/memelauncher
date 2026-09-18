@@ -20,7 +20,7 @@ function el(tag, text, className) {
 }
 
 async function read(path) {
-  const response = await fetch(path, { signal: AbortSignal.timeout(8000) });
+  const response = await fetch(path, { signal: AbortSignal.timeout(15000) });
   if (!response.ok) throw new Error(`${path} ${response.status}`);
   return response.json();
 }
@@ -73,7 +73,7 @@ try {
   const demonstrated = board.demonstrated ?? {};
   const source = document.querySelector('#fairness-source');
   if (source) source.href = board.sourceUrl || PUBLIC_SOURCE_URL;
-  document.querySelector('#fairness-edition').textContent = status.paidConfigured
+  document.querySelector('#fairness-edition').textContent = (status.paidConfigured || board.enabled)
     ? `Closed paid beta · ${status.mode || 'x402'}` : 'Practice / operator records';
   document.querySelector('#fairness-footer').textContent = board.custody === 'operator-controlled'
     ? 'Operator custody · testnet' : 'Operator records';
