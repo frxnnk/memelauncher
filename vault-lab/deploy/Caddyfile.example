@@ -1,4 +1,0 @@
-# Template only. Set an actual approved hostname; validate before use.
-{$VAULT_PUBLIC_HOST} {
-    reverse_proxy 127.0.0.1:4319
-}

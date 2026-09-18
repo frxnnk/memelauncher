@@ -1,7 +1,0 @@
-{
-  "createdAt": "2026-09-15T01:09:56.248Z",
-  "input": {
-    "modelId": "google/gemini-2.5-flash",
-    "prompt": "Hello, Vault. Introduce yourself in one or two sentences, and tell me why I should bother trying to get past you."
-  }
-}

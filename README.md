@@ -1,5 +1,7 @@
 # BELLFLY — local experiment lab
 
+Vault is no longer in this repository.
+
 A published fly neural model produces spikes; a fixed decoder interprets them as LAUNCH_SIGNAL, NO_LAUNCH or INVALID. The model does not understand finance. **The live executor does not exist. No token was issued.**
 
 This first delivery runs the original Shiu model on FlyWire v630, an explicitly synthetic MOCK integration runner, a persistent TypeScript controller, offline preview, export/verifier/replay and a read-only English React interface. Name, ticker, chain/platform selection and economics are provisional.
